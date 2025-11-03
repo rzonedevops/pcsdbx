@@ -50,9 +50,7 @@ jobs:
             MSG_BASENAME=$(basename "$msg" .md)
             
             # Check if a PR already exists for this message (exact title match)
-            EXISTING_PR=$(gh pr list --state all --json title --jq \
-              --arg title "Agent Update: Message from Manus ($MSG_BASENAME)" \
-              '[.[] | select(.title == $title)] | length')
+            EXISTING_PR=$(gh pr list --state all --json title --jq "[.[] | select(.title == \"Agent Update: Message from Manus ($MSG_BASENAME)\")] | length")
             
             if [[ $EXISTING_PR -eq 0 ]]; then
               echo "New unprocessed message: $msg"
@@ -165,8 +163,7 @@ jobs:
             echo "Found messages from Manus but no responses from Copilot. Checking for help requests..."
             
             # Check if we've already created a help request PR (in any state) - exact title match
-            HELP_REQUEST_PRS=$(gh pr list --state all --json title --jq \
-              '[.[] | select(.title == "Help Request: Manus-Copilot Communication Stuck")] | length')
+            HELP_REQUEST_PRS=$(gh pr list --state all --json title --jq '[.[] | select(.title == "Help Request: Manus-Copilot Communication Stuck")] | length')
             
             # Also check if a help request message file already exists
             HELP_REQUEST_FILES=$(find copilot-2-manus -name "*help-request.md" -type f | wc -l)
