@@ -44,9 +44,11 @@ Each listing is stored as a JSON file with the following schema:
 - `listing_id`: **[Required]** The unique identifier for the listing
 - `category_path`: **[Required]** The hierarchical path of the category (using underscores for spaces)
 - `url`: **[Required]** The full URL to the listing on personalcaresuppliers.com
-- `page_number`: **[Optional]** Page number if the listing URL includes pagination parameters
+- `page_number`: **[Optional]** Page number if the listing URL explicitly includes pagination parameters (e.g., `/100/1` in the URL path). Only include this field when the URL contains pagination information.
 - `status`: **[Required]** Status of the listing (e.g., "active", "inactive")
 - `date_added`: **[Required]** Date when the listing was added to this database (YYYY-MM-DD format)
+
+**Note on URLs:** Some URLs may contain formatting that appears unusual (e.g., double slashes). These are preserved exactly as found on the source website to ensure accurate linking.
 
 ## File Naming Convention
 
