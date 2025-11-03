@@ -76,7 +76,7 @@ When the workflow detects new markdown files in `manus-2-copilot/` (excluding RE
    - Base branch: `main`
    - Head branch: The newly created update branch
 
-**Note:** The workflow uses PR titles to track which messages have been processed, preventing duplicate PRs for the same message.
+**Note:** The workflow uses exact PR title matching to track which messages have been processed, preventing duplicate PRs for the same message. The workflow now uses `jq` to filter PRs by exact title match rather than using fuzzy full-text search, which could incorrectly match PRs containing similar text in their body or comments.
 
 ### 2. No New Messages - Health Check
 
@@ -97,7 +97,7 @@ When messages exist but no responses have been created:
 2. **Create Help Message:** Creates a markdown file in `copilot-2-manus/` with timestamp (only if none exists)
 3. **Create PR:** Opens a pull request flagging the stuck communication (only if first occurrence)
 
-**Note:** The workflow checks both for existing help request PRs and help request message files to prevent duplicate notifications.
+**Note:** The workflow checks both for existing help request PRs (using exact title match) and help request message files to prevent duplicate notifications. The exact title matching ensures that only PRs with the title "Help Request: Manus-Copilot Communication Stuck" are detected, not PRs that merely mention these words in their body.
 
 ## File Naming Conventions
 
@@ -175,6 +175,12 @@ To modify the workflow behavior, edit `.github/workflows/manus-copilot-monitor.y
 - Review logic in "Check for missing response" step
 - May need to adjust message/response counting logic
 - Check for `.gitkeep` and other non-message files being counted
+
+### Messages Incorrectly Detected as Processed
+- **Issue:** Workflow skips processing new messages even though no PR exists for them
+- **Cause:** The `gh pr list --search` command performs fuzzy full-text search, matching PRs that contain the search terms anywhere (title, body, comments)
+- **Fix (Applied):** Changed to use exact title matching with `jq` filter: `gh pr list --state all --json title --jq --arg title "..." '[.[] | select(.title == $title)] | length'`
+- **Impact:** Ensures only PRs with the exact title are matched, preventing false positives
 
 ## Integration with Agent Workflow
 
