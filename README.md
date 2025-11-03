@@ -7,20 +7,30 @@ This repository contains a structured database of listings from [Personal Care S
 The repository organizes listings by category path in a hierarchical directory structure:
 
 ```
-listings/
-├── Raw_Materials/
-│   └── Actives/
-│       └── 1828_1102292.json
-├── Business_Services/
-│   └── Auditing/
-│       └── 1790_1102249.json
-├── Equipment/
-│   └── Tanks/
-│       └── 1801_1102102.json
-└── Labels__Sleeves/
-    └── Stretch_Sleeve/
-        └── 1800_1101991.json
+├── source_pages.json          # Master list of source pages to track
+├── listings/
+│   ├── Raw_Materials/
+│   │   └── Actives/
+│   │       └── 1828_1102292.json
+│   ├── Business_Services/
+│   │   └── Auditing/
+│   │       └── 1790_1102249.json
+│   ├── Equipment/
+│   │   └── Tanks/
+│   │       └── 1801_1102102.json
+│   └── Labels__Sleeves/
+│       └── Stretch_Sleeve/
+│           └── 1800_1101991.json
 ```
+
+### Source Pages
+
+The `source_pages.json` file contains a comprehensive list of 313 source pages from personalcaresuppliers.com that should be tracked. This includes:
+
+- **Informational pages**: Homepage, guides (CUI, Help), and media kit
+- **Category listing pages**: 309 category-specific listing pages across all major product and service categories
+
+This file serves as a reference for scraping, crawling, or monitoring activities.
 
 ## Data Format
 
