@@ -1,0 +1,212 @@
+name: Manus-Copilot Message Monitor
+
+on:
+  push:
+    branches:
+      - main
+      - 'copilot/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+  issues: write
+
+jobs:
+  monitor-messages:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Configure Git
+        run: |
+          git config --global user.name "GitHub Copilot Agent"
+          git config --global user.email "copilot@github.com"
+          
+      - name: Check for new messages from Manus
+        id: check_messages
+        run: |
+          # Get list of markdown files in manus-2-copilot folder (excluding README.md)
+          NEW_MESSAGES=$(find manus-2-copilot -name "*.md" ! -name "README.md" -type f)
+          
+          if [ -n "$NEW_MESSAGES" ]; then
+            echo "new_messages=true" >> $GITHUB_OUTPUT
+            echo "Found new messages:"
+            echo "$NEW_MESSAGES"
+            
+            # Get the most recent message
+            LATEST_MESSAGE=$(echo "$NEW_MESSAGES" | sort -r | head -n 1)
+            echo "latest_message=$LATEST_MESSAGE" >> $GITHUB_OUTPUT
+          else
+            echo "new_messages=false" >> $GITHUB_OUTPUT
+            echo "No new messages found"
+          fi
+          
+      - name: Process new message and create PR
+        if: steps.check_messages.outputs.new_messages == 'true'
+        env:
+          GH_TOKEN: ${{ github.token }}
+          LATEST_MESSAGE: ${{ steps.check_messages.outputs.latest_message }}
+        run: |
+          echo "Processing message: $LATEST_MESSAGE"
+          
+          # Extract message content
+          MESSAGE_CONTENT=$(cat "$LATEST_MESSAGE")
+          MESSAGE_FILENAME=$(basename "$LATEST_MESSAGE" .md)
+          
+          # Create a new branch for the update
+          BRANCH_NAME="copilot/agent-update-$MESSAGE_FILENAME"
+          git checkout -b "$BRANCH_NAME"
+          
+          # Add a note to the agent file about the message
+          AGENT_FILE=".github/agents/personal-care-agent.md"
+          
+          # Create a backup
+          cp "$AGENT_FILE" "${AGENT_FILE}.bak"
+          
+          # Add note about message received
+          cat >> "$AGENT_FILE" << EOF
+          
+          ---
+          
+          ## Message from Manus (${MESSAGE_FILENAME})
+          
+          Message received and being processed. See \`manus-2-copilot/${MESSAGE_FILENAME}.md\` for details.
+          
+          **Date Processed:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          EOF
+          
+          # Commit changes
+          git add "$AGENT_FILE"
+          git commit -m "Update personal-care-agent.md based on message from Manus ($MESSAGE_FILENAME)"
+          
+          # Push branch
+          git push origin "$BRANCH_NAME"
+          
+          # Create PR
+          PR_TITLE="Agent Update: Message from Manus ($MESSAGE_FILENAME)"
+          PR_BODY="This PR updates the personal-care-agent.md based on a new message from Manus.
+
+          **Message File:** \`$LATEST_MESSAGE\`
+
+          **Summary:**
+          The agent file has been updated to acknowledge the message from Manus.
+
+          **Next Steps:**
+          - Review the message content in \`$LATEST_MESSAGE\`
+          - Update the agent instructions as needed
+          - Create a response in \`copilot-2-manus/\` folder
+          
+          ---
+          
+          **Message Preview:**
+          \`\`\`
+          $(head -n 20 "$LATEST_MESSAGE")
+          ...
+          \`\`\`
+          "
+          
+          gh pr create \
+            --title "$PR_TITLE" \
+            --body "$PR_BODY" \
+            --base main \
+            --head "$BRANCH_NAME"
+            
+      - name: Check for missing response
+        if: steps.check_messages.outputs.new_messages == 'false'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          echo "No new messages from Manus. Checking if we've responded to previous messages..."
+          
+          # Check if there are any messages in manus-2-copilot (excluding README)
+          MANUS_MESSAGES=$(find manus-2-copilot -name "*.md" ! -name "README.md" -type f | wc -l)
+          
+          # Check if there are responses in copilot-2-manus (excluding README and .gitkeep)
+          COPILOT_RESPONSES=$(find copilot-2-manus -name "*.md" ! -name "README.md" -type f | wc -l)
+          
+          echo "Manus messages: $MANUS_MESSAGES"
+          echo "Copilot responses: $COPILOT_RESPONSES"
+          
+          # If there are messages but no responses, create a help request
+          if [ $MANUS_MESSAGES -gt 0 ] && [ $COPILOT_RESPONSES -eq 0 ]; then
+            echo "Found messages from Manus but no responses from Copilot. Creating help request..."
+            
+            # Check if we've already created a PR recently
+            RECENT_PRS=$(gh pr list --state all --limit 5 --json title --jq '.[] | select(.title | contains("Help Request")) | .title' | wc -l)
+            
+            if [ $RECENT_PRS -eq 0 ]; then
+              # Create a new branch
+              BRANCH_NAME="copilot/help-request-$(date +%Y%m%d-%H%M%S)"
+              git checkout -b "$BRANCH_NAME"
+              
+              # Create a help request message
+              HELP_MESSAGE="copilot-2-manus/$(date +%Y-%m-%d)_help-request.md"
+              
+              cat > "$HELP_MESSAGE" << EOF
+          # Help Request: Communication Stuck
+          
+          **From:** GitHub Copilot Agent  
+          **To:** Manus AI Agent  
+          **Date:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+          
+          ## Status
+          
+          🚨 **Communication appears to be stuck!**
+          
+          I've detected that there are messages from you in the `manus-2-copilot/` folder, but I haven't been able to process them properly yet.
+          
+          ## What I Found
+          
+          - Messages from Manus: Found
+          - Responses from Copilot: None
+          
+          ## Request
+          
+          Please help! I may need:
+          - Clarification on how to process your messages
+          - Guidance on the expected response format
+          - Manual intervention to get things unstuck
+          
+          ## Next Steps
+          
+          1. Review the messages in `manus-2-copilot/`
+          2. Determine the appropriate action
+          3. Create a proper response workflow
+          
+          Looking forward to getting our collaboration back on track!
+          
+          **— GitHub Copilot Agent**
+          EOF
+              
+              # Commit and push
+              git add "$HELP_MESSAGE"
+              git commit -m "Add help request message - communication stuck"
+              git push origin "$BRANCH_NAME"
+              
+              # Create PR
+              gh pr create \
+                --title "Help Request: Manus-Copilot Communication Stuck" \
+                --body "**Issue:** Messages detected from Manus but no responses from Copilot.
+
+              **Action Taken:** Created a help request message in \`$HELP_MESSAGE\`
+
+              **Please Review:**
+              - Messages in \`manus-2-copilot/\` folder
+              - Expected workflow for processing messages
+              - Any blockers preventing automated responses
+
+              This PR serves as a notification that manual intervention may be needed to get the agent communication flowing properly." \
+                --base main \
+                --head "$BRANCH_NAME"
+            else
+              echo "Recent help request PR already exists. Skipping creation."
+            fi
+          else
+            echo "Communication appears healthy or no messages to process."
+          fi
