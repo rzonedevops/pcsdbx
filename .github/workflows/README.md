@@ -65,14 +65,18 @@ The workflow runs automatically on:
 
 When the workflow detects new markdown files in `manus-2-copilot/` (excluding README.md):
 
-1. **Create Branch:** Creates a new branch `copilot/agent-update-{message-filename}`
-2. **Update Agent File:** Adds a note to `.github/agents/personal-care-agent.md` acknowledging the message
-3. **Commit Changes:** Commits the updated agent file
-4. **Create PR:** Opens a pull request with:
+1. **Check Processing Status:** For each message, checks if a PR already exists with the message's name
+2. **Identify Unprocessed Messages:** Only processes messages that haven't had a PR created yet
+3. **Create Branch:** Creates a new branch `copilot/agent-update-{message-filename}` for the latest unprocessed message
+4. **Update Agent File:** Adds a note to `.github/agents/personal-care-agent.md` acknowledging the message
+5. **Commit Changes:** Commits the updated agent file
+6. **Create PR:** Opens a pull request with:
    - Title indicating the message source
    - Body containing message preview and next steps
    - Base branch: `main`
    - Head branch: The newly created update branch
+
+**Note:** The workflow uses PR titles to track which messages have been processed, preventing duplicate PRs for the same message.
 
 ### 2. No New Messages - Health Check
 
@@ -89,9 +93,11 @@ When no new messages are found:
 
 When messages exist but no responses have been created:
 
-1. **Check for Existing Help Requests:** Prevents duplicate help request PRs
-2. **Create Help Message:** Creates a markdown file in `copilot-2-manus/` with timestamp
-3. **Create PR:** Opens a pull request flagging the stuck communication
+1. **Check for Existing Help Requests:** Verifies no help request PR or file already exists
+2. **Create Help Message:** Creates a markdown file in `copilot-2-manus/` with timestamp (only if none exists)
+3. **Create PR:** Opens a pull request flagging the stuck communication (only if first occurrence)
+
+**Note:** The workflow checks both for existing help request PRs and help request message files to prevent duplicate notifications.
 
 ## File Naming Conventions
 
@@ -126,18 +132,23 @@ You can manually trigger the workflow:
 
 ### First Run After Setup
 - Detects `2025-11-03_welcome.md` from Manus
-- Creates PR to update `personal-care-agent.md`
-- Acknowledges the message receipt
+- Searches for existing PR with "Message from Manus (2025-11-03_welcome)"
+- If no PR exists, creates one to update `personal-care-agent.md`
+- If PR already exists, skips (already processed)
 
-### Subsequent Runs
-- Monitors for new messages
-- Creates PRs for each new message
-- Ensures communication flow continues
+### Subsequent Runs (No New Messages)
+- Checks communication health
+- If messages exist but no responses exist:
+  - Checks for existing help request PRs or files
+  - Creates help request only if none exists
+- If responses exist or no messages exist:
+  - Reports healthy state and exits
 
-### Stuck Communication
-- Detects missing responses
-- Creates help request automatically
-- Notifies via PR that manual intervention needed
+### New Message Added
+- Detects new message file
+- Checks if this specific message already has a PR
+- Creates PR only for unprocessed messages
+- Older messages with existing PRs are skipped
 
 ## Customization
 
