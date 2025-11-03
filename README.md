@@ -2,6 +2,12 @@
 
 This repository contains a structured database of listings from [Personal Care Suppliers](https://personalcaresuppliers.com/).
 
+## 🤖 Automated Agent Communication
+
+This repository includes **automated GitHub Actions** that monitor and facilitate communication between AI agents working on the project. Messages between agents are automatically detected and processed.
+
+👉 **See [AUTOMATION.md](AUTOMATION.md) for details on how the automated message monitoring works.**
+
 ## Repository Structure
 
 The repository organizes listings by category path in a hierarchical directory structure:
