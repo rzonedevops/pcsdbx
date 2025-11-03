@@ -1,12 +1,12 @@
 {
+  "schema_version": "1.0",
   "category_id": 1828,
-  "listing_id": 1102292,
+  "listing_id": "test_supplier_valid",
   "category_path": "Raw_Materials/Actives",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Actives/1828/1102292//100/1",
-  "page_number": 100,
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Actives/1828/12345",
+  "company_name": "Test Supplier Inc.",
   "status": "active",
   "date_added": "2025-11-03",
-  "schema_version": "1.0",
   "date_updated": "2025-11-03",
   "metadata": {
     "last_validated": "2025-11-03",

@@ -30,7 +30,9 @@
     "Organic certified ingredients available",
     "Made in France"
   ],
-  "manufacturing_facilities": "5 production sites throughout France",
+  "manufacturing_facilities": [
+    "5 production sites throughout France"
+  ],
   "key_benefits": [
     "Nature-inspired ingredients",
     "Cutting-edge technologies",
@@ -39,5 +41,18 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Key player in cosmetics industry. French group with 5 production sites throughout France offering Made in France ingredients. Combines nature and technology. Focus on ingredients inspired by nature and enhanced by cutting-edge technologies. Strong portfolio of actives and functional ingredients."
+  "notes": "Key player in cosmetics industry. French group with 5 production sites throughout France offering Made in France ingredients. Combines nature and technology. Focus on ingredients inspired by nature and enhanced by cutting-edge technologies. Strong portfolio of actives and functional ingredients.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "major-player",
+    "organic",
+    "natural-ingredients",
+    "certified"
+  ]
 }

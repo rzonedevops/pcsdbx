@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "oat_specialist_test",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Actives/1828/",
+  "company_name": "Oat Test Cosmetics",
+  "specializations": [
+    "Oat-derived ingredients",
+    "Beta-glucan actives"
+  ],
+  "certifications": [
+    "ECOCERT Organic",
+    "Sustainable Farming"
+  ],
+  "tags": [
+    "oat-specialist",
+    "organic",
+    "sustainable"
+  ],
+  "status": "active",
+  "date_added": "2025-11-03",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry",
+    "quality_score": 95
+  },
+  "notes": "Test strategic supplier for oat-based ingredients"
+}

@@ -27,5 +27,15 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "One of a handful of North American manufacturers offering premium private label and contract manufacturing services to the professional skincare industry. Focus on high-quality, professional-grade products."
+  "notes": "One of a handful of North American manufacturers offering premium private label and contract manufacturing services to the professional skincare industry. Focus on high-quality, professional-grade products.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "contract-manufacturer"
+  ]
 }

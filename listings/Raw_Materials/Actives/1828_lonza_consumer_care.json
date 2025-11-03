@@ -14,5 +14,15 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Major global supplier of active ingredients for personal care"
+  "notes": "Major global supplier of active ingredients for personal care",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "major-player"
+  ]
 }

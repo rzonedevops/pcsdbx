@@ -26,5 +26,15 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Specializes in helping entrepreneurs create their own private label cosmetics lines or providing custom manufacturing services. Focus on both new business creation and existing business growth."
+  "notes": "Specializes in helping entrepreneurs create their own private label cosmetics lines or providing custom manufacturing services. Focus on both new business creation and existing business growth.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "contract-manufacturer"
+  ]
 }

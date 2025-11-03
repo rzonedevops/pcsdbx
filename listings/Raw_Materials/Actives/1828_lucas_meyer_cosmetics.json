@@ -30,5 +30,16 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Part of Clariant Group. Specializes in high-value, unique cosmetic active and functional ingredients. Focus on enhancing skin's own natural strengths and beauty. Strong portfolio of marine and plant-based actives."
+  "notes": "Part of Clariant Group. Specializes in high-value, unique cosmetic active and functional ingredients. Focus on enhancing skin's own natural strengths and beauty. Strong portfolio of marine and plant-based actives.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "major-player",
+    "natural-ingredients"
+  ]
 }

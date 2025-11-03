@@ -30,5 +30,15 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Creating the future of consumer products. Offers contract manufacturing, filling, and formulation services across personal care, beauty, and household products. Comprehensive service provider with broad capabilities."
+  "notes": "Creating the future of consumer products. Offers contract manufacturing, filling, and formulation services across personal care, beauty, and household products. Comprehensive service provider with broad capabilities.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "contract-manufacturer"
+  ]
 }
