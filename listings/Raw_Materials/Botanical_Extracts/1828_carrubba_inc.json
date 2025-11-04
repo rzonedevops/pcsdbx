@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "carrubba_inc",
+  "category_path": "Raw_Materials/Botanical_Extracts",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Botanical_Extracts/1828/",
+  "company_name": "Carrubba, Inc.",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "website": "https://www.carrubba.com/botanical-extracts",
+  "country": "United States",
+  "specializations": [
+    "Natural botanical extracts",
+    "Organic botanical extracts",
+    "Water soluble extracts",
+    "Oil soluble extracts",
+    "Cosmetic formulation ingredients",
+    "Personal care ingredients"
+  ],
+  "product_highlights": [
+    "Over 800 natural and organic botanical extracts",
+    "Water and oil soluble formulations",
+    "Applications in cosmetic and personal care products",
+    "Extensive portfolio for household products"
+  ],
+  "tags": ["major-player", "organic", "natural-ingredients"],
+  "certifications": ["Organic certified extracts"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Extensive portfolio with 800+ natural and organic botanical extracts for cosmetic, personal care, and household applications"
+}
