@@ -13,5 +13,12 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Listed on Actives category page with 33 other suppliers"
+  "notes": "Listed on Actives category page with 33 other suppliers",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  }
 }

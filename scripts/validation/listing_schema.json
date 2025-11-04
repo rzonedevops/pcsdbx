@@ -1,0 +1,227 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Personal Care Supplier Listing",
+  "description": "Schema for supplier listing entries in the Personal Care Suppliers Database",
+  "type": "object",
+  "required": [
+    "schema_version",
+    "category_id",
+    "listing_id",
+    "category_path",
+    "url",
+    "status",
+    "date_added"
+  ],
+  "properties": {
+    "schema_version": {
+      "type": "string",
+      "description": "Version of the schema being used",
+      "pattern": "^\\d+\\.\\d+$",
+      "examples": ["1.0"]
+    },
+    "category_id": {
+      "type": ["integer", "string"],
+      "description": "The numeric identifier for the category"
+    },
+    "listing_id": {
+      "type": ["integer", "string"],
+      "description": "The unique identifier for the listing"
+    },
+    "category_path": {
+      "type": "string",
+      "description": "The hierarchical path of the category (using underscores for spaces)",
+      "pattern": "^[A-Za-z0-9_/]+$"
+    },
+    "url": {
+      "type": "string",
+      "description": "The full URL to the listing on personalcaresuppliers.com",
+      "format": "uri"
+    },
+    "page_number": {
+      "type": "integer",
+      "description": "Page number if the listing URL explicitly includes pagination parameters",
+      "minimum": 1
+    },
+    "status": {
+      "type": "string",
+      "description": "Status of the listing",
+      "enum": ["active", "inactive", "pending", "archived"]
+    },
+    "date_added": {
+      "type": "string",
+      "description": "Date when the listing was added to this database (YYYY-MM-DD format)",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "date_updated": {
+      "type": "string",
+      "description": "Date when the listing was last updated (YYYY-MM-DD format)",
+      "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+    },
+    "company_name": {
+      "type": "string",
+      "description": "Name of the company/supplier"
+    },
+    "address": {
+      "type": "string",
+      "description": "Physical address of the company"
+    },
+    "country": {
+      "type": "string",
+      "description": "Country where the company is located"
+    },
+    "phone": {
+      "type": "string",
+      "description": "Contact phone number"
+    },
+    "email": {
+      "type": "string",
+      "description": "Contact email address",
+      "format": "email"
+    },
+    "website": {
+      "type": "string",
+      "description": "Company website URL",
+      "format": "uri"
+    },
+    "tags": {
+      "type": "array",
+      "description": "Tags for filtering and categorization",
+      "items": {
+        "type": "string",
+        "enum": [
+          "oat-specialist",
+          "organic",
+          "sustainable",
+          "small-batch",
+          "major-player",
+          "biotechnology",
+          "natural-ingredients",
+          "certified",
+          "global-distributor",
+          "contract-manufacturer",
+          "private-label",
+          "full-service"
+        ]
+      },
+      "uniqueItems": true
+    },
+    "specializations": {
+      "type": "array",
+      "description": "List of specializations or product categories",
+      "items": {
+        "type": "string"
+      }
+    },
+    "certifications": {
+      "type": "array",
+      "description": "List of certifications held by the supplier",
+      "items": {
+        "type": "string"
+      }
+    },
+    "product_highlights": {
+      "type": "array",
+      "description": "Key products or product lines",
+      "items": {
+        "type": "string"
+      }
+    },
+    "key_benefits": {
+      "type": "array",
+      "description": "Key benefits or selling points",
+      "items": {
+        "type": "string"
+      }
+    },
+    "raw_material_source": {
+      "type": "string",
+      "description": "Source of raw materials (if applicable)"
+    },
+    "shipping_regions": {
+      "type": "array",
+      "description": "Regions where the supplier ships",
+      "items": {
+        "type": "string"
+      }
+    },
+    "distributor_regions": {
+      "type": "array",
+      "description": "Regions where the supplier has distributors",
+      "items": {
+        "type": "string"
+      }
+    },
+    "metadata": {
+      "type": "object",
+      "description": "Metadata about the listing",
+      "properties": {
+        "last_validated": {
+          "type": "string",
+          "description": "Date when the listing was last validated (YYYY-MM-DD format)",
+          "pattern": "^\\d{4}-\\d{2}-\\d{2}$"
+        },
+        "validation_method": {
+          "type": "string",
+          "description": "Method used for validation",
+          "enum": ["manual", "automated", "hybrid"]
+        },
+        "data_source": {
+          "type": "string",
+          "description": "Source of the data",
+          "enum": ["website", "manual_entry", "api", "scraper"]
+        },
+        "quality_score": {
+          "type": "number",
+          "description": "Quality score (0-100)",
+          "minimum": 0,
+          "maximum": 100
+        }
+      }
+    },
+    "notes": {
+      "type": "string",
+      "description": "Additional notes about the listing"
+    },
+    "services": {
+      "type": "array",
+      "description": "List of services offered (for service providers)",
+      "items": {
+        "type": "string"
+      }
+    },
+    "parent_company": {
+      "type": "string",
+      "description": "Parent company name if applicable"
+    },
+    "former_names": {
+      "type": "array",
+      "description": "Previous company names",
+      "items": {
+        "type": "string"
+      }
+    },
+    "manufacturing_facilities": {
+      "type": "array",
+      "description": "List of manufacturing facility locations",
+      "items": {
+        "type": "string"
+      }
+    },
+    "has_website": {
+      "type": "boolean",
+      "description": "Whether the company has a website"
+    },
+    "description": {
+      "type": "string",
+      "description": "Description of the company or listing"
+    },
+    "badges": {
+      "type": "array",
+      "description": "Badges or certifications displayed on the listing",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "additionalProperties": false
+}

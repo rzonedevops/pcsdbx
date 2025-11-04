@@ -4,7 +4,10 @@
   "category_path": "Raw_Materials/Actives",
   "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Actives/1828/",
   "company_name": "Givaudan Active Beauty",
-  "former_names": "Induchem & Soliance",
+  "former_names": [
+    "Induchem",
+    "Soliance"
+  ],
   "address": "535 Fifth Avenue, Floor 23, New York, NY 10017",
   "country": "United States",
   "phone": "212-756-9918",
@@ -31,5 +34,17 @@
   ],
   "status": "active",
   "date_added": "2025-11-03",
-  "notes": "Major global player in cosmetic actives. Formerly Induchem & Soliance. Crafts avant-garde cosmetic actives and high-end specialties. Focus on natural origin ingredients and biotechnology. Part of Givaudan Group, world leader in fragrance and beauty."
+  "notes": "Major global player in cosmetic actives. Formerly Induchem & Soliance. Crafts avant-garde cosmetic actives and high-end specialties. Focus on natural origin ingredients and biotechnology. Part of Givaudan Group, world leader in fragrance and beauty.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-03",
+  "metadata": {
+    "last_validated": "2025-11-03",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "tags": [
+    "major-player",
+    "biotechnology",
+    "natural-ingredients"
+  ]
 }
