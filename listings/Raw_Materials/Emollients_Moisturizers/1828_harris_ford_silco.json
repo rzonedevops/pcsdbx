@@ -11,23 +11,45 @@
   "address": "9307 E. 56th St., Indianapolis, IN 46126",
   "country": "United States",
   "phone": "317-591-0000",
+  "website": "https://www.harrisandford.com",
   "specializations": [
-    "D&C, FD&C Dyes",
+    "D&C and FD&C Dyes",
     "Conditioners and Emollients for Hair and Skin Care",
     "Low MW Quaternary compounds",
-    "Polyquaternium-11",
+    "Polyquaternium-11 (Mirapol PQ-11 from Rhodia)",
     "C12-15 Alkyl Benzoate",
-    "Caprylic/Capric triglycerides"
-  ],
-  "product_highlights": [
-    "Mirapol PQ-11 from Rhodia",
+    "Caprylic/Capric triglycerides",
     "Specialty esters",
-    "Comprehensive emollients portfolio"
+    "Oat fraction rich in avenanthramides",
+    "Amazon Forest butters and natural products",
+    "Aromatic Botanical Extracts"
   ],
   "tags": [
+    "oat-specialist",
+    "natural-ingredients",
     "major-player"
   ],
-  "notes": "Strategic anchor supplier appearing in multiple categories (Actives, Emollients, Botanical Extracts, Preservatives). Comprehensive portfolio including specialty esters and oat-based ingredients.",
+  "certifications": [
+    "Industry standard compliance"
+  ],
+  "product_highlights": [
+    "Comprehensive emollients portfolio including specialty esters",
+    "Oat fraction rich in avenanthramides (reduces irritation)",
+    "Amazon Forest butters and natural products (Chemyunion)",
+    "Aromatic Botanical Extracts (support 'fragrance'-free scenting)",
+    "Astaxanthin (Astatrol antioxidant)",
+    "Grape Seed Extract (antioxidant)",
+    "Alternative preservation systems (Caprylyl/Capryl Glycols)"
+  ],
+  "key_benefits": [
+    "Multi-category ingredient sourcing",
+    "Natural and sustainable ingredient options",
+    "Oat-based active ingredients",
+    "Alternative preservation solutions",
+    "Antioxidant systems",
+    "Botanical extracts expertise"
+  ],
+  "notes": "Strategic multi-category supplier appearing in Emollients, Botanical Extracts, and Preservatives categories. Notable for oat-based ingredients including avenanthramides which reduce irritation. Comprehensive portfolio includes natural botanicals, alternative preservation, and specialty emollients.",
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",
