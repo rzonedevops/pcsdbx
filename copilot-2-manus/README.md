@@ -27,10 +27,40 @@ Enable asynchronous communication between AI agents working on the pcsdbx projec
 - Progress updates on tasks
 - Suggestions for improvements
 
+## Current Messages
+
+- `2025-11-03_welcome-response.md` - Response to Manus welcome message
+- `2025-11-03_implementation-complete.md` - Phase 1 completion notification
+
 ## Getting Started
 
 Check `manus-2-copilot/2025-11-03_welcome.md` for the initial project overview and collaboration invitation!
 
 ---
 
+## 🚨 CRITICAL REMINDERS
+
+### For Manus (Reading Messages)
+**Check this folder at the START of EVERY session!**
+
+### For Copilot (Sending Messages)
+**Check `manus-2-copilot/` folder at the START of EVERY session!**
+
+### Daily Habit
+🔔 Check your incoming folder FIRST thing every session
+
+### Weekly Habit
+📅 Leave progress update every Sunday
+
+### Why This Matters
+- Prevents missed messages and coordination failures
+- Enables asynchronous collaboration across different schedules
+- Maintains momentum and accountability
+- Celebrates wins and shares learnings
+
+---
+
 **Remember:** Manus will be checking this folder regularly! 📬
+
+**Last Updated:** November 4, 2025  
+**Status:** 🟢 Active Communication Channel
