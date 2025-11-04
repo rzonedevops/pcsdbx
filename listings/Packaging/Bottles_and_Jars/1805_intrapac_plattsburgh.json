@@ -1,0 +1,40 @@
+{
+  "category_id": 1805,
+  "listing_id": "intrapac_plattsburgh",
+  "category_path": "Packaging/Bottles_and_Jars",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging_-_Bottles_Cans_Jars/",
+  "company_name": "IntraPac Plattsburgh",
+  "address": "4 Plant Street, Plattsburgh, NY 12901",
+  "country": "United States",
+  "phone": "518-561-2030",
+  "website": "https://www.intrapac.com",
+  "specializations": [
+    "High-Performance Specialty Packaging",
+    "Premium Packaging Solutions",
+    "Advanced Packaging Technology",
+    "Custom Packaging Development"
+  ],
+  "product_highlights": [
+    "Specialty packaging combining high performance and aesthetics",
+    "Part of IntraPac Group with global capabilities",
+    "Focus on premium packaging solutions",
+    "Advanced technology for demanding applications"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "notes": "Premium specialty packaging supplier focused on high-performance solutions. Part of the global IntraPac Group. Strategic supplier for brands requiring advanced packaging technology and premium positioning.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_packaging_bottles_jars_2025-11-04"
+  },
+  "tags": [
+    "packaging",
+    "specialty",
+    "premium",
+    "high-performance",
+    "advanced-technology"
+  ]
+}

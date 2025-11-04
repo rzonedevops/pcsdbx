@@ -1,0 +1,40 @@
+{
+  "category_id": 1828,
+  "listing_id": "alnor_oil",
+  "category_path": "Raw_Materials/Surfactants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Surfactants/",
+  "company_name": "Alnor Oil Company",
+  "address": "70 East Sunrise Highway Suite 418, Valley Stream, NY 11581",
+  "country": "United States",
+  "phone": "516-561-6146",
+  "website": "https://www.alnoroil.com",
+  "specializations": [
+    "Imported Vegetable Oils",
+    "Domestic Vegetable Oils",
+    "Natural Oil-Based Surfactants",
+    "Specialty Oils for Personal Care"
+  ],
+  "product_highlights": [
+    "Leading supplier of vegetable oils since 1968",
+    "Imported and domestic oil sourcing",
+    "Natural oil-based surfactant ingredients",
+    "Long-established supplier with over 50 years experience"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "notes": "Founded in 1968 by Alexander Klayman. Long-established leading supplier of imported and domestic vegetable oils for personal care applications. Natural oils used in surfactant formulations.",
+  "schema_version": "1.0",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_surfactants_2025-11-04"
+  },
+  "tags": [
+    "vegetable-oils",
+    "natural",
+    "established-supplier",
+    "imported",
+    "domestic"
+  ]
+}
