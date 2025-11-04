@@ -32,7 +32,29 @@ VALID_TAGS = {
     "global-distributor",
     "contract-manufacturer",
     "private-label",
-    "full-service"
+    "full-service",
+    "packaging",
+    "bottles",
+    "jars",
+    "tubes",
+    "decoration",
+    "custom-branding",
+    "specialty",
+    "premium",
+    "high-performance",
+    "advanced-technology",
+    "affordable",
+    "quality",
+    "cosmetic",
+    "emerging-brands",
+    "eco-friendly",
+    "manufacturing",
+    "custom-design",
+    "vegetable-oils",
+    "natural",
+    "established-supplier",
+    "imported",
+    "domestic"
 }
 
 # Fields that should be removed (not in schema)
