@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1800,
+  "listing_id": "botanx",
+  "category_path": "Packaging/Bottles_and_Jars",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Bottles_and_Jars/1800/",
+  "company_name": "BOTANX",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "address": "3397 E. Miraloma Ave. Suite 156, Anaheim, CA 92806",
+  "country": "United States",
+  "phone": "(714) 854-1601",
+  "specializations": [
+    "Cosmetic packaging",
+    "Bottles and jars",
+    "Personal care packaging solutions"
+  ],
+  "product_highlights": [
+    "Packaging solutions for cosmetic and personal care products"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_packaging_bottles_jars_2025-11-04.md"
+  },
+  "notes": "Cosmetic packaging supplier based in California"
+}

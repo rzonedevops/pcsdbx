@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1828,
+  "listing_id": "pilot_chemical",
+  "category_path": "Raw_Materials/Surfactants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Surfactants/1828/",
+  "company_name": "Pilot Chemical Company",
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "address": "2744 E. Kemper Road, Cincinnati, OH 45241",
+  "country": "United States",
+  "phone": "513-326-0600",
+  "website": "https://www.pilotchemical.com/",
+  "specializations": [
+    "Anionic surfactants",
+    "Amphoteric surfactants",
+    "Nonionic surfactants",
+    "High foaming surfactants",
+    "Foam stabilizers",
+    "Environmentally friendly surfactants"
+  ],
+  "product_highlights": [
+    "Wide variety of surfactant chemistries for personal care",
+    "High foaming surfactants and foam stabilizers",
+    "Environmentally friendly blends",
+    "Comprehensive surfactant portfolio"
+  ],
+  "tags": ["sustainable", "major-player"],
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "research_surfactants_2025-11-04.md"
+  },
+  "notes": "Leading manufacturer offering comprehensive surfactant portfolio with environmentally friendly options for personal care industry"
+}
