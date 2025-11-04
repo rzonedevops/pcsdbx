@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1794,
+  "listing_id": "rieke_packaging",
+  "category_path": "Packaging/Pumps_and_Dispensers",
+  "url": "https://www.riekepackaging.com",
+  "company_name": "Rieke Packaging",
+  "address": "To be researched",
+  "country": "To be researched",
+  "phone": "To be researched",
+  "website": "https://www.riekepackaging.com",
+  "specializations": [
+    "Variety of pump dispenser styles",
+    "Airless pumps",
+    "Foamer pumps",
+    "Finger pumps",
+    "Palm pumps",
+    "Sprayers",
+    "Cosmetic jars"
+  ],
+  "product_highlights": [
+    "Comprehensive dispensing solutions portfolio",
+    "Airless pumps to foamers",
+    "Finger to palm pump options",
+    "Sprayer systems",
+    "Integrated jar solutions for complete packaging"
+  ],
+  "tags": [
+    "packaging",
+    "full-service",
+    "cosmetic",
+    "specialty"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Comprehensive dispensing solutions portfolio covering airless pumps, foamers, finger/palm pumps, and sprayers. Also offers cosmetic jars for complete packaging solutions. Wide variety of pump styles provides flexibility for different product types and user experiences."
+}

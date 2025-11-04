@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "dynamic_blending",
+  "category_path": "Business_Services/Private_Label_Skin_Care",
+  "url": "https://www.dynamicblending.com",
+  "company_name": "Dynamic Blending",
+  "address": "To be researched",
+  "country": "United States",
+  "phone": "To be researched",
+  "website": "https://www.dynamicblending.com",
+  "specializations": [
+    "Top national contract manufacturer",
+    "Private label lip gloss",
+    "Lip care products",
+    "Full turnkey services",
+    "Lip care specialist"
+  ],
+  "product_highlights": [
+    "Specialized in lip care private label manufacturing",
+    "Top national contract manufacturer",
+    "Full turnkey services from formulation to fulfillment",
+    "Focus on lip gloss and lip care products"
+  ],
+  "tags": [
+    "private-label",
+    "contract-manufacturer",
+    "full-service",
+    "specialty"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Specialized in lip care private label manufacturing. Top national contract manufacturer offering full turnkey services. Unique focus on lip gloss and lip care products provides specialized expertise in this product category."
+}

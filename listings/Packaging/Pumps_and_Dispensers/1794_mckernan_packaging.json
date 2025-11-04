@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1794,
+  "listing_id": "mckernan_packaging",
+  "category_path": "Packaging/Pumps_and_Dispensers",
+  "url": "https://www.mckernan.com",
+  "company_name": "McKernan Packaging",
+  "address": "To be researched",
+  "country": "To be researched",
+  "phone": "To be researched",
+  "website": "https://www.mckernan.com",
+  "specializations": [
+    "Cosmetic treatment pumps",
+    "Foamer pumps",
+    "Lotion pumps",
+    "Precise dosage dispensing",
+    "Personal care applications",
+    "Skin care applications",
+    "Sun care applications",
+    "Hair care applications"
+  ],
+  "product_highlights": [
+    "Multi-category pump specialist with precise dosing technology",
+    "Treatment pumps for targeted applications",
+    "Foamer pumps for enhanced user experience",
+    "Lotion pumps for standard applications",
+    "Precise dosage capabilities for formulation accuracy"
+  ],
+  "tags": [
+    "packaging",
+    "specialty",
+    "cosmetic",
+    "premium"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Multi-category pump specialist with precise dosing technology. Offers treatment pumps (0.15-0.25ml precision), foamer pumps, and lotion pumps. Applications span personal care, skin care, sun care, and hair care. Precise dosage critical for active ingredients and pharmaceutical-grade formulations."
+}

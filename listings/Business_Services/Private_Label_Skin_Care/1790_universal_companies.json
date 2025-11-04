@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "universal_companies",
+  "category_path": "Business_Services/Private_Label_Skin_Care",
+  "url": "https://www.universalcompanies.com",
+  "company_name": "Universal Companies",
+  "address": "To be researched",
+  "country": "United States",
+  "phone": "To be researched",
+  "website": "https://www.universalcompanies.com",
+  "specializations": [
+    "Private label skin care",
+    "Retail brand launch",
+    "Ultra-low entry barrier ($295 brand launch)",
+    "Premium products",
+    "Beautiful packaging",
+    "Turnkey support for new brands"
+  ],
+  "product_highlights": [
+    "Retail brand launch for only $295",
+    "Premium product quality with beautiful packaging",
+    "Ultra-accessible private label for startups",
+    "Turnkey support for brand development",
+    "Low barrier to entry for emerging brands"
+  ],
+  "tags": [
+    "private-label",
+    "emerging-brands",
+    "affordable",
+    "full-service"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Ultra-accessible private label for startups with $295 brand launch offering. Premium product quality with beautiful packaging at extremely low entry barrier. Perfect for emerging brands and entrepreneurs entering the skincare market. Turnkey support for complete brand development."
+}

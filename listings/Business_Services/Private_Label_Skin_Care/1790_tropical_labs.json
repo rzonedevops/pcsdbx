@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "tropical_labs",
+  "category_path": "Business_Services/Private_Label_Skin_Care",
+  "url": "https://www.tropicallabs.com",
+  "company_name": "Tropical Labs",
+  "address": "To be researched",
+  "country": "United States",
+  "phone": "To be researched",
+  "website": "https://www.tropicallabs.com",
+  "specializations": [
+    "Contract manufacturing",
+    "Private label",
+    "Co-packing",
+    "Beauty products",
+    "Skincare",
+    "Pet care",
+    "Household care",
+    "Nutritional supplements",
+    "OTC products"
+  ],
+  "product_highlights": [
+    "Multi-category manufacturing capabilities",
+    "Beauty, skincare, pet care, household care",
+    "Nutritional supplements and OTC products",
+    "Comprehensive contract manufacturing services"
+  ],
+  "tags": [
+    "private-label",
+    "contract-manufacturer",
+    "full-service",
+    "specialty"
+  ],
+  "status": "active",
+  "date_added": "2025-11-04",
+  "date_updated": "2025-11-04",
+  "metadata": {
+    "last_validated": "2025-11-04",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Multi-category private label manufacturer with diverse product capabilities. Offers beauty, skincare, pet care, household care, nutritional supplements, and OTC products. Comprehensive contract manufacturing and co-packing services."
+}
