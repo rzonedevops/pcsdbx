@@ -44,15 +44,15 @@ jobs:
           echo "Found messages in manus-2-copilot/:"
           echo "$ALL_MESSAGES"
           
-          # Check which messages have already been processed (have a PR)
+          # Check which messages have already been processed (have an Issue)
           NEW_MESSAGES=""
           for msg in $ALL_MESSAGES; do
             MSG_BASENAME=$(basename "$msg" .md)
             
-            # Check if a PR already exists for this message (exact title match)
-            EXISTING_PR=$(gh pr list --state all --json title --jq "[.[] | select(.title == \"Agent Update: Message from Manus ($MSG_BASENAME)\")] | length")
+            # Check if an Issue already exists for this message (exact title match)
+            EXISTING_ISSUE=$(gh issue list --state all --json title --jq "[.[] | select(.title == \"Agent Task: Process Message from Manus ($MSG_BASENAME)\")] | length")
             
-            if [[ $EXISTING_PR -eq 0 ]]; then
+            if [[ $EXISTING_ISSUE -eq 0 ]]; then
               echo "New unprocessed message: $msg"
               NEW_MESSAGES="$NEW_MESSAGES $msg"
             else
@@ -71,7 +71,7 @@ jobs:
             echo "All messages have been processed"
           fi
           
-      - name: Process new message and create PR
+      - name: Process new message and create Issue
         if: steps.check_messages.outputs.new_messages == 'true'
         env:
           GH_TOKEN: ${{ github.token }}
@@ -83,64 +83,67 @@ jobs:
           MESSAGE_CONTENT=$(cat "$LATEST_MESSAGE")
           MESSAGE_FILENAME=$(basename "$LATEST_MESSAGE" .md)
           
-          # Create a new branch for the update
-          BRANCH_NAME="copilot/agent-update-$MESSAGE_FILENAME"
-          git checkout -b "$BRANCH_NAME"
-          
-          # Add a note to the agent file about the message
-          AGENT_FILE=".github/agents/personal-care-agent.md"
-          
-          # Create a backup
-          cp "$AGENT_FILE" "${AGENT_FILE}.bak"
-          
-          # Add note about message received
-          cat >> "$AGENT_FILE" << EOF
-          
-          ---
-          
-          ## Message from Manus (${MESSAGE_FILENAME})
-          
-          Message received and being processed. See \`manus-2-copilot/${MESSAGE_FILENAME}.md\` for details.
-          
-          **Date Processed:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
-          
-          EOF
-          
-          # Commit changes
-          git add "$AGENT_FILE"
-          git commit -m "Update personal-care-agent.md based on message from Manus ($MESSAGE_FILENAME)"
-          
-          # Push branch
-          git push origin "$BRANCH_NAME"
-          
-          # Create PR
-          PR_TITLE="Agent Update: Message from Manus ($MESSAGE_FILENAME)"
-          PR_BODY="This PR updates the personal-care-agent.md based on a new message from Manus.
+          # Create Issue
+          ISSUE_TITLE="Agent Task: Process Message from Manus ($MESSAGE_FILENAME)"
+          ISSUE_BODY="## 📬 Reminder: Read Most Recent Message from Manus
 
           **Message File:** \`$LATEST_MESSAGE\`
 
-          **Summary:**
-          The agent file has been updated to acknowledge the message from Manus.
+          Please review the message from Manus in the file above before proceeding.
 
-          **Next Steps:**
-          - Review the message content in \`$LATEST_MESSAGE\`
-          - Update the agent instructions as needed
-          - Create a response in \`copilot-2-manus/\` folder
-          
           ---
-          
-          **Message Preview:**
+
+          ## 📊 Repository Analysis Task
+
+          Analyze the current status of repo: https://github.com/rzonedevops/pcsdbx and evaluate its progress toward its various milestone goals and long term vision.
+
+          ---
+
+          ## 🤖 Agent Assignment Instructions
+
+          **You should assign the GitHub Copilot agent:** \`.github/agents/personal-care-agent.md\`
+
+          This agent is optimized to help focus on the next important tasks for this project.
+
+          ---
+
+          ## 📋 Instructions for 'personal-care-agent'
+
+          Once you assign the personal-care-agent, provide the following instructions:
+
+          ### Step 1: Read Manus Message
+          - Read the message in \`manus-2-copilot/$MESSAGE_FILENAME.md\`
+
+          ### Step 2: Research & Identify Next Tasks
+          - Identify the next set of personal care supplier information that needs to be researched
+          - Do the best you can to help move things forward
+
+          ### Step 3: Create Response for Manus
+          - Once work is complete, leave a response note for Manus in the \`copilot-2-manus/\` folder
+          - Express excitement about the collaboration
+          - Invite Manus to leave response messages in the \`manus-2-copilot/\` folder
+          - Remind both agents to set prompt reminders to check those folders for messages
+
+          ### Step 4: Sync Changes
+          - Sync all updated and new files to the repo
+
+          ### Step 5: Summary
+          - Finish with a summary of the work completed :-)
+
+          ---
+
+          ## 📎 Message Preview
+
           \`\`\`
           $(head -n 20 "$LATEST_MESSAGE")
           ...
           \`\`\`
           "
           
-          gh pr create \
-            --title "$PR_TITLE" \
-            --body "$PR_BODY" \
-            --base main \
-            --head "$BRANCH_NAME"
+          gh issue create \
+            --title "$ISSUE_TITLE" \
+            --body "$ISSUE_BODY" \
+            --assignee danregima,drzo
             
       - name: Check for missing response
         if: steps.check_messages.outputs.new_messages == 'false'
@@ -162,80 +165,57 @@ jobs:
           if [ $MANUS_MESSAGES -gt 0 ] && [ $COPILOT_RESPONSES -eq 0 ]; then
             echo "Found messages from Manus but no responses from Copilot. Checking for help requests..."
             
-            # Check if we've already created a help request PR (in any state) - exact title match
-            HELP_REQUEST_PRS=$(gh pr list --state all --json title --jq '[.[] | select(.title == "Help Request: Manus-Copilot Communication Stuck")] | length')
+            # Check if we've already created a help request Issue (in any state) - exact title match
+            HELP_REQUEST_ISSUES=$(gh issue list --state all --json title --jq '[.[] | select(.title == "Help Request: Manus-Copilot Communication Stuck")] | length')
             
             # Also check if a help request message file already exists
             HELP_REQUEST_FILES=$(find copilot-2-manus -name "*help-request.md" -type f | wc -l)
             
-            if [[ $HELP_REQUEST_PRS -eq 0 ]] && [[ $HELP_REQUEST_FILES -eq 0 ]]; then
-              echo "Creating first-time help request..."
+            if [[ $HELP_REQUEST_ISSUES -eq 0 ]] && [[ $HELP_REQUEST_FILES -eq 0 ]]; then
+              echo "Creating first-time help request Issue..."
               
-              # Create a new branch
-              BRANCH_NAME="copilot/help-request-$(date +%Y%m%d-%H%M%S)"
-              git checkout -b "$BRANCH_NAME"
-              
-              # Create a help request message
-              HELP_MESSAGE="copilot-2-manus/$(date +%Y-%m-%d)_help-request.md"
-              
-              cat > "$HELP_MESSAGE" << EOF
-          # Help Request: Communication Stuck
-          
-          **From:** GitHub Copilot Agent  
-          **To:** Manus AI Agent  
+              # Create help request Issue
+              HELP_ISSUE_BODY="## 🚨 Communication Status Alert
+
+          **From:** GitHub Copilot Agent Monitor  
           **Date:** $(date -u +"%Y-%m-%d %H:%M:%S UTC")
+
+          ### Status
           
-          ## Status
+          **Communication appears to be stuck!**
           
-          🚨 **Communication appears to be stuck!**
+          I've detected that there are messages from Manus in the \`manus-2-copilot/\` folder, but no responses have been created in \`copilot-2-manus/\` yet.
           
-          I've detected that there are messages from you in the \`manus-2-copilot/\` folder, but I haven't been able to process them properly yet.
-          
-          ## What I Found
+          ### What I Found
           
           - Messages from Manus: $MANUS_MESSAGES found
           - Responses from Copilot: None
           
-          ## Request
+          ### Request
           
-          Please help! I may need:
-          - Clarification on how to process your messages
+          Please help! This may need:
+          - Review of messages in \`manus-2-copilot/\`
+          - Clarification on how to process the messages
           - Guidance on the expected response format
           - Manual intervention to get things unstuck
           
-          ## Next Steps
+          ### Recommended Next Steps
           
-          1. Review the messages in \`manus-2-copilot/\`
-          2. Determine the appropriate action
-          3. Create a proper response workflow
+          1. Review all messages in \`manus-2-copilot/\`
+          2. Assign the \`.github/agents/personal-care-agent.md\` to process messages
+          3. Create appropriate responses in \`copilot-2-manus/\`
+          4. Establish a regular communication workflow
           
           Looking forward to getting our collaboration back on track!
           
-          **— GitHub Copilot Agent**
-          EOF
+          **— GitHub Copilot Agent Monitor**"
               
-              # Commit and push
-              git add "$HELP_MESSAGE"
-              git commit -m "Add help request message - communication stuck"
-              git push origin "$BRANCH_NAME"
-              
-              # Create PR
-              gh pr create \
+              gh issue create \
                 --title "Help Request: Manus-Copilot Communication Stuck" \
-                --body "**Issue:** Messages detected from Manus but no responses from Copilot.
-
-              **Action Taken:** Created a help request message in \`$HELP_MESSAGE\`
-
-              **Please Review:**
-              - Messages in \`manus-2-copilot/\` folder
-              - Expected workflow for processing messages
-              - Any blockers preventing automated responses
-
-              This PR serves as a notification that manual intervention may be needed to get the agent communication flowing properly." \
-                --base main \
-                --head "$BRANCH_NAME"
+                --body "$HELP_ISSUE_BODY" \
+                --assignee danregima,drzo
             else
-              echo "Help request already exists (PRs: $HELP_REQUEST_PRS, Files: $HELP_REQUEST_FILES). Skipping creation."
+              echo "Help request already exists (Issues: $HELP_REQUEST_ISSUES, Files: $HELP_REQUEST_FILES). Skipping creation."
             fi
           else
             echo "Communication appears healthy or no messages to process."
