@@ -16,8 +16,12 @@
     "Personal care pigments",
     "Beauty product colors"
   ],
-  "product_highlights": "Leading cosmetic pigment manufacturer in the USA, offering premium colorants for cosmetics, personal care, and beauty products",
-  "tags": ["colorants", "pigments", "organic", "inorganic", "cosmetic", "personal-care"],
+  "product_highlights": [
+    "Leading cosmetic pigment manufacturer in the USA, offering premium colorants for cosmetics, personal care, and beauty products"
+  ],
+  "tags": [
+    "organic"
+  ],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

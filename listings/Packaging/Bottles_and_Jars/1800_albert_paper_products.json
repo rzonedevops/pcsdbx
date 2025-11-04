@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "464 Coit St",
-  "city": "Irvington",
-  "state": "NJ",
-  "zip": "07111",
   "country": "United States",
   "phone": "973-373-0330",
   "specializations": [
@@ -22,8 +19,10 @@
     "Lip gloss packaging",
     "Pencil packaging"
   ],
-  "product_highlights": "Comprehensive packaging portfolio including bottles, tubes, compacts, rollerballs, lip gloss, and pencil packaging",
-  "tags": ["packaging", "bottles", "tubes", "compacts", "rollerball", "lip-gloss", "comprehensive"],
+  "product_highlights": [
+    "Comprehensive packaging portfolio including bottles, tubes, compacts, rollerballs, lip gloss, and pencil packaging"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",

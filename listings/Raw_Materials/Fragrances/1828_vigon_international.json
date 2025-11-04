@@ -15,8 +15,10 @@
     "Personal care ingredients",
     "Comprehensive inventory"
   ],
-  "product_highlights": "Comprehensive inventory of fragrance ingredients for use in cosmetic and personal care applications",
-  "tags": ["fragrances", "fragrance-ingredients", "cosmetic-ingredients", "personal-care", "comprehensive"],
+  "product_highlights": [
+    "Comprehensive inventory of fragrance ingredients for use in cosmetic and personal care applications"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

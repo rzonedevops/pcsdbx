@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "5215 Enterprise Street",
-  "city": "Fremont",
-  "state": "CA",
-  "zip": "94538",
   "country": "United States",
   "phone": "510-651-5577",
   "specializations": [
@@ -23,8 +20,12 @@
     "Silkscreening",
     "Hot stamping"
   ],
-  "product_highlights": "Full-service packaging supplier offering bottles, jars, closures, and decoration services including silkscreening and hot stamping",
-  "tags": ["packaging", "bottles", "jars", "decoration", "silkscreening", "hot-stamping", "full-service"],
+  "product_highlights": [
+    "Full-service packaging supplier offering bottles, jars, closures, and decoration services including silkscreening and hot stamping"
+  ],
+  "tags": [
+    "full-service"
+  ],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",

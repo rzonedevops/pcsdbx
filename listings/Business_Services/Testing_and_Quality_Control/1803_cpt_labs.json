@@ -17,8 +17,10 @@
     "Hair care testing",
     "Sunscreen testing"
   ],
-  "product_highlights": "Reliable, trusted and high-quality cosmetic testing for moisturizers, lotions, makeup, hair care and sunscreen",
-  "tags": ["testing", "quality-control", "cosmetic-testing", "moisturizers", "makeup", "hair-care", "sunscreen"],
+  "product_highlights": [
+    "Reliable, trusted and high-quality cosmetic testing for moisturizers, lotions, makeup, hair care and sunscreen"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

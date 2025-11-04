@@ -15,8 +15,10 @@
     "Cosmetics manufacturing",
     "Processing challenges solutions"
   ],
-  "product_highlights": "Range of high-quality equipment to address specific processing challenges in personal care and cosmetics manufacturing",
-  "tags": ["equipment", "mixing", "high-quality", "personal-care", "cosmetics", "processing"],
+  "product_highlights": [
+    "Range of high-quality equipment to address specific processing challenges in personal care and cosmetics manufacturing"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

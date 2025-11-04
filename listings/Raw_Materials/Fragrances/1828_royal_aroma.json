@@ -16,8 +16,10 @@
     "Soaps and lotions fragrances",
     "Hair care fragrances"
   ],
-  "product_highlights": "Fragrance manufacturer producing natural and designer fragrances for perfumes, soaps, lotions, and hair care products",
-  "tags": ["fragrances", "natural", "designer", "perfumes", "soaps", "lotions", "hair-care"],
+  "product_highlights": [
+    "Fragrance manufacturer producing natural and designer fragrances for perfumes, soaps, lotions, and hair care products"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

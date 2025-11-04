@@ -15,9 +15,14 @@
     "Personal care colorants",
     "Oral care colorants"
   ],
-  "product_highlights": "Puricolor FDA family contains FD&C approved pigments and dyes for personal care and oral care applications",
-  "tags": ["colorants", "pigments", "fda-approved", "puricolor", "personal-care", "oral-care"],
-  "certifications": ["FDA approved", "FD&C approved"],
+  "product_highlights": [
+    "Puricolor FDA family contains FD&C approved pigments and dyes for personal care and oral care applications"
+  ],
+  "tags": [],
+  "certifications": [
+    "FDA approved",
+    "FD&C approved"
+  ],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

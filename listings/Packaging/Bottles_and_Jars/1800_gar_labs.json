@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "1844 Massachusetts Ave",
-  "city": "Riverside",
-  "state": "CA",
-  "zip": "92507",
   "country": "United States",
   "phone": "951-788-0700",
   "specializations": [
@@ -20,8 +17,10 @@
     "Caps and sprayers",
     "Mid-volume packaging"
   ],
-  "product_highlights": "Mid-volume packaging supplier offering bottles, jars, caps, and sprayers with 5K minimum order quantities",
-  "tags": ["packaging", "bottles", "jars", "caps", "sprayers", "mid-volume"],
+  "product_highlights": [
+    "Mid-volume packaging supplier offering bottles, jars, caps, and sprayers with 5K minimum order quantities"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",

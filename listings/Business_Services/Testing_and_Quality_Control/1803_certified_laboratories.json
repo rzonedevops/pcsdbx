@@ -16,9 +16,13 @@
     "Preservative efficacy testing",
     "Cosmetic product testing"
   ],
-  "product_highlights": "ISO 17025-accredited cosmetic and personal care product testing, including microbiology, chemistry, and preservative efficacy",
-  "tags": ["testing", "quality-control", "iso-17025", "microbiology", "chemistry", "preservative-efficacy"],
-  "certifications": ["ISO 17025 accredited"],
+  "product_highlights": [
+    "ISO 17025-accredited cosmetic and personal care product testing, including microbiology, chemistry, and preservative efficacy"
+  ],
+  "tags": [],
+  "certifications": [
+    "ISO 17025 accredited"
+  ],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

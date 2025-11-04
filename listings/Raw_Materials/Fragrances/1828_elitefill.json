@@ -15,8 +15,10 @@
     "Personal care fragrances",
     "Pharmaceutical fragrances"
   ],
-  "product_highlights": "Custom manufacturer of fragrances for the health and beauty, cosmetics, consumer, household, personal care, and pharmaceutical industries",
-  "tags": ["fragrances", "custom-manufacturing", "health-beauty", "cosmetics", "personal-care", "pharmaceutical"],
+  "product_highlights": [
+    "Custom manufacturer of fragrances for the health and beauty, cosmetics, consumer, household, personal care, and pharmaceutical industries"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

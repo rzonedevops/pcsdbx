@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "46 Ellsworth Dr",
-  "city": "Princeton Junction",
-  "state": "NJ",
-  "zip": "08550",
   "country": "United States",
   "phone": "609-799-3956",
   "specializations": [
@@ -20,8 +17,10 @@
     "Packaging management",
     "Strategic packaging advisory"
   ],
-  "product_highlights": "Expert packaging consulting services for development and management of personal care product packaging strategies",
-  "tags": ["consulting", "packaging-development", "packaging-management", "strategic-advisory"],
+  "product_highlights": [
+    "Expert packaging consulting services for development and management of personal care product packaging strategies"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",

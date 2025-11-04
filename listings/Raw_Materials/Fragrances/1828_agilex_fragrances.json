@@ -15,8 +15,10 @@
     "Scent creation",
     "Innovative fragrance development"
   ],
-  "product_highlights": "Top global personal care fragrance supplier and innovative leader in scent creation for all personal care fragrance products including body care",
-  "tags": ["fragrances", "personal-care", "body-care", "scent-creation", "innovation", "global"],
+  "product_highlights": [
+    "Top global personal care fragrance supplier and innovative leader in scent creation for all personal care fragrance products including body care"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

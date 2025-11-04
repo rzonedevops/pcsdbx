@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "181 Calkin Drive",
-  "city": "South Burlington",
-  "state": "VT",
-  "zip": "05403",
   "country": "United States",
   "phone": "802-310-7370",
   "specializations": [
@@ -19,8 +16,10 @@
     "High quality packaging",
     "Cost-effective solutions"
   ],
-  "product_highlights": "High quality, affordable cosmetic packaging solutions for emerging and cost-conscious brands",
-  "tags": ["packaging", "cosmetic", "affordable", "quality", "cost-effective"],
+  "product_highlights": [
+    "High quality, affordable cosmetic packaging solutions for emerging and cost-conscious brands"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",

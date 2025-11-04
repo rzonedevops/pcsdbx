@@ -15,9 +15,13 @@
     "Natural cosmetics pigments",
     "Personal care pigments"
   ],
-  "product_highlights": "Interplay of effect pigments and additives to improve the feel and look of Personal Care products, including Natural Cosmetics",
-  "tags": ["colorants", "effect-pigments", "additives", "natural-cosmetics", "personal-care"],
-  "certifications": ["Natural Cosmetics approved"],
+  "product_highlights": [
+    "Interplay of effect pigments and additives to improve the feel and look of Personal Care products, including Natural Cosmetics"
+  ],
+  "tags": [],
+  "certifications": [
+    "Natural Cosmetics approved"
+  ],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

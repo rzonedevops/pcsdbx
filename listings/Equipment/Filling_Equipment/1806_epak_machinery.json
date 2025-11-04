@@ -14,8 +14,10 @@
     "Thin cosmetic products filling",
     "Leading American supplier"
   ],
-  "product_highlights": "Leading American cream filling equipment supplier offering solutions for thick and thin cosmetic products",
-  "tags": ["equipment", "filling-machines", "cream-filling", "cosmetics", "american-supplier"],
+  "product_highlights": [
+    "Leading American cream filling equipment supplier offering solutions for thick and thin cosmetic products"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

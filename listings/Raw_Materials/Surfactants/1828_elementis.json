@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "469 Old Trenton Road",
-  "city": "East Windsor",
-  "state": "NJ",
-  "zip": "08512",
   "country": "United States",
   "phone": "609-443-2500",
   "specializations": [
@@ -19,8 +16,10 @@
     "Specialty additives",
     "Personal care ingredients"
   ],
-  "product_highlights": "Specialty additives and surfactants for personal care formulations",
-  "tags": ["surfactants", "specialty-additives", "personal-care-ingredients"],
+  "product_highlights": [
+    "Specialty additives and surfactants for personal care formulations"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",

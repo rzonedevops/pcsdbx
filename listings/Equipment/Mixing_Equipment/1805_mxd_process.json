@@ -16,8 +16,10 @@
     "Serums equipment",
     "Shampoos and conditioners equipment"
   ],
-  "product_highlights": "Advanced equipment for the production of skincare and hair-care products, including creams, lotions, serums, shampoos, and conditioners",
-  "tags": ["equipment", "mixing", "skincare", "hair-care", "creams", "lotions", "serums"],
+  "product_highlights": [
+    "Advanced equipment for the production of skincare and hair-care products, including creams, lotions, serums, shampoos, and conditioners"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

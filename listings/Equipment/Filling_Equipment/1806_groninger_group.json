@@ -17,8 +17,10 @@
     "Body and hair care filling",
     "High-speed filling (up to 240 objects/minute)"
   ],
-  "product_highlights": "Filling machines for processing cosmetics including fragrance, skin care, color care and body & hair care - up to 240 objects/minute",
-  "tags": ["equipment", "filling-machines", "cosmetics", "high-speed", "fragrance", "skin-care"],
+  "product_highlights": [
+    "Filling machines for processing cosmetics including fragrance, skin care, color care and body & hair care - up to 240 objects/minute"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

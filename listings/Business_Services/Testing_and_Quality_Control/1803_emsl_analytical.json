@@ -16,8 +16,10 @@
     "Manufacturer testing",
     "Rapid turnaround"
   ],
-  "product_highlights": "Cosmetics testing services for consumers and manufacturers with accurate results and rapid turnaround",
-  "tags": ["testing", "quality-control", "cosmetics", "personal-care", "rapid-turnaround"],
+  "product_highlights": [
+    "Cosmetics testing services for consumers and manufacturers with accurate results and rapid turnaround"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

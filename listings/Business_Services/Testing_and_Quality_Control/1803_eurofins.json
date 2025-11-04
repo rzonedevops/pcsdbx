@@ -16,8 +16,10 @@
     "In vitro testing",
     "Microbiological testing"
   ],
-  "product_highlights": "Unrivaled range of clinical, sensory, chemical, in vitro and microbiological testing services to retailers and cosmetic producers",
-  "tags": ["testing", "quality-control", "clinical", "sensory", "chemical", "in-vitro", "microbiological"],
+  "product_highlights": [
+    "Unrivaled range of clinical, sensory, chemical, in vitro and microbiological testing services to retailers and cosmetic producers"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

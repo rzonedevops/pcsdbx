@@ -16,9 +16,15 @@
     "Fine perfumes",
     "Personal care fragrances"
   ],
-  "product_highlights": "Leading perfume designer and supplier providing organic, natural and designer fragrance compositions for fine perfumes and personal care products",
-  "tags": ["fragrances", "organic", "natural", "designer", "perfumes", "personal-care"],
-  "certifications": ["Organic fragrances"],
+  "product_highlights": [
+    "Leading perfume designer and supplier providing organic, natural and designer fragrance compositions for fine perfumes and personal care products"
+  ],
+  "tags": [
+    "organic"
+  ],
+  "certifications": [
+    "Organic fragrances"
+  ],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "web_research",

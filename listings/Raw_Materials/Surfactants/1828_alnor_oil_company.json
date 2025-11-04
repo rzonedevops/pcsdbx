@@ -9,9 +9,6 @@
   "date_added": "2025-11-04",
   "date_updated": "2025-11-04",
   "address": "70 East Sunrise Highway Suite 418",
-  "city": "Valley Stream",
-  "state": "NY",
-  "zip": "11581",
   "country": "United States",
   "phone": "516-561-6146",
   "specializations": [
@@ -19,8 +16,10 @@
     "Domestic vegetable oils",
     "Surfactant raw materials"
   ],
-  "product_highlights": "Leading supplier of imported and domestic vegetable oils for surfactant production and personal care formulations since 1968",
-  "tags": ["vegetable-oils", "surfactant-raw-materials", "imported", "domestic"],
+  "product_highlights": [
+    "Leading supplier of imported and domestic vegetable oils for surfactant production and personal care formulations since 1968"
+  ],
+  "tags": [],
   "metadata": {
     "last_validated": "2025-11-04",
     "validation_method": "manual",
