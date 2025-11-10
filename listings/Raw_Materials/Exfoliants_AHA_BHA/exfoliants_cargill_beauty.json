@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "exfoliants_aha_bha",
+  "listing_id": "cargill_beauty",
+  "category_path": "Raw_Materials/Exfoliants_AHA_BHA",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Exfoliants",
+  "company_name": "Cargill Beauty",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "291 East El Prado Court, Chandler, AZ 85225",
+  "country": "United States",
+  "phone": "480-545-7000",
+  "specializations": [
+    "Personal care division of Cargill",
+    "Diverse portfolio of nature-derived ingredients",
+    "Large-scale manufacturing capabilities",
+    "Natural exfoliant ingredients"
+  ],
+  "product_highlights": [
+    "Nature-derived exfoliants",
+    "Cargill global resources",
+    "Large-scale production",
+    "Sustainable sourcing"
+  ],
+  "tags": ["major-player", "nature-derived", "large-scale", "cargill-division"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_exfoliants_aha_bha_2025-11-09.md"
+  },
+  "notes": "Major player backed by Cargill's global resources. Nature-derived focus aligns with market trends."
+}

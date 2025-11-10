@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "exfoliants_aha_bha",
+  "listing_id": "carmel_cosmetics",
+  "category_path": "Raw_Materials/Exfoliants_AHA_BHA",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Exfoliants",
+  "company_name": "CARMEL COSMETICS LABS",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "B1006 ZI AIT MELLOUL, AIT MELLOUL",
+  "country": "Morocco",
+  "phone": "212808504500",
+  "specializations": [
+    "Cosmetics laboratory",
+    "Exfoliant formulations",
+    "African supplier"
+  ],
+  "product_highlights": [
+    "Cosmetics laboratory expertise",
+    "Exfoliant formulation development",
+    "Unique African sourcing",
+    "Regional ingredients"
+  ],
+  "tags": ["laboratory", "formulation", "morocco", "africa"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_exfoliants_aha_bha_2025-11-09.md"
+  },
+  "notes": "Moroccan cosmetics lab. Unique African supplier perspective."
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "exfoliants_aha_bha",
+  "listing_id": "gcc_aesthetics",
+  "category_path": "Raw_Materials/Exfoliants_AHA_BHA",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Exfoliants",
+  "company_name": "GCC Aesthetics Inc. dba NassifMD Dermaceuticals",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "Beverly Hills, CA 90212-1841",
+  "country": "United States",
+  "phone": "9089637018",
+  "specializations": [
+    "Dermatologist-developed products",
+    "Medical-grade exfoliants",
+    "Premium positioning"
+  ],
+  "product_highlights": [
+    "Medical-grade quality",
+    "Dermatologist-developed",
+    "Beverly Hills premium positioning",
+    "Clinical-grade exfoliants"
+  ],
+  "tags": ["dermatologist-developed", "medical-grade", "premium", "beverly-hills"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_exfoliants_aha_bha_2025-11-09.md"
+  },
+  "notes": "Medical-grade exfoliant products. Premium positioning with dermatologist backing."
+}

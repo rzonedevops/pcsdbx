@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "antioxidants",
+  "listing_id": "saratoga_supplements",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "Saratoga Supplements",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "12 Marlyn Dr, Burnt Hills, NY 12027-9737",
+  "country": "United States",
+  "phone": "518-320-8680",
+  "specializations": [
+    "Acai powdered supplements (high antioxidant content)",
+    "Resveratrol (powerful antioxidant)",
+    "Healthy solutions supplements",
+    "Natural antioxidant powders"
+  ],
+  "product_highlights": [
+    "High-antioxidant acai",
+    "Resveratrol specialist",
+    "Natural superfood ingredients",
+    "Healthy solutions focus"
+  ],
+  "tags": ["natural-focus", "supplement-specialist", "acai-specialist", "resveratrol-focus"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "Specialist in high-antioxidant natural ingredients, particularly acai and resveratrol. Focus on healthy solutions and supplements."
+}

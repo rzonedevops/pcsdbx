@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "active_peptide_company",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Active Peptide Company",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "245 First Street Suite 1800-131, Cambridge, MA 2142",
+  "country": "United States",
+  "phone": "617-230-2722",
+  "specializations": [
+    "Active peptides for cosmetic applications",
+    "Specialized peptide formulations",
+    "Cambridge-based innovation"
+  ],
+  "product_highlights": [
+    "Dedicated peptide specialist",
+    "Cosmetic peptide focus",
+    "Cambridge biotech hub location",
+    "R&D-driven innovation"
+  ],
+  "tags": ["peptide-specialist", "cosmetic-focus", "innovation-hub", "us-manufacturer"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Specialized peptide company based in Cambridge, MA biotech hub. Focus on active peptides for cosmetic applications."
+}
