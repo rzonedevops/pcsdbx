@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": "chelating_agents",
+  "listing_id": "pilot_chemical_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Chelating%20Agents",
+  "company_name": "Pilot Chemical Company",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "2744 E. Kemper Road, Cincinnati, OH 45241",
+  "country": "United States",
+  "phone": "513-326-0600",
+  "website": "https://www.pilotchemical.com/",
+  "specializations": [
+    "Surfactants and specialty chemicals",
+    "Thickeners and rheology modifiers",
+    "Chelating agents",
+    "Formulation support"
+  ],
+  "product_highlights": [
+    "Multi-category manufacturer",
+    "Strong formulation support",
+    "Comprehensive specialty chemicals portfolio",
+    "Technical expertise"
+  ],
+  "tags": ["major-player", "manufacturer", "formulation-support", "multi-category"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_2025-11-09.md"
+  },
+  "notes": "Multi-category manufacturer with strong formulation support. Previously researched for thickeners and antioxidants."
+}

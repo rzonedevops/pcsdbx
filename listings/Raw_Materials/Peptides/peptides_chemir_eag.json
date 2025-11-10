@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "chemir_eag_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Chemir - EAG",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "2672 Metro Boulevard, Maryland Heights, MO 63043",
+  "country": "United States",
+  "phone": "314-291-6620",
+  "specializations": [
+    "Independent analytical laboratory services",
+    "Peptide analysis and testing",
+    "Idea generation and product development",
+    "Quality control services",
+    "Custom analytical services"
+  ],
+  "product_highlights": [
+    "Independent laboratory testing",
+    "Peptide quality verification",
+    "Product development support",
+    "Multi-category coverage"
+  ],
+  "tags": ["analytical-services", "testing-laboratory", "quality-control", "product-development", "independent-lab"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Independent analytical laboratory providing customized services for peptide analysis, testing, and quality control. Essential for peptide quality verification."
+}

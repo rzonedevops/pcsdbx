@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "novo_nordisk_pharmatech",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Novo Nordisk Pharmatech",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "Koebenhavnsvej 216, Koege",
+  "country": "Denmark",
+  "phone": "+45 5667 1000",
+  "fax": "+45 5667 1001",
+  "website": "http://novonordiskpharmatech.com/",
+  "email": "nnprinfo@novonordiskpharmatech.com",
+  "contact_name": "Vanessa Leon",
+  "specializations": [
+    "Pharmaceutical-grade peptides and ingredients",
+    "Recombinant insulin for cell culture",
+    "Quaternary ammonium compounds (Quats)",
+    "cGMP manufacturing standards",
+    "High-purity ingredients for biopharmaceutical industry",
+    "Custom-designed products"
+  ],
+  "product_highlights": [
+    "Pharmaceutical-grade quality standards",
+    "cGMP certified manufacturing",
+    "Global pharmaceutical supplier",
+    "Established in 1949",
+    "Part of Novo Nordisk group"
+  ],
+  "certifications": [
+    "DS/EN ISO 9001",
+    "ICH Guide Q7 for Active Pharmaceutical Ingredients",
+    "FDA approved",
+    "EMA approved",
+    "Good Distribution Practice (GDP)",
+    "UN Global Compact member",
+    "World Business Council for Sustainable Development (WBSCD)"
+  ],
+  "tags": ["major-player", "pharmaceutical-grade", "cGMP-certified", "global-supplier", "innovation-leader", "quality-excellence"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Leading global supplier of pharmaceutical-grade ingredients with highest quality standards. Ideal for premium formulations requiring pharmaceutical-grade peptides."
+}

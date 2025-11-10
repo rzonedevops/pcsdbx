@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "antioxidants",
+  "listing_id": "interactive_consulting",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "Interactive Consulting, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "P.O. Box 66, East Norwich, NY 11732",
+  "country": "United States",
+  "phone": "516-922-2167",
+  "specializations": [
+    "Plant-based antioxidants (high in sterols)",
+    "Moisturizers with antioxidant properties",
+    "Botanical extracts",
+    "Natural ingredient consulting"
+  ],
+  "product_highlights": [
+    "Plant-based antioxidant expertise",
+    "Consulting services",
+    "Formulation support",
+    "Natural ingredients focus"
+  ],
+  "tags": ["natural-focus", "botanical-specialist", "consulting-services", "formulation-support"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "Consulting firm with expertise in plant-based antioxidants and natural ingredients. Provides formulation support."
+}

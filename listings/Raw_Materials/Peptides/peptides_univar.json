@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "univar_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Univar Solutions",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "3075 Highland Pkwy #200, Downers Grove, IL 60515",
+  "country": "United States",
+  "phone": "331-777-6000",
+  "specializations": [
+    "Global distribution of peptides",
+    "Multiple supplier access",
+    "Technical support",
+    "Formulation expertise"
+  ],
+  "product_highlights": [
+    "Global distribution network",
+    "Multi-supplier access",
+    "Technical formulation support",
+    "Broad product portfolio"
+  ],
+  "tags": ["major-player", "global-distributor", "multi-supplier-access", "technical-support"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Major global distributor providing access to multiple peptide suppliers. Already documented for antioxidants. Excellent for sourcing flexibility."
+}

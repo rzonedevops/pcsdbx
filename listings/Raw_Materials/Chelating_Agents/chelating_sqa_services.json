@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "chelating_agents",
+  "listing_id": "sqa_services_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Chelating%20Agents",
+  "company_name": "SQA Services, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "550 Silver Spur Road Third Floor, Rolling Hills, CA 90275",
+  "country": "United States",
+  "phone": "310-802-4426",
+  "specializations": [
+    "Quality assurance services",
+    "Supplier quality management",
+    "Testing and compliance",
+    "Chelating agent verification"
+  ],
+  "product_highlights": [
+    "Quality assurance expertise",
+    "Supplier quality management",
+    "Regulatory compliance support",
+    "Testing services"
+  ],
+  "tags": ["quality-assurance", "testing", "compliance"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_2025-11-09.md"
+  },
+  "notes": "Quality assurance focus supports chelating agent testing and compliance. Previously researched for peptides."
+}

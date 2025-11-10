@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "shenzhen_winkey",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Shenzhen Winkey Pharmaceutical R&D Co., Ltd.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "Shenzhen",
+  "country": "China",
+  "phone": "+86 135 8045 9409",
+  "specializations": [
+    "Pharmaceutical R&D focus",
+    "Peptide research and development",
+    "Chinese innovation center"
+  ],
+  "product_highlights": [
+    "R&D-driven innovation",
+    "Pharmaceutical expertise",
+    "Shenzhen tech hub location",
+    "Modern facilities"
+  ],
+  "tags": ["pharmaceutical-focus", "r&d-specialist", "chinese-manufacturer", "innovation-focus"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Chinese pharmaceutical R&D company specializing in peptide research and development. Located in Shenzhen major tech/pharma hub."
+}

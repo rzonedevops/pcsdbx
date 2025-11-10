@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "exfoliants_aha_bha",
+  "listing_id": "acme_hardesty_exfoliants",
+  "category_path": "Raw_Materials/Exfoliants_AHA_BHA",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Exfoliants",
+  "company_name": "Acme-Hardesty Co.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "450 Sentry Parkway East Suite 104, Blue Bell, PA 19422",
+  "country": "United States",
+  "phone": "215-591-3610",
+  "specializations": [
+    "Natural ingredients distribution",
+    "Oleochemicals",
+    "Specialty chemicals including exfoliants"
+  ],
+  "product_highlights": [
+    "Natural exfoliant distribution",
+    "Oleochemical expertise",
+    "Multi-category coverage",
+    "Established supply chains"
+  ],
+  "tags": ["major-player", "natural", "distributor", "multi-category"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_exfoliants_aha_bha_2025-11-09.md"
+  },
+  "notes": "Multi-category distributor with natural focus. Previously researched for thickeners and antioxidants."
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "ambiopharm",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "AmbioPharm, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "1024 Dittman Court, North Augusta, SC 29842",
+  "country": "United States",
+  "phone": "803-442-7590",
+  "specializations": [
+    "Pharmaceutical peptide manufacturing",
+    "Custom peptide synthesis",
+    "Contract manufacturing"
+  ],
+  "product_highlights": [
+    "Custom peptide synthesis",
+    "Pharmaceutical-grade manufacturing",
+    "Contract manufacturing services",
+    "US-based production"
+  ],
+  "tags": ["pharmaceutical-focus", "custom-synthesis", "contract-manufacturing", "us-manufacturer"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Pharmaceutical peptide manufacturer with custom synthesis capabilities. Contract manufacturing services available."
+}

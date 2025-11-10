@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "antioxidants",
+  "listing_id": "sytheon_antioxidants",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "Sytheon SARL",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "72/74 avenue Edouard Vaillant, Boulogne-Billancourt",
+  "country": "France",
+  "phone": "+33 1 41 10 81 82",
+  "specializations": [
+    "European antioxidant supplier",
+    "Specialty antioxidants",
+    "Innovation focus"
+  ],
+  "product_highlights": [
+    "European innovation",
+    "Specialty antioxidant formulations",
+    "EU regulatory compliance",
+    "Advanced ingredient development"
+  ],
+  "tags": ["european-supplier", "innovation-focus", "specialty-ingredients"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "European supplier with focus on specialty antioxidants and innovation. Good for EU market compliance."
+}

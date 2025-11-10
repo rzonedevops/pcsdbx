@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "exfoliants_aha_bha",
+  "listing_id": "amb_wellness_exfoliants",
+  "category_path": "Raw_Materials/Exfoliants_AHA_BHA",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Exfoliants",
+  "company_name": "AMB WELLNESS",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "GUANACEVI # 245 PARQUE INDUSTRIAL GOMEZ PALACIO, GOMEZ PALACIO",
+  "country": "Mexico",
+  "phone": "528717500264",
+  "specializations": [
+    "Wellness-focused exfoliants",
+    "Latin American supplier",
+    "Natural ingredients focus"
+  ],
+  "product_highlights": [
+    "Wellness ingredient focus",
+    "Natural exfoliants",
+    "Latin American sourcing",
+    "Cost-effective options"
+  ],
+  "tags": ["wellness", "latin-america", "mexico", "natural"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_exfoliants_aha_bha_2025-11-09.md"
+  },
+  "notes": "Wellness focus with natural ingredients. Previously researched for antioxidants."
+}

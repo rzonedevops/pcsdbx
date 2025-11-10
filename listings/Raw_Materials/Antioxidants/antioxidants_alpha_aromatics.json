@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "antioxidants",
+  "listing_id": "alpha_aromatics",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "Alpha Aromatics",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "294 Alpha Drive, Fox Chapel, PA 15238",
+  "country": "United States",
+  "phone": "412-252-1012",
+  "specializations": [
+    "Aromatic ingredients with antioxidant properties",
+    "Fragrance compounds",
+    "Essential oils with antioxidant benefits"
+  ],
+  "product_highlights": [
+    "Antioxidant-rich fragrances",
+    "Essential oil expertise",
+    "Aromatic ingredient specialist",
+    "Dual functionality ingredients"
+  ],
+  "tags": ["fragrance-specialist", "aromatic-ingredients", "essential-oils"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "Fragrance specialist with antioxidant-rich aromatic ingredients and essential oils. Good for fragrances with antioxidant benefits."
+}

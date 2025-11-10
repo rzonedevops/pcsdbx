@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "omizzur_peptide",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Omizzur Peptide Ltd",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "No 888 Liuxin Road, Shan Xi Sheng",
+  "country": "China",
+  "phone": "561-943-7708",
+  "specializations": [
+    "Chinese peptide manufacturer",
+    "Cost-effective peptide production",
+    "Large-scale manufacturing"
+  ],
+  "product_highlights": [
+    "Dedicated peptide manufacturing",
+    "Cost-effective sourcing",
+    "Large-scale production capabilities",
+    "Asian manufacturing base"
+  ],
+  "tags": ["chinese-manufacturer", "cost-effective", "large-scale-production", "asian-supplier"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Dedicated peptide manufacturer. Chinese source for cost-effective peptides with large-scale capabilities."
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "chelating_agents",
+  "listing_id": "sytheon_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Chelating%20Agents",
+  "company_name": "Sytheon SARL",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "72/74 avenue Edouard Vaillant, Boulogne-Billancourt",
+  "country": "France",
+  "phone": "33141108182",
+  "specializations": [
+    "European specialty chemicals",
+    "Innovative formulation ingredients",
+    "Advanced chelating solutions"
+  ],
+  "product_highlights": [
+    "European innovation",
+    "Specialty chelating solutions",
+    "Advanced formulation support"
+  ],
+  "tags": ["european", "french", "innovative", "specialty-chemicals"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_2025-11-09.md"
+  },
+  "notes": "French supplier with innovative specialty chemicals. Previously researched for antioxidants."
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "chelating_agents",
+  "listing_id": "chemplex_chemicals",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Chelating%20Agents",
+  "company_name": "Chemplex Chemicals Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "One International Blvd., Mahwah, NJ 07495-0400",
+  "country": "United States",
+  "phone": "201-512-8788",
+  "specializations": [
+    "Chemical distribution",
+    "Specialty chemicals",
+    "Chelating agents"
+  ],
+  "product_highlights": [
+    "Specialty chemical distribution",
+    "Chelating agent expertise",
+    "US distribution network"
+  ],
+  "tags": ["distributor", "specialty-chemicals", "usa"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_2025-11-09.md"
+  },
+  "notes": "Chemical distributor specializing in specialty chemicals including chelating agents."
+}

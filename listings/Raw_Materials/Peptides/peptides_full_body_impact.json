@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "full_body_impact",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "FULL BODY IMPACT, LLC",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "605 N County Highway 393 Ste A2, Santa Rosa Beach, FL 32459",
+  "country": "United States",
+  "phone": "850-270-7047",
+  "specializations": [
+    "Wellness and fitness peptides",
+    "Sports nutrition peptides",
+    "Performance peptides"
+  ],
+  "product_highlights": [
+    "Wellness focus",
+    "Sports nutrition expertise",
+    "Performance enhancement",
+    "Fitness applications"
+  ],
+  "tags": ["wellness-focus", "sports-nutrition", "performance-peptides", "us-supplier"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Wellness and fitness focused peptide supplier. Specializes in performance and sports nutrition peptides."
+}

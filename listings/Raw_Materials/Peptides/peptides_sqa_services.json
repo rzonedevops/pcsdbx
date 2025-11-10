@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "peptides",
+  "listing_id": "sqa_services_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "SQA Services, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "550 Silver Spur Road Third Floor, Rolling Hills, CA 90275",
+  "country": "United States",
+  "phone": "310-802-4426",
+  "specializations": [
+    "Supplier quality management",
+    "Quality assurance services",
+    "Peptide quality verification",
+    "Regulatory compliance support"
+  ],
+  "product_highlights": [
+    "Quality management expertise",
+    "Supplier verification services",
+    "Regulatory compliance",
+    "Multi-category coverage"
+  ],
+  "tags": ["quality-assurance", "supplier-management", "regulatory-compliance", "consulting-services"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Quality assurance and supplier management specialist. Provides peptide quality verification and regulatory compliance support."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "exfoliants_aha_bha",
+  "listing_id": "evalulab",
+  "category_path": "Raw_Materials/Exfoliants_AHA_BHA",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Exfoliants",
+  "company_name": "Evalulab Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "5475 rue Paré, suite 206, Montreal, QC H4P 1P7",
+  "country": "Canada",
+  "phone": "514-735-3253",
+  "specializations": [
+    "Claims testing: Exfoliant, Removes dead skin cells, Exposes new skin, Facial",
+    "Testing and validation services",
+    "Clinical claims support",
+    "Multi-category coverage"
+  ],
+  "product_highlights": [
+    "Exfoliant claims testing",
+    "Clinical validation services",
+    "Regulatory claims support",
+    "Independent testing laboratory"
+  ],
+  "tags": ["testing", "claims-validation", "clinical-support", "canadian", "multi-category"],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_exfoliants_aha_bha_2025-11-09.md"
+  },
+  "notes": "Strong testing and claims validation capabilities for exfoliant products. Previously researched for thickeners."
+}
