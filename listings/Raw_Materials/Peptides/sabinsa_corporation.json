@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sabinsa_corporation_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "Sabinsa Corporation",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "750 S. Innovation Circle, Payson, UT 84651",
+  "country": "United States",
+  "phone": "732-777-1111",
+  "website": "https://www.sabinsa.com/",
+  "specializations": [
+    "Leading peptide supplier and manufacturer",
+    "High-quality peptides for dietary supplements",
+    "Pharmaceutical-grade peptides",
+    "Innovative peptide solutions",
+    "Ayurvedic-based peptide extracts"
+  ],
+  "product_highlights": [
+    "Leading peptide supplier and manufacturer with focus on high-quality peptides",
+    "Suitable for both dietary supplements and pharmaceutical applications",
+    "Strong innovation focus with Ayurvedic-based extracts"
+  ],
+  "tags": [
+    "major-player",
+    "pharmaceutical-grade",
+    "innovation-leader",
+    "dietary-supplements",
+    "natural-focus"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Major player with peptide specialization. Also documented for antioxidants. Excellent for both cosmetic and supplement applications."
+}

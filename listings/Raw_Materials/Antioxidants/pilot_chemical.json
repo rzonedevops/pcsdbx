@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pilot_chemical_antioxidants",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "Pilot Chemical Company",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "2744 E. Kemper Road, Cincinnati, OH 45241",
+  "country": "United States",
+  "phone": "513-326-0600",
+  "specializations": [
+    "Chemical manufacturing with antioxidant products",
+    "Industrial-scale production",
+    "Specialty chemicals",
+    "Surfactants with antioxidant properties",
+    "Thickeners and rheology modifiers"
+  ],
+  "product_highlights": [
+    "Large chemical manufacturer with antioxidant product lines",
+    "Industrial-scale production capabilities",
+    "Multi-category specialty chemical provider"
+  ],
+  "tags": [
+    "major-player",
+    "industrial-scale",
+    "chemical-manufacturer",
+    "multi-category"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "Major chemical manufacturer with capacity for large-scale production. Previously researched for thickeners and chelating agents."
+}

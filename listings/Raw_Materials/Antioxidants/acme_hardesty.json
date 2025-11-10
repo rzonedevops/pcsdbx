@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "acme_hardesty_antioxidants",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "Acme-Hardesty Co.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "450 Sentry Parkway East Suite 104, Blue Bell, PA 19422",
+  "country": "United States",
+  "phone": "215-591-3610",
+  "specializations": [
+    "Chemical distribution",
+    "Antioxidant products",
+    "Industrial ingredients",
+    "Natural ingredients distribution",
+    "Oleochemicals"
+  ],
+  "product_highlights": [
+    "Established distributor of chemical ingredients including antioxidants",
+    "Industrial focus with reliable supply chains",
+    "Natural ingredients and oleochemicals"
+  ],
+  "tags": [
+    "distributor",
+    "industrial-focus",
+    "established-player",
+    "natural-focus",
+    "multi-category"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "Reliable distributor with established supply chains. Previously researched for thickeners and exfoliants."
+}

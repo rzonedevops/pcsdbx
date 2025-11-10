@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "house_of_exporters",
+  "category_path": "Raw_Materials/Antioxidants",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Antioxidants",
+  "company_name": "House of Exporters Pty Ltd",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "Kleinmond",
+  "country": "South Africa",
+  "phone": "+27 76 193 9000",
+  "specializations": [
+    "South African exporter",
+    "Natural antioxidants",
+    "African botanical extracts",
+    "Indigenous plant ingredients"
+  ],
+  "product_highlights": [
+    "South African exporter of natural antioxidants and botanical extracts",
+    "Access to unique African botanical sources",
+    "Natural ingredients from indigenous plants"
+  ],
+  "tags": [
+    "african-supplier",
+    "natural-focus",
+    "botanical-extracts",
+    "south-africa",
+    "exporter"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_antioxidants_2025-11-10.md"
+  },
+  "notes": "South African supplier providing access to unique African botanical antioxidants. Natural focus with indigenous plant sources."
+}

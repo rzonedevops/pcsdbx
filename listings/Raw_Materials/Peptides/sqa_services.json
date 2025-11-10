@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sqa_services_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Peptides",
+  "company_name": "SQA Services, Inc.",
+  "status": "active",
+  "date_added": "2025-11-10",
+  "date_updated": "2025-11-10",
+  "address": "550 Silver Spur Road Third Floor, Rolling Hills, CA 90275",
+  "country": "United States",
+  "phone": "310-802-4426",
+  "specializations": [
+    "Supplier quality management",
+    "Quality assurance services",
+    "Peptide quality verification",
+    "Regulatory compliance support",
+    "Consulting services"
+  ],
+  "product_highlights": [
+    "Quality assurance and supplier management specialist for peptides",
+    "Peptide quality verification and testing services",
+    "Regulatory compliance support and consulting"
+  ],
+  "tags": [
+    "quality-assurance",
+    "supplier-management",
+    "regulatory-compliance",
+    "consulting-services",
+    "testing"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-10",
+    "validation_method": "manual",
+    "data_source": "research_peptides_2025-11-10.md"
+  },
+  "notes": "Essential for quality management and supplier verification. Consulting services for peptide sourcing. Previously researched for chelating agents."
+}
