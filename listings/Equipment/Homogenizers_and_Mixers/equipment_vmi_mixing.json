@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "category_id": "equipment",
+  "listing_id": "vmi_mixing",
+  "category_path": "Equipment/Homogenizers_and_Mixers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Homogenizers_and_Mixers/",
+  "company_name": "VMI Mixing / VMI North America Corp.",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "France (HQ), North America operations",
+  "country": "France",
+  "phone": "+33 (0)251 459 187",
+  "email": "amkervran@vmimixing.com",
+  "website": "https://www.vmimixing.com/",
+  "specializations": [
+    "Laboratory mixers: Turbotest bench-top mixer (250ml-20L)",
+    "Pilot equipment: Trilab vacuum homogenizer (10-50L)",
+    "Production vacuum homogenizers (150L-20 tons)",
+    "Automated turnkey solutions",
+    "High-shear mixing, emulsification, homogenization",
+    "Cosmetics and pharmaceutical applications"
+  ],
+  "product_highlights": [
+    "Turbotest laboratory high-speed mixer",
+    "Ultralab laboratory vacuum mixer",
+    "Trilab pilot vacuum homogenizer",
+    "Production vacuum mixer homogenizers",
+    "Automated mixing systems"
+  ],
+  "certifications": [
+    "70+ years of experience",
+    "Cleanroom compatibility",
+    "Pharmaceutical and cosmetic industry standards",
+    "Quality, safety, and hygiene standards"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "advanced-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_homogenizers_mixers_2025-11-14.md"
+  },
+  "notes": "Major international player with comprehensive equipment range from laboratory to production scale. New USA test center in New Jersey (Coperion Pitman facility). Touch screen control panels, automation, traceability, CIP capabilities."
+}

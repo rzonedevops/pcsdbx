@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "lonza_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/",
+  "company_name": "Lonza",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "Switzerland",
+  "specializations": [
+    "Pharmaceutical-grade niacinamide (USP, EP standards)",
+    "Cosmetic-grade niacinamide",
+    "High purity (99%+)",
+    "Regulatory compliance",
+    "Quality certifications",
+    "Global supply chain"
+  ],
+  "product_highlights": [
+    "Pharmaceutical-grade (99%+)",
+    "Cosmetic-grade",
+    "USP and EP standards"
+  ],
+  "certifications": [
+    "USP",
+    "EP",
+    "ISO",
+    "GMP"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "high-performance",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_niacinamide_2025-11-13.md"
+  },
+  "notes": "Major pharmaceutical and specialty ingredients manufacturer with high purity niacinamide (99%+) meeting USP/EP standards."
+}
