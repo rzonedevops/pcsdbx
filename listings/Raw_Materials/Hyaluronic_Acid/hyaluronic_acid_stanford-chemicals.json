@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "category_id": "hyaluronic_acid",
+  "listing_id": "stanford-chemicals",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
+  "company_name": "Stanford Chemicals (HAC Series)",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "United States",
+  "specializations": [
+    "Multiple molecular weight ranges (100-1000 kDa, 800-1200 kDa, 1500-1800 kDa)",
+    "Pure cosmetic-grade powder",
+    "Custom molecular weight options",
+    "Ecocert certified options",
+    "ISO 9001 and GMP standards"
+  ],
+  "product_highlights": [
+    "Precise molecular weight specifications",
+    "Cosmetic-grade hyaluronic acid powder",
+    "Ecocert certified options available",
+    "Custom molecular weight formulations",
+    "Quality certifications"
+  ],
+  "certifications": [
+    "ISO 9001 certified",
+    "GMP certified",
+    "Ecocert options available"
+  ],
+  "tags": [
+    "specialty-supplier",
+    "molecular-weight-specialist",
+    "certified"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-11-13.md"
+  },
+  "notes": "Specialty supplier offering precise molecular weight specifications with custom options and Ecocert certified hyaluronic acid."
+}
