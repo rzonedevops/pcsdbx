@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "category_id": "hyaluronic_acid",
+  "listing_id": "bloomage_biotech",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.bloomagebiotech.com/",
+  "company_name": "Bloomage Biotech (Freda)",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "China",
+  "website": "https://www.bloomagebiotech.com/",
+  "specializations": [
+    "World's largest hyaluronic acid manufacturer",
+    "Complete molecular weight range (5 kDa to 3000 kDa)",
+    "Biofermentation technology",
+    "Pharmaceutical, cosmetic, and food grades",
+    "Global distribution network",
+    "Innovation leader in HA production"
+  ],
+  "product_highlights": [
+    "Global market leader in hyaluronic acid production",
+    "Comprehensive molecular weight portfolio",
+    "Advanced biofermentation technology",
+    "Multiple application grades",
+    "Extensive R&D capabilities"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Ecocert",
+    "USP",
+    "EP"
+  ],
+  "tags": [
+    "major-player",
+    "biotechnology",
+    "high-performance",
+    "global-distributor",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "World's largest hyaluronic acid manufacturer with comprehensive product range and advanced biofermentation technology. Industry innovation leader."
+}

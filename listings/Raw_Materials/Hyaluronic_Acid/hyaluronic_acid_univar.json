@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "category_id": "hyaluronic_acid",
+  "listing_id": "univar_solutions",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.univarsolutions.com/",
+  "company_name": "Univar Solutions",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "3075 Highland Pkwy #200, Downers Grove, IL 60515, United States",
+  "country": "United States",
+  "phone": "331-777-6000",
+  "website": "https://www.univarsolutions.com/",
+  "specializations": [
+    "Broad portfolio of hyaluronic acid products",
+    "Multiple molecular weights available (high/medium/low)",
+    "Technical support and formulation expertise",
+    "Global distribution network",
+    "Represents major manufacturers",
+    "Cosmetic and pharmaceutical grades"
+  ],
+  "product_highlights": [
+    "Major global distributor of specialty chemicals and ingredients",
+    "Comprehensive hyaluronic acid portfolio",
+    "Technical formulation support",
+    "Global distribution capabilities",
+    "Quality assurance and regulatory support"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP compliance",
+    "Represents certified manufacturers"
+  ],
+  "tags": [
+    "major-player",
+    "global-distributor",
+    "full-service",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major global distributor with comprehensive hyaluronic acid portfolio from multiple manufacturers. Excellent technical support and global reach."
+}

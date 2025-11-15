@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "category_id": "hyaluronic_acid",
+  "listing_id": "novo_nordisk",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "Novo Nordisk Pharmatech",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "Koebenhavnsvej 216, Koege, Denmark",
+  "country": "Denmark",
+  "phone": "+45 5667 1000",
+  "specializations": [
+    "Pharmaceutical-grade hyaluronic acid",
+    "High purity standards (>99%)",
+    "Regulatory compliance (USP, EP, JP)",
+    "Medical and cosmetic applications",
+    "Multiple molecular weights",
+    "Biofermentation production"
+  ],
+  "product_highlights": [
+    "Leading global supplier of pharmaceutical-grade ingredients",
+    "Premium quality hyaluronic acid",
+    "Comprehensive quality certifications",
+    "Medical and cosmetic grade options",
+    "Global pharmaceutical presence"
+  ],
+  "certifications": [
+    "USP",
+    "EP",
+    "JP",
+    "GMP",
+    "ISO 9001"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "high-performance",
+    "quality",
+    "certified"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Leading global supplier of pharmaceutical-grade hyaluronic acid with highest purity standards and comprehensive regulatory compliance."
+}
