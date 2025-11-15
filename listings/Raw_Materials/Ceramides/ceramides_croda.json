@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "category_id": "ceramides",
+  "listing_id": "croda",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.crodapersonalcare.com/",
+  "company_name": "Croda International",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "United Kingdom",
+  "website": "https://www.crodapersonalcare.com/",
+  "specializations": [
+    "Specialty chemicals for personal care",
+    "Ceramide technology",
+    "Liposomal delivery systems",
+    "Barrier repair actives",
+    "Multi-ceramide complexes",
+    "Global specialty ingredients"
+  ],
+  "product_highlights": [
+    "Major UK specialty chemicals company",
+    "Advanced ceramide technology",
+    "Liposomal delivery systems",
+    "Global personal care ingredients leader",
+    "Innovation in lipid science"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Quality certifications"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "advanced-technology",
+    "quality",
+    "certified"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major UK specialty chemicals company with advanced ceramide technology and liposomal delivery systems. Global leader in personal care ingredients and lipid science innovation."
+}

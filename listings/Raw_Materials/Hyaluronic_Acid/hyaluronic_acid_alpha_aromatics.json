@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "category_id": "hyaluronic_acid",
+  "listing_id": "alpha_aromatics",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "Alpha Aromatics",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "294 Alpha Drive, Fox Chapel, PA 15238, United States",
+  "country": "United States",
+  "phone": "412-252-1012",
+  "specializations": [
+    "Hyaluronic acid for cosmetic formulations",
+    "Fragrance and ingredient combinations",
+    "Formulation development support",
+    "Custom blending capabilities",
+    "Technical expertise",
+    "Cosmetic applications"
+  ],
+  "product_highlights": [
+    "Formulation and ingredient supplier",
+    "Custom blending services",
+    "Technical formulation support",
+    "Fragrance and active ingredient integration",
+    "Comprehensive cosmetic ingredient portfolio"
+  ],
+  "tags": [
+    "full-service",
+    "custom-design",
+    "specialty",
+    "cosmetic"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Formulation and ingredient supplier with custom blending capabilities and technical support for cosmetic applications. Integrates HA with fragrances and other actives."
+}

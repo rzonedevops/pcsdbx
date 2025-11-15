@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": "hyaluronic_acid",
+  "listing_id": "amb_wellness",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "AMB WELLNESS",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "GUANACEVI # 245 PARQUE INDUSTRIAL, GOMEZ PALACIO, Mexico",
+  "country": "Mexico",
+  "phone": "528717500264",
+  "specializations": [
+    "Hyaluronic acid for wellness products",
+    "Cosmetic and nutritional applications",
+    "Regional Latin American distribution",
+    "Competitive pricing",
+    "Wellness industry focus"
+  ],
+  "product_highlights": [
+    "Latin American supplier",
+    "Wellness and cosmetic applications",
+    "Regional distribution network",
+    "Affordable pricing options",
+    "Multiple application grades"
+  ],
+  "tags": [
+    "affordable",
+    "cosmetic",
+    "natural-ingredients"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Latin American supplier focusing on wellness and cosmetic applications with regional distribution and competitive pricing."
+}

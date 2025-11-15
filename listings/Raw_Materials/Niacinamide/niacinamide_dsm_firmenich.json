@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "category_id": "niacinamide",
+  "listing_id": "dsm_firmenich",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://www.dsm-firmenich.com/",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "Kaiseraugst, Switzerland / Maastricht, Netherlands",
+  "country": "Switzerland/Netherlands",
+  "website": "https://www.dsm-firmenich.com/",
+  "specializations": [
+    "Niacinamide PC (Personal Care grade)",
+    "Pharmaceutical-grade niacinamide (USP)",
+    "Less than 100 ppm residual nicotinic acid",
+    "Global manufacturing and distribution",
+    "Technical support and formulation expertise",
+    "Clinical studies and efficacy testing",
+    "Multi-functional active for skin barrier, anti-aging, hyperpigmentation"
+  ],
+  "product_highlights": [
+    "Pioneer and global leader in cosmetic-grade niacinamide",
+    "Ultra-premium quality with < 100 ppm nicotinic acid",
+    "Extensive clinical research backing",
+    "Multiple grades for different applications",
+    "Global presence with manufacturing facilities worldwide"
+  ],
+  "certifications": [
+    "ISO",
+    "GMP",
+    "USP",
+    "Extensive regulatory compliance"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "high-performance",
+    "advanced-technology",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "One of the world's largest vitamin manufacturers. Premium quality niacinamide with exceptionally low nicotinic acid content, making it ideal for sensitive skin applications. Global presence with comprehensive technical support."
+}

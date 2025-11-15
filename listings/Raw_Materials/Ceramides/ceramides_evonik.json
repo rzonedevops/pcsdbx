@@ -3,12 +3,32 @@
   "category_id": "ceramides",
   "listing_id": "evonik",
   "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.evonik.com/",
   "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
   "company_name": "Evonik Industries",
   "status": "active",
   "date_added": "2025-11-15",
   "date_updated": "2025-11-15",
   "country": "Germany",
+  "website": "https://www.evonik.com/",
+  "specializations": [
+    "Ceramide NP specialist",
+    "Ceramide AP production",
+    "Ceramide EOP manufacturing",
+    "Synthetic ceramides",
+    "Multi-ceramide complexes",
+    "Pharmaceutical-grade quality"
+  ],
+  "product_highlights": [
+    "Major global specialty chemicals company",
+    "Leading supplier of synthetic ceramides",
+    "Individual ceramides and multi-ceramide complexes",
+    "Pharmaceutical-grade quality standards",
+    "Global manufacturing and distribution"
+  ],
+  "certifications": [
+    "GMP",
+    "ISO 9001",
   "specializations": [
     "Ceramide NP",
     "Ceramide AP",
@@ -30,6 +50,10 @@
   ],
   "tags": [
     "major-player",
+    "premium",
+    "high-performance",
+    "quality",
+    "certified"
     "german-based",
     "synthetic-ceramides",
     "multi-ceramide-complexes",
@@ -38,6 +62,9 @@
   "metadata": {
     "last_validated": "2025-11-15",
     "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major German specialty chemicals company and leading supplier of synthetic ceramides. Offers individual ceramides and multi-ceramide complexes with pharmaceutical-grade quality."
     "data_source": "research_ceramides_2025-11-11.md"
   },
   "notes": "Major global specialty chemicals company and leading supplier of synthetic ceramides with pharmaceutical-grade quality standards."

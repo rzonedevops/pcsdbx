@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "category_id": "ceramides",
+  "listing_id": "toyobo",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.toyobo.co.jp/",
+  "company_name": "Toyobo Co., Ltd.",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "Japan",
+  "website": "https://www.toyobo.co.jp/",
+  "specializations": [
+    "Ceramide production",
+    "Japanese quality standards",
+    "Biofermentation technology",
+    "High-purity ceramides",
+    "Advanced biotechnology",
+    "Quality control excellence"
+  ],
+  "product_highlights": [
+    "Japanese company with biofermentation technology",
+    "High-purity ceramides",
+    "Strict Japanese quality standards",
+    "Advanced biotechnology capabilities",
+    "Premium quality manufacturing"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Japanese quality standards"
+  ],
+  "tags": [
+    "biotechnology",
+    "premium",
+    "high-performance",
+    "quality",
+    "certified"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Japanese company using biofermentation technology to produce high-purity ceramides. Known for strict quality standards and advanced biotechnology capabilities."
+}
