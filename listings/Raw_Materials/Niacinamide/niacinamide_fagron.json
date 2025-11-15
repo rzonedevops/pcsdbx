@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "category_id": "niacinamide",
+  "listing_id": "fagron",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://www.fagron.com/",
+  "company_name": "Fagron NV",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "Rotterdam, Netherlands",
+  "country": "Netherlands",
+  "website": "https://www.fagron.com/",
+  "specializations": [
+    "Pharmaceutical compounding ingredients",
+    "High-purity niacinamide",
+    "Regulatory compliance",
+    "European market focus",
+    "Technical documentation",
+    "Quality assurance"
+  ],
+  "product_highlights": [
+    "Dutch pharmaceutical compounding company",
+    "Specializing in high-purity active ingredients",
+    "Strong focus on quality and regulatory compliance",
+    "Pharmaceutical applications expertise",
+    "Comprehensive technical support"
+  ],
+  "certifications": [
+    "Pharmaceutical grade",
+    "GMP",
+    "European regulatory compliance"
+  ],
+  "tags": [
+    "premium",
+    "quality",
+    "certified",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Dutch pharmaceutical compounding company specializing in high-purity active ingredients. Strong focus on quality and regulatory compliance for pharmaceutical applications."
+}

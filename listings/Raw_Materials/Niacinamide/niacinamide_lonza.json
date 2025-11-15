@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "category_id": "niacinamide",
+  "listing_id": "lonza",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://www.lonza.com/",
+  "company_name": "Lonza Group",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "Basel, Switzerland",
+  "country": "Switzerland",
+  "website": "https://www.lonza.com/",
+  "specializations": [
+    "Niacinamide USP PC (Personal Care grade)",
+    "Pharmaceutical-grade niacinamide",
+    "Low niacin content for skin applications",
+    "Global manufacturing capabilities",
+    "Regulatory compliance (USP, EP standards)",
+    "Technical documentation and support",
+    "Skin and hair care formulations"
+  ],
+  "product_highlights": [
+    "Major pharmaceutical and specialty ingredients manufacturer",
+    "High purity pharmaceutical-grade niacinamide (99%+)",
+    "Strong regulatory compliance and quality standards",
+    "Long history in vitamin manufacturing",
+    "Reliable global supply chain"
+  ],
+  "certifications": [
+    "USP",
+    "EP",
+    "ISO",
+    "GMP"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "high-performance",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major Swiss pharmaceutical and specialty ingredients company. Long history in vitamin manufacturing with strong regulatory compliance and quality standards."
+}

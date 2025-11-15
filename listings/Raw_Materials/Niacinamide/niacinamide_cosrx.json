@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "category_id": "niacinamide",
+  "listing_id": "cosrx",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://www.cosrx.com/",
+  "company_name": "COSRX",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "5F Centerfield, 231 Teheran-ro, Gangnam-gu, Seoul, Republic of Korea",
+  "country": "South Korea",
+  "website": "https://www.cosrx.com/",
+  "specializations": [
+    "K-beauty skincare brand",
+    "Niacinamide-focused formulations",
+    "Clinical efficacy testing",
+    "Global distribution network",
+    "Advanced Korean formulation technology",
+    "Finished product formulations"
+  ],
+  "product_highlights": [
+    "Major Korean skincare brand known for niacinamide products",
+    "Strong reputation for clinical efficacy",
+    "Innovative K-beauty formulations",
+    "Global market presence and influence",
+    "Focus on evidence-based skincare"
+  ],
+  "certifications": [
+    "Korean FDA",
+    "International cosmetic standards"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "high-performance",
+    "cosmetic"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major Korean skincare brand with strong focus on niacinamide formulations. Note: This is a finished product brand rather than raw material supplier, but influential in niacinamide market."
+}

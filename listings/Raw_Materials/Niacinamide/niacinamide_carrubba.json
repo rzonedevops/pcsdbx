@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": "niacinamide",
+  "listing_id": "carrubba",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://www.carrubba.com/",
+  "company_name": "Carrubba Inc.",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "70 Research Drive, Milford, CT 06460, United States",
+  "country": "United States",
+  "phone": "+1 203-878-0605",
+  "website": "https://www.carrubba.com/",
+  "specializations": [
+    "Specialty ingredients for personal care",
+    "Essential oils and active ingredients",
+    "Niacinamide raw materials",
+    "Technical support and formulation assistance",
+    "US manufacturing and distribution"
+  ],
+  "product_highlights": [
+    "Connecticut-based specialty ingredients supplier",
+    "Strong technical support capabilities",
+    "Focus on raw materials for personal care formulations",
+    "Comprehensive ingredient portfolio",
+    "Formulation expertise and customer service"
+  ],
+  "tags": [
+    "specialty",
+    "quality",
+    "full-service"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Connecticut-based specialty ingredients supplier with strong technical support capabilities and focus on raw materials for personal care formulations."
+}
