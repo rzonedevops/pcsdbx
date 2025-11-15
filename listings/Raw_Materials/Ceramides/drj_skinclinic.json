@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "drj_skinclinic_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Ceramides",
+  "company_name": "Dr.J SkinClinic / Rejuran",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "13834 Bettencourt St., Cerritos, CA 90703, United States",
+  "country": "United States",
+  "phone": "8002092412",
+  "specializations": [
+    "Clinical skincare",
+    "Rejuran (PN/PDRN technology)",
+    "Ceramide formulations",
+    "Professional treatments"
+  ],
+  "tags": [
+    "clinical-skincare",
+    "professional-treatments",
+    "ceramide-formulations",
+    "innovation"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "Clinical skincare specialist known for Rejuran technology. Offers ceramide formulations for professional and clinical applications. Focus on advanced skin repair and regeneration."
+}
