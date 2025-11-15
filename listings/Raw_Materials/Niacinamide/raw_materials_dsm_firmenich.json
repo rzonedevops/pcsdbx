@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "dsm_firmenich_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "Switzerland",
+  "website": "https://www.dsm-firmenich.com/",
+  "specializations": [
+    "Niacinamide PC (Personal Care grade)",
+    "Strengthens skin barrier function",
+    "Protects against environmental stress",
+    "Reduces wrinkles and fine lines",
+    "Extensive clinical research and efficacy data",
+    "Technical support and formulation expertise"
+  ],
+  "product_highlights": [
+    "Niacinamide PC - special cosmetic grade",
+    "Pioneer in cosmetic-grade niacinamide",
+    "Global distribution network"
+  ],
+  "certifications": [
+    "ISO",
+    "GMP",
+    "Extensive regulatory compliance"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "advanced-technology",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_niacinamide_2025-11-13.md"
+  },
+  "notes": "Global leader and pioneer in cosmetic-grade niacinamide with extensive clinical research supporting efficacy."
+}

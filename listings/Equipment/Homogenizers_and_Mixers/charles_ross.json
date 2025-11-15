@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "charles_ross_homogenizers",
+  "category_path": "Equipment/Homogenizers_and_Mixers",
+  "url": "https://www.mixers.com/",
+  "company_name": "Charles Ross & Son Company",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "710 Old Willets Path, Hauppauge, NY 11788, United States",
+  "country": "United States",
+  "phone": "631-234-0500",
+  "website": "https://www.mixers.com/",
+  "specializations": [
+    "High-shear mixers",
+    "Homogenizers",
+    "Rotor-stator mixers",
+    "Batch and inline mixing",
+    "Laboratory to production scale",
+    "Custom engineering solutions"
+  ],
+  "certifications": [
+    "180+ years of experience"
+  ],
+  "tags": [
+    "major-player",
+    "high-shear-mixers",
+    "rotor-stator",
+    "custom-engineering",
+    "us-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_homogenizers_mixers_2025-11-14.md"
+  },
+  "notes": "180+ years of experience. Major USA manufacturer of mixing equipment. High-shear mixers, homogenizers, rotor-stator mixers for cosmetics and pharmaceuticals. Custom engineering solutions available."
+}

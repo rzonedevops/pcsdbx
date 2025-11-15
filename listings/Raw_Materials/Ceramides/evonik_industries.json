@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.evonik.com",
+  "company_name": "Evonik Industries",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "Germany",
+  "specializations": [
+    "Ceramide NP",
+    "Ceramide AP",
+    "Ceramide EOP",
+    "Synthetic ceramides",
+    "Multi-ceramide complexes"
+  ],
+  "tags": [
+    "major-player",
+    "german-based",
+    "synthetic-ceramides",
+    "multi-ceramide-complexes",
+    "pharmaceutical-grade"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "Major global specialty chemicals company. Leading supplier of synthetic ceramides for cosmetics and personal care. Offers individual ceramides and multi-ceramide complexes. Pharmaceutical-grade quality."
+}

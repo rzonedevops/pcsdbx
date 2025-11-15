@@ -4,6 +4,7 @@
   "listing_id": "kewpie",
   "category_path": "Raw_Materials/Hyaluronic_Acid",
   "url": "https://www.kewpie.com/",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
   "company_name": "Kewpie Corporation",
   "status": "active",
   "date_added": "2025-11-15",
@@ -37,6 +38,31 @@
     "premium",
     "high-performance",
     "quality"
+  "specializations": [
+    "High-purity hyaluronic acid",
+    "Multiple molecular weights",
+    "Biofermentation technology",
+    "Cosmetic and food applications",
+    "Japanese quality standards"
+  ],
+  "product_highlights": [
+    "Premium Japanese hyaluronic acid",
+    "Biofermentation-derived high purity",
+    "Multiple molecular weight options",
+    "Cosmetic and food grade certifications",
+    "Strict quality control"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP certified",
+    "Japanese quality standards"
+  ],
+  "tags": [
+    "major-player",
+    "japanese-manufacturer",
+    "biofermentation",
+    "high-purity",
+    "molecular-weight-specialist"
   ],
   "metadata": {
     "last_validated": "2025-11-15",
@@ -44,4 +70,7 @@
     "data_source": "manual_entry"
   },
   "notes": "Major Japanese manufacturer known for premium quality hyaluronic acid produced through advanced biofermentation technology. High purity standards."
+    "data_source": "research_hyaluronic_acid_2025-11-13.md"
+  },
+  "notes": "Major Japanese manufacturer specializing in high-purity hyaluronic acid using advanced biofermentation technology with strict quality standards."
 }

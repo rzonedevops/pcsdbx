@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "bettech_nano_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/",
+  "company_name": "Bettech Nano Solutions",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "BR 116 KM 258, S/N ESTEIO RS, ESTEIO, Brazil",
+  "country": "Brazil",
+  "phone": "+55 11 93028 5101",
+  "specializations": [
+    "Nanotechnology applications",
+    "Advanced delivery systems",
+    "Niacinamide encapsulation",
+    "Latin American market"
+  ],
+  "tags": [
+    "specialty",
+    "advanced-technology",
+    "biotechnology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_niacinamide_2025-11-12.md"
+  },
+  "notes": "Brazilian company specializing in nanotechnology for cosmetic ingredients. Unique positioning with advanced delivery systems for niacinamide."
+}

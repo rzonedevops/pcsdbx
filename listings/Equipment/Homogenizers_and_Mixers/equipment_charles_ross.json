@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": "equipment",
+  "listing_id": "charles_ross_son",
+  "category_path": "Equipment/Homogenizers_and_Mixers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Homogenizers_and_Mixers/",
+  "company_name": "Charles Ross & Son Company",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "website": "https://www.mixers.com/",
+  "specializations": [
+    "High-shear mixing equipment",
+    "Rotor-stator mixers",
+    "Multi-shaft mixers",
+    "Inline high-shear mixers",
+    "Batch high-shear mixers"
+  ],
+  "product_highlights": [
+    "ROSS High Shear Mixers",
+    "High-shear batch mixers",
+    "Inline high-shear mixers",
+    "Rotor-stator mixers",
+    "Multi-shaft mixers"
+  ],
+  "tags": [
+    "major-player",
+    "high-performance",
+    "cosmetic"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_homogenizers_mixers_2025-11-14.md"
+  },
+  "notes": "Major manufacturer with comprehensive product line for cosmetics, pharmaceuticals, food, chemical markets, and adhesives. Laboratory to production scale with proven technology."
+}

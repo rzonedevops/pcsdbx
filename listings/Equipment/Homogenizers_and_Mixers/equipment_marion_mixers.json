@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": "equipment",
+  "listing_id": "marion_mixers",
+  "category_path": "Equipment/Homogenizers_and_Mixers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Homogenizers_and_Mixers/",
+  "company_name": "Marion Mixers, Inc.",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "3575 3rd Avenue, PO Box 286, Marion, IA 52302, United States",
+  "country": "United States",
+  "phone": "319-377-6371",
+  "specializations": [
+    "Industrial mixers",
+    "Batch mixers",
+    "Ribbon blenders",
+    "Paddle mixers",
+    "Custom mixing solutions"
+  ],
+  "product_highlights": [
+    "Batch mixers",
+    "Ribbon blenders",
+    "Paddle mixers",
+    "Industrial mixing equipment"
+  ],
+  "tags": [
+    "established-supplier",
+    "manufacturing",
+    "custom-design"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_homogenizers_mixers_2025-11-14.md"
+  },
+  "notes": "Established USA manufacturer providing custom mixing solutions for cosmetics, pharmaceuticals, chemical processing, and powder mixing."
+}

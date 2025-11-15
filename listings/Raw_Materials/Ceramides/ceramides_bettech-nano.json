@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "category_id": "ceramides",
+  "listing_id": "bettech-nano",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
+  "company_name": "Bettech Nano Solutions",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "BR 116 KM 258, S/N ESTEIO RS, ESTEIO",
+  "country": "Brazil",
+  "phone": "5511930285101",
+  "specializations": [
+    "Nanotechnology for cosmetics",
+    "Nanoencapsulated ceramides",
+    "Enhanced delivery systems",
+    "Innovation in ingredient delivery",
+    "Improved skin penetration"
+  ],
+  "product_highlights": [
+    "Nanoencapsulated ceramide technology",
+    "Enhanced skin penetration and efficacy",
+    "Innovative delivery systems",
+    "Superior bioavailability",
+    "Advanced formulation technology"
+  ],
+  "tags": [
+    "nanotechnology-specialist",
+    "brazil-based",
+    "enhanced-delivery",
+    "innovation",
+    "nanoencapsulation"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "Brazilian nanotechnology specialist offering nanoencapsulated ceramides with enhanced delivery and superior skin penetration."
+}

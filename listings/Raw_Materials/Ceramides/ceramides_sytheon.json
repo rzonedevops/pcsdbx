@@ -4,11 +4,13 @@
   "listing_id": "sytheon",
   "category_path": "Raw_Materials/Ceramides",
   "url": "https://personalcaresuppliers.com/",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
   "company_name": "Sytheon SARL",
   "status": "active",
   "date_added": "2025-11-15",
   "date_updated": "2025-11-15",
   "address": "72/74 avenue Edouard Vaillant, Boulogne-Billancourt, France",
+  "address": "72/74 avenue Edouard Vaillant, Boulogne-Billancourt",
   "country": "France",
   "phone": "33141108182",
   "specializations": [
@@ -31,6 +33,21 @@
     "advanced-technology",
     "specialty",
     "high-performance"
+    "Innovation-focused development"
+  ],
+  "product_highlights": [
+    "Innovative ceramide formulations",
+    "Premium barrier repair actives",
+    "Clinical research support",
+    "European quality standards",
+    "Technical expertise"
+  ],
+  "tags": [
+    "innovation-leader",
+    "france-based",
+    "active-ingredients",
+    "barrier-repair",
+    "premium"
   ],
   "metadata": {
     "last_validated": "2025-11-15",
@@ -38,4 +55,7 @@
     "data_source": "manual_entry"
   },
   "notes": "French company specializing in novel active ingredients including advanced ceramide technology. Known for innovative and premium barrier repair ingredients."
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "French innovation leader specializing in novel ceramide technology and premium barrier repair actives with research-backed efficacy."
 }

@@ -4,6 +4,7 @@
   "listing_id": "doosan",
   "category_path": "Raw_Materials/Ceramides",
   "url": "https://www.doosan.com/",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
   "company_name": "Doosan Corporation",
   "status": "active",
   "date_added": "2025-11-15",
@@ -35,6 +36,26 @@
     "quality",
     "certified",
     "high-performance"
+    "Korean technology",
+    "Quality certifications"
+  ],
+  "product_highlights": [
+    "Large-scale ceramide manufacturing",
+    "Pharmaceutical and cosmetic grades",
+    "Korean quality standards",
+    "Reliable supply chain",
+    "Competitive pricing"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP certified",
+    "Pharmaceutical-grade standards"
+  ],
+  "tags": [
+    "major-manufacturer",
+    "korea-based",
+    "large-scale-production",
+    "pharmaceutical-grade"
   ],
   "metadata": {
     "last_validated": "2025-11-15",
@@ -42,4 +63,7 @@
     "data_source": "manual_entry"
   },
   "notes": "Major Korean manufacturer with large-scale ceramide production capabilities. Strong presence in Asian markets with pharmaceutical and cosmetic grade products."
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "Major Korean manufacturer with large-scale ceramide production capabilities and pharmaceutical-grade quality standards."
 }

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "sytheon_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/",
+  "company_name": "Sytheon SARL",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "72/74 avenue Edouard Vaillant, Boulogne-Billancourt, France",
+  "country": "France",
+  "phone": "+33 1 41 10 81 82",
+  "specializations": [
+    "Innovation leader in active ingredients",
+    "Advanced niacinamide formulations",
+    "Research and development focus",
+    "European market leader"
+  ],
+  "tags": [
+    "major-player",
+    "advanced-technology",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_niacinamide_2025-11-12.md"
+  },
+  "notes": "French company with strong presence in active ingredients market. Known for innovative formulations and research-backed products."
+}
