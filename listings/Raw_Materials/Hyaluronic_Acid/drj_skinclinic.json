@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "drj_skinclinic_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=Hyaluronic%20Acid",
+  "company_name": "Dr.J SkinClinic / Rejuran",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "13834 Bettencourt St., Cerritos, CA 90703, United States",
+  "country": "United States",
+  "phone": "8002092412",
+  "specializations": [
+    "Clinical-grade hyaluronic acid",
+    "Medical aesthetics applications",
+    "Rejuvenation treatments",
+    "Professional clinical use"
+  ],
+  "tags": [
+    "clinical-grade",
+    "medical-aesthetics",
+    "professional-use"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-11-13.md"
+  },
+  "notes": "Clinical skincare products supplier focusing on medical aesthetics and professional clinical applications."
+}
