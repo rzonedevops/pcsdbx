@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "emani_minerals_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/",
+  "company_name": "Emani Minerals CFI",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "2834 Hammer Avenue, 520, Norco, CA 92860, United States of America",
+  "country": "United States",
+  "phone": "+1 951-735-8787",
+  "specializations": [
+    "Mineral cosmetics",
+    "Natural and clean beauty",
+    "Niacinamide in mineral formulations",
+    "US manufacturing"
+  ],
+  "tags": [
+    "natural",
+    "organic",
+    "cosmetic",
+    "domestic"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_niacinamide_2025-11-12.md"
+  },
+  "notes": "California-based mineral cosmetics company focusing on natural and clean beauty formulations with niacinamide."
+}

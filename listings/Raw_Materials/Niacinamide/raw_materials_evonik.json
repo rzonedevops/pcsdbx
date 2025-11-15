@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "evonik_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/",
+  "company_name": "Evonik Industries",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "country": "Germany",
+  "specializations": [
+    "Pharmaceutical-grade niacinamide",
+    "Cosmetic-grade niacinamide",
+    "High purity standards",
+    "Regulatory compliance",
+    "Supply chain reliability",
+    "Technical documentation"
+  ],
+  "product_highlights": [
+    "Pharmaceutical-grade (99%+)",
+    "Cosmetic-grade"
+  ],
+  "certifications": [
+    "USP",
+    "EP",
+    "ISO",
+    "GMP"
+  ],
+  "tags": [
+    "major-player",
+    "premium",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_niacinamide_2025-11-13.md"
+  },
+  "notes": "Major specialty chemicals manufacturer with high purity pharmaceutical and cosmetic-grade niacinamide."
+}

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": "equipment",
+  "listing_id": "hauschild_speedmixer",
+  "category_path": "Equipment/Homogenizers_and_Mixers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Homogenizers_and_Mixers/",
+  "company_name": "Hauschild SpeedMixer (Hauschild GmbH & Co KG)",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "37735 Enterprise Ct Suite 100, Farmington Hills, MI 48331, United States",
+  "country": "Germany",
+  "phone": "+49-2381-482050",
+  "specializations": [
+    "SpeedMixer technology",
+    "Laboratory mixing",
+    "High-speed mixing",
+    "Vacuum mixing",
+    "Specialty mixing applications"
+  ],
+  "product_highlights": [
+    "SpeedMixer laboratory mixers",
+    "High-speed mixing systems",
+    "Vacuum mixing equipment"
+  ],
+  "tags": [
+    "specialty",
+    "advanced-technology",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "research_homogenizers_mixers_2025-11-14.md"
+  },
+  "notes": "Unique SpeedMixer technology ideal for R&D and laboratory applications. German engineering quality with USA operations for North American support."
+}
