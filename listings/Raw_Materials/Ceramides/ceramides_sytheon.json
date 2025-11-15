@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "category_id": "ceramides",
+  "listing_id": "sytheon",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/",
+  "company_name": "Sytheon SARL",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "72/74 avenue Edouard Vaillant, Boulogne-Billancourt, France",
+  "country": "France",
+  "phone": "33141108182",
+  "specializations": [
+    "Novel active ingredients",
+    "Advanced ceramide technology",
+    "Skin barrier repair actives",
+    "Anti-aging ingredients",
+    "Innovation in lipid science",
+    "Premium cosmetic actives"
+  ],
+  "product_highlights": [
+    "Innovation leader in active ingredients",
+    "Advanced ceramide technology",
+    "Focus on skin barrier repair and anti-aging",
+    "Premium quality ingredients",
+    "European manufacturing excellence"
+  ],
+  "tags": [
+    "premium",
+    "advanced-technology",
+    "specialty",
+    "high-performance"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "French company specializing in novel active ingredients including advanced ceramide technology. Known for innovative and premium barrier repair ingredients."
+}

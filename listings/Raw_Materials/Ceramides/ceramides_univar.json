@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "category_id": "ceramides",
+  "listing_id": "univar_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.univarsolutions.com/",
+  "company_name": "Univar Solutions",
+  "status": "active",
+  "date_added": "2025-11-15",
+  "date_updated": "2025-11-15",
+  "address": "3075 Highland Pkwy #200, Downers Grove, IL 60515, United States",
+  "country": "United States",
+  "phone": "331-777-6000",
+  "website": "https://www.univarsolutions.com/",
+  "specializations": [
+    "Global chemical and ingredient distribution",
+    "Ceramides supply",
+    "Personal care ingredients",
+    "Technical support and formulation assistance",
+    "Multiple ceramide types available",
+    "Barrier repair actives"
+  ],
+  "product_highlights": [
+    "Major global distributor of specialty chemicals and ingredients",
+    "Comprehensive ceramides portfolio",
+    "Technical support capabilities",
+    "Global distribution network",
+    "One-stop source for multiple ingredient categories"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Quality management systems"
+  ],
+  "tags": [
+    "major-player",
+    "global-distributor",
+    "full-service",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-15",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Major global distributor with extensive distribution network and technical support capabilities. Supplies various ceramide types for barrier repair formulations."
+}
