@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 2900,
+  "listing_id": "the_packaging_company",
+  "category_path": "Packaging/Dropper_Bottles",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Dropper_Bottles/2900/",
+  "company_name": "The Packaging Company",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "2310 E. 4th Street, Long Beach, CA 90814",
+  "country": "United States",
+  "phone": "562-434-5583",
+  "specializations": [
+    "General packaging solutions",
+    "Dropper bottles",
+    "California supplier",
+    "Long Beach operations"
+  ],
+  "product_highlights": [
+    "Dropper bottles",
+    "General packaging solutions",
+    "West Coast supplier"
+  ],
+  "tags": [
+    "dropper-bottles",
+    "general-packaging",
+    "california-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_dropper_bottles_2025-11-16.md"
+  },
+  "notes": "Long Beach-based general packaging supplier offering dropper bottles and various packaging solutions."
+}

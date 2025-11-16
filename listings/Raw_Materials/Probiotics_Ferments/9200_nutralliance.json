@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "nutralliance",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "Nutralliance",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "23600 Via Del Rio, Yorba Linda, CA 92887",
+  "country": "United States",
+  "phone": "714-694-1400",
+  "specializations": [
+    "Nutritional ingredient formulation",
+    "Probiotics",
+    "Custom formulation services",
+    "Formulation expertise"
+  ],
+  "product_highlights": [
+    "Probiotic formulations",
+    "Custom formulation services",
+    "Nutritional ingredients",
+    "Formulation specialist"
+  ],
+  "tags": [
+    "formulation-specialist",
+    "probiotics",
+    "custom-services",
+    "california-based",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-11.md"
+  },
+  "notes": "Specializes in nutritional ingredient formulation including probiotics. Offers custom formulation services."
+}

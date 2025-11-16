@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 2900,
+  "listing_id": "sqa_services",
+  "category_path": "Packaging/Dropper_Bottles",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Dropper_Bottles/2900/",
+  "company_name": "SQA Services, Inc.",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "550 Silver Spur Road, Third Floor, Rolling Hills, CA 90275",
+  "country": "United States",
+  "phone": "310-802-4426",
+  "specializations": [
+    "Quality management",
+    "Dropper bottles with caps",
+    "Eye drop packaging",
+    "Pharmaceutical packaging"
+  ],
+  "product_highlights": [
+    "Dropper bottles with caps",
+    "Eye drop packaging",
+    "Quality management expertise"
+  ],
+  "tags": [
+    "quality-management",
+    "dropper-bottles",
+    "pharmaceutical-grade"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_dropper_bottles_2025-11-16.md"
+  },
+  "notes": "Specializes in quality management and packaging with dropper caps. Experience with eye drops and pharmaceutical-grade packaging."
+}

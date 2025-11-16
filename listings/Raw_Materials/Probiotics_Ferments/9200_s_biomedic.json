@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "s_biomedic",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "S-Biomedic",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "30 Turnhoutseweg, Beerse",
+  "country": "Belgium",
+  "phone": "32477269940",
+  "specializations": [
+    "Microbiome science",
+    "Probiotic skincare ingredients",
+    "Clinical research",
+    "Innovation"
+  ],
+  "product_highlights": [
+    "Microbiome science for skincare",
+    "Probiotic ingredients",
+    "Clinical research capabilities",
+    "European innovation"
+  ],
+  "tags": [
+    "microbiome-specialist",
+    "clinical-research",
+    "belgium-based",
+    "innovation",
+    "probiotics",
+    "ferments"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-11.md"
+  },
+  "notes": "Specializes in microbiome science for skincare. Strong clinical research capabilities. Belgium-based European innovation leader."
+}

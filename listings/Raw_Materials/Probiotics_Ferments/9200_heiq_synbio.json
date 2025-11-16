@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "heiq_synbio",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "HeiQ Synbio",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "website": "www.heiq.com/products/probiotics/personal-care-cosmetics",
+  "specializations": [
+    "Synbiotics (probiotics + prebiotics)",
+    "Active ingredients for personal care",
+    "Microbiome-friendly formulations",
+    "Microbiome science"
+  ],
+  "product_highlights": [
+    "Synbiotics for personal care",
+    "Probiotics + prebiotics synergy",
+    "Microbiome-friendly actives",
+    "Advanced microbiome science"
+  ],
+  "tags": [
+    "synbiotics-specialist",
+    "probiotics-prebiotics",
+    "microbiome-science",
+    "innovation",
+    "probiotics",
+    "postbiotics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-10.md"
+  },
+  "notes": "Uses synbiotics (unique synergy of probiotics and prebiotics) as active ingredients for personal care and cosmetics products. Advanced microbiome science."
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "kerry",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "KERRY",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "175 The West Mall, Toronto",
+  "country": "Canada",
+  "phone": "608-363-1200",
+  "specializations": [
+    "Food and beverage ingredients",
+    "Probiotics for personal care",
+    "Fermentation technology",
+    "Multi-industry expertise"
+  ],
+  "product_highlights": [
+    "Probiotics for personal care",
+    "Fermentation technology",
+    "Global ingredients company",
+    "Multi-industry applications"
+  ],
+  "tags": [
+    "major-player",
+    "fermentation-technology",
+    "multi-industry",
+    "canada-based",
+    "probiotics",
+    "ferments"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-11.md"
+  },
+  "notes": "Major global ingredients company with probiotics for personal care applications. Strong fermentation technology capabilities."
+}

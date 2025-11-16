@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "japan_fermentation_laboratory",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "Japan Fermentation Laboratory (Nihon Kefia Co., Ltd.)",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "13-16 Asahi-cho, Fujisawa-shi, Kanagawa",
+  "country": "Japan",
+  "phone": "81466273511",
+  "specializations": [
+    "Fermentation technology",
+    "Kefir-based ingredients",
+    "Japanese fermentation expertise",
+    "Traditional fermentation"
+  ],
+  "product_highlights": [
+    "Kefir-based ingredients",
+    "Traditional Japanese fermentation",
+    "Fermentation technology",
+    "Unique fermentation expertise"
+  ],
+  "tags": [
+    "fermentation-specialist",
+    "japan-based",
+    "kefir-technology",
+    "traditional-fermentation",
+    "ferments",
+    "probiotics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-11.md"
+  },
+  "notes": "Japanese fermentation laboratory specializing in kefir and traditional fermentation technologies. Unique fermentation expertise."
+}
