@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "boc_sciences_bio_fermen",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "BOC Sciences (Bio-Fermen)",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "website": "bio-fermen.bocsci.com/services/fermentation-cdmo-service-for-cosmetic-industry.html",
+  "specializations": [
+    "Fermentation CDMO services",
+    "Cosmetic industry focus",
+    "Custom fermentation",
+    "Contract manufacturing"
+  ],
+  "product_highlights": [
+    "Fermentation CDMO services",
+    "Custom fermentation for cosmetics",
+    "Contract development and manufacturing",
+    "Full-service capabilities"
+  ],
+  "tags": [
+    "cdmo-services",
+    "fermentation-specialist",
+    "contract-manufacturing",
+    "custom-development",
+    "ferments"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-10.md"
+  },
+  "notes": "Offers fermentation CDMO services to meet requirements of customers from cosmetic industry. Full-service contract development and manufacturing."
+}

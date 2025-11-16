@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "nanospun_technologies",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "NanoSpun Technologies",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "2345 Yale St., Palo Alto, CA 94306",
+  "country": "United States",
+  "phone": "6503084851",
+  "specializations": [
+    "Nanotechnology",
+    "Probiotic delivery systems",
+    "Advanced delivery technology",
+    "Innovation"
+  ],
+  "product_highlights": [
+    "Nanotechnology delivery systems",
+    "Probiotic delivery",
+    "Advanced technology",
+    "Enhanced bioavailability"
+  ],
+  "tags": [
+    "nanotechnology",
+    "delivery-systems",
+    "innovation",
+    "california-based",
+    "probiotics",
+    "advanced-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-11.md"
+  },
+  "notes": "Advanced delivery systems for probiotics using nanotechnology."
+}

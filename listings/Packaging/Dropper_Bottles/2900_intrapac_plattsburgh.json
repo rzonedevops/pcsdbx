@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 2900,
+  "listing_id": "intrapac_plattsburgh",
+  "category_path": "Packaging/Dropper_Bottles",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Dropper_Bottles/2900/",
+  "company_name": "IntraPac Plattsburgh",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "4 Plant Street, Plattsburgh, NY 12901",
+  "country": "United States",
+  "phone": "518-561-2030",
+  "specializations": [
+    "Specialty packaging solutions",
+    "High-performance packaging",
+    "Dropper bottles",
+    "Custom packaging"
+  ],
+  "product_highlights": [
+    "Specialty dropper bottles",
+    "High-performance packaging solutions",
+    "Custom packaging options"
+  ],
+  "tags": [
+    "specialty",
+    "high-performance",
+    "dropper-bottles",
+    "custom-packaging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_dropper_bottles_2025-11-16.md"
+  },
+  "notes": "Focus on specialty packaging for those who require high-performance solutions including dropper bottles for premium applications."
+}

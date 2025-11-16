@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "atlantia_clinical_trials",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "Atlantia Clinical Trials",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "address": "Heron House Offices First Floor, Cork",
+  "country": "Ireland",
+  "phone": "3125359440",
+  "specializations": [
+    "Clinical trials for probiotics",
+    "Research and testing services",
+    "Efficacy validation",
+    "Clinical research"
+  ],
+  "product_highlights": [
+    "Clinical trials for probiotics",
+    "Research services",
+    "Testing and validation",
+    "Efficacy studies"
+  ],
+  "tags": [
+    "clinical-trials",
+    "research-services",
+    "ireland-based",
+    "efficacy-validation",
+    "probiotics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-11.md"
+  },
+  "notes": "Specializes in clinical trials for probiotic products. Important for efficacy validation."
+}

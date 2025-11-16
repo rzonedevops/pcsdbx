@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "scd_probiotics",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "SCD Probiotics",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "website": "www.scdprobiotics.com",
+  "specializations": [
+    "Live probiotics",
+    "Fermented postbiotics",
+    "Bioactive probiotic communities",
+    "Research and patents",
+    "Proprietary technology"
+  ],
+  "product_highlights": [
+    "Live probiotics",
+    "Fermented postbiotics",
+    "Bioactive communities",
+    "Strong IP and research"
+  ],
+  "tags": [
+    "live-probiotics",
+    "postbiotics",
+    "research-driven",
+    "patents",
+    "bioactive-communities",
+    "ferments",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-10.md"
+  },
+  "notes": "Research, patent, and manufacture products using bioactive community of live probiotics + fermented postbiotics. Strong IP and research capabilities."
+}

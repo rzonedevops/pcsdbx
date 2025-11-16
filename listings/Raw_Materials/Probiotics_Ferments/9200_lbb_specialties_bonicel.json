@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "lbb_specialties_bonicel",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "LBB Specialties (Bonicel)",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "website": "www.lbbspecialties.com/care",
+  "specializations": [
+    "Bonicel (probiotic-derived ingredient)",
+    "Science-backed formulations",
+    "Clinical evidence",
+    "Multi-benefit skincare",
+    "Seven common skin concerns"
+  ],
+  "product_highlights": [
+    "Bonicel probiotic-derived ingredient",
+    "Clinical evidence for seven skin concerns",
+    "Science-backed formulations",
+    "First validated probiotic ingredient"
+  ],
+  "tags": [
+    "science-backed",
+    "clinical-evidence",
+    "probiotic-derived",
+    "multi-benefit",
+    "probiotics",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-10.md"
+  },
+  "notes": "Bonicel is first science-backed, probiotic-derived personal care ingredient shown to significantly improve appearance of seven common skin concerns. Strong clinical validation."
+}

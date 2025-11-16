@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9200,
+  "listing_id": "draco_natural_products",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Probiotics_Ferments/9200/",
+  "company_name": "Draco Natural Products",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "website": "draconatural.com/custom-fermentation",
+  "specializations": [
+    "Custom fermentation services",
+    "Fermented plant extracts",
+    "Fermented food extracts",
+    "Custom product development",
+    "R&D support"
+  ],
+  "product_highlights": [
+    "Custom fermented extracts",
+    "Plant and food fermentation",
+    "Product development support",
+    "Unique fermented ingredients"
+  ],
+  "tags": [
+    "custom-fermentation",
+    "plant-extracts",
+    "food-extracts",
+    "r&d-support",
+    "ferments",
+    "custom-development"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_probiotics_ferments_2025-11-10.md"
+  },
+  "notes": "Specializes in creating custom fermented plant and food extracts. Offers product development support for unique fermented ingredients."
+}
