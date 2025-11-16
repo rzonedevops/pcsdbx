@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9300,
+  "listing_id": "basf_vitamin_c",
+  "category_path": "Raw_Materials/Vitamin_C",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Vitamin_C/9300/",
+  "company_name": "BASF Personal Care",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "country": "Germany",
+  "website": "https://www.basf.com",
+  "product_page": "https://www.ulprospector.com/en/na/PersonalCare/Detail/75/15855/Sodium-Ascorbyl-Phosphate",
+  "specializations": [
+    "Sodium Ascorbyl Phosphate (SAP)",
+    "Stable vitamin C derivatives",
+    "Major chemical supplier",
+    "Oxidation protection",
+    "Anti-aging formulations"
+  ],
+  "product_highlights": [
+    "Active stable vitamin C derivative",
+    "Liberates vitamin C in the skin",
+    "Protects against oxidation",
+    "White to pale beige powder",
+    "Practically no odor"
+  ],
+  "tags": [
+    "vitamin-c",
+    "sodium-ascorbyl-phosphate",
+    "sap",
+    "stable-derivative",
+    "major-supplier",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_vitamin_c_2025-11-16.md"
+  },
+  "notes": "BASF provides Sodium Ascorbyl Phosphate, a stable vitamin C derivative that liberates vitamin C in the skin. Excellent for anti-aging and antioxidant formulations with superior stability."
+}

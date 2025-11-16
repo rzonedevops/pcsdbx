@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9300,
+  "listing_id": "macsen_laboratories_vitamin_c",
+  "category_path": "Raw_Materials/Vitamin_C",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Vitamin_C/9300/",
+  "company_name": "Macsen Laboratories",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "website": "https://www.macsenlab.com",
+  "product_page": "https://www.macsenlab.com/cosmetic-ingredients/ascorbyl-glucoside-129499-78-1/",
+  "specializations": [
+    "Ascorbyl Glucoside (AA2G)",
+    "Stable vitamin C derivatives",
+    "Water-soluble derivatives",
+    "Cosmetic ingredients",
+    "Brightening actives",
+    "Collagen synthesis support"
+  ],
+  "product_highlights": [
+    "Ascorbyl Glucoside (CAS 129499-78-1)",
+    "Stable, water-soluble derivative",
+    "Brightening effects",
+    "Collagen synthesis support",
+    "Antioxidant properties"
+  ],
+  "tags": [
+    "vitamin-c",
+    "ascorbyl-glucoside",
+    "aa2g",
+    "stable-derivative",
+    "water-soluble",
+    "brightening",
+    "collagen"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_vitamin_c_2025-11-16.md"
+  },
+  "notes": "Macsen Laboratories specializes in Ascorbyl Glucoside, a stable and water-soluble derivative of vitamin C used in skincare for brightening, collagen synthesis, and as an antioxidant."
+}
