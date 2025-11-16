@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9300,
+  "listing_id": "dsm_firmenich_vitamin_c",
+  "category_path": "Raw_Materials/Vitamin_C",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Vitamin_C/9300/",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "country": "Switzerland",
+  "website": "https://www.dsm-firmenich.com",
+  "product_page": "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/beauty-care/products/ascorbic-acid.html",
+  "specializations": [
+    "L-Ascorbic Acid (Pure Vitamin C)",
+    "Pharmaceutical and cosmetic grade",
+    "Antioxidant formulations",
+    "Large-scale production",
+    "Oxidation protection"
+  ],
+  "product_highlights": [
+    "Ascorbic Acid - Pure Vitamin C",
+    "Protects formulations against oxidation",
+    "Pharmaceutical grade quality",
+    "Global supply reliability",
+    "Technical support available"
+  ],
+  "tags": [
+    "vitamin-c",
+    "l-ascorbic-acid",
+    "antioxidant",
+    "major-supplier",
+    "global",
+    "pharmaceutical-grade"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_vitamin_c_2025-11-16.md"
+  },
+  "notes": "Major global supplier of vitamin C for personal care formulations. DSM-Firmenich provides pharmaceutical and cosmetic grade L-Ascorbic Acid with reliable global supply and technical support."
+}

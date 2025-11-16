@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9300,
+  "listing_id": "lotion_crafter_vitamin_c",
+  "category_path": "Raw_Materials/Vitamin_C",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Vitamin_C/9300/",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-11-16",
+  "date_updated": "2025-11-16",
+  "country": "United States",
+  "website": "https://lotioncrafter.com",
+  "product_page": "https://lotioncrafter.com/products/tetrahexyldecyl-ascorbate",
+  "specializations": [
+    "Tetrahexyldecyl Ascorbate (THDA)",
+    "Oil-soluble vitamin C",
+    "Stable vitamin C derivatives",
+    "Specialty ingredients",
+    "Non-irritating formulations"
+  ],
+  "product_highlights": [
+    "THDA - stable, oil-soluble Vitamin C ester",
+    "Brightens skin and boosts collagen",
+    "Supports even tone without irritation",
+    "Non-deodorized available",
+    "Specialty formulation ingredient"
+  ],
+  "tags": [
+    "vitamin-c",
+    "thda",
+    "tetrahexyldecyl-ascorbate",
+    "oil-soluble",
+    "stable-derivative",
+    "non-irritating",
+    "brightening"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-16",
+    "validation_method": "manual",
+    "data_source": "research_vitamin_c_2025-11-16.md"
+  },
+  "notes": "Lotion Crafter specializes in oil-soluble vitamin C (THDA), ideal for anhydrous formulations and oil-based products. Stable and non-irritating alternative to water-soluble forms."
+}
