@@ -1,0 +1,76 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9700,
+  "listing_id": "steris_corporation",
+  "category_path": "Equipment/Sterilization_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Sterilization_Equipment/steris_corporation/",
+  "company_name": "STERIS Corporation",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.steris.com",
+  "email": "info@steris.com",
+  "phone": "+1-440-354-2600",
+  "address": "5960 Heisley Road, Mentor, OH 44060, USA",
+  "country": "United States",
+  "specializations": [
+    "Steam sterilizers (autoclaves)",
+    "Vaporized Hydrogen Peroxide sterilization (VHP)",
+    "Low-temperature sterilization",
+    "Washer-disinfectors",
+    "Sterilization monitoring systems",
+    "Validation services",
+    "GMP-compliant sterilization solutions",
+    "Large-capacity industrial sterilizers",
+    "Tabletop laboratory autoclaves"
+  ],
+  "product_highlights": [
+    "VHP sterilization systems for heat-sensitive products",
+    "Complete range from tabletop to industrial scale",
+    "Advanced monitoring and documentation systems",
+    "Automated loading/unloading systems",
+    "Integration with manufacturing execution systems",
+    "FDA-cleared and CE-marked equipment",
+    "Global service and validation support"
+  ],
+  "key_benefits": [
+    "Industry leader with 100+ years experience",
+    "Complete validation and qualification support",
+    "Global service network in 100+ countries",
+    "GMP and regulatory compliance expertise",
+    "Equipment for all production scales",
+    "Comprehensive training programs",
+    "21 CFR Part 11 compliant documentation"
+  ],
+  "tags": [
+    "major-player",
+    "global-supplier",
+    "steam-sterilization",
+    "vhp-sterilization",
+    "autoclaves",
+    "gmp-compliant",
+    "industrial-scale",
+    "validation-services"
+  ],
+  "certifications": [
+    "FDA Cleared",
+    "CE Mark",
+    "ISO 9001",
+    "ISO 13485"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "United States",
+    "Europe",
+    "Asia Pacific"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_sterilization_equipment_2025-11-20"
+  },
+  "notes": "STERIS Corporation is the global leader in sterilization and infection prevention solutions with over 100 years of experience. Their comprehensive product line ranges from small laboratory autoclaves to large industrial sterilization systems. STERIS is particularly known for their VHP (Vaporized Hydrogen Peroxide) sterilization technology, which is ideal for heat-sensitive cosmetic materials. They provide complete validation support and have a global service network spanning over 100 countries, making them the preferred choice for GMP-compliant cosmetic manufacturing facilities."
+}
