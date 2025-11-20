@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "chemron_corporation",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.chemron.com",
+  "company_name": "Chemron Corporation",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "2800 Bay Road, Redwood City, CA 94063, United States",
+  "country": "United States",
+  "phone": "+1-650-261-1600",
+  "email": "info@chemron.com",
+  "website": "https://www.chemron.com",
+  "specializations": [
+    "Cosmetic formulation development",
+    "Pharmaceutical-grade skincare",
+    "Active ingredient incorporation",
+    "Preservative system optimization",
+    "Stability testing programs",
+    "Clinical study coordination",
+    "Regulatory documentation",
+    "Manufacturing support"
+  ],
+  "certifications": [
+    "GMP facility"
+  ],
+  "tags": [
+    "formulation-development",
+    "pharmaceutical-grade",
+    "active-ingredients",
+    "clinical-studies",
+    "stability-testing",
+    "gmp-facility",
+    "usa-based",
+    "high-performance"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "Pharmaceutical expertise applied to cosmetics development. Specializes in high-performance active formulations with advanced testing capabilities. Expert formulation chemists with clinical trial coordination experience. Quality by design approach in GMP manufacturing facility."
+}

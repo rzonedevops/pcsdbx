@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "formula_corp",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.formulacorp.com",
+  "company_name": "Formula Corp",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "2695 Manhattan Beach Blvd, Redondo Beach, CA 90278, United States",
+  "country": "United States",
+  "phone": "+1-310-376-8440",
+  "email": "info@formulacorp.com",
+  "website": "https://www.formulacorp.com",
+  "specializations": [
+    "Custom skincare formulation",
+    "Hair care product development",
+    "Color cosmetics formulation",
+    "Bath and body products",
+    "Natural and organic formulations",
+    "Clean beauty formulations",
+    "Stability testing and optimization",
+    "Small batch to full scale production"
+  ],
+  "certifications": [
+    "FDA-registered",
+    "GMP facility"
+  ],
+  "tags": [
+    "formulation-development",
+    "custom-formulation",
+    "skincare-development",
+    "clean-beauty",
+    "natural-formulations",
+    "gmp-facility",
+    "usa-based",
+    "turnkey-service"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "Complete turnkey service from formulation to manufacturing. In-house formulation chemists with rapid prototyping capabilities. Expertise in both natural and synthetic formulations. Provides regulatory compliance support, marketing and packaging guidance. FDA-registered GMP facility capable of small batch to full-scale production."
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "adesso_advanced_technologies",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.adessousa.com",
+  "company_name": "Adesso Advanced Technologies",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "200 Oval Drive, Central Islip, NY 11722, United States",
+  "country": "United States",
+  "phone": "+1-631-851-1880",
+  "email": "info@adessousa.com",
+  "website": "https://www.adessousa.com",
+  "specializations": [
+    "Natural and organic formulation",
+    "Sustainable beauty products",
+    "Botanical extract incorporation",
+    "Green chemistry formulation",
+    "Eco-friendly product development",
+    "Clean beauty formulations",
+    "Certification support (organic, natural)",
+    "Stability and preservation"
+  ],
+  "certifications": [],
+  "tags": [
+    "formulation-development",
+    "natural-formulations",
+    "organic-formulations",
+    "sustainable-beauty",
+    "clean-beauty",
+    "botanical-extracts",
+    "certification-support",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "Natural and organic specialists with sustainable formulation expertise. Botanical sourcing network and eco-packaging consultation. Provides certification guidance for USDA Organic, COSMOS, and other standards. Marketing and branding support with small to medium batch production capabilities."
+}

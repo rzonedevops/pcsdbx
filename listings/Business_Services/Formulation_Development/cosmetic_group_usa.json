@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cosmetic_group_usa",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.cosmeticgroupusa.com",
+  "company_name": "Cosmetic Group USA",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "14800 SE 82nd Drive, Clackamas, OR 97015, United States",
+  "country": "United States",
+  "phone": "+1-503-427-0700",
+  "email": "info@cosmeticgroupusa.com",
+  "website": "https://www.cosmeticgroupusa.com",
+  "specializations": [
+    "Custom formulation development",
+    "Product concept to market",
+    "Skincare and hair care",
+    "Men's grooming products",
+    "Anti-aging formulations",
+    "Rapid prototyping",
+    "Small batch production",
+    "Full-scale manufacturing support"
+  ],
+  "certifications": [],
+  "tags": [
+    "formulation-development",
+    "custom-formulation",
+    "rapid-prototyping",
+    "skincare-haircare",
+    "mens-grooming",
+    "speed-to-market",
+    "usa-based",
+    "flexible-minimums"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "Speed to market focus with experienced formulation team. Modern R&D laboratory with flexible minimum orders. Quality control expertise with packaging and design support. Comprehensive project management from concept to market. Specializes in skincare, hair care, and men's grooming products."
+}
