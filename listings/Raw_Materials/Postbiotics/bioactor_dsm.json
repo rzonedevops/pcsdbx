@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bioactor_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.bioactor.com",
+  "company_name": "BioActor BV (DSM)",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "Galileiweg 8, 6662 PW Elst, Netherlands",
+  "country": "Netherlands",
+  "phone": "+31 481 346 977",
+  "email": "info@bioactor.com",
+  "website": "https://www.bioactor.com",
+  "specializations": [
+    "Microbial fermentation",
+    "Bioactive postbiotics",
+    "Clinical research",
+    "Nutraceutical-grade ingredients",
+    "Microbiome science",
+    "Postbiotic extracts",
+    "Fermentation-derived bioactives",
+    "Standardized postbiotic ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "fermentation",
+    "bioactives",
+    "clinical-research",
+    "pharmaceutical-grade",
+    "netherlands-based",
+    "major-player",
+    "dsm",
+    "standardized"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_2025-11-20.md"
+  },
+  "notes": "Part of DSM, major global player in nutrition and health. Pharmaceutical-grade quality with extensive clinical validation. Microbial fermentation expertise producing standardized postbiotic ingredients. Scientific expertise with multi-market applications. Nutraceutical-grade quality systems applied to cosmetic ingredients."
+}
