@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "chemwatch_cosmetics",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://chemwatch.net/cosmetics-and-personal-care/",
+  "company_name": "Chemwatch",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "3 Nexus Court, Mulgrave VIC 3170, Australia",
+  "country": "Australia",
+  "phone": "+61 3 9573 3100",
+  "email": "sales@chemwatch.net",
+  "website": "https://chemwatch.net/cosmetics-and-personal-care/",
+  "specializations": [
+    "Global cosmetics regulatory compliance",
+    "SDS (Safety Data Sheet) authoring",
+    "Ingredient compliance checking",
+    "Product notification services",
+    "Regulatory database access",
+    "Chemical hazard management",
+    "Multi-jurisdiction compliance"
+  ],
+  "certifications": [],
+  "tags": [
+    "regulatory-consulting",
+    "global-compliance",
+    "sds-authoring",
+    "ingredient-compliance",
+    "regulatory-database",
+    "australia-based",
+    "multi-jurisdiction",
+    "140-countries"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Global regulatory database covering 140+ countries with automated compliance checking. Provides real-time regulatory updates and chemical inventory management. Expert support for multi-jurisdiction compliance including SDS authoring and ingredient compliance verification across global markets."
+}
