@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cda_usa_packaging",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://cda-usa.com/",
+  "company_name": "CDA USA (Complete Dosing & Automation)",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "France",
+  "phone": "",
+  "website": "https://cda-usa.com/",
+  "specializations": [
+    "Labeling machines",
+    "Filling machines",
+    "Monobloc systems (integrated fill-cap-label)",
+    "Complete packaging lines",
+    "Cosmetics, beauty, perfume, soap, shower gel",
+    "E-Fill 3-in-1 machine (filling, capping, labeling)"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "labeling-machines",
+    "capping-machines",
+    "monobloc-systems",
+    "integrated-lines",
+    "french-manufacturer",
+    "cosmetic-packaging",
+    "turnkey-solutions"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Specializes in integrated monobloc solutions for cosmetics. Featured product E-Fill is a 3-in-1 machine for filling, capping, and labeling small cylindrical bottles (5mL to 1L) with 2 adhesive labels capability, up to 25 products/minute. Offers complete turnkey packaging lines."
+}

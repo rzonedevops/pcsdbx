@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "epak_machinery_filling",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://www.epakmachinery.com/",
+  "company_name": "E-PAK Machinery Inc.",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "website": "https://www.epakmachinery.com/",
+  "specializations": [
+    "Liquid filling machines",
+    "Capping machines",
+    "Labeling machines",
+    "Complete bottling systems",
+    "Personal care and beauty packaging",
+    "Built for longevity and efficiency"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "capping-machines",
+    "labeling-equipment",
+    "bottling-systems",
+    "usa-manufacturer",
+    "personal-care",
+    "complete-lines"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Manufactures quality liquid filling machines, cappers, and labelers for the bottling industry. Designed specifically for personal care liquids with equipment built for longevity. Offers online equipment and parts sales. Complete packaging line solutions available."
+}

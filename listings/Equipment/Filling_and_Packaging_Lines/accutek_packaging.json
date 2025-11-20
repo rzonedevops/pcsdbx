@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "accutek_packaging_equipment",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://www.accutekpackaging.com/",
+  "company_name": "Accutek Packaging Equipment Companies",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "website": "https://www.accutekpackaging.com/",
+  "specializations": [
+    "Filling machines (liquid and powder)",
+    "Capping machines (spindle, chuck, snap)",
+    "Labeling machines (front/back, wrap-around)",
+    "Complete packaging systems",
+    "Conveyors and turntables",
+    "Complete integrated systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "capping-machines",
+    "labeling-equipment",
+    "complete-systems",
+    "usa-manufacturer",
+    "liquid-fillers",
+    "powder-fillers"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Comprehensive equipment portfolio including wide variety of filling machines, capping machines, and labeling machines. Offers complete packaging systems with custom solutions. Parts and service support available. Handles both liquid and powder products."
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "groninger_cosmetic_filling",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://www.groninger-group.com/en/cosmetic-filling-machines/",
+  "company_name": "Groninger Group",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "Germany",
+  "phone": "",
+  "website": "https://www.groninger-group.com/",
+  "specializations": [
+    "High-speed cosmetic filling machines",
+    "Fragrance filling",
+    "Skin care filling",
+    "Color care filling",
+    "Body & hair care filling",
+    "Closing systems",
+    "Up to 240 objects/minute capacity"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "high-speed-filling",
+    "cosmetic-machinery",
+    "european-manufacturer",
+    "german-engineering",
+    "fragrance-filling",
+    "skincare-filling"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "High-speed industrial filling machines for cosmetics with capacity up to 240 objects/minute. Specializes in fragrance, skin care, color care, and body & hair care products. Offers complete packaging lines with filling and closing systems. German engineering quality."
+}

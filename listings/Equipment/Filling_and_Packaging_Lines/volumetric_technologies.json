@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "volumetric_technologies_filling",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://volumetrictechnologies.com/cosmetics",
+  "company_name": "Volumetric Technologies Inc.",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "2760 N. Service Dr., Red Wing, MN 55066, United States",
+  "country": "United States",
+  "phone": "+1-507-263-0034",
+  "website": "https://volumetrictechnologies.com/",
+  "specializations": [
+    "Cosmetic filling machines",
+    "Precision filling technology for viscous products",
+    "Piston fillers and piston depositors",
+    "Automatic piston filling lines",
+    "Overflow liquid fillers",
+    "Servo PD pump fillers",
+    "Line integration services",
+    "Custom-designed filling systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "cosmetic-machinery",
+    "piston-fillers",
+    "liquid-filling",
+    "viscous-products",
+    "usa-manufacturer",
+    "custom-solutions",
+    "line-integration"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Specializes in precision filling technology for cosmetics including creams, lotions, serums, oils, shampoos, conditioners, foundations, gels and mousses. Features intuitive interfaces, quick changeover mechanisms, stainless steel construction for hygiene, and scalable solutions. Sales: x200, Parts: x400, Service: x400. Hours: 7:00-3:30 M-F Central Time. Spanish-speaking support available."
+}

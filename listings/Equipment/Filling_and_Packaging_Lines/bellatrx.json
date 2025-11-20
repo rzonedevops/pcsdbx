@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bellatrx_packaging",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://bellatrx.com/",
+  "company_name": "BellatRx",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "website": "https://bellatrx.com/",
+  "specializations": [
+    "Liquid filling machines",
+    "Tablet counting equipment",
+    "Capping machines",
+    "Torquing systems",
+    "Labeling machines",
+    "Complete integration solutions",
+    "Pharmaceutical-grade equipment"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "capping-machines",
+    "labeling-equipment",
+    "integration-solutions",
+    "pharmaceutical-grade",
+    "liquid-filling",
+    "solid-filling",
+    "powder-filling"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Packaging equipment and integration solutions for pharmaceuticals, nutraceuticals, personal care, and cosmetics. Handles liquid, solid, and powder products. Pharmaceutical-grade equipment suitable for high-quality cosmetic production. Complete integration solutions available."
+}

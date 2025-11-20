@@ -90,17 +90,17 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 - 5-10 new supplier listings
 - Progress toward 75+ categories (43/75 = 57%)
 
-### Priority 3: Research and Convert Quality Control Equipment Suppliers ⭐⭐⭐⭐ HIGH PRIORITY - EQUIPMENT GAP
+### Priority 3: Research and Convert Filling & Packaging Lines Suppliers ⭐⭐⭐⭐ HIGH PRIORITY - EQUIPMENT GAP
 
 **Status:** 🚨 **CRITICAL FOR EQUIPMENT EXPANSION**
 
 **Why This Matters:** To provide a comprehensive manufacturing ecosystem, we must expand our equipment categories. Quality control is a fundamental aspect of cosmetic production.
 
 **Action Required:**
-- [ ] Research suppliers for: pH meters, viscometers, stability chambers, and microbiology testing equipment.
+- [ ] Research suppliers for: filling machines, capping machines, labeling machines, and complete packaging lines.
 - [ ] Document 5-8 suppliers with complete contact information.
-- [ ] Create a comprehensive research file: `research_quality_control_equipment_2025-11-19.md`
-- [ ] Create a new category folder: `listings/Equipment/Quality_Control_Equipment`
+- [ ] Create a comprehensive research file: `research_filling_packaging_lines_2025-11-20.md`
+- [ ] Create a new category folder: `listings/Equipment/Filling_and_Packaging_Lines`
 - [ ] Convert the research into `supplier_*.json` files.
 
 **Expected Impact:**

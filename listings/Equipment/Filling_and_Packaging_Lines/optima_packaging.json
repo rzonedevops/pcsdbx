@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "optima_packaging_cosmetics",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://www.optima-packaging.com/en/industries/cosmetics-and-personal-care",
+  "company_name": "Optima Packaging Group",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "Germany",
+  "phone": "",
+  "website": "https://www.optima-packaging.com/",
+  "specializations": [
+    "Filling systems for cosmetics",
+    "Packaging lines for personal care",
+    "Flexible and efficient production solutions",
+    "Turnkey packaging systems",
+    "Complete automation solutions",
+    "Custom-designed systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "packaging-lines",
+    "cosmetic-machinery",
+    "german-manufacturer",
+    "turnkey-solutions",
+    "automation",
+    "custom-systems"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Provides flexible and efficient filling and packaging systems for cosmetics manufacturers. Offers turnkey packaging solutions with German engineering quality. Specializes in complete automation solutions and custom-designed systems for cosmetics and personal care products."
+}

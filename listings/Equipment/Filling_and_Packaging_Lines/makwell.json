@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makwell_filling_machines",
+  "category_path": "Equipment/Filling_and_Packaging_Lines",
+  "url": "https://makwell.com/cosmetic-filling-machine/",
+  "company_name": "Makwell",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "",
+  "country": "",
+  "phone": "",
+  "website": "https://makwell.com/",
+  "specializations": [
+    "Manual filling machines",
+    "Semi-automatic filling machines",
+    "Automated filling machines",
+    "Volumetric filling systems",
+    "Vacuum filling systems",
+    "Heat filling systems",
+    "Piston and pump filling technology"
+  ],
+  "certifications": [],
+  "tags": [
+    "filling-equipment",
+    "cosmetic-machinery",
+    "automated-filling",
+    "volumetric-filling",
+    "manual-equipment",
+    "semi-automatic"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_filling_packaging_lines_2025-11-20.md"
+  },
+  "notes": "Offers manual, semi-automatic, and automated filling machines for cosmetics. Features volumetric, vacuum, and heat filling systems with piston and pump technology. Complete filling lines and custom automation solutions available. Suitable for various production scales."
+}
