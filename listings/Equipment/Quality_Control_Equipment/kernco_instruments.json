@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9600,
+  "listing_id": "kernco_instruments_qc",
+  "category_path": "Equipment/Quality_Control_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Quality_Control_Equipment/kernco_instruments/",
+  "company_name": "Kernco Instruments Co., Inc.",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.kernco.com",
+  "email": "info@kernco.com",
+  "phone": "+1-915-852-3375",
+  "address": "420 Kenazo Avenue, El Paso, TX 79928-7339, USA",
+  "country": "United States",
+  "specializations": [
+    "Viscometers",
+    "Rheometers",
+    "Texture analyzers",
+    "Consistency testing",
+    "Spreadability testing",
+    "Penetration testing",
+    "Cosmetic texture analysis",
+    "Quality control instruments"
+  ],
+  "product_highlights": [
+    "Krebs Stormer viscometer",
+    "Rotational viscometers",
+    "Cone penetrometers",
+    "Texture analysis systems",
+    "Spreadability testers",
+    "Cosmetic consistency meters",
+    "Custom test fixtures"
+  ],
+  "key_benefits": [
+    "Specialized cosmetic texture testing",
+    "Affordable viscometry solutions",
+    "Custom application development",
+    "Expert technical support",
+    "NIST-traceable standards",
+    "Quick turnaround on repairs",
+    "Made in USA quality"
+  ],
+  "tags": [
+    "viscometers",
+    "rheology",
+    "texture-analysis",
+    "quality-control",
+    "cosmetic-testing",
+    "penetrometers",
+    "consistency-testing",
+    "usa-manufacturer"
+  ],
+  "certifications": [
+    "ISO 9001"
+  ],
+  "shipping_regions": [
+    "North America",
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "United States"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_quality_control_equipment_2025-11-18"
+  },
+  "notes": "Kernco Instruments specializes in viscometers, rheometers, and texture analyzers specifically designed for the cosmetics industry. Their equipment is used for measuring consistency, spreadability, and texture properties of creams, lotions, and other cosmetic products."
+}

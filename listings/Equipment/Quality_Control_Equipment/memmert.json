@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9600,
+  "listing_id": "memmert_qc",
+  "category_path": "Equipment/Quality_Control_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Quality_Control_Equipment/memmert/",
+  "company_name": "Memmert GmbH + Co. KG",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.memmert.com",
+  "email": "sales@memmert.com",
+  "phone": "+49 9122 925-0",
+  "address": "Äußere Rittersbacher Str. 38, 91126 Schwabach, Germany",
+  "country": "Germany",
+  "specializations": [
+    "Stability chambers",
+    "Climate chambers",
+    "Incubators",
+    "Drying ovens",
+    "Temperature control cabinets",
+    "Cosmetic stability testing",
+    "ICH guideline chambers",
+    "Environmental simulation"
+  ],
+  "product_highlights": [
+    "HPP constant climate chambers",
+    "CTC climate test chambers",
+    "IPP incubators with Peltier technology",
+    "UF universal ovens",
+    "Waterbath series",
+    "AtmoCONTROL climate control software",
+    "ICH Q1A compliant chambers"
+  ],
+  "key_benefits": [
+    "Specialized cosmetic stability testing",
+    "ICH guideline compliant",
+    "German engineering quality",
+    "Precise temperature and humidity control",
+    "Energy-efficient Peltier technology",
+    "21 CFR Part 11 compliant software",
+    "Global service network"
+  ],
+  "tags": [
+    "major-player",
+    "stability-chambers",
+    "temperature-control",
+    "quality-control",
+    "climate-chambers",
+    "cosmetic-testing",
+    "ich-compliant",
+    "german-engineering"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "DIN EN 14971"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "Germany"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_quality_control_equipment_2025-11-18"
+  },
+  "notes": "Memmert is a leading German manufacturer of stability chambers and climate chambers specifically designed for cosmetic product testing. Their constant climate chambers meet ICH guidelines for stability testing and are widely used in the personal care industry for shelf-life studies and quality validation."
+}

@@ -1,0 +1,69 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "pacific_biolabs",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/pacific_biolabs/",
+  "company_name": "Pacific BioLabs",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.pacificbiolabs.com",
+  "email": "info@pacificbiolabs.com",
+  "phone": "+1-510-259-2605",
+  "address": "545 Weddell Drive, Suite 1, Sunnyvale, CA 94089, USA",
+  "country": "United States",
+  "specializations": [
+    "Antimicrobial efficacy testing",
+    "Preservative efficacy testing (PET)",
+    "Time-kill studies",
+    "Minimum inhibitory concentration (MIC)",
+    "Environmental testing",
+    "Disinfectant testing",
+    "Sanitizer testing",
+    "Method development",
+    "Custom protocol design"
+  ],
+  "product_highlights": [
+    "Specialized antimicrobial testing",
+    "GLP/GMP compliant",
+    "Expert study design",
+    "FDA/EPA compliant protocols",
+    "Fast turnaround options",
+    "Custom method development",
+    "Regulatory consultation"
+  ],
+  "key_benefits": [
+    "Specialists in antimicrobial testing",
+    "GLP/GMP compliant facility",
+    "Expert protocol design consultation",
+    "FDA and EPA compliant methods",
+    "Fast turnaround available",
+    "Flexible scheduling",
+    "Comprehensive regulatory support"
+  ],
+  "tags": [
+    "antimicrobial-testing",
+    "preservative-efficacy",
+    "pet-testing",
+    "glp-compliant",
+    "method-development",
+    "environmental-testing"
+  ],
+  "certifications": [
+    "GLP",
+    "GMP"
+  ],
+  "shipping_regions": [
+    "North America",
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_testing_laboratories_2025-11-20"
+  },
+  "notes": "Pacific BioLabs specializes in antimicrobial efficacy testing and preservative efficacy testing for cosmetics. Their GLP/GMP compliant facility offers expert study design, custom protocol development, and FDA/EPA compliant testing methods. Ideal for preservative system validation and antimicrobial claims substantiation."
+}

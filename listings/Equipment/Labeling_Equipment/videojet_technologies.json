@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9700,
+  "listing_id": "videojet_technologies",
+  "category_path": "Equipment/Labeling_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Labeling_Equipment/videojet_technologies/",
+  "company_name": "Videojet Technologies Inc.",
+  "parent_company": "Danaher Corporation",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.videojet.com",
+  "email": "info@videojet.com",
+  "phone": "+1-800-843-3610",
+  "address": "1500 Mittel Boulevard, Wood Dale, IL 60191, USA",
+  "country": "United States",
+  "specializations": [
+    "Print and apply labeling",
+    "Thermal transfer overprinters",
+    "Label printer applicators",
+    "Coding and marking",
+    "Serialization systems",
+    "Track and trace solutions",
+    "Variable data printing",
+    "GS1 compliance"
+  ],
+  "product_highlights": [
+    "9550 print and apply system",
+    "6x30 thermal transfer overprinter",
+    "HSDA high-speed labelers",
+    "High-resolution printing",
+    "Integrated coding systems",
+    "Serialization capability",
+    "MES system integration"
+  ],
+  "key_benefits": [
+    "Global leader in coding and marking",
+    "Part of Danaher product identification platform",
+    "GS1 and regulatory compliance",
+    "Variable data printing capability",
+    "Global service network",
+    "Integration with manufacturing systems",
+    "Comprehensive training and support"
+  ],
+  "tags": [
+    "major-player",
+    "print-apply",
+    "coding-marking",
+    "serialization",
+    "thermal-transfer",
+    "variable-data",
+    "global-supplier",
+    "track-trace"
+  ],
+  "certifications": [
+    "ISO 9001"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "United States",
+    "Europe",
+    "Asia"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_labeling_equipment_2025-11-20"
+  },
+  "notes": "Videojet Technologies (part of Danaher) is a global leader in print and apply labeling systems with advanced coding, marking, and serialization capabilities. Their solutions are ideal for cosmetics manufacturers requiring variable data printing, lot tracking, and regulatory compliance. Integration with MES systems enables complete traceability."
+}

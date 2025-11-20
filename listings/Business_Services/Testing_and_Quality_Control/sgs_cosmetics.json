@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "sgs_cosmetics",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/sgs_cosmetics/",
+  "company_name": "SGS Cosmetics & Personal Care",
+  "parent_company": "SGS SA",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.sgs.com/en/consumer-goods-and-retail/beauty-and-personal-care",
+  "email": "sgs.cpc@sgs.com",
+  "phone": "+41 22 739 91 11",
+  "address": "1 Place des Alpes, 1201 Geneva, Switzerland",
+  "country": "Switzerland",
+  "specializations": [
+    "Safety and efficacy testing",
+    "Regulatory compliance testing",
+    "Microbiological testing",
+    "Preservative efficacy testing (PET/Challenge testing)",
+    "Stability testing",
+    "Claims substantiation",
+    "SPF testing",
+    "Sensory evaluation",
+    "In vitro and ex vivo testing",
+    "Toxicological evaluation"
+  ],
+  "product_highlights": [
+    "Global laboratory network (140+ countries)",
+    "Complete regulatory support services",
+    "Fast turnaround times",
+    "Expert toxicological evaluation",
+    "Comprehensive safety assessments",
+    "Clinical and consumer testing",
+    "Product development support"
+  ],
+  "key_benefits": [
+    "World's largest testing organization",
+    "GMP and ISO 17025 certified",
+    "Global reach with local expertise",
+    "One-stop shop for all testing needs",
+    "Recognized by regulatory authorities worldwide",
+    "Expert scientific staff",
+    "State-of-the-art facilities"
+  ],
+  "tags": [
+    "major-player",
+    "global-supplier",
+    "safety-testing",
+    "regulatory-compliance",
+    "microbiological-testing",
+    "claims-substantiation",
+    "spf-testing",
+    "iso-17025"
+  ],
+  "certifications": [
+    "ISO 17025",
+    "GMP",
+    "GLP"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_testing_laboratories_2025-11-20"
+  },
+  "notes": "SGS is the world's leading testing, inspection and certification company. Their Cosmetics & Personal Care division provides comprehensive testing services including safety, efficacy, regulatory compliance, and claims substantiation. With laboratories in over 140 countries, they offer global reach with local expertise."
+}

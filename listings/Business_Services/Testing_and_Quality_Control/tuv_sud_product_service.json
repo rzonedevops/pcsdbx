@@ -1,0 +1,71 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "tuv_sud_product_service",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/tuv_sud_product_service/",
+  "company_name": "TÜV SÜD Product Service",
+  "parent_company": "TÜV SÜD AG",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.tuvsud.com/en/industries/consumer-products-and-retail/cosmetics",
+  "email": "info@tuvsud.com",
+  "phone": "+49 89 5791-0",
+  "address": "Westendstraße 199, 80686 Munich, Germany",
+  "country": "Germany",
+  "specializations": [
+    "Safety assessments",
+    "Product Information File (PIF) creation",
+    "Cosmetic Product Safety Report (CPSR)",
+    "Microbiological testing",
+    "Chemical analysis",
+    "Allergen testing",
+    "Heavy metals testing",
+    "Notified Body services for EU market",
+    "CPNP notification support",
+    "Regulatory compliance consulting"
+  ],
+  "product_highlights": [
+    "Leading Notified Body for EU cosmetics regulation",
+    "Complete PIF and CPSR services",
+    "Fast-track regulatory approval",
+    "Expert safety assessors",
+    "CPNP notification assistance",
+    "Global regulatory intelligence",
+    "Market surveillance support"
+  ],
+  "key_benefits": [
+    "Premier EU Notified Body status",
+    "Expert regulatory compliance services",
+    "Fast-track PIF creation (24-48 hours available)",
+    "Qualified safety assessors",
+    "Complete EU market access support",
+    "Global network with local expertise",
+    "One-stop regulatory solution"
+  ],
+  "tags": [
+    "major-player",
+    "regulatory-compliance",
+    "safety-assessment",
+    "notified-body",
+    "eu-compliance",
+    "pif-creation",
+    "microbiological-testing",
+    "chemical-analysis"
+  ],
+  "certifications": [
+    "ISO 17025",
+    "EU Notified Body"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_testing_laboratories_2025-11-20"
+  },
+  "notes": "TÜV SÜD is a leading Notified Body for EU cosmetics regulation and a trusted global provider of safety assessment and regulatory compliance services. They specialize in Product Information File (PIF) creation, Cosmetic Product Safety Reports (CPSR), and CPNP notifications essential for EU market access."
+}

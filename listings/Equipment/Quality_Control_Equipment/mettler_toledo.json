@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9600,
+  "listing_id": "mettler_toledo_qc",
+  "category_path": "Equipment/Quality_Control_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Quality_Control_Equipment/mettler_toledo/",
+  "company_name": "Mettler Toledo",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.mt.com",
+  "email": "contact@mt.com",
+  "phone": "+1-800-638-8537",
+  "address": "1900 Polaris Parkway, Columbus, OH 43240, USA",
+  "country": "United States",
+  "specializations": [
+    "pH meters and electrodes",
+    "Analytical balances",
+    "Titrators",
+    "Moisture analyzers",
+    "Viscometers",
+    "Density meters",
+    "Refractometers",
+    "Laboratory weighing equipment",
+    "Process analytics"
+  ],
+  "product_highlights": [
+    "SevenCompact pH meters for cosmetics",
+    "Excellence precision balances",
+    "Karl Fischer moisture analyzers",
+    "Drop shape analysis systems",
+    "Automated titration systems",
+    "Density and refractometry solutions",
+    "Quality control software integration"
+  ],
+  "key_benefits": [
+    "Industry standard for pH measurement",
+    "Global service and support network",
+    "Comprehensive calibration services",
+    "GMP-compliant documentation",
+    "Integration with LIMS systems",
+    "21 CFR Part 11 compliant solutions",
+    "Extensive cosmetics industry experience"
+  ],
+  "tags": [
+    "major-player",
+    "pH-meters",
+    "analytical-instruments",
+    "weighing",
+    "quality-control",
+    "laboratory-equipment",
+    "precision-measurement",
+    "global-supplier"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO/IEC 17025"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "United States",
+    "Switzerland",
+    "Germany",
+    "China"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_quality_control_equipment_2025-11-18"
+  },
+  "notes": "Mettler Toledo is the global leader in precision instruments and services for laboratory and industrial use. Their pH meters and analytical balances are considered industry standards in cosmetic quality control. Comprehensive support infrastructure and GMP-compliant solutions make them ideal for regulated environments."
+}
