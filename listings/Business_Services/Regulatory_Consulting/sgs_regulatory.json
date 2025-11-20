@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1804,
+  "listing_id": "sgs_regulatory",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Regulatory_Consulting/sgs_regulatory/",
+  "company_name": "SGS Cosmetics & Personal Care - Regulatory Services",
+  "parent_company": "SGS SA",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.sgs.com",
+  "email": "sgs.cpc@sgs.com",
+  "phone": "+41-22-739-91-11",
+  "address": "1 Place des Alpes, 1201 Geneva, Switzerland",
+  "country": "Switzerland",
+  "specializations": [
+    "Global regulatory consulting",
+    "Cosmetic Product Safety Reports (CPSR)",
+    "Responsible Person services (EU)",
+    "Safety and efficacy testing",
+    "Claims substantiation",
+    "Regulatory training",
+    "Market access support",
+    "Compliance auditing",
+    "Product registration worldwide",
+    "Regulatory intelligence"
+  ],
+  "product_highlights": [
+    "World's largest testing and certification company",
+    "Presence in 140+ countries",
+    "Integrated testing and regulatory services",
+    "Global regulatory intelligence network",
+    "One-stop shop for compliance",
+    "Local expertise in every major market",
+    "Comprehensive training programs"
+  ],
+  "key_benefits": [
+    "Unmatched global reach and presence",
+    "Seamless integration of testing and regulatory",
+    "Local market knowledge worldwide",
+    "Regulatory intelligence in real-time",
+    "Trusted by major multinational brands",
+    "Complete compliance solutions",
+    "Recognized by regulatory authorities globally"
+  ],
+  "tags": [
+    "major-player",
+    "global-supplier",
+    "regulatory-consulting",
+    "cpsr",
+    "responsible-person",
+    "testing-integration",
+    "140-countries",
+    "market-access",
+    "regulatory-intelligence"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 17025",
+    "GLP",
+    "GMP"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20"
+  },
+  "notes": "SGS is the world's largest testing, inspection, and certification company with a presence in over 140 countries. Their Cosmetics & Personal Care division provides comprehensive regulatory consulting services seamlessly integrated with their global testing laboratories. This unique combination allows for efficient coordination between product testing and regulatory documentation, accelerating time to market. SGS offers particularly strong support for global market entry, with local regulatory expertise in every major cosmetic market including USA, EU, China, ASEAN, and Brazil. They are the preferred partner for large manufacturers and multinational brands requiring worldwide regulatory compliance."
+}

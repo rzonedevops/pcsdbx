@@ -1,5 +1,75 @@
 {
   "schema_version": "1.0",
+  "category_id": 1804,
+  "listing_id": "intertek_assuris",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Regulatory_Consulting/intertek_assuris/",
+  "company_name": "Intertek - Assuris Regulatory Consulting",
+  "parent_company": "Intertek Group plc",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.intertek.com",
+  "email": "cosmetics@intertek.com",
+  "phone": "+1-877-660-6351",
+  "address": "70 Codman Hill Road, Boxborough, MA 01719, USA",
+  "country": "United States",
+  "specializations": [
+    "Global regulatory compliance consulting",
+    "Product registration and notification",
+    "Safety assessments and CPSR",
+    "Claims substantiation",
+    "Labeling compliance review",
+    "GMP auditing",
+    "Training and workshops",
+    "Regulatory monitoring services",
+    "Market access consulting",
+    "Ingredient compliance"
+  ],
+  "product_highlights": [
+    "Assuris division dedicated to cosmetics",
+    "Integrated testing and regulatory services",
+    "Regulatory intelligence platform",
+    "Expert toxicologists and regulatory professionals",
+    "Worldwide laboratory network",
+    "Comprehensive training programs",
+    "Real-time regulatory updates"
+  ],
+  "key_benefits": [
+    "Global testing and certification leader",
+    "Seamless testing and regulatory coordination",
+    "Proactive regulatory intelligence",
+    "Experienced cosmetics-dedicated team",
+    "International laboratory network",
+    "Complete compliance solutions",
+    "Trusted by leading brands worldwide"
+  ],
+  "tags": [
+    "major-player",
+    "global-supplier",
+    "regulatory-consulting",
+    "assuris",
+    "testing-integration",
+    "cpsr",
+    "gmp-auditing",
+    "regulatory-intelligence",
+    "claims-substantiation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 17025",
+    "GLP"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20"
+  },
+  "notes": "Intertek's Assuris division is dedicated to providing regulatory consulting services for the cosmetics and personal care industry. As part of a global testing and certification leader, Assuris offers seamless integration between laboratory testing and regulatory compliance documentation. Their regulatory intelligence platform provides real-time updates on regulatory changes worldwide, helping clients stay ahead of compliance requirements. With expert toxicologists and regulatory professionals on staff, Assuris serves medium to large manufacturers and international brands requiring comprehensive global regulatory support and proactive compliance management."
   "listing_id": "intertek_assuris_cosmetics",
   "category_path": "Business_Services/Regulatory_Consulting",
   "url": "https://www.intertek.com/assuris/cosmetics/",

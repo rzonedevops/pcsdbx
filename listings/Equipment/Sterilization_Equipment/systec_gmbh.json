@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9700,
+  "listing_id": "systec_gmbh",
+  "category_path": "Equipment/Sterilization_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Sterilization_Equipment/systec_gmbh/",
+  "company_name": "Systec GmbH",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.systec-lab.com",
+  "email": "systec@systec-lab.de",
+  "phone": "+49-6403-9680-0",
+  "address": "Im Wöllersheimer Grund 8, 35440 Linden, Germany",
+  "country": "Germany",
+  "specializations": [
+    "Laboratory autoclaves (40L to 1,580L)",
+    "Media preparators (sterilization + media prep)",
+    "Pass-through autoclaves for clean rooms",
+    "Validation-ready systems",
+    "Clean room compatible designs",
+    "Custom sterilization solutions",
+    "Energy-efficient sterilization",
+    "Pharmaceutical-grade autoclaves"
+  ],
+  "product_highlights": [
+    "Mediaprep™ media preparator systems",
+    "VX series vertical autoclaves (40L-200L)",
+    "HX series horizontal autoclaves (200L-1,580L)",
+    "Pass-through autoclaves for clean room separation",
+    "German precision engineering",
+    "Energy-saving ECO mode",
+    "Full validation documentation included",
+    "Custom solutions for specific applications"
+  ],
+  "key_benefits": [
+    "30+ years of German engineering expertise",
+    "Media Preparators ideal for cosmetic media/buffers",
+    "Clean room compatible designs with HEPA filtration",
+    "Energy-efficient operation reduces running costs",
+    "Complete validation documentation (IQ/OQ/PQ)",
+    "Worldwide distribution and service network",
+    "Eco-friendly and sustainable operation"
+  ],
+  "tags": [
+    "german-engineering",
+    "laboratory-autoclaves",
+    "media-preparators",
+    "clean-room-compatible",
+    "pass-through-autoclaves",
+    "validation-ready",
+    "energy-efficient",
+    "pharmaceutical-grade",
+    "custom-solutions"
+  ],
+  "certifications": [
+    "CE Mark",
+    "ISO 9001",
+    "GMP Compliant",
+    "DIN EN 285"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "Germany"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_sterilization_equipment_2025-11-20"
+  },
+  "notes": "Systec GmbH is a German manufacturer with over 30 years of expertise in laboratory sterilization equipment. They are particularly known for their innovative Mediaprep™ systems that combine sterilization with automated media preparation - ideal for cosmetic formulations requiring sterile media, buffers, or aqueous solutions. Their pass-through autoclaves are perfect for clean room applications, maintaining clean room classification by providing a physical barrier between controlled and uncontrolled environments. Systec equipment features German precision engineering, energy-efficient operation, and comes with complete validation documentation ready for GMP compliance."
+}

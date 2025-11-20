@@ -1,0 +1,77 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9700,
+  "listing_id": "getinge",
+  "category_path": "Equipment/Sterilization_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Sterilization_Equipment/getinge/",
+  "company_name": "Getinge AB",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.getinge.com",
+  "email": "info@getinge.com",
+  "phone": "+46-10-335-00-00",
+  "address": "Box 8861, SE-402 72 Gothenburg, Sweden",
+  "country": "Sweden",
+  "specializations": [
+    "Large-capacity steam sterilizers",
+    "Industrial autoclaves",
+    "Washer-disinfectors",
+    "Low-temperature sterilization (H2O2, ETO)",
+    "Automated loading/unloading systems",
+    "Sterilization management software",
+    "Clean room compatible systems",
+    "Pharmaceutical-grade sterilization",
+    "Industry 4.0 integration"
+  ],
+  "product_highlights": [
+    "High-capacity sterilizers (200L to 2,000L+)",
+    "Advanced automation and robotics integration",
+    "Real-time monitoring and data management",
+    "Customizable validation protocols",
+    "Integration with manufacturing execution systems (MES)",
+    "Hydrogen peroxide sterilization for sensitive materials",
+    "Pass-through designs for clean room applications"
+  ],
+  "key_benefits": [
+    "Premium European engineering quality",
+    "Ideal for large-scale cosmetic production",
+    "Advanced automation reduces labor costs",
+    "Industry 4.0 ready with IoT connectivity",
+    "Complete regulatory compliance support",
+    "Global installation and service network",
+    "Comprehensive training and validation services"
+  ],
+  "tags": [
+    "premium-equipment",
+    "industrial-scale",
+    "large-capacity",
+    "automation",
+    "clean-room-compatible",
+    "gmp-compliant",
+    "pharmaceutical-grade",
+    "industry-4.0",
+    "european-engineering"
+  ],
+  "certifications": [
+    "CE Mark",
+    "ISO 9001",
+    "ISO 13485",
+    "GMP Compliant"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "Sweden",
+    "Germany",
+    "United States"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_sterilization_equipment_2025-11-20"
+  },
+  "notes": "Getinge is a Swedish company specializing in premium sterilization and infection control solutions for pharmaceutical and cosmetic industries. Their large-capacity industrial sterilizers are designed for high-volume production facilities and feature advanced automation, real-time monitoring, and Industry 4.0 integration capabilities. Getinge equipment is known for exceptional build quality, reliability, and comprehensive validation support. They are the preferred choice for major cosmetic manufacturers and contract manufacturers who require pharmaceutical-grade sterilization systems with full MES integration and regulatory compliance documentation."
+}
