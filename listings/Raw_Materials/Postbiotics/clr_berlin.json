@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "clr_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.clr-berlin.com",
+  "company_name": "CLR Chemisches Laboratorium Dr. Kurt Richter GmbH",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "Sperenberger Str. 3, 12277 Berlin, Germany",
+  "country": "Germany",
+  "phone": "+49 30 851026-0",
+  "email": "info@clr-berlin.com",
+  "website": "https://www.clr-berlin.com",
+  "specializations": [
+    "Biotechnology actives",
+    "Fermentation technology",
+    "Postbiotic ingredients",
+    "Natural cosmetic actives",
+    "Microbiome research",
+    "Postbiotic complexes",
+    "Fermented ingredient systems",
+    "Microbiome-supporting actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "biotechnology",
+    "fermentation",
+    "microbiome",
+    "natural-actives",
+    "germany-based",
+    "scientific-innovation",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_2025-11-20.md"
+  },
+  "notes": "German biotechnology expertise in postbiotic and fermentation technology. Scientific innovation with natural and sustainable focus. Offers postbiotic complexes and fermented ingredient systems. Microbiome research capabilities with technical support and quality assurance. Berlin-based cosmetic active ingredient innovator."
+}

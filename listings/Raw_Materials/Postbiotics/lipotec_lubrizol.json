@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipotec_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://lipotec.lubrizol.com",
+  "company_name": "Lipotec SAU (Lubrizol)",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "Isaac Peral, 17, 08908 L'Hospitalet de Llobregat, Barcelona, Spain",
+  "country": "Spain",
+  "phone": "+34 93 261 58 89",
+  "email": "lipotec@lipotec.com",
+  "website": "https://lipotec.lubrizol.com",
+  "specializations": [
+    "Peptide-based postbiotics",
+    "Fermented actives",
+    "Biotechnology-derived ingredients",
+    "Anti-aging solutions",
+    "Microbiome modulators",
+    "Postbiotic peptide complexes",
+    "Fermented extracts",
+    "Microbiome-balancing actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "peptides",
+    "fermentation",
+    "biotechnology",
+    "microbiome",
+    "spain-based",
+    "major-player",
+    "anti-aging",
+    "lubrizol"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_2025-11-20.md"
+  },
+  "notes": "Major global supplier combining extensive peptide expertise with postbiotic innovation. Part of Lubrizol with biotechnology focus and clinical efficacy studies. Offers postbiotic peptide complexes and fermented extracts with complete technical documentation. Strong anti-aging and microbiome-modulating capabilities."
+}

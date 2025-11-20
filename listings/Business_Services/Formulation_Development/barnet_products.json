@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "barnet_products_formulation",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.barnetproducts.com",
+  "company_name": "Barnet Products Corporation",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "200 Kingsland Road, Clifton, NJ 07014, United States",
+  "country": "United States",
+  "phone": "+1-973-471-1400",
+  "email": "info@barnetproducts.com",
+  "website": "https://www.barnetproducts.com",
+  "specializations": [
+    "Custom formulation development",
+    "Private label product development",
+    "Contract manufacturing",
+    "Hair care expertise",
+    "Skincare formulation",
+    "Product innovation",
+    "Regulatory compliance",
+    "Packaging development"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "FDA-registered"
+  ],
+  "tags": [
+    "formulation-development",
+    "private-label",
+    "contract-manufacturing",
+    "haircare-expertise",
+    "iso-certified",
+    "fda-registered",
+    "usa-based",
+    "full-service",
+    "80-years-experience"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "80+ years of experience in cosmetic manufacturing. ISO 9001 certified and FDA-registered facility. Full-service development with focus on speed to market. Strong hair care expertise. Provides quality assurance programs and flexible production capabilities."
+}
