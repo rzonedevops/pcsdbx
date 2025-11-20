@@ -1,0 +1,73 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9600,
+  "listing_id": "anton_paar_qc",
+  "category_path": "Equipment/Quality_Control_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Quality_Control_Equipment/anton_paar/",
+  "company_name": "Anton Paar",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.anton-paar.com",
+  "email": "info@anton-paar.com",
+  "phone": "+43 316 257 0",
+  "address": "Anton Paar GmbH, Anton-Paar-Str. 20, 8054 Graz, Austria",
+  "country": "Austria",
+  "specializations": [
+    "Rheometers",
+    "Viscometers",
+    "Density meters",
+    "Refractometers",
+    "Polarimeters",
+    "Microwave digestion systems",
+    "Particle characterization",
+    "Process measuring systems"
+  ],
+  "product_highlights": [
+    "MCR series rheometers for cosmetics",
+    "ViscoQC rotational viscometers",
+    "DMA density meters",
+    "Abbemat refractometers",
+    "Lovis viscometers",
+    "RheolabQC for quality control",
+    "Tribology accessories for texture analysis"
+  ],
+  "key_benefits": [
+    "Premium quality rheology instrumentation",
+    "Specialized cosmetics applications",
+    "Comprehensive training programs",
+    "Global service network",
+    "Advanced texture analysis capabilities",
+    "21 CFR Part 11 compliant software",
+    "Industry-leading accuracy and precision"
+  ],
+  "tags": [
+    "major-player",
+    "rheology",
+    "viscometry",
+    "density-measurement",
+    "quality-control",
+    "premium",
+    "laboratory-equipment",
+    "texture-analysis"
+  ],
+  "certifications": [
+    "ISO 9001"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "Austria",
+    "United States",
+    "Germany",
+    "China"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_quality_control_equipment_2025-11-18"
+  },
+  "notes": "Anton Paar is a world leader in the measurement of density, concentration, and rheological properties. Their rheometers and viscometers are premium instruments widely used in cosmetics R&D and quality control for texture analysis, stability testing, and viscosity characterization."
+}

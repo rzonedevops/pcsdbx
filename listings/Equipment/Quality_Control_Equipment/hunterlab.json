@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9600,
+  "listing_id": "hunterlab_qc",
+  "category_path": "Equipment/Quality_Control_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Quality_Control_Equipment/hunterlab/",
+  "company_name": "HunterLab",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.hunterlab.com",
+  "email": "info@hunterlab.com",
+  "phone": "+1-703-471-6870",
+  "address": "11491 Sunset Hills Road, Reston, VA 20190-5280, USA",
+  "country": "United States",
+  "specializations": [
+    "Color measurement instruments",
+    "Spectrophotometers",
+    "Colorimeters",
+    "Color quality control systems",
+    "Appearance measurement",
+    "Color formulation software",
+    "Haze and gloss measurement",
+    "Whiteness and yellowness testing"
+  ],
+  "product_highlights": [
+    "ColorFlex EZ spectrophotometer",
+    "LabScan XE spectrophotometer",
+    "MiniScan EZ portable colorimeter",
+    "UltraScan PRO",
+    "Aeros color measurement",
+    "EasyMatch QC software",
+    "Vista spectrophotometer"
+  ],
+  "key_benefits": [
+    "Industry standard for color measurement",
+    "Specialized cosmetics applications",
+    "Global calibration standards",
+    "Comprehensive training programs",
+    "Expert technical support",
+    "Integration with formulation software",
+    "Regulatory compliance documentation"
+  ],
+  "tags": [
+    "major-player",
+    "color-measurement",
+    "spectrophotometers",
+    "quality-control",
+    "appearance-testing",
+    "cosmetic-testing",
+    "laboratory-equipment"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "NIST traceable"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "United States"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_quality_control_equipment_2025-11-18"
+  },
+  "notes": "HunterLab is the world leader in color measurement technology with over 65 years of experience. Their spectrophotometers and colorimeters are industry standards for cosmetic color quality control, ensuring batch-to-batch consistency and regulatory compliance."
+}

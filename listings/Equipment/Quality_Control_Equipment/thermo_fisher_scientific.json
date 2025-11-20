@@ -1,0 +1,75 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9600,
+  "listing_id": "thermo_fisher_scientific_qc",
+  "category_path": "Equipment/Quality_Control_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Quality_Control_Equipment/thermo_fisher_scientific/",
+  "company_name": "Thermo Fisher Scientific",
+  "parent_company": null,
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.thermofisher.com",
+  "email": "CustomerCare.LSG@thermofisher.com",
+  "phone": "+1-800-678-5599",
+  "address": "168 Third Avenue, Waltham, MA 02451, USA",
+  "country": "United States",
+  "specializations": [
+    "Stability chambers",
+    "Incubators",
+    "pH meters",
+    "Analytical instruments",
+    "Laboratory refrigerators and freezers",
+    "Environmental chambers",
+    "Centrifuges",
+    "Spectrophotometers"
+  ],
+  "product_highlights": [
+    "TSX series stability chambers",
+    "Heratherm incubators",
+    "Orion pH meters",
+    "Genesys UV-Vis spectrophotometers",
+    "MaxQ incubated shakers",
+    "Sorvall centrifuges",
+    "Precision temperature control equipment"
+  ],
+  "key_benefits": [
+    "Comprehensive stability testing solutions",
+    "ICH guideline compliant chambers",
+    "Global service and support",
+    "21 CFR Part 11 compliant data systems",
+    "Extensive regulatory support",
+    "Integration with laboratory workflows",
+    "Complete portfolio for cosmetics QC"
+  ],
+  "tags": [
+    "major-player",
+    "stability-chambers",
+    "laboratory-equipment",
+    "analytical-instruments",
+    "quality-control",
+    "environmental-testing",
+    "temperature-control",
+    "global-supplier"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 13485"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [
+    "United States",
+    "Germany",
+    "United Kingdom",
+    "China",
+    "Singapore"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_quality_control_equipment_2025-11-18"
+  },
+  "notes": "Thermo Fisher Scientific is the world leader in serving science with a complete portfolio of laboratory equipment and instruments. Their stability chambers and incubators are industry standards for cosmetic product shelf-life testing and quality validation per ICH guidelines."
+}
