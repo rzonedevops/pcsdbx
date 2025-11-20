@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cosmetic_solutions",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.cosmeticsolutions.com",
+  "company_name": "Cosmetic Solutions",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "7455 New Ridge Road, Suite R, Hanover, MD 21076, United States",
+  "country": "United States",
+  "phone": "+1-443-567-0500",
+  "email": "info@cosmeticsolutions.com",
+  "website": "https://www.cosmeticsolutions.com",
+  "specializations": [
+    "Skincare formulation development",
+    "Hair care formulation",
+    "Color cosmetics",
+    "Sun care products",
+    "Fragrance incorporation",
+    "Stability and compatibility testing",
+    "Scale-up and manufacturing support",
+    "Regulatory consultation"
+  ],
+  "certifications": [],
+  "tags": [
+    "formulation-development",
+    "skincare-formulation",
+    "haircare-development",
+    "expert-chemists",
+    "full-service-lab",
+    "stability-testing",
+    "usa-based",
+    "30-years-experience"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "30+ years of experience in cosmetic formulation. Full-service R&D laboratory with expert cosmetic chemists. Specializes in both natural and conventional formulations. Provides complete product testing and validation, manufacturing coordination, and development to production support."
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "silab_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.silab.fr",
+  "company_name": "Silab",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "BP 213, F-19108 Brive-la-Gaillarde Cedex, France",
+  "country": "France",
+  "phone": "+33 5 55 88 18 98",
+  "email": "info@silab.fr",
+  "website": "https://www.silab.fr",
+  "specializations": [
+    "Plant biotechnology",
+    "Fermented botanical extracts",
+    "Postbiotic plant actives",
+    "Sustainable ingredients",
+    "Green chemistry",
+    "Osmobiose™ microbiome balance",
+    "Fermented plant extracts",
+    "Biotechnology-derived botanical actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "botanical-extracts",
+    "fermentation",
+    "sustainable",
+    "green-chemistry",
+    "france-based",
+    "plant-based",
+    "clinical-studies"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_2025-11-20.md"
+  },
+  "notes": "Botanical fermentation specialists with Osmobiose™ postbiotic for microbiome balance. Green chemistry approach with sustainable development focus. Offers fermented plant extracts and biotechnology-derived botanical actives. Clinical studies support efficacy claims. Complete traceability from plant to finished ingredient."
+}

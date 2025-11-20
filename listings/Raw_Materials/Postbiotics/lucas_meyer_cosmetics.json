@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lucas_meyer_cosmetics_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.lucasmeyercosmetics.com",
+  "company_name": "Lucas Meyer Cosmetics (Clariant)",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "3800 Rue Courtemanche, Laval, QC H7P 5P1, Canada",
+  "country": "Canada",
+  "phone": "+1-450-975-5444",
+  "email": "info.lmc@clariant.com",
+  "website": "https://www.lucasmeyercosmetics.com",
+  "specializations": [
+    "Advanced postbiotic actives",
+    "Fermentation-derived ingredients",
+    "Microbiome-friendly formulations",
+    "Science-backed bioactives",
+    "Sustainable biotechnology",
+    "Lypbiome™ - Bifidobacterium longum lysate",
+    "ProRenew Complex CLR™ postbiotic",
+    "Fermented ingredient complexes"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "fermentation",
+    "microbiome-friendly",
+    "bioactives",
+    "sustainable",
+    "canadian-supplier",
+    "major-player",
+    "science-backed",
+    "clinical-data"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_2025-11-20.md"
+  },
+  "notes": "Leading innovator in postbiotic cosmetic ingredients. Lypbiome™ is a postbiotic derived from Bifidobacterium longum lysate with extensive clinical data. Focus on skin microbiome science with sustainable production methods. Part of Clariant, providing technical formulation support and scientific backing."
+}

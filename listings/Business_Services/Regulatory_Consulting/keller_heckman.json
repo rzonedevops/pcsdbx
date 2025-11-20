@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "keller_heckman_cosmetics",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.khlaw.com/Practices/Cosmetics-and-Personal-Care",
+  "company_name": "Keller and Heckman LLP",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "1001 G Street NW, Suite 500 West, Washington, DC 20001, United States",
+  "country": "United States",
+  "phone": "+1-202-434-4100",
+  "email": "cosmetics@khlaw.com",
+  "website": "https://www.khlaw.com/Practices/Cosmetics-and-Personal-Care",
+  "specializations": [
+    "Cosmetics and personal care legal counsel",
+    "FDA regulatory compliance",
+    "EU Cosmetics Regulation",
+    "Product liability defense",
+    "Labeling and advertising compliance",
+    "Ingredient regulatory status",
+    "International trade and customs"
+  ],
+  "certifications": [],
+  "tags": [
+    "regulatory-consulting",
+    "legal-counsel",
+    "fda-compliance",
+    "eu-compliance",
+    "product-liability",
+    "labeling-advertising",
+    "washington-dc-based",
+    "law-firm"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Leading cosmetics law firm with former FDA counsel on staff. International regulatory expertise covering FDA, EU, and global markets. Provides litigation and compliance support, strategic regulatory advice, and represents clients in industry associations. Comprehensive legal and regulatory services for cosmetics and personal care."
+}

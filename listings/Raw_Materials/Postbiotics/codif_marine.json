@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "codif_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.codif-tn.com",
+  "company_name": "Codif Technologie Naturelle",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "35 rue Jean-Jacques Rousseau, 35230 Saint-Malo, France",
+  "country": "France",
+  "phone": "+33 2 99 40 09 36",
+  "email": "info@codif-tn.com",
+  "website": "https://www.codif-tn.com",
+  "specializations": [
+    "Marine biotechnology",
+    "Fermented marine extracts",
+    "Postbiotic marine actives",
+    "Sustainable biotech ingredients",
+    "Ocean-derived postbiotics",
+    "Marine bacteria extracts",
+    "Fermented algae derivatives",
+    "Marine microbiome actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "marine-biotechnology",
+    "fermentation",
+    "sustainable",
+    "ocean-derived",
+    "france-based",
+    "marine-actives",
+    "unique-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_2025-11-20.md"
+  },
+  "notes": "Marine biotechnology specialists offering unique ocean-derived postbiotics. Postbiotic extracts from marine bacteria and fermented algae derivatives. Strong environmental commitment with sustainable sourcing. Scientific innovation in marine microbiome actives. Based in Saint-Malo, France's marine biotechnology hub."
+}

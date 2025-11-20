@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "beauty_cluster_barcelona_regulatory",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.beautyclusterbarcelona.com/en/services/regulatory-affairs",
+  "company_name": "Beauty Cluster Barcelona",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "Av. Diagonal, 452, 08006 Barcelona, Spain",
+  "country": "Spain",
+  "phone": "+34 932 70 30 31",
+  "email": "info@beautyclusterbarcelona.com",
+  "website": "https://www.beautyclusterbarcelona.com/en/services/regulatory-affairs",
+  "specializations": [
+    "EU Cosmetics Regulation compliance",
+    "CPNP notifications",
+    "Safety assessment services",
+    "Responsible Person services",
+    "International market entry",
+    "Regulatory training",
+    "Product claim substantiation"
+  ],
+  "certifications": [],
+  "tags": [
+    "regulatory-consulting",
+    "eu-compliance",
+    "cpnp-notification",
+    "responsible-person",
+    "safety-assessment",
+    "international-market-entry",
+    "spain-based",
+    "industry-cluster"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Beauty industry cluster providing EU regulatory expertise with unique industry networking opportunities. Offers training and education programs alongside regulatory consulting. International market expertise and innovation support. Comprehensive EU compliance services including CPNP, safety assessment, and Responsible Person representation."
+}

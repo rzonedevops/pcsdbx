@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cosmetic_regulatory_consulting_llc",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.cosmeticreg.com",
+  "company_name": "Cosmetic Regulatory Consulting, LLC",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "125 S. Wacker Drive, Suite 300, Chicago, IL 60606, United States",
+  "country": "United States",
+  "phone": "+1-312-878-3072",
+  "email": "info@cosmeticreg.com",
+  "website": "https://www.cosmeticreg.com",
+  "specializations": [
+    "EU Cosmetics Regulation compliance",
+    "CPNP notifications",
+    "Product Information File (PIF) creation",
+    "Cosmetic Product Safety Report (CPSR)",
+    "FDA compliance consulting",
+    "Global market entry strategy",
+    "Labeling and claims review"
+  ],
+  "certifications": [],
+  "tags": [
+    "regulatory-consulting",
+    "eu-compliance",
+    "cpnp-notification",
+    "pif-creation",
+    "cpsr",
+    "fda-compliance",
+    "global-market-entry",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Dual USA/EU regulatory expertise with network of qualified safety assessors. Offers fast-track PIF services and complete CPNP submission support. Expert labeling review and multi-market compliance strategy. Specializes in helping brands navigate both FDA and EU Cosmetics Regulation 1223/2009 requirements."
+}

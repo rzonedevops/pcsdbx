@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ecolab_regulatory_services",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.ecolab.com/expertise/regulatory",
+  "company_name": "Ecolab Regulatory and Analytical Services",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "1 Ecolab Place, St. Paul, MN 55102, United States",
+  "country": "United States",
+  "phone": "+1-800-392-3392",
+  "email": "regulatory@ecolab.com",
+  "website": "https://www.ecolab.com/expertise/regulatory",
+  "specializations": [
+    "FDA compliance consulting",
+    "EPA registration",
+    "Product registration worldwide",
+    "Regulatory strategy development",
+    "Labeling compliance",
+    "Claims substantiation support",
+    "Global regulatory submissions"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "regulatory-consulting",
+    "fda-compliance",
+    "epa-registration",
+    "global-submissions",
+    "labeling-compliance",
+    "usa-based",
+    "integrated-services"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Major global supplier with integrated regulatory and analytical services. Expert regulatory strategists with multi-market experience and global office network. Provides complete submission support for FDA, EPA, and international regulatory requirements. Comprehensive regulatory strategy development and labeling compliance services."
+}

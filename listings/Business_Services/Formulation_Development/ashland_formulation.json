@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ashland_formulation_support",
+  "category_path": "Business_Services/Formulation_Development",
+  "url": "https://www.ashland.com/industries/personal-care",
+  "company_name": "Ashland LLC",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "5200 Blazer Parkway, Dublin, OH 43017, United States",
+  "country": "United States",
+  "phone": "+1-800-325-3751",
+  "email": "personalcare@ashland.com",
+  "website": "https://www.ashland.com/industries/personal-care",
+  "specializations": [
+    "Technical formulation support",
+    "Application laboratories",
+    "Formulation concept development",
+    "Ingredient compatibility studies",
+    "Performance testing",
+    "Sensory evaluation",
+    "Regulatory support",
+    "Educational seminars and training"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "formulation-support",
+    "technical-support",
+    "application-labs",
+    "global-supplier",
+    "ingredient-supplier",
+    "training",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_formulation_development_2025-11-20.md"
+  },
+  "notes": "Major global supplier with multiple application labs worldwide. Expert technical support team providing collaborative formulation development. Access to proprietary ingredients with complete technical documentation. Offers industry trend insights and educational training programs."
+}

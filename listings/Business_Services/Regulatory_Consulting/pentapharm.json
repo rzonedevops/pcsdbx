@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pentapharm_regulatory",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.pentapharm.com/regulatory-affairs",
+  "company_name": "Pentapharm Ltd",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "Engelgasse 107, 4018 Basel, Switzerland",
+  "country": "Switzerland",
+  "phone": "+41 61 638 11 11",
+  "email": "info@pentapharm.com",
+  "website": "https://www.pentapharm.com/regulatory-affairs",
+  "specializations": [
+    "EU Cosmetics Regulation compliance",
+    "Responsible Person services",
+    "CPNP notifications",
+    "Product Information File (PIF) preparation",
+    "Cosmetic Product Safety Report (CPSR)",
+    "Safety assessor services",
+    "Market surveillance support"
+  ],
+  "certifications": [],
+  "tags": [
+    "regulatory-consulting",
+    "eu-compliance",
+    "responsible-person",
+    "cpnp-notification",
+    "pif-creation",
+    "cpsr",
+    "safety-assessor",
+    "switzerland-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "EU regulatory specialists with qualified safety assessors providing complete PIF and CPSR services. Offers Responsible Person representation for brands entering the EU market. Fast turnaround times and multi-language support. Expert market surveillance support to ensure ongoing compliance with EU Cosmetics Regulation."
+}

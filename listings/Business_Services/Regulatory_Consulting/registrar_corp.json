@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "registrar_corp_cosmetics",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.registrarcorp.com/cosmetic-registration/",
+  "company_name": "Registrar Corp",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "175 Varick Street, New York, NY 10014, United States",
+  "country": "United States",
+  "phone": "+1-757-224-0177",
+  "email": "info@registrarcorp.com",
+  "website": "https://www.registrarcorp.com/cosmetic-registration/",
+  "specializations": [
+    "FDA cosmetic facility registration",
+    "Cosmetic product listing",
+    "FDA compliance consulting",
+    "Labeling review and approval",
+    "Ingredient review",
+    "Import/export compliance",
+    "Global regulatory support"
+  ],
+  "certifications": [],
+  "tags": [
+    "regulatory-consulting",
+    "fda-compliance",
+    "cosmetic-registration",
+    "labeling-review",
+    "global-compliance",
+    "usa-based",
+    "24-7-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Leading FDA compliance specialist with 24/7 support. Staff includes former FDA officials with 20+ years of experience. Provides multi-language support and online compliance portal. Expert regulatory advisors help navigate complex FDA cosmetic regulations including facility registration, product listing, and labeling compliance."
+}

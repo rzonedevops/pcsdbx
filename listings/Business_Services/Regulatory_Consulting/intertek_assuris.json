@@ -70,4 +70,43 @@
     "data_source": "research_regulatory_consulting_2025-11-20"
   },
   "notes": "Intertek's Assuris division is dedicated to providing regulatory consulting services for the cosmetics and personal care industry. As part of a global testing and certification leader, Assuris offers seamless integration between laboratory testing and regulatory compliance documentation. Their regulatory intelligence platform provides real-time updates on regulatory changes worldwide, helping clients stay ahead of compliance requirements. With expert toxicologists and regulatory professionals on staff, Assuris serves medium to large manufacturers and international brands requiring comprehensive global regulatory support and proactive compliance management."
+  "listing_id": "intertek_assuris_cosmetics",
+  "category_path": "Business_Services/Regulatory_Consulting",
+  "url": "https://www.intertek.com/assuris/cosmetics/",
+  "company_name": "Intertek Assuris",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "address": "4 Rue Lou Hemmer, 4149 Esch-sur-Alzette, Luxembourg",
+  "country": "Luxembourg",
+  "phone": "+352 26 37 91 1",
+  "email": "assuris.info@intertek.com",
+  "website": "https://www.intertek.com/assuris/cosmetics/",
+  "specializations": [
+    "EU Responsible Person services",
+    "CPNP notification management",
+    "Product Information File (PIF) creation",
+    "Cosmetic Product Safety Report (CPSR)",
+    "Global regulatory consulting",
+    "Market surveillance",
+    "Post-market vigilance"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "regulatory-consulting",
+    "responsible-person",
+    "cpnp-notification",
+    "pif-creation",
+    "cpsr",
+    "global-compliance",
+    "luxembourg-based",
+    "24-7-emergency"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_regulatory_consulting_2025-11-20.md"
+  },
+  "notes": "Major global testing and certification company providing complete Responsible Person services for EU market. Expert safety assessors with multi-market compliance expertise. 24/7 emergency response and global regulatory network. Comprehensive post-market vigilance and market surveillance to ensure ongoing compliance."
 }
