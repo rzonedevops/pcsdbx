@@ -1,0 +1,70 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "als_cosmetics",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/als_cosmetics/",
+  "company_name": "ALS Cosmetics",
+  "parent_company": "ALS Limited",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.alsglobal.com/en/cosmetics",
+  "email": "cosmetics.us@alsglobal.com",
+  "phone": "+1-800-695-5227",
+  "address": "950 S. Cherry St., Suite 508, Denver, CO 80246, USA",
+  "country": "United States",
+  "specializations": [
+    "Challenge testing (preservative efficacy)",
+    "Stability testing",
+    "Microbiological testing",
+    "Chemical analysis",
+    "Trace contaminants testing",
+    "Heavy metals testing",
+    "PAH testing",
+    "1,4-dioxane testing",
+    "Nitrosamines testing",
+    "Method validation"
+  ],
+  "product_highlights": [
+    "Comprehensive contaminants testing",
+    "ISO 17025 accredited laboratories",
+    "Global laboratory network",
+    "Fast turnaround times",
+    "Expert regulatory support",
+    "Custom method development",
+    "Complete analytical services"
+  ],
+  "key_benefits": [
+    "Global leader in analytical testing",
+    "Specialized trace contaminants expertise",
+    "ISO 17025 accredited",
+    "Comprehensive cosmetics testing portfolio",
+    "Expert technical support",
+    "Fast turnaround options",
+    "Regulatory compliance expertise"
+  ],
+  "tags": [
+    "global-supplier",
+    "challenge-testing",
+    "stability-testing",
+    "microbiological-testing",
+    "contaminants-testing",
+    "heavy-metals",
+    "iso-17025",
+    "trace-analysis"
+  ],
+  "certifications": [
+    "ISO 17025"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_testing_laboratories_2025-11-20"
+  },
+  "notes": "ALS is a global leader in analytical testing with specialized expertise in cosmetics. Their comprehensive services include challenge testing, stability studies, and advanced trace contaminants testing including heavy metals, PAHs, 1,4-dioxane, and nitrosamines. ISO 17025 accredited with laboratories worldwide."
+}

@@ -1,0 +1,72 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "nelson_labs",
+  "category_path": "Business_Services/Testing_and_Quality_Control",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Testing_and_Quality_Control/nelson_labs/",
+  "company_name": "Nelson Labs",
+  "parent_company": "Sotera Health",
+  "status": "active",
+  "date_added": "2025-11-20",
+  "date_updated": "2025-11-20",
+  "website": "https://www.nelsonlabs.com",
+  "email": "info@nelsonlabs.com",
+  "phone": "+1-801-290-7500",
+  "address": "6280 S. Redwood Road, Salt Lake City, UT 84123, USA",
+  "country": "United States",
+  "specializations": [
+    "Microbiology testing",
+    "Sterilization validation",
+    "Biocompatibility testing",
+    "Package integrity testing",
+    "Environmental monitoring",
+    "Rapid microbiological methods",
+    "Endotoxin testing",
+    "Method validation",
+    "Cleanroom testing"
+  ],
+  "product_highlights": [
+    "ISO 17025 and ISO 13485 certified",
+    "GLP/GMP compliant",
+    "Sterilization validation expertise",
+    "Package integrity testing",
+    "Rapid microbiological methods",
+    "Complete validation services",
+    "Regulatory compliance support"
+  ],
+  "key_benefits": [
+    "ISO 17025 and ISO 13485 certified",
+    "GLP/GMP compliant facility",
+    "Expert regulatory support",
+    "Global client base",
+    "Complete validation services",
+    "Fast turnaround options",
+    "Specialized sterilization expertise"
+  ],
+  "tags": [
+    "microbiological-testing",
+    "sterilization-validation",
+    "biocompatibility",
+    "package-testing",
+    "iso-17025",
+    "glp-compliant",
+    "endotoxin-testing",
+    "method-validation"
+  ],
+  "certifications": [
+    "ISO 17025",
+    "ISO 13485",
+    "GLP",
+    "GMP"
+  ],
+  "shipping_regions": [
+    "Global"
+  ],
+  "manufacturing_facilities": [],
+  "metadata": {
+    "last_validated": "2025-11-20",
+    "validation_method": "manual",
+    "data_source": "research_testing_laboratories_2025-11-20"
+  },
+  "notes": "Nelson Labs (part of Sotera Health) is a leading provider of microbiology testing and sterilization validation services. Their expertise in package integrity testing, biocompatibility, and rapid microbiological methods makes them ideal for cosmetics manufacturers requiring comprehensive quality control and validation services. ISO 17025 and ISO 13485 certified."
+}
