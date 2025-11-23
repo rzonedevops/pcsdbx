@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ccl_label_brand_protection",
+  "category_path": "Labels__Sleeves/Security_Labels",
+  "url": "https://ccllabel.com/",
+  "company_name": "CCL Label (Brand Protection)",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "105 Gordon Baker Road, Suite 500, Toronto, ON M2H 3P8, Canada",
+  "country": "Canada",
+  "phone": "+1-416-756-8500",
+  "email": "info@ccllabel.com",
+  "website": "https://ccllabel.com/",
+  "specializations": [
+    "Brand protection labels for beauty and personal care",
+    "Security inks",
+    "Holograms",
+    "Taggants",
+    "Non-intrusive design",
+    "Anti-counterfeit solutions"
+  ],
+  "certifications": [],
+  "tags": [
+    "security-labels",
+    "brand-protection",
+    "anti-counterfeit",
+    "holograms",
+    "security-inks",
+    "beauty-packaging",
+    "global-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Comprehensive brand protection solutions for beauty and personal care without compromising aesthetics. Features non-intrusive design that maintains decorative appearance while providing security through inks, holograms, and taggants. Part of CCL Industries Inc., global leader in label solutions."
+}

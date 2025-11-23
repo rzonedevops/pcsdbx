@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "tampertech",
+  "category_path": "Labels__Sleeves/Security_Labels",
+  "url": "https://tampertech.com/",
+  "company_name": "TamperTech",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "13761 N. Central Expressway, Suite 403, Dallas, TX 75243, United States",
+  "country": "United States",
+  "phone": "+1-214-696-2160",
+  "email": "info@tampertech.com",
+  "website": "https://tampertech.com/",
+  "specializations": [
+    "Tamper-evident solutions for beauty and cosmetics",
+    "Tamper-evident tapes and labels",
+    "Deter tampering",
+    "Prevent contamination",
+    "Combat counterfeiting",
+    "Beauty and cosmetics packaging specialist"
+  ],
+  "certifications": [],
+  "tags": [
+    "tamper-evident",
+    "security-labels",
+    "beauty-cosmetics",
+    "contamination-prevention",
+    "anti-counterfeit",
+    "packaging-security",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Specialized in tamper-evidence for beauty industry. Offers tamper-evident tapes and labels designed to deter tampering, prevent contamination, and combat counterfeiting in beauty and cosmetics packaging. Dedicated focus on security solutions for beauty brands."
+}

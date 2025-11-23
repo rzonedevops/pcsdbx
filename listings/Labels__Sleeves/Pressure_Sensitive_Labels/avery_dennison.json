@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "avery_dennison_psl",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://label.averydennison.com/",
+  "company_name": "Avery Dennison Label and Packaging Materials",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "8080 Norton Parkway, Mentor, OH 44060, United States",
+  "country": "United States",
+  "phone": "+1-440-534-6000",
+  "email": "contact@averydennison.com",
+  "website": "https://label.averydennison.com/",
+  "specializations": [
+    "Pressure-sensitive adhesive labels",
+    "Global leader in label materials",
+    "Labels for retail environment",
+    "Extensive product range",
+    "Innovation in label technology",
+    "Beauty and personal care applications"
+  ],
+  "certifications": [],
+  "tags": [
+    "pressure-sensitive-labels",
+    "global-leader",
+    "retail-labels",
+    "beauty-labels",
+    "personal-care-labels",
+    "innovative-solutions",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Industry leader with comprehensive pressure-sensitive label solutions. Global presence with extensive product range and innovation focus. Serves global retail including beauty and personal care markets. Known for high-quality materials and advanced adhesive technologies."
+}
