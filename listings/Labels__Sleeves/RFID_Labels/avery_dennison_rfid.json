@@ -19,6 +19,15 @@
     "Retail focus",
     "Customer experience enhancement",
     "Supply chain tracking"
+  "email": "rfid@averydennison.com",
+  "website": "https://rfid.averydennison.com/",
+  "specializations": [
+    "RFID and digital ID solutions for beauty and personal care",
+    "RFID labels for seamless shopping experience",
+    "Retail-focused RFID solutions",
+    "Customer experience enhancement",
+    "Inventory management",
+    "Smart tracking technology"
   ],
   "certifications": [],
   "tags": [
@@ -29,6 +38,11 @@
     "personal-care-retail",
     "customer-experience",
     "global-leader"
+    "beauty-personal-care",
+    "retail-focus",
+    "inventory-management",
+    "global-leader",
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-23",
@@ -36,4 +50,5 @@
     "data_source": "research_labels_sleeves_2025-11-22.md"
   },
   "notes": "Global leader in RFID solutions for retail environments. Specializes in RFID labels that enable seamless shopping experiences for beauty and personal care retailers. Industry-leading technology for inventory management, anti-counterfeiting, and enhanced customer experiences."
+  "notes": "Global leader in RFID solutions for retail with focus on beauty and personal care. Enhances customer shopping experience and streamlines inventory management. Industry-leading technology for seamless retail operations."
 }

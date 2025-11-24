@@ -10,6 +10,9 @@
   "address": "13761 N. Central Expressway, Suite 403, Dallas, TX 75243, United States",
   "country": "United States",
   "phone": "+1-214-696-2160",
+  "address": "5401 W Kennedy Blvd, Suite 100, Tampa, FL 33609, United States",
+  "country": "United States",
+  "phone": "+1-813-287-0900",
   "email": "info@tampertech.com",
   "website": "https://tampertech.com/",
   "specializations": [
@@ -29,6 +32,17 @@
     "anti-counterfeit",
     "packaging-security",
     "usa-based"
+    "Beauty industry specialization"
+  ],
+  "certifications": [],
+  "tags": [
+    "security-labels",
+    "tamper-evident",
+    "beauty-cosmetics",
+    "anti-counterfeit",
+    "contamination-prevention",
+    "usa-based",
+    "specialized"
   ],
   "metadata": {
     "last_validated": "2025-11-23",
@@ -36,4 +50,5 @@
     "data_source": "research_labels_sleeves_2025-11-22.md"
   },
   "notes": "Specialized in tamper-evidence for beauty industry. Offers tamper-evident tapes and labels designed to deter tampering, prevent contamination, and combat counterfeiting in beauty and cosmetics packaging. Dedicated focus on security solutions for beauty brands."
+  "notes": "Specialized in tamper-evidence for beauty industry. Comprehensive solutions to deter tampering, prevent contamination, and combat counterfeiting. Expert focus on beauty and cosmetics packaging with proven tamper-evident technologies."
 }

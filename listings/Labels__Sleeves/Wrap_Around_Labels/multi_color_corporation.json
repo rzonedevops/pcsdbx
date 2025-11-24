@@ -1,6 +1,7 @@
 {
   "schema_version": "1.0",
   "listing_id": "multi_color_corporation_wrap_around",
+  "listing_id": "multi_color_corporation",
   "category_path": "Labels__Sleeves/Wrap_Around_Labels",
   "url": "https://www.mcclabel.com/",
   "company_name": "Multi-Color Corporation (MCC Label)",
@@ -19,6 +20,10 @@
     "Consumer connections",
     "Full-body decoration",
     "Personal care applications"
+    "Smart labels with consumer connections",
+    "Security labels",
+    "Brand protection solutions",
+    "360° decoration labels"
   ],
   "certifications": [],
   "tags": [
@@ -29,6 +34,13 @@
     "consumer-engagement",
     "global-supplier",
     "usa-based"
+    "smart-packaging",
+    "security-labels",
+    "brand-protection",
+    "consumer-connections",
+    "usa-based",
+    "major-player",
+    "global-supplier"
   ],
   "metadata": {
     "last_validated": "2025-11-23",
@@ -36,4 +48,5 @@
     "data_source": "research_labels_sleeves_2025-11-22.md"
   },
   "notes": "Major global player with smart packaging capabilities. Specializes in wrap-around labels with smart label technology for consumer connections. Comprehensive solutions for personal care and multiple industries with focus on innovation and consumer engagement."
+  "notes": "Major global player with smart packaging capabilities and consumer connection technology. Comprehensive wrap-around and security label solutions. Strong focus on brand protection and consumer engagement for personal care products."
 }

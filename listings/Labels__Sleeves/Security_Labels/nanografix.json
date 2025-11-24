@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nanografix",
+  "category_path": "Labels__Sleeves/Security_Labels",
+  "url": "https://nanografix.com/",
+  "company_name": "Nanografix",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "2620 Corporate Place, Monterey Park, CA 91754, United States",
+  "country": "United States",
+  "phone": "+1-323-278-0808",
+  "email": "info@nanografix.com",
+  "website": "https://nanografix.com/",
+  "specializations": [
+    "Anti-counterfeit labels",
+    "Brand protection solutions",
+    "In-house manufacturing",
+    "Quality and reliability focus",
+    "Authentication technologies",
+    "Counterfeit prevention"
+  ],
+  "certifications": [],
+  "tags": [
+    "security-labels",
+    "anti-counterfeit",
+    "brand-protection",
+    "authentication",
+    "in-house-manufacturing",
+    "usa-based",
+    "quality-focus"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Focus on preventing counterfeiting with in-house manufacturing for quality and reliability. Comprehensive anti-counterfeit solutions for brand protection. Advanced authentication technologies to ensure product authenticity."
+}

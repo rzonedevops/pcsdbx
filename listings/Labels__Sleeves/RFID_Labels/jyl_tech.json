@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "jyl_tech",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://www.jylrfid.com/",
+  "company_name": "JYL-Tech",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "Building A, No. 228 Guankou Road, Jimei District, Xiamen, Fujian 361021, China",
+  "country": "China",
+  "phone": "+86 592 6108815",
+  "email": "sales@jylrfid.com",
+  "website": "https://www.jylrfid.com/",
+  "specializations": [
+    "Ultra-narrow UHF RFID labels for cosmetics",
+    "RFID labels for cosmetic beauty retailers",
+    "Inventory management solutions",
+    "Customer experience enhancement",
+    "Operations streamlining",
+    "Specialized cosmetics RFID"
+  ],
+  "certifications": [],
+  "tags": [
+    "rfid-labels",
+    "ultra-narrow",
+    "uhf-rfid",
+    "cosmetics",
+    "beauty-retail",
+    "inventory-management",
+    "china-based",
+    "specialized"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Specialized ultra-narrow UHF RFID labels specifically designed for cosmetics. Focus on inventory management, customer experience enhancement, and operations streamlining for cosmetic beauty retail industry."
+}

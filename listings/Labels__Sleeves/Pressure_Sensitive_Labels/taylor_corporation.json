@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "taylor_corporation",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://www.taylor.com/",
+  "company_name": "Taylor Corporation",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "1725 Roe Crest Drive, North Mankato, MN 56003, United States",
+  "country": "United States",
+  "phone": "+1-507-625-2828",
+  "email": "info@taylorcorp.com",
+  "website": "https://www.taylor.com/",
+  "specializations": [
+    "Pressure-sensitive labeling solutions and services",
+    "Inspection tags and lot tracking",
+    "Compliance labels",
+    "Regulatory compliance focus",
+    "Traceability solutions",
+    "Distribution network support"
+  ],
+  "certifications": [],
+  "tags": [
+    "pressure-sensitive-labels",
+    "compliance-labels",
+    "lot-tracking",
+    "traceability",
+    "regulatory-focus",
+    "usa-based",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Strong focus on regulatory compliance and traceability. Specializes in inspection tags, lot tracking, and compliance labels. Distribution network support for personal care industry with emphasis on regulatory requirements."
+}

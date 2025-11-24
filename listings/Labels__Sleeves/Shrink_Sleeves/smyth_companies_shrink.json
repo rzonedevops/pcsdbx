@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "smyth_companies_shrink",
+  "category_path": "Labels__Sleeves/Shrink_Sleeves",
+  "url": "https://www.smythco.com/",
+  "company_name": "Smyth Companies",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "11600 Goldcoast Drive, Cincinnati, OH 45249, United States",
+  "country": "United States",
+  "phone": "+1-513-247-5200",
+  "email": "info@smythco.com",
+  "website": "https://www.smythco.com/",
+  "specializations": [
+    "Shrink sleeve labels for personal care",
+    "Multi-industry experience",
+    "CPG focus",
+    "Personal care and household care",
+    "Food and beverage experience",
+    "Full-body decoration"
+  ],
+  "certifications": [],
+  "tags": [
+    "shrink-sleeves",
+    "personal-care",
+    "household-care",
+    "cpg",
+    "multi-industry",
+    "usa-based",
+    "established-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Established CPG supplier with personal care expertise. Multi-industry experience across personal care, household care, food, and beverage. Strong capabilities in full-body shrink sleeve decoration."
+}

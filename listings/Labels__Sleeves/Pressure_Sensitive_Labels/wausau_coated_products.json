@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "wausau_coated_products",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://www.wausaucoated.com/",
+  "company_name": "Wausau Coated Products",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "7801 Stewart Avenue, Wausau, WI 54401, United States",
+  "country": "United States",
+  "phone": "+1-715-675-6106",
+  "email": "info@wausaucoated.com",
+  "website": "https://www.wausaucoated.com/",
+  "specializations": [
+    "Pressure-sensitive products and custom coatings",
+    "Roll and sheet labels with custom coatings",
+    "40 years of expertise",
+    "High-quality materials",
+    "Custom coating solutions",
+    "Pressure-sensitive technology"
+  ],
+  "certifications": [],
+  "tags": [
+    "pressure-sensitive-labels",
+    "custom-coatings",
+    "roll-labels",
+    "sheet-labels",
+    "40-years-expertise",
+    "usa-based",
+    "established"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Long-established expertise (40 years) in pressure-sensitive technology and custom coatings. High-quality materials with roll and sheet label capabilities. Strong focus on custom coating solutions."
+}

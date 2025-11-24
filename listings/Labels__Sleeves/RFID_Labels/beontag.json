@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "beontag",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://www.beontag.com/",
+  "company_name": "Beontag",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "Beontag GmbH & Co. KG, Moosacher Straße 84, 80809 Munich, Germany",
+  "country": "Germany",
+  "phone": "+49 89 3889990",
+  "email": "info@beontag.com",
+  "website": "https://www.beontag.com/",
+  "specializations": [
+    "RFID tags and labels for beauty and personal care",
+    "Supply-chain integrity",
+    "Distribution channel protection",
+    "RFID tracking solutions",
+    "Beauty manufacturer support",
+    "Retail RFID solutions"
+  ],
+  "certifications": [],
+  "tags": [
+    "rfid-labels",
+    "smart-tags",
+    "beauty-personal-care",
+    "supply-chain",
+    "distribution-protection",
+    "germany-based",
+    "international"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Focus on supply chain integrity and distribution channel protection for beauty and personal care. RFID solutions for manufacturers and retailers. Strong expertise in protecting distribution channels and ensuring product authenticity."
+}
