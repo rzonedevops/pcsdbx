@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "multi_color_corporation_security",
+  "category_path": "Labels__Sleeves/Security_Labels",
+  "url": "https://www.mcclabel.com/",
+  "company_name": "Multi-Color Corporation (MCC Label)",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "4053 Clough Woods Drive, Batavia, OH 45103, United States",
+  "country": "United States",
+  "phone": "+1-513-381-1480",
+  "email": "info@mcclabel.com",
+  "website": "https://www.mcclabel.com/",
+  "specializations": [
+    "Secure and anti-counterfeit labels",
+    "Brand authentication",
+    "Counterfeit protection",
+    "Transform labels into protected products",
+    "Smart security labels",
+    "Personal care brand protection"
+  ],
+  "certifications": [],
+  "tags": [
+    "security-labels",
+    "anti-counterfeit",
+    "brand-authentication",
+    "smart-security",
+    "personal-care-protection",
+    "global-supplier",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Comprehensive security solutions for brand authentication and counterfeit protection. Transforms labels into protected products with smart security features. Major global player serving personal care and multiple industries requiring authentication and brand protection."
+}

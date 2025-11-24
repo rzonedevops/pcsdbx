@@ -10,6 +10,15 @@
   "address": "8080 Norton Parkway, Mentor, OH 44060, United States",
   "country": "United States",
   "phone": "+1-440-534-6000",
+  "email": "rfid.info@averydennison.com",
+  "website": "https://rfid.averydennison.com/",
+  "specializations": [
+    "RFID and digital ID solutions",
+    "RFID labels for beauty and personal care",
+    "Seamless shopping experience",
+    "Retail focus",
+    "Customer experience enhancement",
+    "Supply chain tracking"
   "email": "rfid@averydennison.com",
   "website": "https://rfid.averydennison.com/",
   "specializations": [
@@ -25,6 +34,10 @@
     "rfid-labels",
     "smart-labels",
     "digital-id",
+    "beauty-retail",
+    "personal-care-retail",
+    "customer-experience",
+    "global-leader"
     "beauty-personal-care",
     "retail-focus",
     "inventory-management",
@@ -36,5 +49,6 @@
     "validation_method": "manual",
     "data_source": "research_labels_sleeves_2025-11-22.md"
   },
+  "notes": "Global leader in RFID solutions for retail environments. Specializes in RFID labels that enable seamless shopping experiences for beauty and personal care retailers. Industry-leading technology for inventory management, anti-counterfeiting, and enhanced customer experiences."
   "notes": "Global leader in RFID solutions for retail with focus on beauty and personal care. Enhances customer shopping experience and streamlines inventory management. Industry-leading technology for seamless retail operations."
 }

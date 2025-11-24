@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "checkpoint_systems_rfid",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://checkpointsystems.com/",
+  "company_name": "Checkpoint Systems",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "101 Wolf Drive, Thorofare, NJ 08086, United States",
+  "country": "United States",
+  "phone": "+1-856-848-1800",
+  "email": "info@checkpointsystems.com",
+  "website": "https://checkpointsystems.com/",
+  "specializations": [
+    "RFID solutions for health and beauty",
+    "RFID-enabled solutions for fragrance, cosmetics, and beauty",
+    "Anti-theft systems",
+    "Innovative packaging designs",
+    "Retail security solutions",
+    "Loss prevention for beauty retailers"
+  ],
+  "certifications": [],
+  "tags": [
+    "rfid-labels",
+    "health-and-beauty",
+    "cosmetics-security",
+    "anti-theft",
+    "loss-prevention",
+    "retail-security",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Focus on security and loss prevention for health and beauty retailers. Specializes in RFID-enabled solutions for fragrance, cosmetics, and beauty products with anti-theft systems and innovative packaging designs. Comprehensive retail security solutions for beauty industry."
+}
