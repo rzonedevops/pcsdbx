@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "vanguard_id_systems",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://vanguardid.com/",
+  "company_name": "Vanguard ID Systems",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "1910 Opdyke Court, Auburn Hills, MI 48326, United States",
+  "country": "United States",
+  "phone": "+1-248-266-0100",
+  "email": "info@vanguardid.com",
+  "website": "https://vanguardid.com/",
+  "specializations": [
+    "RFID technology and tag agnostics for beauty and wellness",
+    "High-quality personalized RFID product labels and tags",
+    "Tag agnostic technology",
+    "Personalization capabilities",
+    "Beauty and wellness focus",
+    "Custom RFID solutions"
+  ],
+  "certifications": [],
+  "tags": [
+    "rfid-labels",
+    "smart-tags",
+    "personalized-rfid",
+    "beauty-wellness",
+    "tag-agnostic",
+    "usa-based",
+    "leading-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Leading manufacturer with personalization capabilities and tag agnostic technology. Focus on beauty and wellness with high-quality personalized RFID product labels and tags. Flexible technology approach."
+}

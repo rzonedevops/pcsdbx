@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "meyers_label_company",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://meyers.com/",
+  "company_name": "Meyers Label Company",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "1600 Terrell Mill Road, Marietta, GA 30067, United States",
+  "country": "United States",
+  "phone": "+1-770-951-9208",
+  "email": "info@meyers.com",
+  "website": "https://meyers.com/",
+  "specializations": [
+    "Pressure-sensitive labels with embellishment options",
+    "Custom labels with sustainable materials",
+    "Consistent color reproduction",
+    "Scalable solutions",
+    "Beauty and personal care focus",
+    "Performance and visual impact"
+  ],
+  "certifications": [],
+  "tags": [
+    "pressure-sensitive-labels",
+    "embellishments",
+    "sustainable-materials",
+    "custom-labels",
+    "beauty-personal-care",
+    "usa-based",
+    "premium-quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Premium PSL with embellishment options and sustainable materials. Focus on performance and visual impact with consistent color reproduction. Scalable solutions for beauty, personal care, and food & beverage industries."
+}

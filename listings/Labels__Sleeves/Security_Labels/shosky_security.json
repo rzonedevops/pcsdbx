@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "shosky_security",
+  "category_path": "Labels__Sleeves/Security_Labels",
+  "url": "https://shoskysecurity.com/",
+  "company_name": "Shosky Security",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "1825 Monetary Drive, Dallas, TX 75247, United States",
+  "country": "United States",
+  "phone": "+1-972-243-4000",
+  "email": "info@shoskysecurity.com",
+  "website": "https://shoskysecurity.com/",
+  "specializations": [
+    "Tamper-evident packaging solutions for beauty products",
+    "Comprehensive tamper-evident solutions",
+    "Product safety focus",
+    "Trust building",
+    "Retail-ready solutions",
+    "Beauty product security"
+  ],
+  "certifications": [],
+  "tags": [
+    "security-labels",
+    "tamper-evident",
+    "beauty-products",
+    "product-safety",
+    "retail-ready",
+    "usa-based",
+    "trust-focus"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Focus on safety and trust for beauty brands with comprehensive tamper-evident packaging solutions. Retail-ready solutions that build consumer trust. Strong emphasis on product safety for beauty products."
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "albea",
+  "category_path": "Labels__Sleeves/Security_Labels",
+  "url": "https://www.albea-cosmetics-fragrance.com/",
+  "company_name": "Albea",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "14, rue Auguste Morel, 93200 Saint-Denis, France",
+  "country": "France",
+  "phone": "+33 1 49 46 01 00",
+  "email": "info@albea-group.com",
+  "website": "https://www.albea-cosmetics-fragrance.com/",
+  "specializations": [
+    "Tamper-evident labels for cosmetics",
+    "First proof of opening labels",
+    "Visible tamper evidence",
+    "No additional plastic required",
+    "Recyclable solutions",
+    "Sustainable tamper-evidence"
+  ],
+  "certifications": [],
+  "tags": [
+    "security-labels",
+    "tamper-evident",
+    "cosmetics",
+    "sustainable",
+    "recyclable",
+    "first-opening",
+    "france-based",
+    "eco-friendly"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Sustainable tamper-evidence solution for cosmetics and fragrance. Visible first proof of opening without additional plastic. Recyclable solutions that maintain environmental responsibility while providing security."
+}

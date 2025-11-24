@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "avery_dennison_rfid",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://rfid.averydennison.com/",
+  "company_name": "Avery Dennison RFID",
+  "status": "active",
+  "date_added": "2025-11-23",
+  "date_updated": "2025-11-23",
+  "address": "8080 Norton Parkway, Mentor, OH 44060, United States",
+  "country": "United States",
+  "phone": "+1-440-534-6000",
+  "email": "rfid@averydennison.com",
+  "website": "https://rfid.averydennison.com/",
+  "specializations": [
+    "RFID and digital ID solutions for beauty and personal care",
+    "RFID labels for seamless shopping experience",
+    "Retail-focused RFID solutions",
+    "Customer experience enhancement",
+    "Inventory management",
+    "Smart tracking technology"
+  ],
+  "certifications": [],
+  "tags": [
+    "rfid-labels",
+    "smart-labels",
+    "digital-id",
+    "beauty-personal-care",
+    "retail-focus",
+    "inventory-management",
+    "global-leader",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-23",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-22.md"
+  },
+  "notes": "Global leader in RFID solutions for retail with focus on beauty and personal care. Enhances customer shopping experience and streamlines inventory management. Industry-leading technology for seamless retail operations."
+}
