@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "seme_pack",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://semepack.com/",
+  "company_name": "Seme Pack",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://semepack.com/",
+  "specializations": [
+    "Spray bottles wholesale",
+    "Plastic and glass spray bottles",
+    "Customizable color options",
+    "Wholesale packaging solutions"
+  ],
+  "product_highlights": [
+    "Plastic and glass material options",
+    "Customizable colors",
+    "Wholesale quantities",
+    "Flexible packaging solutions"
+  ],
+  "tags": [
+    "spray-bottles",
+    "wholesale",
+    "plastic-bottles",
+    "glass-bottles",
+    "customizable",
+    "packaging",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Wholesale supplier offering both plastic and glass spray bottles with customizable color options. Provides flexible packaging solutions for various applications."
+}

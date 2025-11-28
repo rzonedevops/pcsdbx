@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cosmopacks_rollon",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://cosmopacks.com/",
+  "company_name": "Cosmopacks",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://cosmopacks.com/",
+  "specializations": [
+    "Wholesale roller bottles",
+    "Personal care roll-on packaging",
+    "Fragrance roller bottles",
+    "Aromatherapy roll-on containers"
+  ],
+  "product_highlights": [
+    "Perfect for personal care applications",
+    "Fragrance and aromatherapy focused",
+    "Wholesale quantities available",
+    "High-quality roller mechanisms"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roller-bottles",
+    "wholesale",
+    "aromatherapy",
+    "fragrance",
+    "packaging",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Wholesale supplier of roller bottles perfect for personal care, fragrance, and aromatherapy applications. Offers high-quality roller mechanisms for precise application."
+}

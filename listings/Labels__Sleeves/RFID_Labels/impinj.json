@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "impinj",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://www.impinj.com/",
+  "company_name": "Impinj",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://www.impinj.com/",
+  "specializations": [
+    "RFID solutions",
+    "RFID technology",
+    "Item intelligence",
+    "RFID platform solutions"
+  ],
+  "product_highlights": [
+    "RFID platform solutions",
+    "Item intelligence technology",
+    "Comprehensive RFID ecosystem",
+    "Advanced tracking capabilities"
+  ],
+  "tags": [
+    "rfid-labels",
+    "rfid-solutions",
+    "item-intelligence",
+    "platform-solutions",
+    "tracking-technology",
+    "packaging",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-27.md"
+  },
+  "notes": "RFID solutions and technology provider with comprehensive platform offerings. Focus on item intelligence and advanced tracking capabilities. Major player in RFID ecosystem."
+}

@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "vison_pack",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://visonpack.com/",
+  "company_name": "Vison Pack",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://visonpack.com/",
+  "specializations": [
+    "Deodorant bottle manufacturer",
+    "OEM and ODM roll-on containers",
+    "Direct shipping services",
+    "Custom roll-on manufacturing"
+  ],
+  "product_highlights": [
+    "OEM and ODM expertise",
+    "Direct shipping capabilities",
+    "Custom manufacturing services",
+    "Deodorant packaging specialization"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "deodorant-packaging",
+    "oem",
+    "odm",
+    "custom-manufacturing",
+    "packaging",
+    "personal-care",
+    "contract-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Deodorant bottle manufacturer with OEM and ODM expertise. Offers direct shipping and custom manufacturing services for roll-on containers."
+}

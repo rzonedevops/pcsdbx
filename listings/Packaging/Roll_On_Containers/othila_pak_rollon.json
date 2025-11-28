@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "othila_pak_rollon",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://othilapak.com/",
+  "company_name": "Othila Pak",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://othilapak.com/",
+  "specializations": [
+    "Roll-on bottles",
+    "Stylish roll-on packaging",
+    "Durable roll-on containers",
+    "Eco-friendly roll-on options"
+  ],
+  "product_highlights": [
+    "Stylish design options",
+    "Durable construction",
+    "Eco-friendly materials",
+    "Reliable roller ball applicators"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roller-bottles",
+    "eco-friendly",
+    "stylish-design",
+    "durable",
+    "packaging",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Supplier of stylish, durable, and eco-friendly roll-on bottles for personal care applications. Focus on sustainable packaging solutions with modern designs."
+}

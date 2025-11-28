@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sanle_plastics",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://sanleplastics.com/",
+  "company_name": "SANLE Plastics",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://sanleplastics.com/",
+  "specializations": [
+    "Custom spray bottle manufacturing",
+    "Full-service spray bottle production",
+    "500ml spray bottle options",
+    "Custom plastic bottle manufacturing"
+  ],
+  "product_highlights": [
+    "Full-service manufacturer",
+    "Custom spray bottle design and production",
+    "500ml capacity options",
+    "Comprehensive manufacturing capabilities"
+  ],
+  "tags": [
+    "spray-bottles",
+    "custom-manufacturing",
+    "full-service",
+    "plastic-bottles",
+    "packaging",
+    "personal-care",
+    "contract-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Full-service manufacturer specializing in custom spray bottle production. Offers comprehensive manufacturing capabilities with various size options including 500ml capacity."
+}

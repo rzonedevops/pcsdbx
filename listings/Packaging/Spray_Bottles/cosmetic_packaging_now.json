@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cosmetic_packaging_now",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://cosmeticpackagingnow.com/",
+  "company_name": "Cosmetic Packaging Now",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://cosmeticpackagingnow.com/",
+  "specializations": [
+    "Fine mist spray bottles",
+    "White ribbed fine mist sprayers",
+    "Wholesale cosmetic spray packaging"
+  ],
+  "product_highlights": [
+    "Fine mist sprayers for facial products",
+    "White ribbed design options",
+    "Wholesale pricing available",
+    "Quick turnaround times"
+  ],
+  "tags": [
+    "spray-bottles",
+    "fine-mist-sprayers",
+    "wholesale",
+    "cosmetics-packaging",
+    "packaging",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Wholesale supplier of fine mist spray bottles with white ribbed sprayers. Focused on cosmetic packaging with competitive wholesale pricing."
+}

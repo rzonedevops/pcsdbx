@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "saq_labels",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://saqlabels.com/",
+  "company_name": "SAQ Labels",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://saqlabels.com/",
+  "specializations": [
+    "Bulk personal care labels",
+    "Eco-friendly label materials",
+    "Organic skincare labels",
+    "Sustainable label solutions"
+  ],
+  "product_highlights": [
+    "Eco-friendly materials",
+    "Organic and skincare focus",
+    "Bulk quantities available",
+    "Sustainable label solutions"
+  ],
+  "tags": [
+    "pressure-sensitive-labels",
+    "eco-friendly",
+    "organic",
+    "sustainable",
+    "skincare-labels",
+    "bulk-labels",
+    "packaging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-27.md"
+  },
+  "notes": "Bulk personal care label supplier focused on eco-friendly materials and organic skincare labels. Strong sustainability focus with sustainable label solutions."
+}

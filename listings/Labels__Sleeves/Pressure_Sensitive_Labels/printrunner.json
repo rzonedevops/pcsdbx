@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "printrunner",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://printrunner.com/",
+  "company_name": "PrintRunner",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://printrunner.com/",
+  "specializations": [
+    "Custom label printing",
+    "Durable adhesive labels",
+    "Pressure-sensitive labels",
+    "Labels for dry surfaces"
+  ],
+  "product_highlights": [
+    "Custom label printing services",
+    "Durable adhesive",
+    "Suitable for dry surfaces",
+    "High-quality printing"
+  ],
+  "tags": [
+    "pressure-sensitive-labels",
+    "custom-printing",
+    "durable-adhesive",
+    "labels",
+    "packaging",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-27.md"
+  },
+  "notes": "Custom label printing company offering durable adhesive pressure-sensitive labels suitable for dry surfaces. Focus on high-quality printing and custom designs."
+}

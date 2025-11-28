@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "afm_sleeves",
+  "category_path": "Labels__Sleeves/Shrink_Sleeves",
+  "url": "https://afmsleeves.com/",
+  "company_name": "AFM Sleeves",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://afmsleeves.com/",
+  "specializations": [
+    "Personal care shrink sleeves",
+    "Colorful and eye-catching displays",
+    "Custom shrink sleeve design",
+    "Cosmetic shrink sleeves"
+  ],
+  "product_highlights": [
+    "Colorful and eye-catching display options",
+    "Custom design capabilities",
+    "Personal care focused",
+    "High-quality printing"
+  ],
+  "tags": [
+    "shrink-sleeves",
+    "personal-care",
+    "colorful-design",
+    "eye-catching",
+    "custom-design",
+    "packaging",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-27.md"
+  },
+  "notes": "Personal care shrink sleeve specialist offering colorful and eye-catching display options. Focus on custom design and high-quality printing for cosmetic products."
+}

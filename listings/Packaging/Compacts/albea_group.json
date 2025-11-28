@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "albea_group",
+  "category_path": "Packaging/Compacts",
+  "url": "https://albea-group.com/",
+  "company_name": "Albea Group",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://albea-group.com/",
+  "specializations": [
+    "Cosmetic powder packaging",
+    "Innovative compact designs",
+    "Responsible packaging solutions",
+    "Premium cosmetic containers"
+  ],
+  "product_highlights": [
+    "Innovative compact designs",
+    "Responsible and sustainable packaging",
+    "Premium quality compacts",
+    "Global cosmetic packaging leader"
+  ],
+  "tags": [
+    "compacts",
+    "powder-packaging",
+    "innovative-design",
+    "sustainable",
+    "premium-packaging",
+    "packaging",
+    "cosmetics",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Global leader in innovative and responsible cosmetic powder packaging. Specializes in premium compact designs with focus on sustainability and innovation."
+}

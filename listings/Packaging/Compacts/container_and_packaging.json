@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "container_and_packaging",
+  "category_path": "Packaging/Compacts",
+  "url": "https://containerandpackaging.com/",
+  "company_name": "Container & Packaging",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://containerandpackaging.com/",
+  "specializations": [
+    "Personal care packaging",
+    "Bottles, jars, and tubes",
+    "Beauty brand packaging solutions",
+    "Compact packaging options"
+  ],
+  "product_highlights": [
+    "Comprehensive packaging solutions",
+    "Bottles, jars, and tubes",
+    "Compact cases for beauty brands",
+    "Wide product selection"
+  ],
+  "tags": [
+    "compacts",
+    "personal-care-packaging",
+    "bottles",
+    "jars",
+    "tubes",
+    "packaging",
+    "beauty-brands"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Comprehensive personal care packaging supplier offering bottles, jars, tubes, and compact cases for beauty brands. Wide selection of packaging solutions."
+}
