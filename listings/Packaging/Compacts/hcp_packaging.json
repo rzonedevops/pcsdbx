@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "hcp_packaging",
+  "category_path": "Packaging/Compacts",
+  "url": "https://hcpackaging.com/",
+  "company_name": "HCP Packaging",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://hcpackaging.com/",
+  "specializations": [
+    "Cosmetics and skincare packaging",
+    "Compact cases",
+    "Mascara packaging",
+    "Lip gloss containers",
+    "Comprehensive beauty packaging"
+  ],
+  "product_highlights": [
+    "Leading supplier of cosmetic compacts",
+    "Mascara and lip gloss expertise",
+    "Complete beauty packaging solutions",
+    "High-quality compact cases"
+  ],
+  "tags": [
+    "compacts",
+    "cosmetics-packaging",
+    "mascara",
+    "lip-gloss",
+    "beauty-packaging",
+    "packaging",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Leading supplier of cosmetics and skincare packaging including compact cases, mascara, and lip gloss containers. Comprehensive beauty packaging solutions provider."
+}

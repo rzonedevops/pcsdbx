@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "supremex",
+  "category_path": "Labels__Sleeves/Pressure_Sensitive_Labels",
+  "url": "https://supremex.com/",
+  "company_name": "SupremeX",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://supremex.com/",
+  "specializations": [
+    "Custom pressure-sensitive labels",
+    "Premium materials and adhesives",
+    "High-quality label manufacturing"
+  ],
+  "product_highlights": [
+    "Premium materials",
+    "High-quality adhesives",
+    "Custom PSL solutions",
+    "Superior label construction"
+  ],
+  "tags": [
+    "pressure-sensitive-labels",
+    "premium-materials",
+    "high-quality-adhesives",
+    "custom-labels",
+    "packaging",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-27.md"
+  },
+  "notes": "Premium pressure-sensitive label manufacturer using high-quality materials and adhesives. Focus on superior label construction and custom solutions."
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pag_packaging",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://pagpackaging.com/",
+  "company_name": "PAG Packaging",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://pagpackaging.com/",
+  "specializations": [
+    "Mist spray bottles",
+    "BPA-free PET spray bottles",
+    "Contamination-prevention spray systems",
+    "Personal care spray packaging"
+  ],
+  "product_highlights": [
+    "BPA-free PET material",
+    "Prevents product contamination",
+    "Suitable for toners and setting sprays",
+    "Safe and hygienic spray solutions"
+  ],
+  "tags": [
+    "spray-bottles",
+    "mist-sprayers",
+    "bpa-free",
+    "pet-material",
+    "packaging",
+    "personal-care",
+    "contamination-prevention"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Offers BPA-free PET mist spray bottles that prevent contamination. Ideal for personal care applications requiring hygiene and product integrity."
+}

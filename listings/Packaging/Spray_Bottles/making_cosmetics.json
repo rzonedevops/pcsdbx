@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "making_cosmetics",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://makingcosmetics.com/",
+  "company_name": "Making Cosmetics",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://makingcosmetics.com/",
+  "specializations": [
+    "Makeup and cosmetics spray bottles",
+    "Variety of sizes and colors",
+    "Multiple functionality options",
+    "Cosmetic packaging solutions"
+  ],
+  "product_highlights": [
+    "Wide variety of sizes and colors",
+    "Multiple spray functionality options",
+    "Specialized for cosmetics applications",
+    "Comprehensive product selection"
+  ],
+  "tags": [
+    "spray-bottles",
+    "cosmetics-packaging",
+    "variety",
+    "colors",
+    "packaging",
+    "makeup",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Comprehensive supplier of cosmetic spray bottles with variety of sizes, colors, and functionalities. Specialized in makeup and cosmetics applications."
+}

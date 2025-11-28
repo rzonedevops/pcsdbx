@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sunrange_pack",
+  "category_path": "Packaging/Compacts",
+  "url": "https://sunrangepack.com/",
+  "company_name": "Sunrange Pack",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://sunrangepack.com/",
+  "specializations": [
+    "Cosmetic and makeup packaging",
+    "Airless bottles",
+    "Jars and compacts",
+    "Lipstick tubes",
+    "Comprehensive cosmetic packaging"
+  ],
+  "product_highlights": [
+    "Airless bottles and jars",
+    "Compact cases with mirrors",
+    "Lipstick tubes",
+    "Wide range of cosmetic packaging"
+  ],
+  "tags": [
+    "compacts",
+    "cosmetics-packaging",
+    "airless-bottles",
+    "jars",
+    "lipstick-tubes",
+    "packaging",
+    "makeup"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Comprehensive cosmetic and makeup packaging supplier offering airless bottles, jars, compacts, and lipstick tubes. Provides complete packaging solutions for beauty brands."
+}

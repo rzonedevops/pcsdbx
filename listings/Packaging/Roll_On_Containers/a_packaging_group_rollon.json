@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "a_packaging_group_rollon",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://apackaginggroup.com/",
+  "company_name": "A Packaging Group",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://apackaginggroup.com/",
+  "specializations": [
+    "Airless roller ball applicator",
+    "Advanced roll-on technology",
+    "Contamination protection",
+    "Precision roller ball systems"
+  ],
+  "product_highlights": [
+    "Airless roller ball technology",
+    "Contamination protection",
+    "Precision application",
+    "Game-changing beauty packaging",
+    "Advanced preservation technology"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "airless-technology",
+    "precision-applicator",
+    "contamination-protection",
+    "packaging",
+    "personal-care",
+    "advanced-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Advanced packaging supplier offering airless roller ball applicators with contamination protection. Game-changing technology for beauty routines with precision roller balls. Ideal for premium skincare and serum applications."
+}

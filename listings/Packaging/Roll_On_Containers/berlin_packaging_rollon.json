@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "berlin_packaging_rollon",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://berlinpackaging.com/",
+  "company_name": "Berlin Packaging",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://berlinpackaging.com/",
+  "specializations": [
+    "3 oz roll-on deodorant bottles",
+    "HDPE roll-on bottles",
+    "Frosted roller balls",
+    "Deodorant packaging solutions"
+  ],
+  "product_highlights": [
+    "3 oz capacity deodorant bottles",
+    "HDPE material construction",
+    "Frosted roller ball design",
+    "Professional deodorant packaging"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "deodorant-packaging",
+    "hdpe-bottles",
+    "frosted-design",
+    "packaging",
+    "personal-care",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Major packaging supplier offering 3 oz HDPE roll-on deodorant bottles with frosted roller balls. Professional-grade deodorant packaging solutions."
+}

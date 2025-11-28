@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "omi_natural",
+  "category_path": "Packaging/Compacts",
+  "url": "https://ominatural.com/",
+  "company_name": "Omi Natural",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://ominatural.com/",
+  "specializations": [
+    "Compact powder cases",
+    "Premium compact designs",
+    "Custom compact packaging"
+  ],
+  "product_highlights": [
+    "Premium compact powder cases",
+    "Custom design options",
+    "High-quality construction",
+    "Natural and organic product focus"
+  ],
+  "tags": [
+    "compacts",
+    "powder-packaging",
+    "premium-packaging",
+    "custom-design",
+    "natural-products",
+    "packaging",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Premium compact powder case supplier with custom design capabilities. Focus on natural and organic product packaging."
+}

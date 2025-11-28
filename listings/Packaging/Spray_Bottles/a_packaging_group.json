@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "a_packaging_group",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://apackaginggroup.com/",
+  "company_name": "A Packaging Group",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://apackaginggroup.com/",
+  "specializations": [
+    "Continuous spray pumps",
+    "Powder spray systems",
+    "Fine mist sprayers",
+    "Airless spray solutions",
+    "Comprehensive sprayer solutions"
+  ],
+  "product_highlights": [
+    "Continuous spray technology",
+    "Fine mist spray options",
+    "Airless spray pumps",
+    "Powder spray capabilities",
+    "Full range of spray solutions"
+  ],
+  "tags": [
+    "spray-bottles",
+    "continuous-spray",
+    "fine-mist",
+    "airless-spray",
+    "powder-spray",
+    "packaging",
+    "personal-care",
+    "advanced-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Comprehensive spray packaging supplier offering advanced spray technologies including continuous, fine mist, airless, and powder spray solutions. Provides full range of sprayer options for various personal care applications."
+}

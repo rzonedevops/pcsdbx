@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "orange_products",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://orangeproducts.com/",
+  "company_name": "Orange Products",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://orangeproducts.com/",
+  "specializations": [
+    "Roll-on packaging",
+    "Deodorant roll-on containers",
+    "Perfume roll-on bottles",
+    "Complete roll-on packaging solutions"
+  ],
+  "product_highlights": [
+    "Complete roll-on packaging systems",
+    "Deodorant applications",
+    "Perfume and fragrance options",
+    "Comprehensive product range"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "deodorant-packaging",
+    "perfume-bottles",
+    "packaging",
+    "personal-care",
+    "complete-solutions"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Complete roll-on packaging supplier specializing in deodorant and perfume applications. Offers comprehensive roll-on solutions for various personal care products."
+}

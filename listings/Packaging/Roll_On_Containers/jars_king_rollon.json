@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "jars_king_rollon",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://jarsking.com/",
+  "company_name": "Jars King",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://jarsking.com/",
+  "specializations": [
+    "Roll-on bottle manufacturer",
+    "Premium glass and plastic roll-on bottles",
+    "Custom roll-on packaging options",
+    "High-quality roller ball applicators"
+  ],
+  "product_highlights": [
+    "Premium glass and plastic materials",
+    "Custom design options",
+    "Reliable roller ball mechanisms",
+    "Wide range of sizes"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roller-bottles",
+    "premium-packaging",
+    "glass-bottles",
+    "plastic-bottles",
+    "customizable",
+    "packaging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Premium roll-on bottle manufacturer offering both glass and plastic options with custom design capabilities. Known for reliable roller ball mechanisms and quality construction."
+}

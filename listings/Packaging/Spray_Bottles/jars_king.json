@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "jars_king",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://jarsking.com/",
+  "company_name": "Jars King",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://jarsking.com/",
+  "specializations": [
+    "Premium spray bottles",
+    "Reliable spray packaging solutions",
+    "Sustainable spray bottle options",
+    "Customizable spray packaging"
+  ],
+  "product_highlights": [
+    "Premium quality spray bottles",
+    "Reliable spray mechanisms",
+    "Sustainable material options",
+    "Customizable design capabilities",
+    "Wide range of sizes and styles"
+  ],
+  "tags": [
+    "spray-bottles",
+    "premium-packaging",
+    "sustainable",
+    "customizable",
+    "packaging",
+    "personal-care",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Premium spray bottle manufacturer offering reliable, sustainable, and customizable solutions for personal care and cosmetics brands."
+}

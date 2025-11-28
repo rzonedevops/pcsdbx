@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "somewang_compacts",
+  "category_path": "Packaging/Compacts",
+  "url": "https://somewang.com/",
+  "company_name": "Somewang",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://somewang.com/",
+  "specializations": [
+    "Powder case manufacturer",
+    "Pressed powder compacts",
+    "Blusher compacts",
+    "Eyeshadow cases",
+    "Various compact types"
+  ],
+  "product_highlights": [
+    "Multiple compact types",
+    "Pressed powder cases",
+    "Blusher and eyeshadow compacts",
+    "Quality manufacturing"
+  ],
+  "tags": [
+    "compacts",
+    "powder-packaging",
+    "blusher-compacts",
+    "eyeshadow-cases",
+    "packaging",
+    "cosmetics",
+    "manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Manufacturer of various compact types including pressed powder, blusher, and eyeshadow cases. Offers comprehensive compact packaging solutions."
+}

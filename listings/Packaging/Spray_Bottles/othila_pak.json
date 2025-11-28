@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "othila_pak",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://othilapak.com/",
+  "company_name": "Othila Pak",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://othilapak.com/",
+  "specializations": [
+    "Fine mist spray bottles",
+    "Pump spray bottles",
+    "High-quality spray bottle solutions",
+    "Stylish and eco-friendly spray packaging",
+    "Custom spray bottle design"
+  ],
+  "product_highlights": [
+    "Fine mist sprayers for facial toners",
+    "Pump sprayers for body sprays",
+    "Eco-friendly material options",
+    "Stylish and modern designs",
+    "Customizable spray bottle solutions"
+  ],
+  "tags": [
+    "spray-bottles",
+    "fine-mist-sprayers",
+    "pump-sprayers",
+    "eco-friendly",
+    "packaging",
+    "personal-care",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Supplier of high-quality, stylish, and eco-friendly spray bottle options for personal care and cosmetics. Offers fine mist and pump spray solutions suitable for toners, setting sprays, and body products."
+}

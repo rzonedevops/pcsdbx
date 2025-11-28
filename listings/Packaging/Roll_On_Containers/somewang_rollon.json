@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "somewang_rollon",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://somewang.com/",
+  "company_name": "Somewang",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://somewang.com/",
+  "specializations": [
+    "Deodorant containers",
+    "Glass roll-on bottles",
+    "Leak-proof roll-on design",
+    "Roll-on bottle manufacturing"
+  ],
+  "product_highlights": [
+    "Glass roll-on bottles",
+    "Leak-proof design",
+    "Deodorant applications",
+    "Quality manufacturing"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "glass-bottles",
+    "leak-proof",
+    "deodorant-packaging",
+    "packaging",
+    "personal-care",
+    "quality-manufacturing"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_new_packaging_categories_2025-11-27.md"
+  },
+  "notes": "Manufacturer of glass roll-on bottles with leak-proof design. Specialized in deodorant containers with focus on quality and reliability."
+}

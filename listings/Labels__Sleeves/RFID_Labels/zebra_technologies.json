@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "zebra_technologies",
+  "category_path": "Labels__Sleeves/RFID_Labels",
+  "url": "https://www.zebra.com/",
+  "company_name": "Zebra Technologies",
+  "status": "active",
+  "date_added": "2025-11-28",
+  "date_updated": "2025-11-28",
+  "website": "https://www.zebra.com/",
+  "specializations": [
+    "RFID label manufacturing",
+    "RFID solutions",
+    "Product tracking technology",
+    "Supply chain RFID systems"
+  ],
+  "product_highlights": [
+    "Comprehensive RFID solutions",
+    "Label manufacturing expertise",
+    "Product tracking capabilities",
+    "Supply chain integration"
+  ],
+  "tags": [
+    "rfid-labels",
+    "tracking-technology",
+    "supply-chain",
+    "product-tracking",
+    "packaging",
+    "major-player",
+    "technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-28",
+    "validation_method": "manual",
+    "data_source": "research_labels_sleeves_2025-11-27.md"
+  },
+  "notes": "Major RFID label manufacturing and solutions provider. Comprehensive RFID technology for product tracking and supply chain management. Industry leader in RFID solutions."
+}
