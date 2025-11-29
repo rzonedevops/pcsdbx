@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1803,
+  "listing_id": "zenpack",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Packaging_Consulting/zenpack/",
+  "company_name": "Zenpack",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.zenpack.us",
+  "country": "United States",
+  "specializations": [
+    "Packaging strategy and consulting",
+    "Design optimization",
+    "Environmental impact assessment",
+    "Distribution and logistics analysis",
+    "Material selection consulting",
+    "Regulatory compliance guidance"
+  ],
+  "product_highlights": [
+    "Comprehensive packaging strategy development",
+    "Environmental impact and sustainability analysis",
+    "Distribution optimization for cosmetics packaging",
+    "Material selection expertise for beauty products",
+    "End-to-end consulting from concept to production"
+  ],
+  "tags": [
+    "packaging-consulting",
+    "design-optimization",
+    "environmental-impact",
+    "material-selection",
+    "north-america",
+    "sustainability-focus",
+    "compliance-guidance"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Zenpack offers comprehensive packaging consulting services with focus on design, environmental impact, distribution, and material selection. Their end-to-end approach helps cosmetics brands optimize packaging from concept through production while ensuring regulatory compliance and environmental sustainability."
+}

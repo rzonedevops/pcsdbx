@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "eas_consulting_auditing",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/eas_consulting_auditing/",
+  "company_name": "EAS Consulting Group - Auditing Services",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.easconsultinggroup.com",
+  "country": "United States",
+  "specializations": [
+    "Regulatory auditing",
+    "FDA compliance audits",
+    "EU regulatory compliance",
+    "GMP auditing",
+    "Regulatory strategy development",
+    "Pre-inspection preparation",
+    "Compliance gap analysis"
+  ],
+  "product_highlights": [
+    "Specialized FDA and EU regulatory compliance audits",
+    "Expert GMP auditing for cosmetics manufacturers",
+    "Regulatory strategy and compliance gap analysis",
+    "Pre-inspection preparation and support",
+    "Practical, implementable audit recommendations"
+  ],
+  "tags": [
+    "auditing-services",
+    "regulatory-audits",
+    "fda-compliance",
+    "eu-compliance",
+    "north-america",
+    "gmp-auditing",
+    "pre-inspection-prep"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "EAS Consulting Group specializes in regulatory auditing for cosmetics manufacturers with focus on FDA and EU compliance. They provide expert GMP audits, compliance gap analysis, and pre-inspection preparation to help manufacturers identify and address regulatory issues before official inspections. Their practical approach delivers implementable recommendations."
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1790,
+  "listing_id": "sgs_auditing",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/sgs_auditing/",
+  "company_name": "SGS - Auditing Services",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.sgs.com",
+  "country": "Global",
+  "specializations": [
+    "Cosmetics testing and auditing",
+    "Product testing integration",
+    "Regulatory compliance audits",
+    "Quality system certification",
+    "Supplier auditing",
+    "GMP compliance verification",
+    "ISO certification audits"
+  ],
+  "product_highlights": [
+    "Global leader in testing, inspection, and certification",
+    "Comprehensive cosmetics auditing services",
+    "Integration of product testing with regulatory audits",
+    "Quality system certification and compliance verification",
+    "Extensive global network and industry expertise"
+  ],
+  "tags": [
+    "auditing-services",
+    "testing-integration",
+    "regulatory-compliance",
+    "quality-certification",
+    "major-player",
+    "global-supplier",
+    "gmp-auditing"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 17025"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "SGS is a global leader in testing, inspection, and certification with extensive cosmetics industry experience. They provide comprehensive auditing services including regulatory compliance audits, quality system certification, and supplier assessments. SGS can integrate auditing with their product testing services for complete quality assurance solutions."
+}
