@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kemutec",
+  "category_path": "Equipment/Vacuum_Emulsifiers",
+  "url": "https://www.kemutec.com",
+  "company_name": "Kemutec",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "United Kingdom, Global operations",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
+  "website": "https://www.kemutec.com",
+  "specializations": [
+    "Mixing and processing solutions",
+    "Powder processing",
+    "Emulsification equipment",
+    "Complete systems integration",
+    "Process engineering",
+    "Custom equipment design",
+    "Installation and commissioning"
+  ],
+  "certifications": [],
+  "tags": [
+    "vacuum-emulsifiers",
+    "mixing-solutions",
+    "powder-processing",
+    "systems-integration",
+    "process-engineering",
+    "custom-design",
+    "uk-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Comprehensive provider of mixing and processing solutions including vacuum emulsification equipment for cosmetics. Specializes in powder processing and complete systems integration. Offers custom equipment design with full installation and commissioning support."
+}

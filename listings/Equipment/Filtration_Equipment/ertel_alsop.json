@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ertel_alsop",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.ertelalsop.com",
+  "company_name": "Ertel Alsop",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.ertelalsop.com",
+  "specializations": [
+    "Cosmetic filtration",
+    "Laboratory filters",
+    "Plate and frame filters",
+    "Haze removal",
+    "Clarity enhancement",
+    "Custom filtration solutions",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "cosmetic-filtration",
+    "laboratory-filters",
+    "plate-frame-filters",
+    "haze-removal",
+    "clarity-enhancement",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Specialized cosmetic filtration provider offering laboratory and plate/frame filters for haze removal and clarity enhancement. Provides custom filtration solutions tailored to cosmetics manufacturing requirements. Known for technical support and expertise in cosmetic product filtration."
+}

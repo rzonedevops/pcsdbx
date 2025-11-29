@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pall_corporation",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.pall.com",
+  "company_name": "Pall Corporation",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.pall.com",
+  "specializations": [
+    "Life sciences filtration",
+    "Cosmetics filtration",
+    "Purification systems",
+    "Membrane filtration",
+    "Process solutions",
+    "Quality assurance",
+    "Global service"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "life-sciences",
+    "cosmetics-filtration",
+    "purification-systems",
+    "membrane-filtration",
+    "process-solutions",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Global filtration leader providing comprehensive life sciences and cosmetics filtration solutions. Offers membrane filtration and purification systems with process expertise. Known for quality assurance capabilities and extensive global service network."
+}

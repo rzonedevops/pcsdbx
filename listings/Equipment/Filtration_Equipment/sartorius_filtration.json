@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sartorius_filtration",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.sartorius.com",
+  "company_name": "Sartorius",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Germany, Global operations",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sartorius.com",
+  "specializations": [
+    "Filtration and separation",
+    "Membrane filtration",
+    "Depth filtration",
+    "Laboratory to production scale",
+    "Quality control",
+    "Process development",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "membrane-filtration",
+    "depth-filtration",
+    "scalable-systems",
+    "quality-control",
+    "process-development",
+    "german-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "German filtration specialist offering comprehensive membrane and depth filtration solutions from laboratory to production scale. Provides quality control and process development support for cosmetics manufacturing. Known for technical expertise and reliable filtration systems."
+}

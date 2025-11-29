@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "feldmeier_equipment",
+  "category_path": "Equipment/Tanks",
+  "url": "https://www.feldmeier.com",
+  "company_name": "Feldmeier Equipment",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.feldmeier.com",
+  "specializations": [
+    "Stainless steel tanks",
+    "Custom tank design",
+    "Cosmetics applications",
+    "Process vessels",
+    "Sanitary design",
+    "Engineering expertise",
+    "Quality fabrication"
+  ],
+  "certifications": [],
+  "tags": [
+    "tanks-storage",
+    "stainless-steel",
+    "custom-design",
+    "cosmetics-applications",
+    "process-vessels",
+    "sanitary-design",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Specialized stainless steel tank manufacturer with expertise in custom tank design for cosmetics applications. Provides process vessels with sanitary design meeting cosmetics industry standards. Known for engineering expertise and quality fabrication."
+}

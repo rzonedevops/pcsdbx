@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "alfa_laval_thermal",
+  "category_path": "Equipment/Heating_Cooling_Systems",
+  "url": "https://www.alfalaval.com",
+  "company_name": "Alfa Laval",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Sweden",
+  "phone": "",
+  "email": "",
+  "website": "https://www.alfalaval.com",
+  "specializations": [
+    "Heat transfer solutions",
+    "Plate heat exchangers",
+    "Thermal processing equipment",
+    "Process cooling",
+    "Energy-efficient systems",
+    "Custom thermal solutions",
+    "Global service network"
+  ],
+  "certifications": [],
+  "tags": [
+    "heating-cooling",
+    "heat-exchangers",
+    "thermal-processing",
+    "process-cooling",
+    "energy-efficient",
+    "custom-solutions",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Global leader in heat transfer solutions including plate heat exchangers and thermal processing equipment for cosmetics industry. Provides energy-efficient process cooling and heating systems. Offers custom thermal solutions backed by extensive global service network."
+}

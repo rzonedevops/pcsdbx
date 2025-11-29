@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "thermal_equipment_corp",
+  "category_path": "Equipment/Heating_Cooling_Systems",
+  "url": "https://www.thermalequipment.com",
+  "company_name": "Thermal Equipment Corporation",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.thermalequipment.com",
+  "specializations": [
+    "Custom thermal solutions",
+    "Heating equipment",
+    "Cooling equipment",
+    "Temperature control",
+    "Process heating and cooling",
+    "Engineering design",
+    "Installation and service"
+  ],
+  "certifications": [],
+  "tags": [
+    "heating-cooling",
+    "custom-thermal-solutions",
+    "temperature-control",
+    "process-equipment",
+    "engineering-design",
+    "installation-service",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Custom thermal solutions provider offering comprehensive heating and cooling equipment for cosmetics manufacturing. Provides temperature control and process heating/cooling systems with engineering design support. Offers complete installation and ongoing service for thermal equipment."
+}

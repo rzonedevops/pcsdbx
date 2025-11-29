@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "snyder_industries",
+  "category_path": "Equipment/Tanks",
+  "url": "https://www.snyder-industries.com",
+  "company_name": "Snyder Industries",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.snyder-industries.com",
+  "specializations": [
+    "Plastic tanks and containers",
+    "Bulk storage solutions",
+    "Chemical resistance",
+    "Polyethylene tanks",
+    "Custom configurations",
+    "Cost-effective solutions",
+    "Wide capacity range"
+  ],
+  "certifications": [],
+  "tags": [
+    "tanks-storage",
+    "plastic-tanks",
+    "bulk-storage",
+    "chemical-resistance",
+    "polyethylene",
+    "custom-configurations",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Leading plastic tank manufacturer offering bulk storage solutions with excellent chemical resistance for cosmetics ingredients. Provides polyethylene tanks in custom configurations and wide capacity range. Known for cost-effective solutions and reliable quality."
+}
