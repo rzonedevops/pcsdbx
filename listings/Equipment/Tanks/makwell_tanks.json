@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makwell_tanks",
+  "category_path": "Equipment/Tanks",
+  "url": "https://www.makwellmachine.com",
+  "company_name": "Makwell",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "China, Global operations",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makwellmachine.com",
+  "specializations": [
+    "Mixing tanks and vessels",
+    "Customizable designs",
+    "Flexible capacity options",
+    "Stainless steel construction",
+    "Integrated mixing systems",
+    "Quality manufacturing",
+    "Global service"
+  ],
+  "certifications": [],
+  "tags": [
+    "tanks-storage",
+    "mixing-tanks",
+    "customizable-designs",
+    "flexible-capacity",
+    "stainless-steel",
+    "integrated-systems",
+    "china-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Manufacturer of mixing tanks and vessels with customizable designs and flexible capacity options for cosmetics production. Provides stainless steel construction with integrated mixing systems. Offers quality manufacturing with global service support."
+}

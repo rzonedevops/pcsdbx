@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "huhtamaki_tubes",
+  "category_path": "Packaging/Tubes",
+  "url": "https://www.huhtamaki.com",
+  "company_name": "Huhtamaki",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Finland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.huhtamaki.com",
+  "specializations": [
+    "Sustainable tube packaging",
+    "Plastic tubes",
+    "Laminate tubes",
+    "Sustainable materials",
+    "Design innovation",
+    "Circular economy solutions",
+    "Global service"
+  ],
+  "certifications": [],
+  "tags": [
+    "tubes",
+    "sustainable-packaging",
+    "plastic-tubes",
+    "laminate-tubes",
+    "sustainable-materials",
+    "design-innovation",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_tubes_expansion_2025-11-29.md"
+  },
+  "notes": "Global packaging leader offering sustainable tube solutions with focus on environmentally-friendly materials and design innovation. Provides plastic and laminate tubes with circular economy approach. Known for commitment to sustainability and material innovation in cosmetics packaging."
+}

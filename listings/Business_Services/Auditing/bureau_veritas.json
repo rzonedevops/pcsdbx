@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bureau_veritas",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://www.bureauveritas.com",
+  "company_name": "Bureau Veritas",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.bureauveritas.com",
+  "specializations": [
+    "Compliance and auditing",
+    "Regulatory audits",
+    "Quality system certification",
+    "Compliance verification",
+    "ISO certification",
+    "GMP audits",
+    "Supply chain compliance"
+  ],
+  "certifications": [],
+  "tags": [
+    "auditing",
+    "compliance-verification",
+    "regulatory-audits",
+    "quality-certification",
+    "iso-certification",
+    "gmp-audits",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Global leader in testing, inspection and certification with comprehensive cosmetics compliance services. Provides regulatory audits, quality system certification, and compliance verification across multiple markets. Specializes in ISO and GMP audits for cosmetics manufacturing facilities."
+}

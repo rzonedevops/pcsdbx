@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sustainable_packaging_coalition",
+  "category_path": "Business_Services/Sustainability_Consulting",
+  "url": "https://www.sustainablepackaging.org",
+  "company_name": "Sustainable Packaging Coalition",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "United States",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sustainablepackaging.org",
+  "specializations": [
+    "Packaging sustainability consulting",
+    "How2Recycle labeling program",
+    "Circular economy packaging",
+    "Material selection guidance",
+    "Sustainability metrics and measurement",
+    "Industry collaboration and standards",
+    "Best practices development"
+  ],
+  "certifications": [],
+  "tags": [
+    "sustainability-consulting",
+    "packaging-sustainability",
+    "how2recycle",
+    "circular-economy",
+    "material-selection",
+    "industry-standards",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Leading packaging sustainability organization offering consulting services and the widely-adopted How2Recycle labeling system. Provides guidance on circular economy packaging design and material selection. Facilitates industry collaboration to develop and advance sustainable packaging best practices and standards."
+}

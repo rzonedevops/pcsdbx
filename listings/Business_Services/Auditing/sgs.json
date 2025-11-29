@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sgs",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://www.sgs.com",
+  "company_name": "SGS",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sgs.com",
+  "specializations": [
+    "Cosmetics testing and auditing",
+    "Product testing",
+    "Regulatory compliance audits",
+    "Quality audits",
+    "Supply chain audits",
+    "Certification services",
+    "Safety assessments"
+  ],
+  "certifications": [],
+  "tags": [
+    "auditing",
+    "cosmetics-testing",
+    "product-testing",
+    "regulatory-compliance",
+    "quality-audits",
+    "supply-chain-audits",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "World's leading testing, inspection and certification company with deep cosmetics industry expertise. Provides comprehensive product testing, regulatory compliance audits, and quality system verification. Offers end-to-end supply chain audits and safety assessments for cosmetics brands."
+}

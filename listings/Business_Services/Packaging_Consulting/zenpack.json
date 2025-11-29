@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "zenpack",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://www.zenpack.us",
+  "company_name": "Zenpack",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.zenpack.us",
+  "specializations": [
+    "Packaging strategy consulting",
+    "Environmental impact assessment",
+    "Distribution optimization",
+    "Material selection guidance",
+    "Regulatory compliance support",
+    "Design innovation",
+    "Cost-benefit analysis"
+  ],
+  "certifications": [],
+  "tags": [
+    "packaging-consulting",
+    "strategy-development",
+    "environmental-impact",
+    "material-selection",
+    "regulatory-compliance",
+    "design-innovation",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Comprehensive packaging consulting firm offering strategic analysis from design through distribution. Specializes in environmental impact assessment and material selection for cosmetics packaging. Provides regulatory compliance support and cost-benefit analysis to optimize packaging decisions."
+}

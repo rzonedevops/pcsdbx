@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "essel_propack",
+  "category_path": "Packaging/Tubes",
+  "url": "https://www.esselpropack.com",
+  "company_name": "Essel Propack",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "India, Global operations",
+  "country": "India",
+  "phone": "",
+  "email": "",
+  "website": "https://www.esselpropack.com",
+  "specializations": [
+    "Tube packaging solutions",
+    "Plastic tubes",
+    "Laminate tubes",
+    "Aluminum tubes",
+    "Precision engineering",
+    "Customization expertise",
+    "Global presence"
+  ],
+  "certifications": [],
+  "tags": [
+    "tubes",
+    "plastic-tubes",
+    "laminate-tubes",
+    "aluminum-tubes",
+    "precision-engineering",
+    "customization",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_tubes_expansion_2025-11-29.md"
+  },
+  "notes": "Global leader in tube packaging with precision engineering capabilities across plastic, laminate, and aluminum tubes. Offers extensive customization expertise for cosmetics brands. Known for innovation and global manufacturing presence serving major beauty brands worldwide."
+}

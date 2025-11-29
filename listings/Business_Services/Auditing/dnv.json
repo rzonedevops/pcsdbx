@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dnv",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://www.dnv.com",
+  "company_name": "DNV",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Norway",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dnv.com",
+  "specializations": [
+    "Compliance and certification",
+    "Management system audits",
+    "ISO certification",
+    "Quality audits",
+    "Supply chain assurance",
+    "Sustainability verification",
+    "Risk management audits"
+  ],
+  "certifications": [],
+  "tags": [
+    "auditing",
+    "compliance-certification",
+    "management-systems",
+    "iso-certification",
+    "quality-audits",
+    "sustainability-verification",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Global quality assurance and risk management company providing comprehensive certification and auditing services. Offers management system audits, ISO certification, and supply chain assurance for cosmetics manufacturers. Specializes in sustainability verification and risk management audits."
+}

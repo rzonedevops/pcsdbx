@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "graco_filtration",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.graco.com",
+  "company_name": "Graco",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.graco.com",
+  "specializations": [
+    "Fluid transfer and filtration",
+    "Pump and filter systems",
+    "Cosmetics processing",
+    "Integrated solutions",
+    "Process equipment",
+    "Quality assurance",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "fluid-transfer",
+    "pump-filter-systems",
+    "cosmetics-processing",
+    "integrated-solutions",
+    "process-equipment",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Comprehensive fluid handling equipment provider offering integrated pump and filter systems for cosmetics processing. Provides fluid transfer and filtration solutions with process equipment expertise. Known for quality assurance and reliable technical support for cosmetics manufacturing."
+}

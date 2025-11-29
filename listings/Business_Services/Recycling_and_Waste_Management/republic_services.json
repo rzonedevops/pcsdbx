@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "republic_services",
+  "category_path": "Business_Services/Recycling_and_Waste_Management",
+  "url": "https://www.republicservices.com",
+  "company_name": "Republic Services",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.republicservices.com",
+  "specializations": [
+    "Waste management and recycling",
+    "Industrial waste services",
+    "Sustainability programs",
+    "Recycling solutions",
+    "Waste stream optimization",
+    "Environmental services",
+    "Landfill diversion"
+  ],
+  "certifications": [],
+  "tags": [
+    "waste-management",
+    "recycling",
+    "industrial-waste",
+    "sustainability-programs",
+    "waste-optimization",
+    "environmental-services",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Major national waste management provider offering comprehensive industrial waste services and recycling programs. Specializes in waste stream optimization and landfill diversion strategies for manufacturers. Provides sustainability-focused programs to reduce environmental impact of cosmetics production."
+}

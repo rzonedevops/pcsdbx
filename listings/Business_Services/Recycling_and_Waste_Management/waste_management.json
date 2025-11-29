@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "waste_management",
+  "category_path": "Business_Services/Recycling_and_Waste_Management",
+  "url": "https://www.wm.com",
+  "company_name": "Waste Management (WM)",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.wm.com",
+  "specializations": [
+    "Healthcare and industrial waste",
+    "Hazardous waste disposal",
+    "Recycling programs",
+    "Sustainability strategies",
+    "Waste reduction consulting",
+    "Environmental services",
+    "Compliance management"
+  ],
+  "certifications": [],
+  "tags": [
+    "waste-management",
+    "industrial-waste",
+    "hazardous-waste",
+    "recycling-programs",
+    "sustainability-strategies",
+    "environmental-services",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Leading national waste management provider with extensive infrastructure and healthcare/industrial waste expertise. Offers comprehensive hazardous waste disposal and recycling programs tailored to cosmetics manufacturing. Provides sustainability strategy consulting and waste reduction programs."
+}

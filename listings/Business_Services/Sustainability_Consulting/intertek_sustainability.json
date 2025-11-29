@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "intertek_sustainability",
+  "category_path": "Business_Services/Sustainability_Consulting",
+  "url": "https://www.intertek.com",
+  "company_name": "Intertek",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
+  "website": "https://www.intertek.com",
+  "specializations": [
+    "Cosmetics sustainability consulting",
+    "Environmental impact assessment",
+    "Sustainability auditing",
+    "Compliance verification",
+    "Product testing and certification",
+    "Carbon footprint analysis",
+    "Sustainability reporting"
+  ],
+  "certifications": [],
+  "tags": [
+    "sustainability-consulting",
+    "cosmetics-auditing",
+    "environmental-assessment",
+    "compliance-verification",
+    "product-testing",
+    "carbon-footprint",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Full-service provider offering both sustainability consulting and auditing services for cosmetics industry. Combines environmental impact assessment with compliance verification and product testing. Global network enables comprehensive support for brands operating in multiple markets."
+}

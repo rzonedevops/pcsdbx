@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "mcf_environmental",
+  "category_path": "Business_Services/Recycling_and_Waste_Management",
+  "url": "https://www.mcfenvironmental.com",
+  "company_name": "MCF Environmental Services",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.mcfenvironmental.com",
+  "specializations": [
+    "Hazardous waste disposal",
+    "Compliance-driven waste management",
+    "Chemical waste disposal",
+    "EPA compliance",
+    "Waste characterization",
+    "Environmental consulting",
+    "Regulatory support"
+  ],
+  "certifications": [],
+  "tags": [
+    "waste-management",
+    "hazardous-waste",
+    "compliance-driven",
+    "chemical-disposal",
+    "epa-compliance",
+    "environmental-consulting",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Specialized hazardous waste disposal provider for chemical-intensive industries including cosmetics manufacturing. Offers compliance-driven waste management with focus on EPA regulatory requirements. Provides waste characterization services and environmental consulting for proper disposal."
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "filtrox",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.filtrox.com",
+  "company_name": "Filtrox",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Switzerland, Global operations",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.filtrox.com",
+  "specializations": [
+    "Depth filtration for life sciences",
+    "Cosmetics filtration",
+    "Natural extracts filtration",
+    "Advanced filter media",
+    "Process optimization",
+    "Quality assurance",
+    "Global support"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "depth-filtration",
+    "cosmetics-filtration",
+    "natural-extracts",
+    "filter-media",
+    "process-optimization",
+    "swiss-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Swiss filtration specialist offering depth filtration specifically for cosmetics and natural product extracts. Provides advanced filter media and process optimization for cosmetics manufacturing. Known for quality assurance expertise and global support network."
+}

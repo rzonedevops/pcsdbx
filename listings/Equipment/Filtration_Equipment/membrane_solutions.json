@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "membrane_solutions",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.membsol.com",
+  "company_name": "Membrane Solutions",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.membsol.com",
+  "specializations": [
+    "Membrane filtration",
+    "Custom filtration systems",
+    "Cosmetics applications",
+    "Ultrafiltration",
+    "Microfiltration",
+    "Process engineering",
+    "Technical consultation"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "membrane-filtration",
+    "custom-systems",
+    "cosmetics-applications",
+    "ultrafiltration",
+    "microfiltration",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Specialized membrane filtration provider offering custom systems for cosmetics applications. Provides ultrafiltration and microfiltration solutions with process engineering expertise. Offers technical consultation for optimal filtration system design and implementation."
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "spx_corporation",
+  "category_path": "Equipment/Heating_Cooling_Systems",
+  "url": "https://www.spx.com",
+  "company_name": "SPX Corporation",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.spx.com",
+  "specializations": [
+    "Thermal processing equipment",
+    "Heating systems",
+    "Cooling systems",
+    "Sterilization systems",
+    "Process engineering",
+    "Industrial solutions",
+    "Global support"
+  ],
+  "certifications": [],
+  "tags": [
+    "heating-cooling",
+    "thermal-processing",
+    "sterilization-systems",
+    "process-engineering",
+    "industrial-solutions",
+    "global-support",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Major industrial equipment provider offering comprehensive thermal processing equipment for cosmetics manufacturing. Provides heating, cooling, and sterilization systems with process engineering expertise. Delivers industrial-scale solutions with global support capabilities."
+}

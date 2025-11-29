@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lienm_tanks",
+  "category_path": "Equipment/Tanks",
+  "url": "https://www.lienm.com",
+  "company_name": "Lienm",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "China, Global operations",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lienm.com",
+  "specializations": [
+    "Cosmetics manufacturing equipment",
+    "Mixing tanks with vacuum systems",
+    "Integrated heating and cooling",
+    "Stainless steel tanks",
+    "Custom capacity options",
+    "Quality construction",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "tanks-storage",
+    "mixing-tanks",
+    "vacuum-systems",
+    "heating-cooling",
+    "stainless-steel",
+    "custom-capacity",
+    "china-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Comprehensive cosmetics equipment manufacturer offering mixing tanks with vacuum systems and integrated heating/cooling. Provides stainless steel tanks with custom capacity options from laboratory to production scale. Known for quality construction and reliable technical support."
+}

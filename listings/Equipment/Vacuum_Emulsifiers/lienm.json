@@ -2,11 +2,35 @@
   "schema_version": "1.0",
   "listing_id": "lienm",
   "category_path": "Equipment/Vacuum_Emulsifiers",
+  "url": "https://www.lienm.com",
   "url": "https://lienm.com/",
   "company_name": "LIENM",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "China, Global operations",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lienm.com",
+  "specializations": [
+    "Vacuum emulsifying machines",
+    "High-speed homogenizing",
+    "PLC control systems",
+    "Flexible capacity options",
+    "Cosmetics manufacturing equipment",
+    "Custom emulsifier designs",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "vacuum-emulsifiers",
+    "high-speed-homogenizing",
+    "plc-control",
+    "flexible-capacity",
+    "cosmetics-equipment",
+    "custom-designs",
+    "china-manufacturer"
   "website": "https://lienm.com/",
   "specializations": [
     "Vacuum emulsifying mixer manufacturers",
@@ -38,6 +62,9 @@
   "metadata": {
     "last_validated": "2025-11-29",
     "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Leading Chinese manufacturer of vacuum emulsifying machines with extensive cosmetics industry experience. Offers high-speed homogenizing equipment with PLC control systems and flexible capacity options. Provides custom emulsifier designs and comprehensive technical support for global clients."
     "data_source": "research_critical_gaps_2025-11-28.md"
   },
   "notes": "USA-based manufacturer of vacuum emulsifying mixers with innovative solutions for cosmetics and food industries. Specializes in custom emulsification systems and reliable, high-performance equipment for professional cosmetics production."

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "life_cycle_associates",
+  "category_path": "Business_Services/Sustainability_Consulting",
+  "url": "https://www.lifecycleassociates.com",
+  "company_name": "Life Cycle Associates",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "California, United States",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lifecycleassociates.com",
+  "specializations": [
+    "Beauty & Fashion Sustainability",
+    "ESG compliance consulting",
+    "Carbon neutrality strategy",
+    "Life cycle assessment (LCA) analysis",
+    "Packaging environmental assessment",
+    "Clean beauty verification",
+    "Sustainability reporting"
+  ],
+  "certifications": [],
+  "tags": [
+    "sustainability-consulting",
+    "beauty-fashion",
+    "esg-compliance",
+    "carbon-neutrality",
+    "lca-analysis",
+    "packaging-assessment",
+    "clean-beauty",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Specializes in beauty and fashion industry sustainability consulting with deep expertise in ESG compliance and carbon neutrality strategies. Offers comprehensive LCA analysis and packaging assessment services tailored to cosmetics brands. Focuses on verified sustainability claims to combat greenwashing."
+}
