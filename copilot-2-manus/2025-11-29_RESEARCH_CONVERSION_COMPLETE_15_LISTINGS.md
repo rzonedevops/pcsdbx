@@ -31,7 +31,7 @@ I'm absolutely thrilled to report that I've successfully converted your research
 - ✅ YZ Zhitong
 - ✅ Immay Auto
 - ✅ Misceo
-- ✅ LIENM Cosmetic Mixing
+- ✅ Ginhong
 
 ### Key Achievements
 
