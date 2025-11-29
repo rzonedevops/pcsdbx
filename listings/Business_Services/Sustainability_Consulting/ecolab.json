@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ecolab",
+  "category_path": "Business_Services/Sustainability_Consulting",
+  "url": "https://www.ecolab.com",
+  "company_name": "Ecolab",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.ecolab.com",
+  "specializations": [
+    "Personal care sustainability solutions",
+    "Water conservation strategies",
+    "Energy efficiency optimization",
+    "Waste reduction programs",
+    "Sustainable manufacturing practices",
+    "Environmental compliance",
+    "Clean-in-place systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "sustainability-consulting",
+    "personal-care",
+    "water-conservation",
+    "energy-efficiency",
+    "waste-reduction",
+    "manufacturing-optimization",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Global leader in sustainability solutions for personal care manufacturing with emphasis on water conservation and energy efficiency. Provides comprehensive programs for waste reduction and sustainable manufacturing practices. Extensive experience in clean-in-place systems and environmental compliance for cosmetics production."
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sharps_compliance",
+  "category_path": "Business_Services/Recycling_and_Waste_Management",
+  "url": "https://www.sharpsinc.com",
+  "company_name": "Sharps Compliance",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sharpsinc.com",
+  "specializations": [
+    "Medical and hazardous waste",
+    "Custom waste solutions",
+    "Compliance management",
+    "Transparent pricing",
+    "Nationwide service",
+    "Waste tracking and reporting",
+    "Safety-focused programs"
+  ],
+  "certifications": [],
+  "tags": [
+    "waste-management",
+    "hazardous-waste",
+    "custom-solutions",
+    "compliance-management",
+    "transparent-pricing",
+    "nationwide-service",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Specialized provider of custom waste solutions for medical and hazardous waste with transparent pricing model. Offers nationwide service with comprehensive waste tracking and reporting. Emphasizes compliance management and safety-focused programs for cosmetics manufacturing."
+}

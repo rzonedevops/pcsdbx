@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "eurofins_auditing",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://www.eurofins.com",
+  "company_name": "Eurofins",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Luxembourg",
+  "phone": "",
+  "email": "",
+  "website": "https://www.eurofins.com",
+  "specializations": [
+    "Cosmetics testing and auditing",
+    "Product testing",
+    "Regulatory compliance verification",
+    "Quality assurance audits",
+    "Safety assessments",
+    "Laboratory testing",
+    "Analytical services"
+  ],
+  "certifications": [],
+  "tags": [
+    "auditing",
+    "cosmetics-testing",
+    "product-testing",
+    "regulatory-compliance",
+    "quality-assurance",
+    "safety-assessments",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Global scientific services leader offering comprehensive cosmetics testing and auditing services. Provides product testing, regulatory compliance verification, and quality assurance audits. Combines laboratory testing with safety assessments and analytical services for complete quality verification."
+}

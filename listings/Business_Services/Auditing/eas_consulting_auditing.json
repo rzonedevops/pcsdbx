@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "eas_consulting_auditing",
+  "category_path": "Business_Services/Auditing",
+  "url": "https://www.easconsultinggroup.com",
+  "company_name": "EAS Consulting Group",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.easconsultinggroup.com",
+  "specializations": [
+    "Regulatory auditing",
+    "FDA compliance audits",
+    "EU compliance audits",
+    "Regulatory strategy",
+    "Mock FDA inspections",
+    "GMP audits",
+    "Documentation reviews"
+  ],
+  "certifications": [],
+  "tags": [
+    "auditing",
+    "regulatory-compliance",
+    "fda-audits",
+    "eu-compliance",
+    "gmp-audits",
+    "mock-inspections",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Specialized regulatory auditing firm with deep FDA and EU cosmetics compliance expertise. Provides mock FDA inspections, GMP audits, and comprehensive documentation reviews. Offers strategic regulatory guidance to help brands prepare for and pass regulatory inspections."
+}

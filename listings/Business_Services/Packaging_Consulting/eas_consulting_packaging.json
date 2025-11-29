@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "eas_consulting_packaging",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://www.easconsultinggroup.com",
+  "company_name": "EAS Consulting Group",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.easconsultinggroup.com",
+  "specializations": [
+    "Regulatory packaging compliance",
+    "FDA packaging guidance",
+    "EU packaging requirements",
+    "Labeling compliance",
+    "Claims substantiation",
+    "Packaging design consulting",
+    "Multi-market compliance strategy"
+  ],
+  "certifications": [],
+  "tags": [
+    "packaging-consulting",
+    "regulatory-compliance",
+    "fda-guidance",
+    "eu-requirements",
+    "labeling-compliance",
+    "claims-substantiation",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Bridges regulatory compliance and packaging design for cosmetics industry. Provides expert guidance on FDA and EU packaging requirements, labeling compliance, and claims substantiation. Offers strategic multi-market compliance approach to streamline global packaging development."
+}

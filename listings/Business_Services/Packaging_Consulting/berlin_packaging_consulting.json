@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "berlin_packaging_consulting",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://www.berlinpackaging.com",
+  "company_name": "Berlin Packaging",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Europe, North America",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.berlinpackaging.com",
+  "specializations": [
+    "Packaging solutions consulting",
+    "Material selection expertise",
+    "Sustainability consulting",
+    "Cost analysis and optimization",
+    "Supply chain integration",
+    "Custom packaging development",
+    "Technical packaging support"
+  ],
+  "certifications": [],
+  "tags": [
+    "packaging-consulting",
+    "material-selection",
+    "sustainability",
+    "cost-analysis",
+    "supply-chain",
+    "custom-development",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Full-service packaging supplier offering comprehensive consulting services including material selection and sustainability analysis. Combines technical expertise with cost optimization and supply chain integration. Provides custom packaging development and ongoing technical support for cosmetics brands."
+}

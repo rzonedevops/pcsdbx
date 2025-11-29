@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lek_consulting_packaging",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://www.lek.com",
+  "company_name": "L.E.K. Consulting",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lek.com",
+  "specializations": [
+    "Packaging industry consulting",
+    "Strategic analysis",
+    "Market trends evaluation",
+    "Cost optimization strategies",
+    "Competitive positioning",
+    "Global market intelligence",
+    "M&A advisory"
+  ],
+  "certifications": [],
+  "tags": [
+    "packaging-consulting",
+    "strategic-analysis",
+    "market-trends",
+    "cost-optimization",
+    "competitive-intelligence",
+    "global-operations",
+    "beauty-industry"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Global strategic consulting firm with deep packaging industry expertise and beauty sector focus. Provides comprehensive market trend analysis, cost optimization strategies, and competitive positioning guidance. Offers M&A advisory and global market intelligence for packaging decisions."
+}

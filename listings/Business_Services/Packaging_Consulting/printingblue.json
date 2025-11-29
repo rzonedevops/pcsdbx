@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "printingblue",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://www.printingblue.com",
+  "company_name": "Printingblue",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Europe, Global operations",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
+  "website": "https://www.printingblue.com",
+  "specializations": [
+    "Cosmetic packaging design",
+    "Custom packaging development",
+    "Design consultancy services",
+    "Luxury finishes and techniques",
+    "Brand identity packaging",
+    "Premium packaging solutions",
+    "Creative design services"
+  ],
+  "certifications": [],
+  "tags": [
+    "packaging-consulting",
+    "cosmetic-packaging",
+    "custom-design",
+    "luxury-finishes",
+    "brand-identity",
+    "premium-packaging",
+    "european-market"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Specialized cosmetic packaging design consultancy offering custom development and luxury finishing techniques. Focuses on premium packaging solutions that enhance brand identity. Expert in creative design services and high-end packaging for beauty and personal care products."
+}
