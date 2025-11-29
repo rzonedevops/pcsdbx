@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1804,
   "listing_id": "covanta",
   "category_path": "Business_Services/Recycling_and_Waste_Management",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Recycling_and_Waste_Management/covanta/",
+  "url": "https://www.covanta.com",
   "company_name": "Covanta",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.covanta.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.covanta.com",
   "specializations": [
     "Waste-to-energy solutions",
-    "Recycling services",
-    "Sustainable waste management",
-    "Material recovery",
-    "Energy generation from waste",
-    "Environmental services"
+    "Recycling programs",
+    "Industrial waste management",
+    "Energy recovery",
+    "Material recovery facilities",
+    "Sustainability consulting",
+    "Zero waste programs"
   ],
-  "product_highlights": [
-    "Innovative waste-to-energy technology for sustainable disposal",
-    "Advanced recycling and material recovery programs",
-    "Energy generation from non-recyclable waste",
-    "Comprehensive environmental services for manufacturers",
-    "Sustainability-focused waste management solutions"
-  ],
+  "certifications": [],
   "tags": [
     "waste-management",
     "waste-to-energy",
-    "recycling-services",
-    "sustainability-focus",
-    "north-america",
+    "recycling",
+    "energy-recovery",
     "material-recovery",
-    "environmental-services"
+    "sustainability",
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Covanta provides innovative waste-to-energy solutions that convert non-recyclable waste into clean energy. Their sustainable approach to waste management helps cosmetics manufacturers reduce landfill waste while generating renewable energy. Covanta also offers comprehensive recycling and material recovery services to maximize resource efficiency."
+  "notes": "Innovative waste management provider specializing in waste-to-energy solutions and advanced recycling programs. Operates material recovery facilities and energy recovery systems for industrial waste. Offers sustainability consulting and zero waste programs for cosmetics manufacturers."
 }

@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1809,
   "listing_id": "spx_corporation",
   "category_path": "Equipment/Heating_Cooling_Systems",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/spx_corporation/",
+  "url": "https://www.spx.com",
   "company_name": "SPX Corporation",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
   "website": "https://www.spx.com",
-  "country": "Global",
   "specializations": [
     "Thermal processing equipment",
-    "Heating and cooling systems",
-    "Sterilization equipment",
-    "Process equipment integration",
-    "Industrial thermal solutions",
-    "Custom engineering"
+    "Heating systems",
+    "Cooling systems",
+    "Sterilization systems",
+    "Process engineering",
+    "Industrial solutions",
+    "Global support"
   ],
-  "product_highlights": [
-    "Major industrial thermal processing equipment supplier",
-    "Comprehensive heating, cooling, and sterilization systems",
-    "Process equipment integration for cosmetics manufacturing",
-    "Custom engineering solutions for specific needs",
-    "Global support and service network"
-  ],
+  "certifications": [],
   "tags": [
     "heating-cooling",
     "thermal-processing",
-    "sterilization",
-    "major-player",
-    "global-supplier",
-    "process-integration",
-    "custom-engineering"
+    "sterilization-systems",
+    "process-engineering",
+    "industrial-solutions",
+    "global-support",
+    "usa-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "SPX Corporation is a major industrial equipment supplier with comprehensive thermal processing solutions. Their heating, cooling, and sterilization systems serve cosmetics manufacturers with process equipment integration and custom engineering capabilities. SPX provides global support through an extensive service network."
+  "notes": "Major industrial equipment provider offering comprehensive thermal processing equipment for cosmetics manufacturing. Provides heating, cooling, and sterilization systems with process engineering expertise. Delivers industrial-scale solutions with global support capabilities."
 }

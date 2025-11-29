@@ -1,45 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1807,
   "listing_id": "ellen_macarthur_foundation",
   "category_path": "Business_Services/Sustainability_Consulting",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Sustainability_Consulting/ellen_macarthur_foundation/",
+  "url": "https://www.ellenmacarthurfoundation.org",
   "company_name": "Ellen MacArthur Foundation",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "United Kingdom, Global operations",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
   "website": "https://www.ellenmacarthurfoundation.org",
-  "country": "Global",
   "specializations": [
     "Circular economy consulting",
-    "Sustainable business model transformation",
-    "Product design for circularity",
-    "Material flow optimization",
-    "Circular economy strategy development",
-    "Industry collaboration for circular solutions",
-    "New Plastics Economy initiatives"
+    "Business model transformation",
+    "Plastics packaging redesign",
+    "Innovation acceleration",
+    "Systems thinking approach",
+    "Global commitments and frameworks",
+    "Industry collaboration"
   ],
-  "product_highlights": [
-    "Global thought leader in circular economy principles",
-    "Comprehensive frameworks for circular business models",
-    "Focus on systems-level transformation",
-    "Strong emphasis on plastics and packaging circularity",
-    "Cross-industry collaboration and knowledge sharing"
-  ],
+  "certifications": [],
   "tags": [
     "sustainability-consulting",
     "circular-economy",
     "business-transformation",
-    "design-for-circularity",
-    "global-thought-leader",
-    "systems-thinking",
-    "plastics-economy",
-    "industry-collaboration"
+    "packaging-redesign",
+    "innovation-acceleration",
+    "global-frameworks",
+    "systems-thinking"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "The Ellen MacArthur Foundation is a global thought leader in circular economy principles and consulting. They work with cosmetics brands to develop circular business models, redesign products for circularity, and optimize material flows. Their New Plastics Economy initiative specifically addresses packaging sustainability challenges in the beauty industry, bringing together brands, suppliers, and policymakers to accelerate the transition to a circular economy for plastics."
+  "notes": "World-leading circular economy organization providing consulting on business model transformation and packaging redesign. Convenes global commitments like the New Plastics Economy initiative. Helps cosmetics brands transition to circular models through systems thinking and innovation acceleration programs."
 }

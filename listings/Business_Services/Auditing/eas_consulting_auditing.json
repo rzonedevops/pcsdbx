@@ -1,44 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1790,
   "listing_id": "eas_consulting_auditing",
   "category_path": "Business_Services/Auditing",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/eas_consulting_auditing/",
-  "company_name": "EAS Consulting Group - Auditing Services",
+  "url": "https://www.easconsultinggroup.com",
+  "company_name": "EAS Consulting Group",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.easconsultinggroup.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.easconsultinggroup.com",
   "specializations": [
     "Regulatory auditing",
     "FDA compliance audits",
-    "EU regulatory compliance",
-    "GMP auditing",
-    "Regulatory strategy development",
-    "Pre-inspection preparation",
-    "Compliance gap analysis"
+    "EU compliance audits",
+    "Regulatory strategy",
+    "Mock FDA inspections",
+    "GMP audits",
+    "Documentation reviews"
   ],
-  "product_highlights": [
-    "Specialized FDA and EU regulatory compliance audits",
-    "Expert GMP auditing for cosmetics manufacturers",
-    "Regulatory strategy and compliance gap analysis",
-    "Pre-inspection preparation and support",
-    "Practical, implementable audit recommendations"
-  ],
+  "certifications": [],
   "tags": [
-    "auditing-services",
-    "regulatory-audits",
-    "fda-compliance",
+    "auditing",
+    "regulatory-compliance",
+    "fda-audits",
     "eu-compliance",
-    "north-america",
-    "gmp-auditing",
-    "pre-inspection-prep"
+    "gmp-audits",
+    "mock-inspections",
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "EAS Consulting Group specializes in regulatory auditing for cosmetics manufacturers with focus on FDA and EU compliance. They provide expert GMP audits, compliance gap analysis, and pre-inspection preparation to help manufacturers identify and address regulatory issues before official inspections. Their practical approach delivers implementable recommendations."
+  "notes": "Specialized regulatory auditing firm with deep FDA and EU cosmetics compliance expertise. Provides mock FDA inspections, GMP audits, and comprehensive documentation reviews. Offers strategic regulatory guidance to help brands prepare for and pass regulatory inspections."
 }

@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1809,
   "listing_id": "stan_mech",
   "category_path": "Equipment/Heating_Cooling_Systems",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/stan_mech/",
+  "url": "https://www.stanmech.com",
   "company_name": "Stan Mech",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.stanmech.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.stanmech.com",
   "specializations": [
     "Heat systems for cosmetics",
-    "Melting and warming equipment",
-    "Drying systems",
-    "Sterilization solutions",
-    "Thermal processing equipment",
+    "Melting equipment",
+    "Warming systems",
+    "Drying solutions",
+    "Sterilization equipment",
+    "Thermal processing",
     "Custom heating solutions"
   ],
-  "product_highlights": [
-    "Comprehensive thermal processing solutions for cosmetics",
-    "Melting, warming, and drying equipment",
-    "Sterilization and sanitation heating systems",
-    "Custom heating solutions for specific applications",
-    "Integration with cosmetics manufacturing processes"
-  ],
+  "certifications": [],
   "tags": [
     "heating-systems",
-    "thermal-processing",
     "melting-equipment",
+    "warming-systems",
+    "drying-solutions",
     "sterilization",
-    "north-america",
-    "custom-solutions",
-    "cosmetics-manufacturing"
+    "thermal-processing",
+    "usa-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Stan Mech offers comprehensive thermal processing solutions for cosmetics manufacturing including melting, warming, drying, and sterilization equipment. Their heat systems are designed specifically for cosmetics applications, providing custom solutions to meet unique manufacturing requirements."
+  "notes": "Comprehensive provider of heat systems for cosmetics manufacturing including melting, warming, drying, and sterilization equipment. Offers thermal processing solutions tailored to cosmetics production needs. Provides custom heating solutions with engineering support for optimal performance."
 }

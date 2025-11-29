@@ -1,48 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1790,
   "listing_id": "tuv_rheinland",
   "category_path": "Business_Services/Auditing",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/tuv_rheinland/",
+  "url": "https://www.tuv.com",
   "company_name": "TÜV Rheinland",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
   "website": "https://www.tuv.com",
-  "country": "Global",
   "specializations": [
     "Certification and auditing",
-    "Quality management system audits",
+    "Quality management audits",
+    "Product certification",
     "ISO certification",
-    "Product safety audits",
-    "Regulatory compliance verification",
-    "Supply chain auditing",
-    "Environmental management audits"
+    "Safety testing",
+    "Regulatory compliance",
+    "Management system certification"
   ],
-  "product_highlights": [
-    "Global leader in certification and auditing services",
-    "Comprehensive quality management system audits",
-    "ISO and product safety certification expertise",
-    "Regulatory compliance and supply chain auditing",
-    "Environmental management and sustainability audits"
-  ],
+  "certifications": [],
   "tags": [
-    "auditing-services",
+    "auditing",
     "certification",
-    "iso-audits",
     "quality-management",
-    "major-player",
-    "global-supplier",
-    "environmental-audits"
-  ],
-  "certifications": [
-    "ISO 9001",
-    "ISO 14001"
+    "product-certification",
+    "iso-certification",
+    "safety-testing",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "TÜV Rheinland is a global leader in certification and auditing services with extensive cosmetics industry experience. They provide comprehensive quality management system audits, ISO certification, and regulatory compliance verification. TÜV Rheinland also offers environmental management audits to support sustainability and compliance initiatives."
+  "notes": "German technical services leader providing comprehensive certification and auditing for cosmetics industry. Offers quality management audits, product certification, and ISO certification services. Specializes in safety testing and management system certification with global recognition."
 }

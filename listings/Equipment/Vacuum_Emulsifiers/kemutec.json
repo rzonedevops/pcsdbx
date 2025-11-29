@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1808,
   "listing_id": "kemutec",
   "category_path": "Equipment/Vacuum_Emulsifiers",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Vacuum_Emulsifiers/kemutec/",
+  "url": "https://www.kemutec.com",
   "company_name": "Kemutec",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "United Kingdom, Global operations",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
   "website": "https://www.kemutec.com",
-  "country": "United States",
   "specializations": [
     "Mixing and processing solutions",
-    "Powder and liquid processing",
-    "Emulsification systems",
-    "Cosmetics and personal care equipment",
+    "Powder processing",
+    "Emulsification equipment",
+    "Complete systems integration",
     "Process engineering",
-    "Equipment integration"
+    "Custom equipment design",
+    "Installation and commissioning"
   ],
-  "product_highlights": [
-    "Comprehensive mixing and processing solutions",
-    "Specialized powder and liquid processing equipment",
-    "Advanced emulsification systems for cosmetics",
-    "Process engineering expertise and support",
-    "Equipment integration for complete production lines"
-  ],
+  "certifications": [],
   "tags": [
     "vacuum-emulsifiers",
     "mixing-solutions",
-    "powder-liquid-processing",
-    "cosmetics-equipment",
-    "north-america",
+    "powder-processing",
+    "systems-integration",
     "process-engineering",
-    "equipment-integration"
+    "custom-design",
+    "uk-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Kemutec provides comprehensive mixing and processing solutions for the cosmetics industry, with expertise in both powder and liquid processing. Their emulsification systems are designed for cosmetics and personal care applications, supported by process engineering expertise and equipment integration capabilities for complete production line solutions."
+  "notes": "Comprehensive provider of mixing and processing solutions including vacuum emulsification equipment for cosmetics. Specializes in powder processing and complete systems integration. Offers custom equipment design with full installation and commissioning support."
 }

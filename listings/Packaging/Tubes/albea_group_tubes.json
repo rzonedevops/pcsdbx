@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "albea_group_tubes",
+  "category_path": "Packaging/Tubes",
+  "url": "https://www.albeagroup.com",
+  "company_name": "Albea Group",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Europe, Global operations",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.albeagroup.com",
+  "specializations": [
+    "Cosmetic tube packaging",
+    "Plastic tubes",
+    "Laminate tubes",
+    "Aluminum tubes",
+    "Innovative designs",
+    "Sustainability focus",
+    "Global manufacturing"
+  ],
+  "certifications": [],
+  "tags": [
+    "tubes",
+    "plastic-tubes",
+    "laminate-tubes",
+    "aluminum-tubes",
+    "innovative-designs",
+    "sustainability",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_tubes_expansion_2025-11-29.md"
+  },
+  "notes": "Leading global cosmetic packaging supplier offering comprehensive tube solutions including plastic, laminate, and aluminum tubes. Known for innovative designs and strong sustainability focus. Provides global manufacturing capabilities with extensive cosmetics industry experience."
+}

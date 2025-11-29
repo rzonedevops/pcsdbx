@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "immay_auto",
+  "category_path": "Equipment/Vacuum_Emulsifiers",
+  "url": "https://immay-auto.com/",
+  "company_name": "Immay Auto",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://immay-auto.com/",
+  "specializations": [
+    "Vacuum homogenizer mixers for cosmetic cream",
+    "Sun cream production equipment",
+    "Foundation manufacturing systems",
+    "Lip balm production equipment",
+    "Mascara manufacturing systems"
+  ],
+  "product_highlights": [
+    "Vacuum homogenizer mixers",
+    "Sun cream production",
+    "Foundation manufacturing",
+    "Lip balm equipment",
+    "Mascara production systems",
+    "Complete production solutions"
+  ],
+  "tags": [
+    "vacuum-emulsifiers",
+    "homogenizer-mixers",
+    "cosmetic-cream",
+    "sun-cream",
+    "foundation-equipment",
+    "lip-balm",
+    "mascara-equipment"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Supplier of vacuum homogenizer mixers for cosmetic cream production including sun cream, foundation, lip balm, and mascara. Provides complete production solutions."
+}

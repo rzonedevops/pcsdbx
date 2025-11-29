@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1809,
   "listing_id": "thermal_equipment_corp",
   "category_path": "Equipment/Heating_Cooling_Systems",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/thermal_equipment_corp/",
+  "url": "https://www.thermalequipment.com",
   "company_name": "Thermal Equipment Corporation",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.thermalequipment.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.thermalequipment.com",
   "specializations": [
     "Custom thermal solutions",
-    "Industrial heating systems",
-    "Process cooling equipment",
-    "Temperature control systems",
-    "Thermal processing expertise",
-    "Engineering and support"
+    "Heating equipment",
+    "Cooling equipment",
+    "Temperature control",
+    "Process heating and cooling",
+    "Engineering design",
+    "Installation and service"
   ],
-  "product_highlights": [
-    "Custom thermal solutions for unique manufacturing needs",
-    "Industrial heating and cooling systems expertise",
-    "Process temperature control equipment",
-    "Comprehensive thermal processing capabilities",
-    "Engineering support and system optimization"
-  ],
+  "certifications": [],
   "tags": [
     "heating-cooling",
     "custom-thermal-solutions",
-    "industrial-systems",
     "temperature-control",
-    "north-america",
-    "engineering-support",
-    "process-equipment"
+    "process-equipment",
+    "engineering-design",
+    "installation-service",
+    "usa-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Thermal Equipment Corporation specializes in custom thermal solutions for industrial manufacturing including cosmetics. Their expertise in heating, cooling, and temperature control systems helps manufacturers optimize thermal processes with engineering support and system design tailored to specific applications."
+  "notes": "Custom thermal solutions provider offering comprehensive heating and cooling equipment for cosmetics manufacturing. Provides temperature control and process heating/cooling systems with engineering design support. Offers complete installation and ongoing service for thermal equipment."
 }

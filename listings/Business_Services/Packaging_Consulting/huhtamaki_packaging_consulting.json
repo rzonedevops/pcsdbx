@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "huhtamaki_packaging_consulting",
+  "category_path": "Business_Services/Packaging_Consulting",
+  "url": "https://www.huhtamaki.com",
+  "company_name": "Huhtamaki",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Finland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.huhtamaki.com",
+  "specializations": [
+    "Packaging innovation consulting",
+    "Sustainable packaging design",
+    "Circular economy solutions",
+    "Material innovation",
+    "Consumer insights",
+    "Technical packaging development",
+    "Lifecycle assessment"
+  ],
+  "certifications": [],
+  "tags": [
+    "packaging-consulting",
+    "innovation",
+    "sustainable-design",
+    "circular-economy",
+    "material-innovation",
+    "consumer-insights",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_business_services_expansion_2025-11-29.md"
+  },
+  "notes": "Global packaging leader offering innovation consulting with focus on sustainable design and circular economy solutions. Provides material innovation expertise and consumer insights to guide packaging development. Combines lifecycle assessment with technical development support for cosmetics packaging."
+}

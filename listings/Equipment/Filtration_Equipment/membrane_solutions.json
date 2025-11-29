@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1810,
   "listing_id": "membrane_solutions",
   "category_path": "Equipment/Filtration_Equipment",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Filtration_Equipment/membrane_solutions/",
+  "url": "https://www.membsol.com",
   "company_name": "Membrane Solutions",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.membsol.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.membsol.com",
   "specializations": [
-    "Membrane filtration systems",
-    "Custom filtration solutions",
+    "Membrane filtration",
+    "Custom filtration systems",
     "Cosmetics applications",
-    "Process filtration equipment",
-    "Purification systems",
-    "Technical consulting"
+    "Ultrafiltration",
+    "Microfiltration",
+    "Process engineering",
+    "Technical consultation"
   ],
-  "product_highlights": [
-    "Custom membrane filtration systems for cosmetics",
-    "Specialized filtration solutions for unique applications",
-    "Process filtration and purification expertise",
-    "Cosmetics-specific filtration technology",
-    "Technical consulting and system design support"
-  ],
+  "certifications": [],
   "tags": [
     "filtration-equipment",
     "membrane-filtration",
-    "custom-solutions",
+    "custom-systems",
     "cosmetics-applications",
-    "north-america",
-    "purification-systems",
-    "technical-consulting"
+    "ultrafiltration",
+    "microfiltration",
+    "usa-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Membrane Solutions specializes in custom membrane filtration systems for cosmetics applications. Their process filtration and purification expertise helps manufacturers develop tailored filtration solutions for specific needs, supported by technical consulting and system design services."
+  "notes": "Specialized membrane filtration provider offering custom systems for cosmetics applications. Provides ultrafiltration and microfiltration solutions with process engineering expertise. Offers technical consultation for optimal filtration system design and implementation."
 }

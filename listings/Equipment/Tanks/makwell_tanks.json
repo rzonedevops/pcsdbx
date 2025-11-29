@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1801,
   "listing_id": "makwell_tanks",
   "category_path": "Equipment/Tanks",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Tanks/makwell_tanks/",
-  "company_name": "Makwell - Mixing Tanks & Vessels",
+  "url": "https://www.makwellmachine.com",
+  "company_name": "Makwell",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.makwellmachine.com",
+  "address": "China, Global operations",
   "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makwellmachine.com",
   "specializations": [
     "Mixing tanks and vessels",
-    "Customizable tank designs",
-    "Flexible capacity systems",
-    "Cosmetics manufacturing",
+    "Customizable designs",
+    "Flexible capacity options",
     "Stainless steel construction",
-    "Process integration"
+    "Integrated mixing systems",
+    "Quality manufacturing",
+    "Global service"
   ],
-  "product_highlights": [
-    "Versatile mixing tanks and vessels for cosmetics",
-    "Highly customizable tank designs and configurations",
-    "Flexible capacity options for various production scales",
-    "Durable stainless steel construction",
-    "Process integration and system compatibility"
-  ],
+  "certifications": [],
   "tags": [
     "tanks-storage",
-    "mixing-vessels",
-    "customizable-design",
+    "mixing-tanks",
+    "customizable-designs",
     "flexible-capacity",
-    "china-manufacturer",
     "stainless-steel",
-    "cosmetics-manufacturing"
+    "integrated-systems",
+    "china-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Makwell offers versatile mixing tanks and vessels with highly customizable designs for cosmetics manufacturing. Their flexible capacity systems and durable stainless steel construction accommodate various production scales, with process integration capabilities for seamless equipment compatibility."
+  "notes": "Manufacturer of mixing tanks and vessels with customizable designs and flexible capacity options for cosmetics production. Provides stainless steel construction with integrated mixing systems. Offers quality manufacturing with global service support."
 }

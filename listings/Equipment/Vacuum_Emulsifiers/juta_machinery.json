@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1808,
   "listing_id": "juta_machinery",
   "category_path": "Equipment/Vacuum_Emulsifiers",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Vacuum_Emulsifiers/juta_machinery/",
+  "url": "https://www.jutaomachinery.com",
   "company_name": "Juta Machinery",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.jutaomachinery.com",
+  "address": "China, Global operations",
   "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.jutaomachinery.com",
   "specializations": [
     "Cosmetics manufacturing equipment",
     "Vacuum emulsifying mixers",
-    "Customizable equipment designs",
-    "Production line integration",
-    "Quality control systems",
-    "Technical support and training"
+    "Customizable designs",
+    "Complete production lines",
+    "Installation support",
+    "Training services",
+    "After-sales support"
   ],
-  "product_highlights": [
-    "Specialized cosmetics manufacturing equipment",
-    "Vacuum emulsifying mixers with customizable designs",
-    "Integration with production line systems",
-    "Quality control and monitoring capabilities",
-    "Comprehensive technical support and training programs"
-  ],
+  "certifications": [],
   "tags": [
     "vacuum-emulsifiers",
     "cosmetics-equipment",
-    "customizable-design",
-    "production-integration",
-    "china-manufacturer",
-    "technical-support",
-    "quality-control"
+    "customizable-designs",
+    "production-lines",
+    "installation-support",
+    "training-services",
+    "china-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Juta Machinery provides cosmetics manufacturing equipment with focus on vacuum emulsifying mixers and customizable designs. Their equipment integrates well with production line systems and includes quality control features. Juta offers comprehensive technical support and training to ensure optimal equipment operation."
+  "notes": "Comprehensive cosmetics equipment manufacturer offering vacuum emulsifying mixers and complete production lines. Specializes in customizable designs tailored to specific production requirements. Provides installation support, training services, and reliable after-sales support."
 }

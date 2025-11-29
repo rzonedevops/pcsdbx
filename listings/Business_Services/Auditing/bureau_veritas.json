@@ -1,48 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1790,
   "listing_id": "bureau_veritas",
   "category_path": "Business_Services/Auditing",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/bureau_veritas/",
+  "url": "https://www.bureauveritas.com",
   "company_name": "Bureau Veritas",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "France",
+  "phone": "",
+  "email": "",
   "website": "https://www.bureauveritas.com",
-  "country": "Global",
   "specializations": [
-    "Compliance and auditing services",
-    "Regulatory audits for cosmetics",
+    "Compliance and auditing",
+    "Regulatory audits",
     "Quality system certification",
     "Compliance verification",
-    "Supply chain auditing",
-    "Environmental compliance",
-    "ISO certification"
+    "ISO certification",
+    "GMP audits",
+    "Supply chain compliance"
   ],
-  "product_highlights": [
-    "Global leader in testing, inspection, and certification",
-    "Comprehensive compliance and auditing services for cosmetics",
-    "Regulatory audit expertise across multiple markets",
-    "Quality system certification and supply chain auditing",
-    "Environmental compliance and sustainability audits"
-  ],
+  "certifications": [],
   "tags": [
-    "auditing-services",
+    "auditing",
     "compliance-verification",
     "regulatory-audits",
     "quality-certification",
-    "major-player",
-    "global-supplier",
-    "supply-chain-audits"
-  ],
-  "certifications": [
-    "ISO 9001",
-    "ISO 14001"
+    "iso-certification",
+    "gmp-audits",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Bureau Veritas is a global leader in testing, inspection, and certification services. They provide comprehensive compliance and auditing services for cosmetics manufacturers including regulatory audits, quality system certification, and supply chain auditing. Bureau Veritas also offers environmental compliance audits to support sustainability initiatives."
+  "notes": "Global leader in testing, inspection and certification with comprehensive cosmetics compliance services. Provides regulatory audits, quality system certification, and compliance verification across multiple markets. Specializes in ISO and GMP audits for cosmetics manufacturing facilities."
 }

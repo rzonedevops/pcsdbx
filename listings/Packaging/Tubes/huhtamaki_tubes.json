@@ -1,44 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1811,
   "listing_id": "huhtamaki_tubes",
   "category_path": "Packaging/Tubes",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Tubes/huhtamaki_tubes/",
-  "company_name": "Huhtamaki - Tube Solutions",
+  "url": "https://www.huhtamaki.com",
+  "company_name": "Huhtamaki",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Finland",
+  "phone": "",
+  "email": "",
   "website": "https://www.huhtamaki.com",
-  "country": "Global",
   "specializations": [
-    "Packaging solutions",
+    "Sustainable tube packaging",
     "Plastic tubes",
     "Laminate tubes",
     "Sustainable materials",
     "Design innovation",
-    "Custom tube solutions"
+    "Circular economy solutions",
+    "Global service"
   ],
-  "product_highlights": [
-    "Global packaging leader with innovative tube solutions",
-    "Plastic and laminate tubes with sustainable materials",
-    "Design innovation and customization capabilities",
-    "Focus on environmental sustainability",
-    "Comprehensive packaging expertise"
-  ],
+  "certifications": [],
   "tags": [
-    "packaging",
     "tubes",
+    "sustainable-packaging",
     "plastic-tubes",
     "laminate-tubes",
     "sustainable-materials",
-    "major-player",
-    "global-supplier",
-    "design-innovation"
+    "design-innovation",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_tubes_expansion_2025-11-29.md"
   },
-  "notes": "Huhtamaki provides innovative tube packaging solutions with strong focus on sustainable materials and design innovation. Their plastic and laminate tubes combine environmental responsibility with high performance, backed by comprehensive packaging expertise and global manufacturing capabilities."
+  "notes": "Global packaging leader offering sustainable tube solutions with focus on environmentally-friendly materials and design innovation. Provides plastic and laminate tubes with circular economy approach. Known for commitment to sustainability and material innovation in cosmetics packaging."
 }

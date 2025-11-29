@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "jutao_machinery",
+  "category_path": "Equipment/Vacuum_Emulsifiers",
+  "url": "https://jutaomachinery.com/",
+  "company_name": "Jutao Machinery",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://jutaomachinery.com/",
+  "specializations": [
+    "Cream vacuum emulsifying mixer machines",
+    "China-based manufacturer",
+    "Customized high-quality products",
+    "Cosmetics production equipment",
+    "Custom design and engineering"
+  ],
+  "product_highlights": [
+    "Cream vacuum emulsifying mixers",
+    "Customizable equipment",
+    "High-quality manufacturing",
+    "Cosmetics industry focus",
+    "Custom engineering services"
+  ],
+  "tags": [
+    "vacuum-emulsifiers",
+    "emulsifying-mixers",
+    "cream-production",
+    "cosmetics-equipment",
+    "china-manufacturer",
+    "custom-design",
+    "high-quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "China-based manufacturer specializing in cream vacuum emulsifying mixer machines. Offers customized high-quality products for cosmetics production."
+}

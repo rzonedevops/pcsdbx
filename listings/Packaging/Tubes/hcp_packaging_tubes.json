@@ -1,44 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1811,
   "listing_id": "hcp_packaging_tubes",
   "category_path": "Packaging/Tubes",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Tubes/hcp_packaging_tubes/",
-  "company_name": "HCP Packaging - Tubes",
+  "url": "https://www.hcppackaging.com",
+  "company_name": "HCP Packaging",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
   "website": "https://www.hcppackaging.com",
-  "country": "Global",
   "specializations": [
-    "Cosmetic packaging",
+    "Premium tube packaging",
     "Plastic tubes",
     "Laminate tubes",
     "Premium designs",
     "Full customization",
-    "Luxury packaging"
+    "Luxury cosmetics focus",
+    "Innovation leadership"
   ],
-  "product_highlights": [
-    "Premium cosmetic tube packaging solutions",
-    "Plastic and laminate tubes with luxury designs",
-    "Full customization capabilities for brand differentiation",
-    "High-quality manufacturing and finishes",
-    "Focus on premium and luxury cosmetics market"
-  ],
+  "certifications": [],
   "tags": [
-    "packaging",
     "tubes",
+    "premium-packaging",
     "plastic-tubes",
     "laminate-tubes",
-    "premium-packaging",
-    "global-supplier",
-    "luxury-designs",
-    "customization"
+    "premium-designs",
+    "luxury-cosmetics",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_tubes_expansion_2025-11-29.md"
   },
-  "notes": "HCP Packaging specializes in premium cosmetic tube packaging with focus on luxury designs and full customization. Their plastic and laminate tubes feature high-quality finishes and premium aesthetics, making them ideal for brands in the premium and luxury cosmetics segments seeking distinctive packaging."
+  "notes": "Leading cosmetics packaging supplier specializing in premium tube designs with full customization capabilities. Offers plastic and laminate tubes tailored to luxury cosmetics brands. Known for innovation leadership and premium quality packaging solutions for prestige beauty market."
 }

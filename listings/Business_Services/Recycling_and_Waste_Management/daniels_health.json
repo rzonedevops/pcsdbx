@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1804,
   "listing_id": "daniels_health",
   "category_path": "Business_Services/Recycling_and_Waste_Management",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Recycling_and_Waste_Management/daniels_health/",
+  "url": "https://www.danielshealth.com",
   "company_name": "Daniels Health",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "Australia",
+  "phone": "",
+  "email": "",
   "website": "https://www.danielshealth.com",
-  "country": "Global",
   "specializations": [
-    "Medical and healthcare waste management",
-    "Sustainable waste solutions",
+    "Medical and healthcare waste",
+    "Sustainable waste management",
     "Reusable containment systems",
-    "Waste reduction strategies",
-    "Environmental sustainability programs",
-    "Compliance management"
+    "Waste reduction programs",
+    "Environmental compliance",
+    "Safety-focused solutions",
+    "Circular economy approach"
   ],
-  "product_highlights": [
-    "Innovative reusable containment systems for waste reduction",
-    "Sustainable approach to waste management",
-    "Global expertise in healthcare and regulated waste",
-    "Focus on environmental impact reduction",
-    "Comprehensive waste management programs for manufacturers"
-  ],
+  "certifications": [],
   "tags": [
     "waste-management",
-    "sustainable-waste",
-    "reusable-systems",
-    "global-supplier",
-    "environmental-focus",
     "healthcare-waste",
-    "waste-reduction"
+    "sustainable-solutions",
+    "reusable-systems",
+    "waste-reduction",
+    "environmental-compliance",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Daniels Health emphasizes sustainable waste management through innovative reusable containment systems. Their approach helps cosmetics manufacturers reduce waste volume and environmental impact while maintaining regulatory compliance. With global expertise in healthcare and regulated waste, Daniels Health provides comprehensive, environmentally-focused waste management solutions."
+  "notes": "Global leader in sustainable waste management emphasizing reusable containment systems and waste reduction. Brings circular economy approach to cosmetics manufacturing waste disposal. Focuses on safety-focused solutions and environmental compliance with sustainable practices."
 }

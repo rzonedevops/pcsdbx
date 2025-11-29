@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1810,
   "listing_id": "ge_healthcare_filtration",
   "category_path": "Equipment/Filtration_Equipment",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Filtration_Equipment/ge_healthcare_filtration/",
-  "company_name": "GE Healthcare - Filtration Solutions",
+  "url": "https://www.gehealthcare.com",
+  "company_name": "GE Healthcare",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
   "website": "https://www.gehealthcare.com",
-  "country": "Global",
   "specializations": [
     "Advanced filtration for life sciences",
-    "Membrane filtration technology",
-    "Process purification systems",
-    "Cosmetics filtration applications",
-    "Scale-up capabilities",
-    "Technical support and validation"
+    "Process filtration",
+    "Purification systems",
+    "Membrane technology",
+    "Quality assurance",
+    "Global support",
+    "Innovation leadership"
   ],
-  "product_highlights": [
-    "Advanced filtration technology for life sciences and cosmetics",
-    "Global leader in membrane filtration and purification",
-    "Process filtration with proven scale-up capabilities",
-    "Comprehensive cosmetics filtration applications",
-    "Expert technical support and validation services"
-  ],
+  "certifications": [],
   "tags": [
     "filtration-equipment",
     "life-sciences",
-    "membrane-filtration",
-    "process-purification",
-    "major-player",
-    "global-supplier",
-    "scale-up-capability"
+    "process-filtration",
+    "purification-systems",
+    "membrane-technology",
+    "quality-assurance",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "GE Healthcare provides advanced filtration solutions for life sciences including cosmetics applications. As a global leader in membrane filtration and purification technology, they offer proven scale-up capabilities from laboratory to production scale with comprehensive technical support and validation services."
+  "notes": "Major life sciences equipment provider offering advanced filtration solutions for cosmetics manufacturing. Provides process filtration and purification systems with cutting-edge membrane technology. Known for innovation leadership and comprehensive global support capabilities."
 }

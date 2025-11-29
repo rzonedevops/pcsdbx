@@ -1,48 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1790,
   "listing_id": "intertek_auditing",
   "category_path": "Business_Services/Auditing",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/intertek_auditing/",
-  "company_name": "Intertek - Auditing Services",
+  "url": "https://www.intertek.com",
+  "company_name": "Intertek",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
   "website": "https://www.intertek.com",
-  "country": "Global",
   "specializations": [
     "Cosmetics auditing and compliance",
     "Regulatory audits",
     "Quality system audits",
-    "Testing and certification integration",
-    "GMP auditing",
+    "Testing and certification",
+    "GMP compliance verification",
     "Supplier audits",
-    "Compliance verification"
+    "ISO certification audits"
   ],
-  "product_highlights": [
-    "Global leader in cosmetics auditing and compliance services",
-    "Comprehensive regulatory and quality system audits",
-    "Integration of auditing with testing and certification",
-    "Expert GMP and compliance verification",
-    "Global network of auditors and industry experts"
-  ],
+  "certifications": [],
   "tags": [
-    "auditing-services",
+    "auditing",
+    "cosmetics-compliance",
     "regulatory-audits",
-    "quality-system-audits",
-    "major-player",
-    "global-supplier",
-    "gmp-auditing",
-    "compliance-verification"
-  ],
-  "certifications": [
-    "ISO 9001",
-    "ISO 17025"
+    "quality-systems",
+    "testing-certification",
+    "gmp-compliance",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Intertek is a global leader in cosmetics auditing and compliance services. They provide comprehensive regulatory audits, quality system audits, and supplier assessments for the beauty industry. As a full-service provider, Intertek can integrate auditing with their testing and certification services for end-to-end compliance solutions."
+  "notes": "Major global auditing provider with extensive cosmetics industry experience. Offers comprehensive regulatory audits, quality system audits, and testing/certification services. Specializes in GMP compliance verification and supplier audits for cosmetics supply chains."
 }

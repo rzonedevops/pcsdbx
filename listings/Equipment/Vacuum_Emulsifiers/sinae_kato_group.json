@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1808,
   "listing_id": "sinae_kato_group",
   "category_path": "Equipment/Vacuum_Emulsifiers",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Vacuum_Emulsifiers/sinae_kato_group/",
+  "url": "https://www.sinaekatogroup.com",
   "company_name": "Sinae Kato Group",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.sinaekatogroup.com",
+  "address": "China, Global operations",
   "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sinaekatogroup.com",
   "specializations": [
     "Custom vacuum emulsifiers",
     "High-quality mixing equipment",
-    "Factory direct manufacturing",
-    "Cosmetics production equipment",
-    "Engineering and design services",
-    "After-sales support"
+    "Factory direct sales",
+    "Cosmetics machinery",
+    "Engineering solutions",
+    "Quality control",
+    "Global shipping"
   ],
-  "product_highlights": [
-    "Custom vacuum emulsifiers tailored to specific needs",
-    "High-quality mixing equipment with factory direct pricing",
-    "Comprehensive cosmetics production equipment solutions",
-    "Professional engineering and design services",
-    "Strong after-sales support and service network"
-  ],
+  "certifications": [],
   "tags": [
     "vacuum-emulsifiers",
     "custom-equipment",
+    "mixing-equipment",
     "factory-direct",
-    "high-quality",
-    "china-manufacturer",
-    "engineering-services",
-    "after-sales-support"
+    "cosmetics-machinery",
+    "engineering-solutions",
+    "china-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Sinae Kato Group offers custom vacuum emulsifiers with factory direct manufacturing advantages. They provide high-quality mixing equipment with professional engineering and design services to create tailored solutions for cosmetics manufacturers. Their strong after-sales support ensures long-term equipment performance."
+  "notes": "Factory-direct manufacturer of custom vacuum emulsifiers and high-quality mixing equipment for cosmetics industry. Provides engineering solutions tailored to specific production requirements. Offers competitive pricing with direct sales model and global shipping capabilities."
 }

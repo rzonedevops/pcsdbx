@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1801,
   "listing_id": "immay_auto_tanks",
   "category_path": "Equipment/Tanks",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Tanks/immay_auto_tanks/",
-  "company_name": "IMMAY Auto - Mixing Tanks",
+  "url": "https://www.immay-auto.com",
+  "company_name": "IMMAY Auto",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "China",
+  "phone": "",
+  "email": "",
   "website": "https://www.immay-auto.com",
-  "country": "Global",
   "specializations": [
     "Cosmetic cream mixing tanks",
     "Integrated cooling jackets",
     "Uniform temperature control",
     "Stainless steel construction",
-    "Custom tank design",
-    "Process integration"
+    "Custom tank designs",
+    "Heating and cooling systems",
+    "Quality manufacturing"
   ],
-  "product_highlights": [
-    "Specialized cosmetic cream mixing tanks",
-    "Integrated cooling jackets for uniform temperature control",
-    "High-quality stainless steel construction",
-    "Custom tank designs for specific applications",
-    "Process integration capabilities"
-  ],
+  "certifications": [],
   "tags": [
     "tanks-storage",
     "mixing-tanks",
     "cooling-jackets",
-    "cosmetics-equipment",
-    "global-supplier",
     "temperature-control",
-    "custom-design"
+    "stainless-steel",
+    "custom-designs",
+    "china-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "IMMAY Auto specializes in cosmetic cream mixing tanks with integrated cooling jackets for uniform temperature control. Their stainless steel tanks are designed specifically for cosmetics manufacturing with custom options and process integration capabilities to meet specific production requirements."
+  "notes": "Specialized manufacturer of cosmetic cream mixing tanks with integrated cooling jackets for uniform temperature control. Offers stainless steel construction with custom tank designs tailored to specific production needs. Provides comprehensive heating and cooling systems integration."
 }

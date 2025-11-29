@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "the_pkg_co",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://thepkgco.com/",
+  "company_name": "The Pkg Co",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://thepkgco.com/",
+  "specializations": [
+    "Roller ball bottles for beauty industry",
+    "Fully customizable roll-on options",
+    "Cosmetics packaging",
+    "Custom design services",
+    "Beauty product containers"
+  ],
+  "product_highlights": [
+    "Roller ball bottles",
+    "Fully customizable options",
+    "Beauty and cosmetics focus",
+    "Custom design capabilities",
+    "High-quality materials"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roller-ball-bottles",
+    "beauty-packaging",
+    "cosmetics",
+    "customizable",
+    "custom-design",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Packaging company specializing in roller ball bottles for the beauty and cosmetics industry with fully customizable options and custom design services."
+}

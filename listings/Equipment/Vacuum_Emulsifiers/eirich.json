@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1808,
   "listing_id": "eirich",
   "category_path": "Equipment/Vacuum_Emulsifiers",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Vacuum_Emulsifiers/eirich/",
+  "url": "https://www.eirich.com",
   "company_name": "Eirich",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.eirich.com",
+  "address": "Germany, Global operations",
   "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.eirich.com",
   "specializations": [
     "Mixing and processing equipment",
     "Vacuum mixers",
-    "Thermal processing systems",
-    "High-precision mixing technology",
-    "Custom engineering solutions",
-    "Process optimization"
+    "Thermal processing",
+    "Precision engineering",
+    "Process technology",
+    "Custom solutions",
+    "Technical consulting"
   ],
-  "product_highlights": [
-    "German engineering quality in mixing and processing equipment",
-    "Advanced vacuum mixers with thermal processing capabilities",
-    "High-precision mixing technology for consistent results",
-    "Custom engineering solutions for specific applications",
-    "Process optimization and technical support"
-  ],
+  "certifications": [],
   "tags": [
     "vacuum-emulsifiers",
-    "mixing-equipment",
+    "vacuum-mixers",
     "thermal-processing",
-    "german-engineering",
-    "high-precision",
-    "custom-engineering",
-    "process-optimization"
+    "precision-engineering",
+    "process-technology",
+    "custom-solutions",
+    "german-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Eirich is a German manufacturer of mixing and processing equipment known for precision and quality. Their vacuum mixers combine advanced mixing technology with thermal processing capabilities for superior cosmetics manufacturing. Eirich provides custom engineering solutions and process optimization support for manufacturers requiring high-precision equipment."
+  "notes": "German precision engineering leader in mixing and processing equipment including vacuum mixers for cosmetics. Known for thermal processing capabilities and advanced process technology. Provides custom solutions with comprehensive technical consulting for optimal production results."
 }

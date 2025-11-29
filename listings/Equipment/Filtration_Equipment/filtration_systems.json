@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "filtration_systems",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://www.filtrationsystems.com",
+  "company_name": "Filtration Systems",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "North America",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.filtrationsystems.com",
+  "specializations": [
+    "Cosmetics processing and purification",
+    "Advanced filter designs",
+    "High-purity cosmetics",
+    "Custom filtration systems",
+    "Process filtration",
+    "Quality enhancement",
+    "Technical consulting"
+  ],
+  "certifications": [],
+  "tags": [
+    "filtration-equipment",
+    "cosmetics-processing",
+    "purification",
+    "advanced-filters",
+    "high-purity",
+    "custom-systems",
+    "usa-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Advanced filtration provider specializing in cosmetics processing and purification with focus on high-purity products. Offers custom filtration systems with advanced filter designs for quality enhancement. Provides technical consulting for optimal filtration process design."
+}

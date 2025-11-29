@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "graco_tanks",
+  "category_path": "Equipment/Tanks",
+  "url": "https://www.graco.com",
+  "company_name": "Graco",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.graco.com",
+  "specializations": [
+    "Fluid transfer and storage",
+    "Tanks and pumps integration",
+    "Filtration systems",
+    "Process equipment",
+    "Stainless steel tanks",
+    "Complete fluid handling",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "tanks-storage",
+    "fluid-transfer",
+    "pumps-integration",
+    "filtration-systems",
+    "stainless-steel",
+    "fluid-handling",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Comprehensive fluid handling equipment provider offering tanks integrated with pumps and filtration systems for cosmetics processing. Provides stainless steel tanks as part of complete fluid handling solutions. Known for process equipment expertise and reliable technical support."
+}

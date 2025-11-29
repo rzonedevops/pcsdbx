@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1809,
   "listing_id": "immay_auto",
   "category_path": "Equipment/Heating_Cooling_Systems",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/immay_auto/",
+  "url": "https://www.immay-auto.com",
   "company_name": "IMMAY Auto",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "China",
+  "phone": "",
+  "email": "",
   "website": "https://www.immay-auto.com",
-  "country": "Global",
   "specializations": [
-    "Heating/cooling in cosmetics manufacturing",
+    "Heating and cooling in cosmetics",
     "Integrated cooling jackets",
     "Uniform temperature control",
-    "Mixing tank temperature systems",
-    "Process temperature management",
-    "Automated control systems"
+    "Cosmetic cream mixing tanks",
+    "Temperature management systems",
+    "Quality manufacturing",
+    "Global service"
   ],
-  "product_highlights": [
-    "Integrated cooling jacket technology for uniform temperature",
-    "Specialized heating/cooling systems for cosmetics",
-    "Precise temperature management in mixing tanks",
-    "Automated process temperature control",
-    "Comprehensive temperature solutions for manufacturing"
-  ],
+  "certifications": [],
   "tags": [
     "heating-cooling",
     "cooling-jackets",
     "temperature-control",
-    "mixing-tank-systems",
-    "global-supplier",
-    "automated-controls",
-    "uniform-temperature"
+    "mixing-tanks",
+    "temperature-management",
+    "cosmetics-equipment",
+    "china-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "IMMAY Auto emphasizes integrated cooling jacket technology for uniform temperature control in cosmetics manufacturing. Their heating/cooling systems are designed to maintain precise temperatures in mixing tanks and processing equipment, with automated controls for consistent product quality."
+  "notes": "Specialized manufacturer of heating and cooling systems for cosmetics with emphasis on integrated cooling jacket technology. Provides uniform temperature control for cosmetic cream mixing tanks. Offers comprehensive temperature management systems with global service network."
 }

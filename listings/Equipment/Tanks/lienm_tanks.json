@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1801,
   "listing_id": "lienm_tanks",
   "category_path": "Equipment/Tanks",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Tanks/lienm_tanks/",
-  "company_name": "Lienm - Mixing Tanks",
+  "url": "https://www.lienm.com",
+  "company_name": "Lienm",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.lienm.com",
+  "address": "China, Global operations",
   "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lienm.com",
   "specializations": [
-    "Cosmetics manufacturing tanks",
+    "Cosmetics manufacturing equipment",
     "Mixing tanks with vacuum systems",
-    "Heating and cooling integration",
-    "Stainless steel fabrication",
-    "Flexible capacity options",
-    "Complete tank systems"
+    "Integrated heating and cooling",
+    "Stainless steel tanks",
+    "Custom capacity options",
+    "Quality construction",
+    "Technical support"
   ],
-  "product_highlights": [
-    "Comprehensive cosmetics manufacturing tank systems",
-    "Mixing tanks with integrated vacuum capabilities",
-    "Heating and cooling system integration",
-    "High-quality stainless steel fabrication",
-    "Flexible capacity from small to large production"
-  ],
+  "certifications": [],
   "tags": [
     "tanks-storage",
     "mixing-tanks",
     "vacuum-systems",
     "heating-cooling",
-    "china-manufacturer",
-    "flexible-capacity",
-    "cosmetics-manufacturing"
+    "stainless-steel",
+    "custom-capacity",
+    "china-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Lienm provides comprehensive cosmetics manufacturing tank systems with integrated vacuum, heating, and cooling capabilities. Their stainless steel mixing tanks are available in flexible capacities suitable for operations from small batch to large-scale production, with complete system integration options."
+  "notes": "Comprehensive cosmetics equipment manufacturer offering mixing tanks with vacuum systems and integrated heating/cooling. Provides stainless steel tanks with custom capacity options from laboratory to production scale. Known for quality construction and reliable technical support."
 }

@@ -1,45 +1,41 @@
 {
   "schema_version": "1.0",
-  "category_id": 1807,
   "listing_id": "life_cycle_associates",
   "category_path": "Business_Services/Sustainability_Consulting",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Sustainability_Consulting/life_cycle_associates/",
+  "url": "https://www.lifecycleassociates.com",
   "company_name": "Life Cycle Associates",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.lifecycleassociates.com",
+  "address": "California, United States",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lifecycleassociates.com",
   "specializations": [
     "Beauty & Fashion Sustainability",
     "ESG compliance consulting",
-    "Carbon neutrality strategies",
-    "Life Cycle Assessment (LCA) analysis",
+    "Carbon neutrality strategy",
+    "Life cycle assessment (LCA) analysis",
     "Packaging environmental assessment",
-    "Sustainability reporting",
-    "Clean beauty certification support"
+    "Clean beauty verification",
+    "Sustainability reporting"
   ],
-  "product_highlights": [
-    "Specialized expertise in beauty and fashion industry sustainability",
-    "Comprehensive ESG compliance solutions for cosmetics brands",
-    "Carbon footprint analysis and neutrality roadmaps",
-    "Packaging sustainability assessment and optimization",
-    "Support for CSRD and sustainability reporting requirements"
-  ],
+  "certifications": [],
   "tags": [
     "sustainability-consulting",
+    "beauty-fashion",
     "esg-compliance",
     "carbon-neutrality",
     "lca-analysis",
     "packaging-assessment",
     "clean-beauty",
-    "beauty-industry",
-    "north-america"
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Life Cycle Associates specializes in sustainability consulting for the beauty and fashion industries. With expertise in ESG compliance, carbon neutrality, and LCA analysis, they help cosmetics brands develop and implement comprehensive sustainability strategies while ensuring compliance with emerging regulations like the EU CSRD."
+  "notes": "Specializes in beauty and fashion industry sustainability consulting with deep expertise in ESG compliance and carbon neutrality strategies. Offers comprehensive LCA analysis and packaging assessment services tailored to cosmetics brands. Focuses on verified sustainability claims to combat greenwashing."
 }

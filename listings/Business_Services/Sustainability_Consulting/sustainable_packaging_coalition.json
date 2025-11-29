@@ -1,44 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1807,
   "listing_id": "sustainable_packaging_coalition",
   "category_path": "Business_Services/Sustainability_Consulting",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Sustainability_Consulting/sustainable_packaging_coalition/",
+  "url": "https://www.sustainablepackaging.org",
   "company_name": "Sustainable Packaging Coalition",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "United States",
+  "country": "United States",
+  "phone": "",
+  "email": "",
   "website": "https://www.sustainablepackaging.org",
-  "country": "Global",
   "specializations": [
     "Packaging sustainability consulting",
-    "Circular economy for packaging",
-    "Sustainable packaging design guidance",
-    "Material selection for sustainability",
-    "Industry collaboration and best practices",
-    "How2Recycle labeling program support"
+    "How2Recycle labeling program",
+    "Circular economy packaging",
+    "Material selection guidance",
+    "Sustainability metrics and measurement",
+    "Industry collaboration and standards",
+    "Best practices development"
   ],
-  "product_highlights": [
-    "Leading industry collaboration for sustainable packaging",
-    "Developer of How2Recycle labeling program",
-    "Comprehensive resources and best practices for packaging sustainability",
-    "Focus on circular economy principles for packaging",
-    "Multi-stakeholder approach to sustainable packaging solutions"
-  ],
+  "certifications": [],
   "tags": [
     "sustainability-consulting",
     "packaging-sustainability",
-    "circular-economy",
     "how2recycle",
-    "industry-collaboration",
-    "best-practices",
+    "circular-economy",
     "material-selection",
-    "design-for-sustainability"
+    "industry-standards",
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "The Sustainable Packaging Coalition is a leading industry collaboration focused on sustainable packaging solutions. They provide guidance, resources, and tools for cosmetics brands seeking to improve packaging sustainability, including the widely-adopted How2Recycle labeling program. Their multi-stakeholder approach brings together brands, suppliers, and recyclers to advance circular economy principles in packaging."
+  "notes": "Leading packaging sustainability organization offering consulting services and the widely-adopted How2Recycle labeling system. Provides guidance on circular economy packaging design and material selection. Facilitates industry collaboration to develop and advance sustainable packaging best practices and standards."
 }

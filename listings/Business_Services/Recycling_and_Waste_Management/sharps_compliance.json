@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1804,
   "listing_id": "sharps_compliance",
   "category_path": "Business_Services/Recycling_and_Waste_Management",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Recycling_and_Waste_Management/sharps_compliance/",
+  "url": "https://www.sharpsinc.com",
   "company_name": "Sharps Compliance",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.sharpsinc.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sharpsinc.com",
   "specializations": [
-    "Medical and hazardous waste solutions",
-    "Custom waste management programs",
-    "Regulatory compliance services",
-    "Transparent pricing (no hidden fees)",
-    "Waste container services",
-    "Training and support"
+    "Medical and hazardous waste",
+    "Custom waste solutions",
+    "Compliance management",
+    "Transparent pricing",
+    "Nationwide service",
+    "Waste tracking and reporting",
+    "Safety-focused programs"
   ],
-  "product_highlights": [
-    "Specialized medical and hazardous waste disposal",
-    "Custom waste solutions for manufacturing facilities",
-    "Transparent pricing with no hidden fees",
-    "Comprehensive regulatory compliance support",
-    "Expert training programs for staff"
-  ],
+  "certifications": [],
   "tags": [
     "waste-management",
     "hazardous-waste",
     "custom-solutions",
+    "compliance-management",
     "transparent-pricing",
-    "north-america",
-    "training-programs",
-    "compliance-support"
+    "nationwide-service",
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Sharps Compliance offers custom waste management solutions for cosmetics manufacturers with transparent pricing and no hidden fees. They specialize in medical and hazardous waste disposal with comprehensive compliance support and training programs to ensure proper waste handling and regulatory adherence."
+  "notes": "Specialized provider of custom waste solutions for medical and hazardous waste with transparent pricing model. Offers nationwide service with comprehensive waste tracking and reporting. Emphasizes compliance management and safety-focused programs for cosmetics manufacturing."
 }

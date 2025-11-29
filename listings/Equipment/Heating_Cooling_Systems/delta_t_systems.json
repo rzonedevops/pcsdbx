@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1809,
   "listing_id": "delta_t_systems",
   "category_path": "Equipment/Heating_Cooling_Systems",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/delta_t_systems/",
+  "url": "https://www.deltatsys.com",
   "company_name": "Delta T Systems",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.deltatsys.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.deltatsys.com",
   "specializations": [
-    "Temperature Control Units (TCUs)",
-    "Advanced chillers for cosmetics",
+    "Temperature control units (TCUs)",
+    "Advanced chillers",
     "Cosmetics-specific design",
     "Precision temperature control",
-    "Process cooling systems",
-    "Custom thermal solutions"
+    "Process cooling solutions",
+    "Custom thermal systems",
+    "Technical support"
   ],
-  "product_highlights": [
-    "Specialized temperature control units for cosmetics manufacturing",
-    "Advanced TCUs and chillers designed for cosmetics applications",
-    "Precision temperature control for product quality",
-    "Process cooling and heating integration",
-    "Custom thermal solutions for specific needs"
-  ],
+  "certifications": [],
   "tags": [
     "heating-cooling",
     "temperature-control",
     "tcu-systems",
+    "chillers",
     "cosmetics-specific",
-    "north-america",
     "precision-control",
-    "custom-solutions"
+    "usa-manufacturer"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_specialized_equipment_2025-11-29.md"
   },
-  "notes": "Delta T Systems specializes in temperature control units (TCUs) and chillers specifically designed for cosmetics manufacturing. Their cosmetics-specific equipment provides precision temperature control essential for proper emulsification, ingredient dissolution, and product stability throughout the manufacturing process."
+  "notes": "Specialized provider of temperature control units and advanced chillers designed specifically for cosmetics manufacturing. Offers precision temperature control and process cooling solutions tailored to cosmetics production requirements. Provides custom thermal systems with comprehensive technical support."
 }

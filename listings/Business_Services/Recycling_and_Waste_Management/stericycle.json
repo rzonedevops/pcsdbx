@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1804,
   "listing_id": "stericycle",
   "category_path": "Business_Services/Recycling_and_Waste_Management",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Recycling_and_Waste_Management/stericycle/",
+  "url": "https://www.stericycle.com",
   "company_name": "Stericycle",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "North America, Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
   "website": "https://www.stericycle.com",
-  "country": "Global",
   "specializations": [
     "Regulated waste management",
     "Compliance training programs",
     "Hazardous waste disposal",
     "Infection control services",
-    "Waste stream optimization",
-    "Regulatory compliance support"
+    "Medical waste management",
+    "Environmental compliance",
+    "Waste stream analytics"
   ],
-  "product_highlights": [
-    "Global leader in regulated waste management",
-    "Comprehensive compliance training for cosmetics manufacturers",
-    "Expert hazardous waste disposal services",
-    "Infection control and contamination prevention",
-    "Customized waste management programs"
-  ],
+  "certifications": [],
   "tags": [
     "waste-management",
-    "hazardous-waste",
-    "compliance-training",
-    "major-player",
-    "global-supplier",
     "regulated-waste",
-    "infection-control"
+    "compliance-training",
+    "hazardous-waste",
+    "infection-control",
+    "environmental-compliance",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Stericycle is a global leader in regulated waste management with extensive experience serving cosmetics manufacturers. They provide comprehensive waste disposal services, compliance training, and infection control programs to help manufacturers meet regulatory requirements and maintain safe, compliant operations."
+  "notes": "Major national provider of regulated waste management services with extensive cosmetics industry experience. Offers comprehensive compliance training programs and hazardous waste disposal for chemical-intensive manufacturing. Provides waste stream analytics to optimize disposal strategies and reduce costs."
 }

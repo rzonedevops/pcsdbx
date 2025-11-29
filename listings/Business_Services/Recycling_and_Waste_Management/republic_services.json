@@ -1,43 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1804,
   "listing_id": "republic_services",
   "category_path": "Business_Services/Recycling_and_Waste_Management",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Recycling_and_Waste_Management/republic_services/",
+  "url": "https://www.republicservices.com",
   "company_name": "Republic Services",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
-  "website": "https://www.republicservices.com",
+  "address": "North America",
   "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.republicservices.com",
   "specializations": [
     "Waste management and recycling",
-    "Industrial waste solutions",
+    "Industrial waste services",
     "Sustainability programs",
-    "Waste stream analysis",
-    "Recycling optimization",
-    "Environmental consulting"
+    "Recycling solutions",
+    "Waste stream optimization",
+    "Environmental services",
+    "Landfill diversion"
   ],
-  "product_highlights": [
-    "Major national waste management and recycling infrastructure",
-    "Comprehensive industrial waste solutions for manufacturers",
-    "Advanced recycling programs and sustainability consulting",
-    "Waste stream optimization for cost reduction",
-    "Environmental impact reporting and analysis"
-  ],
+  "certifications": [],
   "tags": [
     "waste-management",
-    "recycling-services",
-    "sustainability-programs",
-    "major-player",
-    "north-america",
+    "recycling",
     "industrial-waste",
-    "waste-optimization"
+    "sustainability-programs",
+    "waste-optimization",
+    "environmental-services",
+    "usa-based"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Republic Services is a major national waste management and recycling provider serving industrial manufacturers. They offer comprehensive waste solutions including recycling optimization, sustainability programs, and waste stream analysis to help cosmetics manufacturers reduce costs and environmental impact while ensuring regulatory compliance."
+  "notes": "Major national waste management provider offering comprehensive industrial waste services and recycling programs. Specializes in waste stream optimization and landfill diversion strategies for manufacturers. Provides sustainability-focused programs to reduce environmental impact of cosmetics production."
 }

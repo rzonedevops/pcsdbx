@@ -1,47 +1,40 @@
 {
   "schema_version": "1.0",
-  "category_id": 1790,
   "listing_id": "underwriters_laboratories",
   "category_path": "Business_Services/Auditing",
-  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Auditing/underwriters_laboratories/",
+  "url": "https://www.ul.com",
   "company_name": "Underwriters Laboratories (UL)",
   "status": "active",
   "date_added": "2025-11-29",
   "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
   "website": "https://www.ul.com",
-  "country": "Global",
   "specializations": [
     "Compliance and certification",
-    "Product safety audits",
-    "Quality system audits",
-    "Regulatory compliance verification",
+    "Product safety testing",
+    "Regulatory compliance audits",
+    "Supply chain verification",
     "Environmental claims verification",
-    "Sustainability certification",
-    "Supply chain transparency"
+    "Quality audits",
+    "Sustainability certification"
   ],
-  "product_highlights": [
-    "Global leader in safety science and certification",
-    "Comprehensive product safety and compliance audits",
-    "Quality system and regulatory compliance verification",
-    "Environmental claims and sustainability certification",
-    "Supply chain transparency and ethical sourcing audits"
-  ],
+  "certifications": [],
   "tags": [
-    "auditing-services",
-    "product-safety",
+    "auditing",
     "compliance-certification",
-    "sustainability-certification",
-    "major-player",
-    "global-supplier",
-    "environmental-claims"
-  ],
-  "certifications": [
-    "ISO 17025"
+    "safety-testing",
+    "regulatory-audits",
+    "supply-chain-verification",
+    "environmental-claims",
+    "global-operations"
   ],
   "metadata": {
     "last_validated": "2025-11-29",
-    "validation_method": "web_research",
+    "validation_method": "manual",
     "data_source": "research_business_services_expansion_2025-11-29.md"
   },
-  "notes": "Underwriters Laboratories (UL) is a global leader in safety science and certification services. They provide comprehensive auditing for cosmetics manufacturers including product safety audits, regulatory compliance verification, and sustainability certification. UL's expertise in environmental claims verification helps brands substantiate and verify sustainability marketing claims."
+  "notes": "Renowned safety science company providing compliance, certification and auditing services for cosmetics industry. Offers product safety testing, regulatory compliance audits, and supply chain verification. Specializes in environmental claims verification and sustainability certification."
 }
