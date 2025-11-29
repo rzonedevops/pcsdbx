@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lienm_cosmetic_mixing",
+  "category_path": "Equipment/Vacuum_Emulsifiers",
+  "url": "https://lienm.com/",
+  "company_name": "LIENM Cosmetic Mixing",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://lienm.com/",
+  "specializations": [
+    "Emulsifying machines for cosmetics",
+    "Reliable high-performance equipment",
+    "Manufacturer and supplier",
+    "Cosmetics production systems",
+    "Professional emulsification equipment"
+  ],
+  "product_highlights": [
+    "High-performance emulsifying machines",
+    "Reliable cosmetics equipment",
+    "Professional-grade systems",
+    "Complete manufacturing solutions",
+    "Quality assurance"
+  ],
+  "tags": [
+    "vacuum-emulsifiers",
+    "emulsifying-machines",
+    "cosmetics-equipment",
+    "high-performance",
+    "reliable-equipment",
+    "manufacturing-systems",
+    "professional-grade"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Manufacturer and supplier of reliable, high-performance emulsifying machines for cosmetics production. Specializes in professional-grade equipment systems."
+}

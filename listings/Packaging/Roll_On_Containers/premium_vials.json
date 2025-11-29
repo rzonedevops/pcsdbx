@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "premium_vials",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://premiumvials.com/",
+  "company_name": "Premium Vials",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://premiumvials.com/",
+  "specializations": [
+    "Roller bottles for essential oils",
+    "Massage oil containers",
+    "Complete roller bottle kits",
+    "Glass roller bottles",
+    "Aromatherapy packaging"
+  ],
+  "product_highlights": [
+    "Complete roller bottle sets",
+    "Includes bottle, roller ball, and overcap",
+    "Essential oil focused",
+    "Massage oil applications",
+    "Quality glass materials"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roller-bottles",
+    "essential-oils",
+    "massage-oils",
+    "aromatherapy",
+    "glass-bottles",
+    "complete-kits"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Supplier of roller bottles focused on essential oils and massage oils. Provides complete kits with bottle, roller ball, and overcap for aromatherapy applications."
+}
