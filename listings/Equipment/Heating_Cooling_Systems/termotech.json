@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1809,
+  "listing_id": "termotech",
+  "category_path": "Equipment/Heating_Cooling_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/termotech/",
+  "company_name": "Termotech",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.termotech.com",
+  "country": "Europe",
+  "specializations": [
+    "Industrial heating and cooling",
+    "Thermal processing equipment",
+    "Temperature control systems",
+    "Process heating solutions",
+    "Custom thermal equipment",
+    "Energy-efficient systems"
+  ],
+  "product_highlights": [
+    "Industrial heating and cooling solutions for cosmetics",
+    "Advanced thermal processing equipment",
+    "Comprehensive temperature control systems",
+    "Custom thermal equipment design",
+    "Energy-efficient heating and cooling technology"
+  ],
+  "tags": [
+    "heating-cooling",
+    "industrial-systems",
+    "thermal-processing",
+    "temperature-control",
+    "europe-based",
+    "energy-efficient",
+    "custom-equipment"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Termotech provides industrial heating and cooling solutions with expertise in thermal processing equipment for cosmetics manufacturing. Their comprehensive temperature control systems and custom thermal equipment designs are known for energy efficiency and reliability in production environments."
+}

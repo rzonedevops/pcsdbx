@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1809,
+  "listing_id": "rcap_cooling",
+  "category_path": "Equipment/Heating_Cooling_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/rcap_cooling/",
+  "company_name": "R-CAP",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.r-cap.com",
+  "country": "United States",
+  "specializations": [
+    "Cooling equipment",
+    "Temperature maintenance systems",
+    "Product cooling solutions",
+    "Process cooling equipment",
+    "Cosmetics manufacturing cooling",
+    "Thermal management"
+  ],
+  "product_highlights": [
+    "Specialized cooling equipment for cosmetics manufacturing",
+    "Temperature maintenance and product cooling systems",
+    "Process cooling solutions for consistent quality",
+    "Thermal management expertise",
+    "Reliable cooling equipment for production environments"
+  ],
+  "tags": [
+    "cooling-equipment",
+    "temperature-maintenance",
+    "product-cooling",
+    "process-cooling",
+    "north-america",
+    "thermal-management",
+    "cosmetics-manufacturing"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "R-CAP provides specialized cooling equipment for cosmetics manufacturing with focus on temperature maintenance and product cooling. Their process cooling solutions ensure consistent product quality by maintaining optimal temperatures throughout production, supported by thermal management expertise."
+}

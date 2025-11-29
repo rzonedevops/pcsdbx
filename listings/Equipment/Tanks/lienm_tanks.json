@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1801,
+  "listing_id": "lienm_tanks",
+  "category_path": "Equipment/Tanks",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Tanks/lienm_tanks/",
+  "company_name": "Lienm - Mixing Tanks",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.lienm.com",
+  "country": "China",
+  "specializations": [
+    "Cosmetics manufacturing tanks",
+    "Mixing tanks with vacuum systems",
+    "Heating and cooling integration",
+    "Stainless steel fabrication",
+    "Flexible capacity options",
+    "Complete tank systems"
+  ],
+  "product_highlights": [
+    "Comprehensive cosmetics manufacturing tank systems",
+    "Mixing tanks with integrated vacuum capabilities",
+    "Heating and cooling system integration",
+    "High-quality stainless steel fabrication",
+    "Flexible capacity from small to large production"
+  ],
+  "tags": [
+    "tanks-storage",
+    "mixing-tanks",
+    "vacuum-systems",
+    "heating-cooling",
+    "china-manufacturer",
+    "flexible-capacity",
+    "cosmetics-manufacturing"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Lienm provides comprehensive cosmetics manufacturing tank systems with integrated vacuum, heating, and cooling capabilities. Their stainless steel mixing tanks are available in flexible capacities suitable for operations from small batch to large-scale production, with complete system integration options."
+}

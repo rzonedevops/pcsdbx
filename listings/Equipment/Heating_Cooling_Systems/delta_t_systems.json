@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1809,
+  "listing_id": "delta_t_systems",
+  "category_path": "Equipment/Heating_Cooling_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Heating_Cooling_Systems/delta_t_systems/",
+  "company_name": "Delta T Systems",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.deltatsys.com",
+  "country": "United States",
+  "specializations": [
+    "Temperature Control Units (TCUs)",
+    "Advanced chillers for cosmetics",
+    "Cosmetics-specific design",
+    "Precision temperature control",
+    "Process cooling systems",
+    "Custom thermal solutions"
+  ],
+  "product_highlights": [
+    "Specialized temperature control units for cosmetics manufacturing",
+    "Advanced TCUs and chillers designed for cosmetics applications",
+    "Precision temperature control for product quality",
+    "Process cooling and heating integration",
+    "Custom thermal solutions for specific needs"
+  ],
+  "tags": [
+    "heating-cooling",
+    "temperature-control",
+    "tcu-systems",
+    "cosmetics-specific",
+    "north-america",
+    "precision-control",
+    "custom-solutions"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Delta T Systems specializes in temperature control units (TCUs) and chillers specifically designed for cosmetics manufacturing. Their cosmetics-specific equipment provides precision temperature control essential for proper emulsification, ingredient dissolution, and product stability throughout the manufacturing process."
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1810,
+  "listing_id": "filtrox",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Filtration_Equipment/filtrox/",
+  "company_name": "Filtrox",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.filtrox.com",
+  "country": "Switzerland",
+  "specializations": [
+    "Depth filtration for life sciences",
+    "Cosmetics filtration systems",
+    "Natural extract filtration",
+    "High-purity filtration",
+    "Swiss engineering quality",
+    "Process optimization"
+  ],
+  "product_highlights": [
+    "Depth filtration expertise for cosmetics and natural products",
+    "Swiss engineering quality and precision",
+    "Specialized filtration for natural extracts and actives",
+    "High-purity cosmetics manufacturing filtration",
+    "Process optimization and technical support"
+  ],
+  "tags": [
+    "filtration-equipment",
+    "depth-filtration",
+    "cosmetics-filtration",
+    "natural-extracts",
+    "switzerland",
+    "high-purity",
+    "life-sciences"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Filtrox provides depth filtration systems specifically for cosmetics and natural products with Swiss engineering quality. They specialize in filtration of natural extracts and actives, offering high-purity filtration essential for premium cosmetics manufacturing with comprehensive process optimization support."
+}

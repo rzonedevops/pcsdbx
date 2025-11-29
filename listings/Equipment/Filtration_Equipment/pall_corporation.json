@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1810,
+  "listing_id": "pall_corporation",
+  "category_path": "Equipment/Filtration_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Filtration_Equipment/pall_corporation/",
+  "company_name": "Pall Corporation",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://www.pall.com",
+  "country": "Global",
+  "specializations": [
+    "Life sciences filtration",
+    "Cosmetics filtration systems",
+    "Purification equipment",
+    "Membrane filtration",
+    "Process filtration",
+    "Validation and support"
+  ],
+  "product_highlights": [
+    "Global leader in life sciences filtration technology",
+    "Comprehensive cosmetics filtration and purification systems",
+    "Advanced membrane filtration capabilities",
+    "Process filtration expertise and optimization",
+    "Validation support and technical services"
+  ],
+  "tags": [
+    "filtration-equipment",
+    "life-sciences",
+    "cosmetics-filtration",
+    "membrane-filtration",
+    "major-player",
+    "global-supplier",
+    "purification"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "web_research",
+    "data_source": "research_specialized_equipment_2025-11-29.md"
+  },
+  "notes": "Pall Corporation is a global leader in life sciences filtration with extensive cosmetics industry experience. They provide comprehensive filtration and purification systems including advanced membrane filtration technologies, supported by process optimization expertise and validation services for quality assurance."
+}
