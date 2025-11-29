@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cl_smith",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://clsmith.com/",
+  "company_name": "C.L. Smith",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://clsmith.com/",
+  "specializations": [
+    "Plastic sprayers and spray bottles",
+    "Versatile packaging solutions",
+    "Efficient spray systems",
+    "Industrial and consumer sprayers",
+    "Custom spray solutions"
+  ],
+  "product_highlights": [
+    "Wide range of plastic sprayers",
+    "Versatile spray bottle options",
+    "Efficient dispensing systems",
+    "Quality spray mechanisms",
+    "Various sizes and configurations"
+  ],
+  "tags": [
+    "spray-bottles",
+    "plastic-sprayers",
+    "packaging-solutions",
+    "dispensing-systems",
+    "personal-care",
+    "versatile-packaging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Packaging solutions provider specializing in plastic sprayers and spray bottles with versatile and efficient solutions for personal care and other industries."
+}

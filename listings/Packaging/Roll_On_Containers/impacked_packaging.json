@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "impacked_packaging",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://impackedpackaging.com/",
+  "company_name": "Impacked Packaging",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://impackedpackaging.com/",
+  "specializations": [
+    "Roll-on packaging solutions",
+    "Efficient user-friendly containers",
+    "Diverse roll-on selection",
+    "Personal care packaging",
+    "Custom roll-on options"
+  ],
+  "product_highlights": [
+    "Efficient roll-on packaging",
+    "User-friendly design",
+    "Wide selection of roll-on bottles",
+    "Quality materials",
+    "Various sizes available"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roll-on-bottles",
+    "personal-care-packaging",
+    "user-friendly",
+    "packaging-solutions",
+    "deodorant-packaging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Supplier specializing in roll-on packaging with efficient and user-friendly solutions. Offers diverse selection of roll-on containers for personal care applications."
+}

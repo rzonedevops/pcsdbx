@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "belux_packaging",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://beluxpackaging.com/",
+  "company_name": "Belux Packaging",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://beluxpackaging.com/",
+  "specializations": [
+    "Cosmetic and skincare packaging",
+    "Spray bottles for personal care",
+    "Beauty product containers",
+    "Wholesale packaging solutions",
+    "Custom packaging options"
+  ],
+  "product_highlights": [
+    "Wide range of spray bottles",
+    "Cosmetic-grade materials",
+    "Various sizes and styles available",
+    "Wholesale pricing",
+    "Reliable packaging solutions"
+  ],
+  "tags": [
+    "spray-bottles",
+    "cosmetic-packaging",
+    "skincare",
+    "wholesale",
+    "personal-care",
+    "beauty-packaging"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Wholesale supplier specializing in cosmetic and skincare packaging including spray bottles and other containers for personal care products."
+}
