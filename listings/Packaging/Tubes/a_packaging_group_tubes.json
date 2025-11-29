@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "a_packaging_group_tubes",
+  "category_path": "Packaging/Tubes",
+  "url": "https://www.apackaginggroup.com",
+  "company_name": "A Packaging Group",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "address": "Global operations",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.apackaginggroup.com",
+  "specializations": [
+    "Full-service tube solutions",
+    "Plastic tubes",
+    "Laminate tubes",
+    "Aluminum tubes",
+    "Sustainability focus",
+    "Custom design",
+    "Comprehensive support"
+  ],
+  "certifications": [],
+  "tags": [
+    "tubes",
+    "full-service",
+    "plastic-tubes",
+    "laminate-tubes",
+    "aluminum-tubes",
+    "sustainability",
+    "global-operations"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_tubes_expansion_2025-11-29.md"
+  },
+  "notes": "Full-service cosmetic packaging provider offering comprehensive tube solutions across plastic, laminate, and aluminum materials. Emphasizes sustainability and custom design capabilities. Provides comprehensive support from concept through production for cosmetics brands of all sizes."
+}
