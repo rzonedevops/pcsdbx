@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "best_bottles",
+  "category_path": "Packaging/Spray_Bottles",
+  "url": "https://bestbottles.com/",
+  "company_name": "Best Bottles",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://bestbottles.com/",
+  "specializations": [
+    "Perfume bottles and spray atomizers",
+    "Fine mist sprayers",
+    "Lotion bottles with sprayers",
+    "Distributor and manufacturer",
+    "Beauty packaging solutions"
+  ],
+  "product_highlights": [
+    "Fine mist spray atomizers",
+    "Perfume bottle options",
+    "Lotion bottles with spray tops",
+    "Quality spray mechanisms",
+    "Various sizes and styles"
+  ],
+  "tags": [
+    "spray-bottles",
+    "perfume-bottles",
+    "fine-mist-sprayers",
+    "atomizers",
+    "beauty-packaging",
+    "personal-care",
+    "distributor"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Distributor and manufacturer specializing in perfume bottles, spray atomizers, and fine mist sprayers for beauty and personal care applications."
+}

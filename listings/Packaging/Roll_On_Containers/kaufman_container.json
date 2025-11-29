@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kaufman_container",
+  "category_path": "Packaging/Roll_On_Containers",
+  "url": "https://kaufmancontainer.com/",
+  "company_name": "Kaufman Container",
+  "status": "active",
+  "date_added": "2025-11-29",
+  "date_updated": "2025-11-29",
+  "website": "https://kaufmancontainer.com/",
+  "specializations": [
+    "Roll-on bottles bulk and wholesale",
+    "Essential oil packaging",
+    "Topical treatment containers",
+    "Perfume bottles",
+    "Various sizes and styles"
+  ],
+  "product_highlights": [
+    "Bulk and wholesale options",
+    "Essential oil bottles",
+    "Topical treatment packaging",
+    "Perfume roll-on bottles",
+    "Wide variety of sizes and styles"
+  ],
+  "tags": [
+    "roll-on-containers",
+    "roll-on-bottles",
+    "bulk-wholesale",
+    "essential-oils",
+    "topical-treatments",
+    "perfume-bottles",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-11-29",
+    "validation_method": "manual",
+    "data_source": "research_critical_gaps_2025-11-28.md"
+  },
+  "notes": "Wholesale supplier of roll-on bottles for essential oils, topical treatments, and perfume. Offers various sizes and styles with bulk purchasing options."
+}
