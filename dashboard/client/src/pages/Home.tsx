@@ -1,7 +1,8 @@
+import { useAuth } from "@/_core/hooks/useAuth";
 import DashboardLayout from "@/components/DashboardLayout";
 import MetricCard from "@/components/MetricCard";
 import { Activity, Database, Layers, Target, TrendingUp, Zap } from "lucide-react";
-import { useEffect, useState } from "react";
+import { trpc } from "@/lib/trpc";
 import { Area, AreaChart, CartesianGrid, Cell, Pie, PieChart, ResponsiveContainer, Tooltip, XAxis, YAxis } from "recharts";
 
 const growthData = [
@@ -20,14 +21,12 @@ interface DashboardData {
 }
 
 export default function Home() {
-  const [data, setData] = useState<DashboardData | null>(null);
+  // The userAuth hooks provides authentication state
+  // To implement login/logout functionality, simply call logout() or redirect to getLoginUrl()
+  let { user, loading, error, isAuthenticated, logout } = useAuth();
 
-  useEffect(() => {
-    fetch("/dashboard_data.json")
-      .then((res) => res.json())
-      .then((data) => setData(data))
-      .catch((err) => console.error("Failed to fetch dashboard data", err));
-  }, []);
+  // Fetch dashboard data from tRPC API
+  const { data, isLoading } = trpc.dashboard.getOverview.useQuery();
 
   // Use fetched data or fallback to initial static values for immediate render
   const totalListings = data?.total_listings || 613;

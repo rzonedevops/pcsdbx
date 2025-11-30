@@ -29,7 +29,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
 
       <div className="relative z-10 flex min-h-screen">
         {/* Sidebar Navigation */}
-        <aside className="hidden lg:flex flex-col w-64 border-r border-white/5 bg-background/30 backdrop-blur-xl sticky top-0 h-screen">
+        <aside className="hidden lg:flex flex-col w-64 border-r border-border/50 bg-background/30 backdrop-blur-xl sticky top-0 h-screen">
           <div className="p-6 flex items-center gap-3">
             <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center shadow-lg shadow-primary/20">
               <div className="w-3 h-3 bg-white rounded-full" />
@@ -47,7 +47,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
                       "flex items-center gap-3 px-4 py-3 rounded-xl transition-all duration-300 group cursor-pointer",
                       isActive
                         ? "bg-primary/10 text-primary shadow-[0_0_20px_-5px_var(--primary)]"
-                        : "text-muted-foreground hover:text-foreground hover:bg-white/5"
+                        : "text-muted-foreground hover:text-foreground hover:bg-secondary/20"
                     )}
                   >
                     <item.icon
@@ -78,7 +78,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
                   Operational
                 </span>
               </div>
-              <div className="w-full bg-white/10 h-1 rounded-full overflow-hidden">
+              <div className="w-full bg-secondary/20 h-1 rounded-full overflow-hidden">
                 <div className="bg-emerald-500 h-full w-[98%] rounded-full" />
               </div>
             </div>
@@ -88,7 +88,7 @@ export default function DashboardLayout({ children }: DashboardLayoutProps) {
         {/* Main Content */}
         <main className="flex-1 flex flex-col min-w-0">
           {/* Mobile Header */}
-          <header className="lg:hidden flex items-center justify-between p-4 border-b border-white/5 bg-background/50 backdrop-blur-md sticky top-0 z-50">
+          <header className="lg:hidden flex items-center justify-between p-4 border-b border-border/50 bg-background/50 backdrop-blur-md sticky top-0 z-50">
             <div className="flex items-center gap-3">
               <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-primary to-secondary flex items-center justify-center">
                 <div className="w-3 h-3 bg-white rounded-full" />

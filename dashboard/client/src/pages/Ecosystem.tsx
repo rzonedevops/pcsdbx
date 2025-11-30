@@ -1,7 +1,9 @@
 import DashboardLayout from "@/components/DashboardLayout";
 import { Badge } from "@/components/ui/badge";
+import { Button } from "@/components/ui/button";
 import { Card } from "@/components/ui/card";
-import { Loader2, MousePointer2, Share2, ZoomIn } from "lucide-react";
+import { trpc } from "@/lib/trpc";
+import { Loader2, MousePointer2, Share2, ZoomIn, Filter } from "lucide-react";
 import { useEffect, useRef, useState } from "react";
 import ForceGraph2D, { ForceGraphMethods } from "react-force-graph-2d";
 
@@ -25,17 +27,21 @@ interface NetworkData {
 
 export default function Ecosystem() {
   const [data, setData] = useState<NetworkData>({ nodes: [], links: [] });
+  const [filteredData, setFilteredData] = useState<NetworkData>({ nodes: [], links: [] });
   const [loading, setLoading] = useState(true);
   const [dimensions, setDimensions] = useState({ width: 800, height: 600 });
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null);
+  const [categories, setCategories] = useState<string[]>([]);
   const containerRef = useRef<HTMLDivElement>(null);
   const fgRef = useRef<ForceGraphMethods | undefined>(undefined);
 
+  // Fetch network data from tRPC API
+  const { data: networkData, isLoading: networkLoading } = trpc.dashboard.getNetworkData.useQuery();
+
   useEffect(() => {
-    // Fetch network data
-    fetch("/dashboard_data.json")
-      .then((res) => res.json())
-      .then((dashboardData) => {
-        if (dashboardData.network) {
+    if (networkData) {
+      const dashboardData = { network: networkData };
+      if (dashboardData.network) {
           // Process data to add visual properties
           const nodes = dashboardData.network.nodes.map((node: any) => ({
             ...node,
@@ -47,17 +53,22 @@ export default function Ecosystem() {
                 : "rgba(255,255,255,0.6)"
           }));
           
-          setData({
+          const networkData = {
             nodes,
             links: dashboardData.network.links
-          });
+          };
+          
+          setData(networkData);
+          setFilteredData(networkData);
+          
+          // Extract categories for filter
+          const cats = nodes
+            .filter((n: any) => n.group === "category")
+            .map((n: any) => n.label);
+          setCategories(cats);
         }
         setLoading(false);
-      })
-      .catch((err) => {
-        console.error("Failed to fetch network data", err);
-        setLoading(false);
-      });
+      }
 
     // Handle resize
     const handleResize = () => {
@@ -73,7 +84,65 @@ export default function Ecosystem() {
     handleResize(); // Initial size
 
     return () => window.removeEventListener("resize", handleResize);
-  }, []);
+  }, [networkData]);
+
+  // Filter graph data when category changes
+  useEffect(() => {
+    if (!selectedCategory) {
+      setFilteredData(data);
+      return;
+    }
+
+    // Find the category node ID
+    const categoryNode = data.nodes.find(n => n.group === "category" && n.label === selectedCategory);
+    if (!categoryNode) return;
+
+    // 1. Get all links connected to this category (Category -> Subcategory)
+    const catLinks = data.links.filter(l => 
+      (typeof l.source === 'object' ? (l.source as any).id : l.source) === categoryNode.id || 
+      (typeof l.target === 'object' ? (l.target as any).id : l.target) === categoryNode.id
+    );
+    
+    // 2. Get all subcategory IDs connected to this category
+    const subcatIds = new Set<string>();
+    catLinks.forEach(l => {
+      const targetId = typeof l.target === 'object' ? (l.target as any).id : l.target;
+      if (targetId !== categoryNode.id) subcatIds.add(targetId);
+    });
+
+    // 3. Get all links connected to these subcategories (Subcategory -> Supplier)
+    const subcatLinks = data.links.filter(l => {
+      const sourceId = typeof l.source === 'object' ? (l.source as any).id : l.source;
+      const targetId = typeof l.target === 'object' ? (l.target as any).id : l.target;
+      return subcatIds.has(sourceId) || subcatIds.has(targetId);
+    });
+
+    // 4. Collect all relevant node IDs
+    const relevantNodeIds = new Set<string>([categoryNode.id]);
+    subcatIds.forEach(id => relevantNodeIds.add(id));
+    
+    subcatLinks.forEach(l => {
+      const sourceId = typeof l.source === 'object' ? (l.source as any).id : l.source;
+      const targetId = typeof l.target === 'object' ? (l.target as any).id : l.target;
+      relevantNodeIds.add(sourceId);
+      relevantNodeIds.add(targetId);
+    });
+
+    // 5. Filter nodes and links
+    const filteredNodes = data.nodes.filter(n => relevantNodeIds.has(n.id));
+    const filteredLinks = [...catLinks, ...subcatLinks];
+
+    setFilteredData({
+      nodes: filteredNodes,
+      links: filteredLinks
+    });
+    
+    // Zoom to fit after a short delay to allow graph to stabilize
+    setTimeout(() => {
+      fgRef.current?.zoomToFit(1000, 50);
+    }, 500);
+    
+  }, [selectedCategory, data]);
 
   return (
     <DashboardLayout>
@@ -100,6 +169,29 @@ export default function Ecosystem() {
           </div>
         </div>
 
+        {/* Filter Bar */}
+        <div className="flex gap-2 overflow-x-auto pb-2 no-scrollbar">
+          <Button
+            variant={selectedCategory === null ? "default" : "outline"}
+            onClick={() => setSelectedCategory(null)}
+            size="sm"
+            className="whitespace-nowrap"
+          >
+            All Networks
+          </Button>
+          {categories.map((cat) => (
+            <Button
+              key={cat}
+              variant={selectedCategory === cat ? "default" : "outline"}
+              onClick={() => setSelectedCategory(cat)}
+              size="sm"
+              className="whitespace-nowrap"
+            >
+              {cat}
+            </Button>
+          ))}
+        </div>
+
         <Card className="flex-1 glass-card border-white/5 overflow-hidden relative" ref={containerRef}>
           {loading ? (
             <div className="absolute inset-0 flex items-center justify-center">
@@ -111,7 +203,7 @@ export default function Ecosystem() {
                 ref={fgRef}
                 width={dimensions.width}
                 height={dimensions.height}
-                graphData={data}
+                graphData={filteredData}
                 nodeLabel="label"
                 nodeColor={(node: any) => {
                   if (node.group === "category") return "#14B8A6"; // Teal

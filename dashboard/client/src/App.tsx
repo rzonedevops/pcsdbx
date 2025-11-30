@@ -8,15 +8,19 @@ import Home from "./pages/Home";
 import Milestones from "./pages/Milestones";
 import Suppliers from "./pages/Suppliers";
 import Ecosystem from "./pages/Ecosystem";
-
+import Analytics from "./pages/Analytics";
+import Settings from "./pages/Settings";
 
 function Router() {
+  // make sure to consider if you need authentication for certain routes
   return (
     <Switch>
       <Route path={"/"} component={Home} />
       <Route path={"/milestones"} component={Milestones} />
-      <Route path={"/suppliers"} component={Suppliers} />
-      <Route path={"/ecosystem"} component={Ecosystem} />
+      <Route path="/suppliers" component={Suppliers} />
+      <Route path="/ecosystem" component={Ecosystem} />
+      <Route path="/analytics" component={Analytics} />
+      <Route path="/settings" component={Settings} />
       <Route path={"/404"} component={NotFound} />
       {/* Final fallback route */}
       <Route component={NotFound} />
@@ -33,7 +37,7 @@ function App() {
   return (
     <ErrorBoundary>
       <ThemeProvider
-        defaultTheme="light"
+        defaultTheme="dark"
         // switchable
       >
         <TooltipProvider>

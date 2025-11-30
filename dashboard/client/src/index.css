@@ -189,11 +189,11 @@
   
   /* Glassmorphism Utilities */
   .glass {
-    @apply bg-background/60 backdrop-blur-md border border-white/10;
+    @apply bg-background/60 backdrop-blur-md border border-border/50;
   }
   
   .glass-card {
-    @apply bg-card/40 backdrop-blur-sm border border-white/5 shadow-lg;
+    @apply bg-card/40 backdrop-blur-sm border border-border/50 shadow-lg;
   }
   
   /* Glow Effects */
