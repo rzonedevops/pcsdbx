@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "huisong_pharmaceuticals_rhodiola",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.huisongpharm.com/rhodiola-extract-product/",
+  "company_name": "Huisong Pharmaceuticals",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Hangzhou, China",
+  "country": "China",
+  "specializations": [
+    "Rhodiola Extract wholesale",
+    "R&D and manufacturing of natural ingredients",
+    "Premium-quality natural ingredients"
+  ],
+  "tags": [
+    "rhodiola",
+    "wholesale",
+    "bulk",
+    "chinese-manufacturer",
+    "natural-ingredients"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "founded": "1998"
+  },
+  "notes": "Chinese manufacturer (est. 1998) specializing in R&D and manufacturing of premium-quality natural ingredients including Rhodiola Extract. Wholesale supplier serving international buyers and bulk purchasers."
+}

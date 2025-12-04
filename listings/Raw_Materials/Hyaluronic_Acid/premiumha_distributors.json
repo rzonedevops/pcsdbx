@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "premiumha_distributors",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
+  "company_name": "PremiumHA Distributors",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Dallas, TX, USA",
+  "country": "United States",
+  "specializations": [
+    "Pharmaceutical-grade hyaluronic acid",
+    "Injectable-grade HA for dermal fillers",
+    "Joint injections",
+    "Ophthalmic-grade HA for eye drops",
+    "Contact lens solutions",
+    "Wound-care HA"
+  ],
+  "tags": [
+    "pharmaceutical-grade",
+    "fda-registered",
+    "medical-use",
+    "high-purity",
+    "regulatory-support",
+    "bulk-pricing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "founded": "2011",
+    "certifications": "FDA-registered, USP standards compliant, 99.9% purity",
+    "moq": "Minimum 10kg for powders"
+  },
+  "notes": "Pharmaceutical-grade hyaluronic acid with FDA registration and USP compliance. 99.9% purity. Regulatory support for FDA and EU compliance. Unbeatable bulk pricing for large-scale manufacturers. Serves medical/clinical use, high-end cosmetic brands, and pharmaceutical companies."
+}

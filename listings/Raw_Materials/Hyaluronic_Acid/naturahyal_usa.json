@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "naturahyal_usa",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
+  "company_name": "NaturaHyal USA",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Houston, TX, USA",
+  "country": "United States",
+  "specializations": [
+    "Bulk hyaluronic acid wholesale",
+    "Bulk HA powder (1kg to 1000kg)",
+    "Pre-made serum bases",
+    "Capsules and powders"
+  ],
+  "tags": [
+    "bulk-wholesale",
+    "fast-shipping",
+    "flexible-moq",
+    "price-matching",
+    "multi-location"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "founded": "2012",
+    "moq": "Flexible starting from 5kg",
+    "distribution_centers": "Houston, New York, Miami"
+  },
+  "notes": "Bulk hyaluronic acid wholesale with next-day shipping and price matching guarantee. Flexible MOQ starting from 5kg. Serves small businesses, large corporations, and supplement companies. Distribution centers in Houston, New York, and Miami."
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "bulk_naturals_wholesale_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.bulknaturalswholesale.com/products/ceramide-complex",
+  "company_name": "Bulk Naturals Wholesale",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Ceramide Complex",
+    "Skincare formulations",
+    "Hydration",
+    "Barrier repair",
+    "Long-term moisturization",
+    "Skin-identical lipids"
+  ],
+  "tags": [
+    "wholesale",
+    "bulk",
+    "formulator-supplier",
+    "multi-application"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md"
+  },
+  "notes": "USA wholesale supplier of ceramide complex featuring skin-identical lipids. Applications include hydration, barrier repair, and long-term moisturization. Serves wholesale buyers and formulators."
+}

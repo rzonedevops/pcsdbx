@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "herbal_creations_ashwagandha",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://herbal-creations.com/us/ashwagandha-extracts-supplier-usa/",
+  "company_name": "Herbal Creations",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Ashwagandha Extracts",
+    "Cosmetics applications",
+    "Personal care products",
+    "Food and beverage applications",
+    "Versatile cross-sector applications"
+  ],
+  "tags": [
+    "ashwagandha",
+    "multi-sector",
+    "versatile",
+    "commercial",
+    "industrial"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md"
+  },
+  "notes": "USA supplier of ashwagandha extracts with versatile applications across cosmetics, personal care, food and beverage sectors. Serves commercial and industrial sectors."
+}
