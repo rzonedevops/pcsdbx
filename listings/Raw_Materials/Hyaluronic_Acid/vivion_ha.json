@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "vivion_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://vivion.com/bulk-hyaluronic-acid-supplier/",
+  "company_name": "Vivion",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Bulk distributor of ingredients and chemicals",
+    "Hyaluronic Acid wholesale"
+  ],
+  "tags": [
+    "bulk-distributor",
+    "wholesale",
+    "ingredient-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "moq": "Starting at 50 lbs"
+  },
+  "notes": "Bulk distributor of ingredients and chemicals specializing in hyaluronic acid. MOQ starting at 50 lbs. Serves wholesale buyers and manufacturers."
+}

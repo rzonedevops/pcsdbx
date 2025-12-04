@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "lucas_meyer_cosmetics_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
+  "company_name": "Lucas Meyer Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "Canada",
+  "specializations": [
+    "Innovative ceramide complexes",
+    "Enhanced skin penetration technology",
+    "Advanced delivery systems"
+  ],
+  "tags": [
+    "innovation",
+    "advanced-delivery",
+    "premium",
+    "technology-driven"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md"
+  },
+  "notes": "Canadian/Global supplier specializing in innovative ceramide complexes with enhanced skin penetration. Advanced delivery technology for premium skincare brands."
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9103,
+  "listing_id": "nektium_rhodiolife",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://nektium.com/rhodiolife/",
+  "company_name": "Nektium (Rhodiolife®)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "Spain",
+  "specializations": [
+    "Rhodiolife®",
+    "World's first standardised Rhodiola rosea extract",
+    "Commercially available standardized extract",
+    "Supplements and cosmetics"
+  ],
+  "product_highlights": [
+    "Rhodiolife® - world's first standardised Rhodiola rosea extract",
+    "Standardized formulation",
+    "Supplements applications",
+    "Cosmetics applications"
+  ],
+  "tags": [
+    "rhodiola",
+    "standardized",
+    "patented",
+    "verified-website"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "website": "https://nektium.com/rhodiolife/",
+    "innovation": "World's first standardised Rhodiola rosea extract"
+  },
+  "notes": "Spanish company offering Rhodiolife®, the world's first standardised Rhodiola rosea extract commercially available for supplements and cosmetics."
+}

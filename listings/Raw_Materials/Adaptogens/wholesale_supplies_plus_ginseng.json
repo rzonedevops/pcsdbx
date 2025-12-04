@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "wholesale_supplies_plus_ginseng",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.wholesalesuppliesplus.com/products/ginseng-extract-water-soluble.aspx",
+  "company_name": "Wholesale Supplies Plus",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Ginseng Extract - Water Soluble",
+    "Glycerin, Water, Ginseng Extract blend",
+    "Facial products",
+    "Hair care applications"
+  ],
+  "tags": [
+    "ginseng",
+    "water-soluble",
+    "diy-friendly",
+    "formulation-ease",
+    "multi-application"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "composition": "Glycerin, Water, Ginseng Extract"
+  },
+  "notes": "USA supplier of water-soluble ginseng extract blend with glycerin and water. Light odor, easy to formulate. Applications include facial products and hair care. Serves DIY and small-scale manufacturers."
+}

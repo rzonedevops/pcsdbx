@@ -4,6 +4,7 @@
   "listing_id": "evonik_industries_ceramides",
   "category_path": "Raw_Materials/Ceramides",
   "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/9102/",
+  "url": "https://personal-care.evonik.com/en/products-solutions/ceramides",
   "company_name": "Evonik Industries",
   "status": "active",
   "date_added": "2025-12-04",
@@ -22,6 +23,27 @@
     "major-player",
     "biotech",
     "comprehensive"
+  "country": "Germany",
+  "region": "Global operations",
+  "specializations": [
+    "30 years of ceramide technology expertise",
+    "Biotechnological production",
+    "100% skin-identical ceramides",
+    "Natural yeast fermentation process",
+    "9 types of ceramides in portfolio"
+  ],
+  "product_highlights": [
+    "SPHINOX® Lift (short bioactive Ceramide NP with anti-aging)",
+    "SPHINOX® Immulance (immune barrier ceramide)",
+    "SK-INFLUX® V MB (skin barrier fortification)",
+    "HAIRFLUX® (damaged/dry hair)",
+    "PHYTOSPHINGOSINE SLC (photodamaged skin restoration)"
+  ],
+  "tags": [
+    "major-player",
+    "biotechnology",
+    "pharmaceutical-grade",
+    "verified-website"
   ],
   "metadata": {
     "last_validated": "2025-12-04",
@@ -29,4 +51,9 @@
     "data_source": "research_category_expansion_2025-12-03.md"
   },
   "notes": "Ceramides for cosmetics with wide range of ceramide applications through advanced biotechnological processes."
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "website": "https://personal-care.evonik.com/en/products-solutions/ceramides",
+    "certifications": "Dermatologically proven, sustainability-driven"
+  },
+  "notes": "Global market leader in ceramides business with 30 years of expertise. 100% skin-identical ceramides produced through natural yeast fermentation."
 }

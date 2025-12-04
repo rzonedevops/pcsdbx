@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "lotion_crafter_ginseng",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://lotioncrafter.com/products/ginseng-extract",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Ginseng Extract",
+    "Panax ginseng root extract",
+    "Antioxidant-rich formulations",
+    "Anti-aging applications",
+    "External damage defense"
+  ],
+  "tags": [
+    "ginseng",
+    "antioxidant",
+    "anti-aging",
+    "formulator-friendly"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "source": "Panax ginseng root extract"
+  },
+  "notes": "USA supplier of Panax ginseng root extract with antioxidant-rich, anti-aging properties. Defends against external damage. Serves skincare formulators."
+}

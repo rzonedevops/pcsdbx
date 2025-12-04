@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "syensqo_cerafy",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.syensqo.com/en/brands/cerafy",
+  "company_name": "Syensqo (Cerafy™)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "Belgium",
+  "specializations": [
+    "Cerafy™ Range of Biomimetic Ceramides",
+    "Diverse skin care solutions",
+    "Responsible sourcing",
+    "Personalized formulations"
+  ],
+  "tags": [
+    "biomimetic",
+    "sustainable",
+    "personalized",
+    "innovation",
+    "european"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "parent_company": "Formerly Solvay"
+  },
+  "notes": "Belgian company (formerly Solvay) specializing in Cerafy™ range of biomimetic ceramides. Offers diverse, responsible, and personalized skin care solutions. Key active ingredients for formulators seeking biomimetic ceramides."
+}

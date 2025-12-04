@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "cobiosa_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
+  "company_name": "Cobiosa",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Ctra. Alpedrete 6, Collado Villalba, Spain",
+  "country": "Spain",
+  "phone": "34918510051",
+  "specializations": [
+    "Natural active ingredients",
+    "Plant-derived ceramides (phytoceramides)",
+    "Sustainable sourcing",
+    "Botanical extracts"
+  ],
+  "tags": [
+    "natural-actives-specialist",
+    "phytoceramides",
+    "sustainable",
+    "botanical-focus",
+    "spanish"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "Spanish company specializing in natural active ingredients including plant-derived ceramides (phytoceramides). Focus on sustainable sourcing and botanical extracts. Strong commitment to natural and eco-friendly ingredients."
+}

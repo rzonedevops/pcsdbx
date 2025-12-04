@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "croda_beauty_sphingocare",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.crodabeauty.com/en-gb/resources/blog/sphingocare-our-complete-range-of-sphingolipids-and-ceramides-for-cosmetic-applications",
+  "company_name": "Croda Beauty (SphingoCare™)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United Kingdom",
+  "specializations": [
+    "High purity natural derived bioactive ceramides",
+    "Sphingolipids",
+    "Yeast fermentation production",
+    "Biomimetic structure",
+    "Complete range of sphingolipids"
+  ],
+  "tags": [
+    "natural-derived",
+    "bioactive",
+    "fermentation",
+    "biomimetic",
+    "premium",
+    "global"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "production_method": "Yeast fermentation"
+  },
+  "notes": "UK-based global supplier specializing in high purity natural derived bioactive ceramides and sphingolipids. Biomimetic structure produced through yeast fermentation. Serves cosmetic applications worldwide."
+}

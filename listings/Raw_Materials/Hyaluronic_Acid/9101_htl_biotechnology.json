@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9101,
+  "listing_id": "htl_biotechnology",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://htlbiotech.com/products/manufacturer-of-sodium-hyaluronate/",
+  "company_name": "HTL Biotechnology",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "France",
+  "region": "Serves USA market",
+  "specializations": [
+    "Pharmaceutical grade Hyaluronic Acid",
+    "Sodium Hyaluronate",
+    "Natural origin HA"
+  ],
+  "product_highlights": [
+    "Pharmaceutical grade sodium hyaluronate",
+    "Natural origin",
+    "Medical applications"
+  ],
+  "tags": [
+    "pharmaceutical-grade",
+    "european-manufacturer",
+    "verified-website"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "website": "https://htlbiotech.com/products/manufacturer-of-sodium-hyaluronate/",
+    "certifications": "Pharmaceutical grade"
+  },
+  "notes": "French manufacturer serving USA market. Specializes in pharmaceutical-grade natural origin sodium hyaluronate."
+}
