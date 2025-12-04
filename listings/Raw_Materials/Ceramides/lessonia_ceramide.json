@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "lessonia_ceramide",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://www.lessonia.com/en/ingredient/ceramide/",
+  "company_name": "Lessonia",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "France",
+  "specializations": [
+    "C+eRAMIDE",
+    "Wheat seed by-product extraction",
+    "Upcycled ingredients",
+    "Cellular 'glue' function",
+    "Naturally present in skin"
+  ],
+  "tags": [
+    "sustainable",
+    "upcycled",
+    "natural",
+    "eco-friendly",
+    "wheat-derived",
+    "french"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "source": "Wheat seed by-product",
+    "sustainability": "Upcycled ingredient"
+  },
+  "notes": "French supplier of C+eRAMIDE extracted from wheat seed by-product. Sustainable upcycled ingredient naturally present in skin acting as cellular 'glue'. Targets natural and sustainable cosmetics market."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "new_directions_aromatics_ashwagandha",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.newdirectionsaromatics.com/cosmetic-ingredients/botanical-extracts/ashwagandha-liquid-extract-100-natural-standardized",
+  "company_name": "New Directions Aromatics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Ashwagandha Liquid Extract - 100% Natural (Standardized)",
+    "Rich in withanolides",
+    "Hydrating properties",
+    "Antioxidant benefits",
+    "Soothing skin formulations"
+  ],
+  "tags": [
+    "ashwagandha",
+    "standardized",
+    "natural",
+    "antioxidant",
+    "hydrating"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "active_compounds": "Withanolides"
+  },
+  "notes": "USA/Canada supplier of 100% natural standardized ashwagandha liquid extract rich in withanolides. Hydrating, antioxidant, and soothing properties for skin and hair care formulations. Serves natural cosmetics manufacturers."
+}

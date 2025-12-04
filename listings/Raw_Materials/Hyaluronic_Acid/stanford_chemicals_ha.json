@@ -1,0 +1,29 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "stanford_chemicals_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.hyaluronicacidsupplier.com/cosmetic_grade_hyaluronic_acid.html",
+  "company_name": "Stanford Chemicals Company",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Cosmetic-Grade High Molecular Weight Hyaluronic Acid",
+    "High Molecular Weight > 1,800 kDa",
+    "Skin care applications"
+  ],
+  "tags": [
+    "cosmetic-grade",
+    "high-molecular-weight",
+    "specialty-chemicals"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "specifications": "High Molecular Weight > 1,800 kDa"
+  },
+  "notes": "Specializes in cosmetic-grade high molecular weight hyaluronic acid for skin care applications. Provides CAS number documentation."
+}

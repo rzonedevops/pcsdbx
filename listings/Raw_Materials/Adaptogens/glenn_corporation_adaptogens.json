@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "glenn_corporation_adaptogens",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://glenncorp.com/product-category/adaptogen/",
+  "company_name": "Glenn Corporation",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Adaptogen ingredients for personal care",
+    "Anti-aging products",
+    "Cosmetic formulations"
+  ],
+  "tags": [
+    "anti-aging",
+    "formulation-ingredients",
+    "personal-care"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md"
+  },
+  "notes": "USA supplier specializing in adaptogen ingredients for personal care and cosmetic formulations. Focus on anti-aging products. Serves personal care and cosmetic manufacturers."
+}

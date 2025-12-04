@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "campo_research_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
+  "company_name": "Campo Research",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Level 31, 6 Battery Road, Singapore, Singapore",
+  "country": "Singapore",
+  "phone": "65-63-8332-03",
+  "specializations": [
+    "Cosmetic active ingredients",
+    "Ceramides",
+    "Asia-Pacific market focus",
+    "Research and development"
+  ],
+  "tags": [
+    "asia-pacific-specialist",
+    "active-ingredients",
+    "research-focus",
+    "singapore"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_2025-11-11.md"
+  },
+  "notes": "Singapore-based supplier specializing in cosmetic active ingredients including ceramides. Strong presence in Asia-Pacific market with research capabilities."
+}

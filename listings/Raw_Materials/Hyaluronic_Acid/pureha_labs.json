@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "pureha_labs",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
+  "company_name": "PureHA Labs",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Chicago, IL, USA",
+  "country": "United States",
+  "specializations": [
+    "Organic hyaluronic acid",
+    "Non-GMO hyaluronic acid",
+    "Bio-fermentation production",
+    "Cosmetic-grade HA powders",
+    "Food-grade liquid HA",
+    "Pharmaceutical-grade injectables"
+  ],
+  "tags": [
+    "organic",
+    "sustainable",
+    "eco-conscious",
+    "usda-certified",
+    "ecocert",
+    "gmp-certified",
+    "renewable-energy"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "founded": "2010",
+    "certifications": "USDA Organic, Ecocert, GMP",
+    "sustainability_features": "100% renewable energy facility, carbon offset programs, reforestation donations"
+  },
+  "notes": "Organic and non-GMO hyaluronic acid via bio-fermentation. 100% renewable energy facility with carbon offset programs. Provides COA with every batch. Free sample kits available. Targets natural skincare, supplement lines, and vegan brands."
+}

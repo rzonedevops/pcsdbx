@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "garden_naturalsolution_ginseng",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Adaptogens/",
+  "company_name": "The Garden of Naturalsolution Co., Ltd.",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "South Korea",
+  "specializations": [
+    "Ginseng Extract",
+    "Adaptogenic herb extracts",
+    "Anti-inflammatory effect",
+    "Anti-wrinkle effect"
+  ],
+  "tags": [
+    "ginseng",
+    "anti-inflammatory",
+    "anti-wrinkle",
+    "korean-quality",
+    "adaptogenic"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md"
+  },
+  "notes": "South Korean supplier of ginseng extract as adaptogenic herb with anti-inflammatory and anti-wrinkle effects. Serves personal care and cosmetics markets."
+}

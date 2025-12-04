@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "ecohyaluronic_industries",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
+  "company_name": "EcoHyaluronic Industries",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Portland, OR, USA",
+  "country": "United States",
+  "specializations": [
+    "Sustainable hyaluronic acid",
+    "Eco-conscious HA production",
+    "Mission-driven sustainability"
+  ],
+  "tags": [
+    "sustainable",
+    "eco-conscious",
+    "mission-driven",
+    "green"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "founded": "2012"
+  },
+  "notes": "Mission-driven company focused on sustainable and accessible hyaluronic acid production. Targets eco-conscious brands seeking sustainable ingredients."
+}

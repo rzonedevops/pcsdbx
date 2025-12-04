@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "givaudan_active_beauty_ceramides",
+  "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "Switzerland",
+  "specializations": [
+    "Natural ceramides",
+    "Natural sourcing",
+    "Sustainability-focused ingredients"
+  ],
+  "tags": [
+    "natural",
+    "sustainable",
+    "premium",
+    "swiss-quality",
+    "global"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md"
+  },
+  "notes": "Swiss-based global supplier focusing on natural ceramides with emphasis on natural sourcing and sustainability. Targets natural beauty brands worldwide."
+}
