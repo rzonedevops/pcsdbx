@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1813,
+  "listing_id": "intertek_compliance",
+  "category_path": "Business_Services/Compliance_and_Certification",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Compliance_and_Certification/1813/",
+  "company_name": "Intertek",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "intertek.com",
+  "specializations": [
+    "Cosmetics compliance and certification",
+    "Regulatory compliance",
+    "Safety testing",
+    "EU, FDA, ASEAN regulations"
+  ],
+  "product_highlights": [
+    "Regulatory compliance, safety testing",
+    "EU, FDA, ASEAN regulations"
+  ],
+  "tags": [
+    "major-player",
+    "regulatory",
+    "global-compliance"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetics compliance and certification with regulatory compliance and safety testing for EU, FDA, ASEAN regulations."
+}

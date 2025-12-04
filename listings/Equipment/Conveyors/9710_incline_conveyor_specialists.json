@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9710,
+  "listing_id": "incline_conveyor_specialists",
+  "category_path": "Equipment/Conveyors",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Conveyors/9710/",
+  "company_name": "Incline Conveyor Specialists",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Custom conveyors",
+    "Incline conveyor systems",
+    "Cosmetics manufacturing"
+  ],
+  "product_highlights": [
+    "Incline and custom conveyor systems",
+    "Cosmetics manufacturing applications"
+  ],
+  "tags": [
+    "incline-specialist",
+    "custom",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Custom conveyors with incline conveyor systems for cosmetics manufacturing. Available through industry directories."
+}

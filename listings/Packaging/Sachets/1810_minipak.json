@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1810,
+  "listing_id": "minipak",
+  "category_path": "Packaging/Sachets",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Sachets/1810/",
+  "company_name": "MINIPAK",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "minipak.net",
+  "specializations": [
+    "Contract sachet packaging company",
+    "Liquid sachets",
+    "Cream sachets",
+    "Powder sachets",
+    "Granulated sachets"
+  ],
+  "product_highlights": [
+    "Liquid, cream, powder, granulated sachets",
+    "Single-dose cosmetic samples"
+  ],
+  "tags": [
+    "contract-packaging",
+    "multi-format",
+    "single-dose"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Contract sachet packaging company offering liquid, cream, powder, and granulated sachets for single-dose cosmetic samples."
+}

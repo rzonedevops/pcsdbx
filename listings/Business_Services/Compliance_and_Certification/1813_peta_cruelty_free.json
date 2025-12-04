@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1813,
+  "listing_id": "peta_cruelty_free",
+  "category_path": "Business_Services/Compliance_and_Certification",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Compliance_and_Certification/1813/",
+  "company_name": "PETA",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "certifications": [
+    "Cruelty-free certification",
+    "Vegan certification"
+  ],
+  "specializations": [
+    "Cruelty-free certification",
+    "Vegan certification",
+    "Animal welfare standards"
+  ],
+  "product_highlights": [
+    "Cruelty-free and vegan certification",
+    "Animal welfare standards"
+  ],
+  "tags": [
+    "cruelty-free",
+    "vegan",
+    "animal-welfare"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cruelty-free certification offering cruelty-free and vegan certification with animal welfare standards. Industry-specific organization."
+}

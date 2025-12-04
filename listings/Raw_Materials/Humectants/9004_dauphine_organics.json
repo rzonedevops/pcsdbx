@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "dauphine_organics",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Dauphine Organics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "dauphineorganics.com",
+  "specializations": [
+    "Advanced humectant supplier",
+    "Advanced Moisture™ Humectant",
+    "30+ hour hydration",
+    "Clinically backed alternatives to glycerin"
+  ],
+  "product_highlights": [
+    "Advanced Moisture™ Humectant",
+    "30+ hour hydration",
+    "Clinically backed glycerin alternative"
+  ],
+  "tags": [
+    "advanced-technology",
+    "clinically-backed",
+    "long-lasting",
+    "innovative"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Advanced humectant supplier featuring Advanced Moisture™ Humectant with 30+ hour hydration. Clinically backed alternatives to glycerin."
+}

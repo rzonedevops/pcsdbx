@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1810,
+  "listing_id": "impacked_packaging_sachets",
+  "category_path": "Packaging/Sachets",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Sachets/1810/",
+  "company_name": "Impacked Packaging",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "impackedpackaging.com",
+  "specializations": [
+    "Sachet packaging specialist",
+    "Various fill volumes",
+    "Various seal formats",
+    "Custom sachet packaging"
+  ],
+  "product_highlights": [
+    "Sachets with various fill volumes and seal formats",
+    "Custom sachet packaging"
+  ],
+  "tags": [
+    "specialist",
+    "custom-packaging",
+    "flexible-options"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Sachet packaging specialist offering sachets with various fill volumes and seal formats for custom sachet packaging."
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "mintel",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "Mintel",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "mintel.com",
+  "specializations": [
+    "Beauty and personal care insights",
+    "Consumer trends",
+    "Product trends",
+    "Formulation trends",
+    "Packaging trends",
+    "Comprehensive market analysis"
+  ],
+  "product_highlights": [
+    "Consumer, product, formulation, packaging trends",
+    "Comprehensive market analysis"
+  ],
+  "tags": [
+    "major-player",
+    "comprehensive",
+    "trend-analysis"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Beauty and personal care insights covering consumer, product, formulation, and packaging trends with comprehensive market analysis."
+}

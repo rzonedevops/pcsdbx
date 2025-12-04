@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1812,
+  "listing_id": "centric_software",
+  "category_path": "Business_Services/Supply_Chain_Management",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Supply_Chain_Management/1812/",
+  "company_name": "Centric Software",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "centricsoftware.com",
+  "specializations": [
+    "Supply chain management for beauty",
+    "Supply chain optimization software",
+    "Beauty brands and manufacturers"
+  ],
+  "product_highlights": [
+    "Supply chain optimization software",
+    "Beauty brands and manufacturers focus"
+  ],
+  "tags": [
+    "software",
+    "optimization",
+    "beauty-specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Supply chain management for beauty with supply chain optimization software for beauty brands and manufacturers."
+}

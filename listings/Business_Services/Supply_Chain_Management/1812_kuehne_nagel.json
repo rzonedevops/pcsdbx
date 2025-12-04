@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1812,
+  "listing_id": "kuehne_nagel",
+  "category_path": "Business_Services/Supply_Chain_Management",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Supply_Chain_Management/1812/",
+  "company_name": "Kuehne+Nagel",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Global supply chain services",
+    "Integrated supply chain solutions",
+    "Cosmetics industry"
+  ],
+  "product_highlights": [
+    "Integrated supply chain solutions",
+    "Cosmetics industry specialization"
+  ],
+  "tags": [
+    "major-player",
+    "global",
+    "integrated"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Global supply chain services with integrated supply chain solutions for cosmetics industry. Industry-leading provider."
+}

@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1812,
+  "listing_id": "db_schenker",
+  "category_path": "Business_Services/Supply_Chain_Management",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Supply_Chain_Management/1812/",
+  "company_name": "DB Schenker",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Supply chain management",
+    "Logistics and supply chain optimization",
+    "Beauty and cosmetics"
+  ],
+  "product_highlights": [
+    "Logistics and supply chain optimization",
+    "Beauty and cosmetics focus"
+  ],
+  "tags": [
+    "major-player",
+    "optimization",
+    "beauty-specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Supply chain management with logistics and supply chain optimization for beauty and cosmetics. Industry-specific supplier."
+}
