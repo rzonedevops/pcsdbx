@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9130,
+  "listing_id": "vivion",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Glycerin/9130/",
+  "company_name": "Vivion",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "vivion.com",
+  "specializations": [
+    "Bulk glycerin supplier",
+    "USP-grade glycerin",
+    "Wholesale distribution",
+    "Multiple USP grades"
+  ],
+  "product_highlights": [
+    "Glycerin 99.7% USP",
+    "USP-2 and USP-3 grades",
+    "Wholesale distribution"
+  ],
+  "tags": [
+    "usp-grade",
+    "bulk-supplier",
+    "wholesale"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Bulk glycerin supplier offering 99.7% USP, USP-2, and USP-3 grades through wholesale distribution."
+}

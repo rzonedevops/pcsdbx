@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9210,
+  "listing_id": "nourish_us_naturals",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Prebiotics/9210/",
+  "company_name": "Nourish Us Naturals",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "nourishusnaturals.com",
+  "specializations": [
+    "Natural prebiotic ingredient supplier",
+    "Prebiotic powder formulations",
+    "Vegan ingredients",
+    "Natural ingredients"
+  ],
+  "product_highlights": [
+    "Prebiotic powder formulations",
+    "Vegan and natural ingredients"
+  ],
+  "tags": [
+    "vegan",
+    "natural",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Natural prebiotic ingredient supplier with prebiotic powder formulations. Specializes in vegan and natural ingredients."
+}

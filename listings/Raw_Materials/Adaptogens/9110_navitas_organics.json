@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9110,
+  "listing_id": "navitas_organics",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Adaptogens/9110/",
+  "company_name": "Navitas Organics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "navitasorganics.com",
+  "certifications": [
+    "Organic certified"
+  ],
+  "specializations": [
+    "Superfood adaptogen blends",
+    "Maca powder",
+    "Reishi mushroom",
+    "Ashwagandha",
+    "Organic ingredients"
+  ],
+  "product_highlights": [
+    "Superfood+ Adaptogen Blend",
+    "Maca, reishi, ashwagandha blend",
+    "Organic certification"
+  ],
+  "tags": [
+    "organic",
+    "superfood",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Superfood adaptogen blends featuring maca, reishi, and ashwagandha. Certified organic."
+}

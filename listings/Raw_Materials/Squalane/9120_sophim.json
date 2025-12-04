@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9120,
+  "listing_id": "sophim",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Squalane/9120/",
+  "company_name": "Sophim",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "sophim.com",
+  "certifications": [
+    "COSMOS approved",
+    "COSMOS certified"
+  ],
+  "specializations": [
+    "Natural vegetable squalane",
+    "Olive-derived squalane",
+    "Soya-derived squalane",
+    "Sunflower-derived squalane",
+    "Premium natural squalane"
+  ],
+  "product_highlights": [
+    "Squalane from olive, soya, sunflower",
+    "COSMOS approved/certified",
+    "Production leader"
+  ],
+  "tags": [
+    "natural",
+    "sustainable",
+    "major-player",
+    "certified"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Production leader of natural vegetable squalane from olive, soya, and sunflower. COSMOS approved and certified for premium natural squalane."
+}

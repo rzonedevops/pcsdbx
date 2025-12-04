@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9210,
+  "listing_id": "bio_lallemand",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Prebiotics/9210/",
+  "company_name": "Bio-Lallemand",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "bio-lallemand.com",
+  "specializations": [
+    "Advanced microbiota health ingredients",
+    "Prebiotic line for skin microbiome",
+    "Probiotics and prebiotics",
+    "Personal care applications"
+  ],
+  "product_highlights": [
+    "Prebiotic line for skin microbiome",
+    "Microbiota health ingredients"
+  ],
+  "tags": [
+    "microbiome",
+    "specialty",
+    "advanced-science"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Advanced microbiota health ingredients with prebiotic line for skin microbiome. Specializes in probiotics and prebiotics for personal care."
+}

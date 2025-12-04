@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9130,
+  "listing_id": "ldc_loders_croklaan",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Glycerin/9130/",
+  "company_name": "LDC (Loders Croklaan)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "ldc.com",
+  "specializations": [
+    "Global glycerin supplier",
+    "99.7% minimum purity",
+    "Food grade to cosmetics",
+    "Multiple grade options"
+  ],
+  "product_highlights": [
+    "Glycerin 99.7% minimum purity",
+    "Food grade to cosmetics grades"
+  ],
+  "tags": [
+    "major-player",
+    "multi-grade",
+    "global-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Global glycerin supplier with 99.7% minimum purity. Offers grades from food grade to cosmetics."
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9120,
+  "listing_id": "biossance",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Squalane/9120/",
+  "company_name": "Biossance",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "biossance.com",
+  "specializations": [
+    "Sustainable plant-based squalane",
+    "Biotechnology-derived squalane",
+    "Yeast fermentation technology",
+    "Sustainably sourced"
+  ],
+  "product_highlights": [
+    "Neossance™ Squalane",
+    "Plant sugars and yeast fermentation",
+    "Sustainable biotechnology"
+  ],
+  "tags": [
+    "sustainable",
+    "biotech",
+    "innovative",
+    "eco-friendly"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Sustainable plant-based squalane through Neossance™ technology. Derived from plant sugars and yeast fermentation for sustainably sourced, biotechnology-driven production."
+}

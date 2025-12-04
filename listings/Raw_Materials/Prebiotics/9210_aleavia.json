@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9210,
+  "listing_id": "aleavia",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Prebiotics/9210/",
+  "company_name": "Aleavia",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "aleavia.com",
+  "specializations": [
+    "Prebiotic skincare brand and supplier",
+    "Prebiotic ingredients for skincare",
+    "Microbiome-focused formulations"
+  ],
+  "product_highlights": [
+    "Prebiotic ingredients for skincare",
+    "Microbiome-focused formulations"
+  ],
+  "tags": [
+    "microbiome",
+    "skincare-specialist",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Prebiotic skincare brand and supplier with microbiome-focused formulations."
+}

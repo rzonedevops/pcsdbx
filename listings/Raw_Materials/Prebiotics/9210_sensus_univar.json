@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9210,
+  "listing_id": "sensus_univar",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Prebiotics/9210/",
+  "company_name": "Sensus (Univar Solutions)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "univarsolutions.com",
+  "specializations": [
+    "Inulin manufacturer",
+    "Oligofructose manufacturer",
+    "Chicory root-derived prebiotics",
+    "Natural prebiotics"
+  ],
+  "product_highlights": [
+    "Frutafit® inulin",
+    "Frutalose® oligofructose",
+    "Chicory root source"
+  ],
+  "tags": [
+    "inulin",
+    "natural",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Inulin and oligofructose manufacturer. Products derived from chicory root, including Frutafit® inulin and Frutalose® oligofructose."
+}

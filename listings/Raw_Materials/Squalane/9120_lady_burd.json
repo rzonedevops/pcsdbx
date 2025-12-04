@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9120,
+  "listing_id": "lady_burd",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Squalane/9120/",
+  "company_name": "Lady Burd",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "ladyburd.com",
+  "specializations": [
+    "Private label cosmetic manufacturer",
+    "100% pure squalane",
+    "Hair care applications",
+    "Skin care applications"
+  ],
+  "product_highlights": [
+    "100% pure squalane",
+    "Hair and skin care applications"
+  ],
+  "tags": [
+    "private-label",
+    "pure",
+    "multi-application"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Private label cosmetic manufacturer offering 100% pure squalane for hair and skin care applications."
+}

@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9130,
+  "listing_id": "americano_oil_products",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Glycerin/9130/",
+  "company_name": "Americano Oil Products",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "San Diego, CA",
+  "country": "United States",
+  "website": "americanoilproducts.com",
+  "specializations": [
+    "Glycerin manufacturer",
+    "Propylene glycol",
+    "Purity and safety standards",
+    "Formulation ingredients"
+  ],
+  "product_highlights": [
+    "Glycerin and propylene glycol",
+    "High purity and safety standards"
+  ],
+  "tags": [
+    "manufacturer",
+    "us-based",
+    "safety-certified"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Glycerin manufacturer in San Diego offering glycerin and propylene glycol with high purity and safety standards."
+}

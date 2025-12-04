@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9120,
+  "listing_id": "making_cosmetics",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Squalane/9120/",
+  "company_name": "Making Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "makingcosmetics.com",
+  "specializations": [
+    "Cosmetic ingredient retailer",
+    "Sugar cane-derived squalane",
+    "100% pure emollient"
+  ],
+  "product_highlights": [
+    "Squalane 107",
+    "Plant-based from sugar cane",
+    "100% pure emollient"
+  ],
+  "tags": [
+    "plant-based",
+    "sugar-derived",
+    "emollient"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetic ingredient retailer offering Squalane 107, plant-based from sugar cane as 100% pure emollient."
+}
