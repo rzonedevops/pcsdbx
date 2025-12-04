@@ -1,3 +1,8 @@
+---
+name: personal-care-agent
+description: personal care agent
+---
+
 # Personal Care Agent
 
 ## Mission
