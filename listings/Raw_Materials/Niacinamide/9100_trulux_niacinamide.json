@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9100,
+  "listing_id": "trulux_niacinamide",
+  "category_path": "Raw_Materials/Niacinamide",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Niacinamide/9100/",
+  "company_name": "Trulux",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "trulux.com",
+  "country": "Australia",
+  "specializations": [
+    "Australian cosmetics manufacturer",
+    "Niacinamide ingredients",
+    "Contract manufacturing"
+  ],
+  "product_highlights": [
+    "Niacinamide ingredients",
+    "Contract manufacturing services"
+  ],
+  "tags": [
+    "australian-supplier",
+    "contract-manufacturing",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Australian cosmetics manufacturer offering niacinamide ingredients with contract manufacturing services."
+}
