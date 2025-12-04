@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "crafters_choice",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Crafters Choice",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "crafters-choice.com",
+  "specializations": [
+    "Emollients and humectants",
+    "Comprehensive humectant line",
+    "Skincare formulations"
+  ],
+  "product_highlights": [
+    "Comprehensive humectant line",
+    "Skincare formulation applications"
+  ],
+  "tags": [
+    "comprehensive",
+    "skincare",
+    "formulator-friendly"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Emollients and humectants supplier with comprehensive humectant line for skincare formulations."
+}

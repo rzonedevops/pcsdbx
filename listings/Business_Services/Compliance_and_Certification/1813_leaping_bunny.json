@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1813,
+  "listing_id": "leaping_bunny",
+  "category_path": "Business_Services/Compliance_and_Certification",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Compliance_and_Certification/1813/",
+  "company_name": "Leaping Bunny",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "certifications": [
+    "Cruelty-free certification"
+  ],
+  "specializations": [
+    "Cruelty-free certification",
+    "Cruelty-free cosmetics certification",
+    "Animal testing prevention"
+  ],
+  "product_highlights": [
+    "Cruelty-free cosmetics certification",
+    "Animal testing prevention"
+  ],
+  "tags": [
+    "cruelty-free",
+    "animal-welfare",
+    "certification"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cruelty-free certification for cruelty-free cosmetics certification with focus on animal testing prevention. Industry-specific certifier."
+}

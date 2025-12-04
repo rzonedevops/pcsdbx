@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "g_and_co",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "G & Co.",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "g-co.agency",
+  "specializations": [
+    "Beauty & cosmetics consulting",
+    "Market research and trend analysis",
+    "High-end consumer sector"
+  ],
+  "product_highlights": [
+    "Market research and trend analysis",
+    "High-end consumer sector focus"
+  ],
+  "tags": [
+    "luxury",
+    "trend-analysis",
+    "consulting"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Beauty & cosmetics consulting with market research and trend analysis for high-end consumer sector."
+}

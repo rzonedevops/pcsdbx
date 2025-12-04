@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9710,
+  "listing_id": "davis_industrial",
+  "category_path": "Equipment/Conveyors",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Conveyors/9710/",
+  "company_name": "Davis Industrial",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "conveyors247.com",
+  "specializations": [
+    "Conveyor systems",
+    "Conveyor components and services",
+    "Pharmaceutical and cosmetics"
+  ],
+  "product_highlights": [
+    "Conveyor components and services",
+    "Pharmaceutical and cosmetics applications"
+  ],
+  "tags": [
+    "components",
+    "services",
+    "pharma-cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Conveyor systems offering components and services for pharmaceutical and cosmetics industries."
+}

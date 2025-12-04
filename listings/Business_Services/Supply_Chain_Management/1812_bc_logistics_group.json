@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1812,
+  "listing_id": "bc_logistics_group",
+  "category_path": "Business_Services/Supply_Chain_Management",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Supply_Chain_Management/1812/",
+  "company_name": "BC Logistics Group",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "bclogisticsgroup.com",
+  "specializations": [
+    "Beauty supply chain management",
+    "Sourcing optimization",
+    "Inventory management",
+    "Distribution optimization",
+    "Cost reduction and efficiency"
+  ],
+  "product_highlights": [
+    "Sourcing, inventory, distribution optimization",
+    "Cost reduction and efficiency"
+  ],
+  "tags": [
+    "beauty-specialist",
+    "cost-reduction",
+    "efficiency"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Beauty supply chain management with sourcing, inventory, and distribution optimization for cost reduction and efficiency."
+}

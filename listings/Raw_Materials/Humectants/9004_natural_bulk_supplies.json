@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "natural_bulk_supplies",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Natural Bulk Supplies",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "naturalbulksupplies.com",
+  "specializations": [
+    "Humectants wholesale distributor",
+    "High-quality pure humectants",
+    "Bulk wholesale",
+    "Formulators and manufacturers"
+  ],
+  "product_highlights": [
+    "High-quality pure humectants",
+    "Bulk wholesale distribution"
+  ],
+  "tags": [
+    "bulk-supplier",
+    "wholesale",
+    "high-quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Humectants wholesale distributor offering high-quality pure humectants in bulk for formulators and manufacturers."
+}

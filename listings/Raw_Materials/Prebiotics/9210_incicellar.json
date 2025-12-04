@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9210,
+  "listing_id": "incicellar",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Prebiotics/9210/",
+  "company_name": "Incicellar",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "incicellar.com",
+  "specializations": [
+    "Prebiotic powder manufacturer",
+    "Skin barrier protection",
+    "Sensitivity reduction",
+    "Microbiome support"
+  ],
+  "product_highlights": [
+    "Prebiotic Powder",
+    "Skin barrier protection",
+    "Sensitivity reduction"
+  ],
+  "tags": [
+    "barrier-protection",
+    "sensitive-skin",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Prebiotic powder manufacturer focused on skin barrier protection and sensitivity reduction through microbiome support."
+}

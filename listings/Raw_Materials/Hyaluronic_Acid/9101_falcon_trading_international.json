@@ -3,11 +3,26 @@
   "category_id": 9101,
   "listing_id": "falcon_trading_international",
   "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/9101/",
   "url": "https://www.falconti.com/hyaluronic-acid",
   "company_name": "Falcon Trading International",
   "status": "active",
   "date_added": "2025-12-04",
   "date_updated": "2025-12-04",
+  "website": "falconti.com",
+  "specializations": [
+    "Hyaluronic Acid distributor",
+    "Sodium hyaluronate from Europe",
+    "Wholesale distribution"
+  ],
+  "product_highlights": [
+    "Sodium hyaluronate from Europe",
+    "Wholesale distribution"
+  ],
+  "tags": [
+    "european-source",
+    "wholesale",
+    "distributor"
   "country": "USA",
   "specializations": [
     "Wholesale hyaluronic acid",
@@ -28,6 +43,9 @@
   "metadata": {
     "last_validated": "2025-12-04",
     "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Hyaluronic Acid distributor offering sodium hyaluronate from Europe through wholesale distribution."
     "data_source": "research_hyaluronic_acid_2025-12-04.md",
     "website": "https://www.falconti.com/hyaluronic-acid"
   },

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1813,
+  "listing_id": "eurofins_cosmetics",
+  "category_path": "Business_Services/Compliance_and_Certification",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Compliance_and_Certification/1813/",
+  "company_name": "Eurofins",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Cosmetics testing and certification",
+    "Safety testing",
+    "Regulatory compliance",
+    "EU and international standards"
+  ],
+  "product_highlights": [
+    "Safety testing, regulatory compliance",
+    "EU and international standards"
+  ],
+  "tags": [
+    "major-player",
+    "safety-testing",
+    "eu-specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetics testing and certification with safety testing and regulatory compliance for EU and international standards. Industry-leading provider."
+}

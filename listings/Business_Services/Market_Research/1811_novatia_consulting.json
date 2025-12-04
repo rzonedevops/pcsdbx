@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "novatia_consulting",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "Novatia Consulting",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "novatiaconsulting.com",
+  "specializations": [
+    "Cosmetics consumer behavior research",
+    "Skincare consumer behavior",
+    "Trend identification",
+    "Consumer preferences"
+  ],
+  "product_highlights": [
+    "Skincare consumer behavior market research",
+    "Trend identification and preferences"
+  ],
+  "tags": [
+    "consumer-behavior",
+    "skincare-focus",
+    "trend-identification"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetics consumer behavior research with skincare consumer behavior market research. Specializes in trend identification and preferences."
+}

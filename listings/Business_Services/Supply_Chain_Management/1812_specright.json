@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1812,
+  "listing_id": "specright",
+  "category_path": "Business_Services/Supply_Chain_Management",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Supply_Chain_Management/1812/",
+  "company_name": "SpecRight",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "specright.com",
+  "specializations": [
+    "Cosmetic supply chain management",
+    "Supply chain best practices",
+    "Product life cycle management",
+    "Supplier management"
+  ],
+  "product_highlights": [
+    "Supply chain best practices",
+    "Product life cycle and supplier management"
+  ],
+  "tags": [
+    "best-practices",
+    "lifecycle-management",
+    "cosmetics"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetic supply chain management with supply chain best practices for product life cycle and supplier management."
+}

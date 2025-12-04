@@ -3,11 +3,26 @@
   "category_id": 9102,
   "listing_id": "lotion_crafter_ceramides",
   "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/9102/",
   "url": "https://lotioncrafter.com/products/ceramide-complex",
   "company_name": "Lotion Crafter",
   "status": "active",
   "date_added": "2025-12-04",
   "date_updated": "2025-12-04",
+  "website": "lotioncrafter.com",
+  "specializations": [
+    "Ceramide Complex",
+    "Multi-lamellar ceramide complex",
+    "Barrier repair formulations"
+  ],
+  "product_highlights": [
+    "Multi-lamellar ceramide complex",
+    "Barrier repair formulations"
+  ],
+  "tags": [
+    "complex",
+    "barrier-repair",
+    "multi-lamellar"
   "country": "USA",
   "specializations": [
     "Ceramide Complex",
@@ -30,6 +45,9 @@
   "metadata": {
     "last_validated": "2025-12-04",
     "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Ceramide Complex with multi-lamellar ceramide complex for barrier repair formulations."
     "data_source": "research_ceramides_adaptogens_2025-12-04.md",
     "website": "https://lotioncrafter.com/products/ceramide-complex"
   },

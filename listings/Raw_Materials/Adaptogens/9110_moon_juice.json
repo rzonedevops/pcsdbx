@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9110,
+  "listing_id": "moon_juice",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Adaptogens/9110/",
+  "company_name": "Moon Juice",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "moonjuice.com",
+  "specializations": [
+    "Premium adaptogen powders",
+    "Adaptogen powder blends",
+    "Wellness-focused formulations",
+    "High-quality botanicals"
+  ],
+  "product_highlights": [
+    "Premium adaptogen powder blends",
+    "Wellness-focused formulations"
+  ],
+  "tags": [
+    "premium",
+    "wellness",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Premium adaptogen powders with wellness-focused formulations."
+}

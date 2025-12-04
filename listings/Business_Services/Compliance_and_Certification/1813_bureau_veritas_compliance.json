@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1813,
+  "listing_id": "bureau_veritas_compliance",
+  "category_path": "Business_Services/Compliance_and_Certification",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Compliance_and_Certification/1813/",
+  "company_name": "Bureau Veritas",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Cosmetics compliance services",
+    "Testing, certification, compliance",
+    "International standards"
+  ],
+  "product_highlights": [
+    "Testing, certification, compliance",
+    "International standards"
+  ],
+  "tags": [
+    "major-player",
+    "international",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetics compliance services covering testing, certification, and compliance with international standards. Industry-specific supplier."
+}

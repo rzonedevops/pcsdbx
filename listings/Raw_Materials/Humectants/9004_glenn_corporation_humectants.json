@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "glenn_corporation_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Glenn Corporation",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "glenncorp.com",
+  "specializations": [
+    "Humectant ingredient supplier",
+    "LACTIL® humectant",
+    "Moisturizing creams",
+    "Anti-aging applications"
+  ],
+  "product_highlights": [
+    "LACTIL® and other humectants",
+    "Moisturizing creams, anti-aging, shower gels"
+  ],
+  "tags": [
+    "specialty",
+    "anti-aging",
+    "moisturizing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Humectant ingredient supplier featuring LACTIL® and other humectants for moisturizing creams, anti-aging, and shower gels."
+}

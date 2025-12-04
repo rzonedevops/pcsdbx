@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9110,
+  "listing_id": "xaz_bio",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Adaptogens/9110/",
+  "company_name": "XAZ Bio",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "xazbbio.com",
+  "country": "China",
+  "specializations": [
+    "Herbal extracts",
+    "Pure ashwagandha extract",
+    "Professional-grade extracts",
+    "Chinese manufacturer"
+  ],
+  "product_highlights": [
+    "Pure ashwagandha extract",
+    "Professional-grade quality"
+  ],
+  "tags": [
+    "manufacturer",
+    "herbal-extracts",
+    "professional-grade"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Chinese manufacturer of herbal extracts specializing in pure ashwagandha extract at professional-grade quality."
+}

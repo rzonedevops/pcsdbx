@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "wholesale_supplies_plus_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Wholesale Supplies Plus",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "wholesalesuppliesplus.com",
+  "specializations": [
+    "Emollients and humectants",
+    "Comprehensive humectant selection",
+    "Skincare formulations"
+  ],
+  "product_highlights": [
+    "Comprehensive humectant selection",
+    "Skincare formulation applications"
+  ],
+  "tags": [
+    "comprehensive-selection",
+    "skincare",
+    "wholesale"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Emollients and humectants supplier with comprehensive humectant selection for skincare formulations."
+}

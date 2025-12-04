@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9130,
+  "listing_id": "lotion_crafter",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Glycerin/9130/",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "lotioncrafter.com",
+  "specializations": [
+    "Cosmetic ingredient supplier",
+    "Vegetable glycerin USP-grade",
+    "Humectant applications",
+    "Solvent and emollient"
+  ],
+  "product_highlights": [
+    "Vegetable glycerin USP-grade",
+    "Humectant, solvent, emollient"
+  ],
+  "tags": [
+    "usp-grade",
+    "vegetable-based",
+    "multi-functional"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetic ingredient supplier offering vegetable glycerin USP-grade as humectant, solvent, and emollient."
+}

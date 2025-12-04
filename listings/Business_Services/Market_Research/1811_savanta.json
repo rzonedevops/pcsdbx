@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "savanta",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "Savanta",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "savanta.com",
+  "specializations": [
+    "Fashion & beauty market research",
+    "Expert market research services",
+    "Innovation and consumer insights"
+  ],
+  "product_highlights": [
+    "Expert market research services",
+    "Innovation and consumer insights"
+  ],
+  "tags": [
+    "fashion-beauty",
+    "consumer-insights",
+    "innovation"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Fashion & beauty market research with expert market research services focused on innovation and consumer insights."
+}

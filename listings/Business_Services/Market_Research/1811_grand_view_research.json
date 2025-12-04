@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "grand_view_research",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "Grand View Research",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Cosmetics market analysis",
+    "Market size analysis",
+    "Trends and forecasts",
+    "Comprehensive industry reports"
+  ],
+  "product_highlights": [
+    "Market size, trends, forecasts",
+    "Comprehensive industry reports"
+  ],
+  "tags": [
+    "market-analysis",
+    "forecasts",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetics market analysis with market size, trends, and forecasts through comprehensive industry reports. Industry-specific supplier."
+}

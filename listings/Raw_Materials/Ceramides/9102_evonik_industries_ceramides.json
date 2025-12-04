@@ -3,11 +3,26 @@
   "category_id": 9102,
   "listing_id": "evonik_industries_ceramides",
   "category_path": "Raw_Materials/Ceramides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Ceramides/9102/",
   "url": "https://personal-care.evonik.com/en/products-solutions/ceramides",
   "company_name": "Evonik Industries",
   "status": "active",
   "date_added": "2025-12-04",
   "date_updated": "2025-12-04",
+  "website": "personal-care.evonik.com",
+  "specializations": [
+    "Ceramides for cosmetics",
+    "Wide range of ceramide applications",
+    "Advanced biotechnological processes"
+  ],
+  "product_highlights": [
+    "Wide range of ceramide applications",
+    "Advanced biotechnological processes"
+  ],
+  "tags": [
+    "major-player",
+    "biotech",
+    "comprehensive"
   "country": "Germany",
   "region": "Global operations",
   "specializations": [
@@ -33,6 +48,9 @@
   "metadata": {
     "last_validated": "2025-12-04",
     "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Ceramides for cosmetics with wide range of ceramide applications through advanced biotechnological processes."
     "data_source": "research_ceramides_adaptogens_2025-12-04.md",
     "website": "https://personal-care.evonik.com/en/products-solutions/ceramides",
     "certifications": "Dermatologically proven, sustainability-driven"

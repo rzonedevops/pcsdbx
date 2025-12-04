@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1810,
+  "listing_id": "carepac",
+  "category_path": "Packaging/Sachets",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Sachets/1810/",
+  "company_name": "CarePac",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "carepac.com",
+  "specializations": [
+    "Cosmetic sample packaging",
+    "Custom sample pouches",
+    "Low MOQs",
+    "Fast turnaround"
+  ],
+  "product_highlights": [
+    "Custom sample pouches",
+    "Low MOQs, fast turnaround"
+  ],
+  "tags": [
+    "low-moq",
+    "fast-turnaround",
+    "custom"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Cosmetic sample packaging with custom sample pouches. Specializes in low MOQs and fast turnaround."
+}

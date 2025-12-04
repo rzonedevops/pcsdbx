@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9710,
+  "listing_id": "nercon",
+  "category_path": "Equipment/Conveyors",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Conveyors/9710/",
+  "company_name": "Nercon",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "nerconconveyors.com",
+  "specializations": [
+    "Conveyor systems manufacturer",
+    "Consumer packaged goods conveyors",
+    "Speed, reliability, efficiency"
+  ],
+  "product_highlights": [
+    "Consumer packaged goods conveyors",
+    "Speed, reliability, efficiency focus"
+  ],
+  "tags": [
+    "manufacturer",
+    "cpg-specialist",
+    "reliable"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Conveyor systems manufacturer for consumer packaged goods with emphasis on speed, reliability, and efficiency."
+}

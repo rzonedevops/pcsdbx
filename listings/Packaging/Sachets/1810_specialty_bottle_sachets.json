@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1810,
+  "listing_id": "specialty_bottle_sachets",
+  "category_path": "Packaging/Sachets",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Packaging/Sachets/1810/",
+  "company_name": "Specialty Bottle",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "specialtybottle.com",
+  "specializations": [
+    "Wholesale cosmetic containers",
+    "Bulk sachets and pouches",
+    "Various packaging materials"
+  ],
+  "product_highlights": [
+    "Bulk sachets and pouches",
+    "Various packaging materials"
+  ],
+  "tags": [
+    "wholesale",
+    "bulk-supplier",
+    "variety"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Wholesale cosmetic containers supplier offering bulk sachets and pouches in various packaging materials."
+}

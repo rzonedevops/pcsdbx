@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9120,
+  "listing_id": "nature_in_bottle",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Squalane/9120/",
+  "company_name": "Nature In Bottle",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "natureinbottle.com",
+  "certifications": [
+    "Organic"
+  ],
+  "specializations": [
+    "Organic squalane oil supplier",
+    "Olive oil-derived squalane",
+    "Non-GMO plant source"
+  ],
+  "product_highlights": [
+    "Organic Squalane Oil",
+    "Derived from olive oil",
+    "Non-GMO plant source"
+  ],
+  "tags": [
+    "organic",
+    "non-gmo",
+    "olive-derived",
+    "natural"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Organic squalane oil supplier with products derived from olive oil. Non-GMO plant source."
+}

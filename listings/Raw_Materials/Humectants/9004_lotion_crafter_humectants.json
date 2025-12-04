@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "lotion_crafter_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "website": "lotioncrafter.com",
+  "specializations": [
+    "Natural and synthetic humectants",
+    "Glycerin",
+    "Sodium PCA",
+    "Butylene glycol",
+    "Moisture-retaining ingredients"
+  ],
+  "product_highlights": [
+    "Glycerin, sodium PCA, butylene glycol",
+    "Natural and synthetic options",
+    "Moisture-retaining ingredients"
+  ],
+  "tags": [
+    "natural-synthetic",
+    "moisture-retention",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Natural and synthetic humectants including glycerin, sodium PCA, and butylene glycol. Specializes in moisture-retaining ingredients."
+}

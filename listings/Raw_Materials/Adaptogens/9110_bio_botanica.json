@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9110,
+  "listing_id": "bio_botanica",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Adaptogens/9110/",
+  "company_name": "Bio-Botanica",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "specializations": [
+    "Adaptogen extracts",
+    "Ashwagandha extract",
+    "Kava kava extract",
+    "Herbal stress management",
+    "Botanical ingredients"
+  ],
+  "product_highlights": [
+    "Adaptogen extract line",
+    "Ashwagandha and kava kava",
+    "Herbal stress management ingredients"
+  ],
+  "tags": [
+    "botanical-extracts",
+    "stress-management",
+    "herbal"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_category_expansion_2025-12-03.md"
+  },
+  "notes": "Adaptogen extracts including ashwagandha and kava kava. Specializes in herbal stress management ingredients. Available through Glenn Corp distribution."
+}
