@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9101,
+  "listing_id": "sa_materials_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.samaterials.com/cosmetic-grade-sodium-hyaluronate.html",
+  "company_name": "SA Materials (Stanford Advanced Materials)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "USA",
+  "specializations": [
+    "Pure Cosmetic-Grade Hyaluronic Acid Powder",
+    "High Molecular Weight (>1800 KDa)",
+    "High-purity solutions",
+    "Skincare and beauty products"
+  ],
+  "product_highlights": [
+    "Cosmetic-Grade HMW HA Powder",
+    "Molecular Weight more than 1800 KDa",
+    "High-purity for skincare applications",
+    "Beauty product manufacturing"
+  ],
+  "tags": [
+    "cosmetic-grade",
+    "hmw-ha",
+    "high-purity",
+    "verified-website"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "website": "https://www.samaterials.com/cosmetic-grade-sodium-hyaluronate.html",
+    "specifications": "Molecular Weight >1800 KDa"
+  },
+  "notes": "Stanford Advanced Materials division. Specializes in high-purity cosmetic-grade hyaluronic acid for skincare manufacturers."
+}
