@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "makingcosmetics_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.makingcosmetics.com/HUM-HYAL-01.html",
+  "company_name": "MakingCosmetics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "United States",
+  "specializations": [
+    "Hyaluronic Acid 161",
+    "Hydrating gels",
+    "Moisturizing creams and lotions",
+    "Anti-aging and anti-wrinkle products",
+    "Pre/after sun lotions"
+  ],
+  "tags": [
+    "diy-cosmetics",
+    "small-batch",
+    "formulator-friendly",
+    "accessible"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md"
+  },
+  "notes": "Supplier focused on DIY cosmetics and small-scale manufacturers. Offers hyaluronic acid for various applications including hydrating gels, moisturizing products, and anti-aging formulations."
+}

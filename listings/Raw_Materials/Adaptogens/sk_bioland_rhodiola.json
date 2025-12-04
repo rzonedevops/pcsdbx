@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "sk_bioland_rhodiola",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Adaptogens/",
+  "company_name": "SK Bioland",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "South Korea",
+  "specializations": [
+    "Rhodiola Extract",
+    "Adaptogenic plant extracts",
+    "Neurogenic-inflammation reduction",
+    "Anti-inflammatory skincare"
+  ],
+  "tags": [
+    "rhodiola",
+    "anti-inflammatory",
+    "korean-quality",
+    "adaptogenic"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "efficacy": "Similar results to hydrocortisone"
+  },
+  "notes": "South Korean supplier of Rhodiola extract with adaptogenic properties. Reduces neurogenic-inflammation in skin with results similar to hydrocortisone. Targets anti-inflammatory skincare market."
+}

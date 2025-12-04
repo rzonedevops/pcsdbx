@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "hyaluronic_innovations_group",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hyaluronic_Acid/",
+  "company_name": "Hyaluronic Innovations Group (HIG)",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "address": "Boston, MA, USA",
+  "country": "United States",
+  "specializations": [
+    "Patented micro-encapsulated HA",
+    "Time-Release HA Serum Base (12-hour moisture delivery)",
+    "Deep skin penetration technology",
+    "Cosmeceutical-grade products",
+    "Pharmaceutical HA"
+  ],
+  "tags": [
+    "patented-technology",
+    "innovation",
+    "premium",
+    "research-driven",
+    "micro-encapsulation",
+    "time-release"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "patents": "Micro-encapsulation technology for deeper skin penetration"
+  },
+  "notes": "MIT biochemists-founded company with patented micro-encapsulated HA for deeper skin penetration. Time-Release HA Serum Base provides 12-hour moisture delivery. Premium cosmeceutical-grade and pharmaceutical HA products."
+}

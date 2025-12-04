@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "category_id": "raw_materials",
+  "listing_id": "finzelberg_rhodiola",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://finzelberg.com/en/rhodiola-by-finzelberg/",
+  "company_name": "Finzelberg",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "Germany",
+  "specializations": [
+    "Rhodiola extracts",
+    "Rhodiola rosea from own cultivations",
+    "Western European cultivation",
+    "Premium quality extracts",
+    "Controlled cultivation"
+  ],
+  "tags": [
+    "rhodiola",
+    "premium",
+    "german-quality",
+    "controlled-cultivation",
+    "european"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_ceramides_adaptogens_2025-12-04.md",
+    "manufacturing": "Made in Germany",
+    "source": "Own cultivations in Western Europe"
+  },
+  "notes": "German manufacturer of premium Rhodiola rosea extracts from own cultivations in Western Europe. Made in Germany with controlled cultivation for premium quality. Serves premium supplement and cosmetic brands."
+}
