@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9101,
+  "listing_id": "tri_k_industries_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.ulprospector.com/en/eu/PersonalCare/Detail/612/49284/Sodium-Hyaluronate-Powder",
+  "company_name": "Tri-K Industries, Inc.",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "USA",
+  "region": "USA/Europe",
+  "specializations": [
+    "Sodium Hyaluronate Powder",
+    "Natural humectant",
+    "Moisture retention",
+    "Personal care ingredients"
+  ],
+  "product_highlights": [
+    "Sodium Hyaluronate Powder",
+    "Preserves elasticity and firmness",
+    "Natural humectant properties",
+    "Moisture retention"
+  ],
+  "tags": [
+    "humectant",
+    "powder-form",
+    "verified-website"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "website": "https://www.ulprospector.com/en/eu/PersonalCare/Detail/612/49284/Sodium-Hyaluronate-Powder"
+  },
+  "notes": "Personal care ingredient manufacturer with operations in USA and Europe. Offers sodium hyaluronate powder for moisture retention and skin firmness."
+}

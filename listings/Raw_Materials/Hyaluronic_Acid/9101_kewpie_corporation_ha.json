@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9101,
+  "listing_id": "kewpie_corporation_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.kewpie.com/en/finechemical/hyaluronic/functional_hyaluronicacid.html",
+  "company_name": "Kewpie Corporation",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "Japan",
+  "region": "Serves USA market",
+  "specializations": [
+    "Functional Hyaluronic Acid",
+    "Scientifically proven formulations",
+    "Blended functional HA",
+    "Research-backed ingredients"
+  ],
+  "product_highlights": [
+    "Functional Hyaluronic Acid with strong evidence",
+    "Blended functional HA",
+    "Various cosmetic applications",
+    "Scientific validation"
+  ],
+  "tags": [
+    "functional-ha",
+    "research-backed",
+    "japanese-quality",
+    "verified-website"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "website": "https://www.kewpie.com/en/finechemical/hyaluronic/functional_hyaluronicacid.html"
+  },
+  "notes": "Japanese manufacturer serving USA market. Offers scientifically proven functional hyaluronic acid with strong evidence-based formulations."
+}

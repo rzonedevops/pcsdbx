@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9101,
+  "listing_id": "new_directions_aromatics_ha",
+  "category_path": "Raw_Materials/Hyaluronic_Acid",
+  "url": "https://www.newdirectionsaromatics.com/cosmetic-ingredients/raw-materials/sodium-hyaluronate-hyaluronic-acid-hmw",
+  "company_name": "New Directions Aromatics",
+  "status": "active",
+  "date_added": "2025-12-04",
+  "date_updated": "2025-12-04",
+  "country": "USA",
+  "region": "USA/Canada",
+  "specializations": [
+    "Sodium Hyaluronate (Hyaluronic Acid) HMW",
+    "Long-lasting hydration",
+    "Collagen production support",
+    "Cosmetic ingredient supplier"
+  ],
+  "product_highlights": [
+    "High Molecular Weight (HMW) Sodium Hyaluronate",
+    "Moisture enhancement for skin and hair care",
+    "Supports collagen production",
+    "Long-lasting hydration"
+  ],
+  "tags": [
+    "hmw-ha",
+    "cosmetic-grade",
+    "verified-website"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-04",
+    "validation_method": "manual",
+    "data_source": "research_hyaluronic_acid_2025-12-04.md",
+    "website": "https://www.newdirectionsaromatics.com/cosmetic-ingredients/raw-materials/sodium-hyaluronate-hyaluronic-acid-hmw"
+  },
+  "notes": "Supplier for cosmetic formulators. Specializes in HMW sodium hyaluronate for skin and hair care applications."
+}
