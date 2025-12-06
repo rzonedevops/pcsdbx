@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1305,
+  "listing_id": "kinex_cappers",
+  "category_path": "Equipment/Capping_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Capping_Equipment/1305/",
+  "company_name": "Kinex Cappers",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "website": "kinexcappers.com",
+  "specializations": [
+    "Bottle cappers",
+    "Cap tighteners",
+    "Screw caps (10-130mm diameter)",
+    "Lug caps",
+    "Snap-on caps",
+    "Cosmetics applications"
+  ],
+  "product_highlights": [
+    "Wide range of cap sizes (10-130mm)",
+    "Multiple cap types",
+    "Versatile applications"
+  ],
+  "tags": [
+    "wide-size-range",
+    "multi-cap-type",
+    "versatile",
+    "cosmetics-pharma"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Capping machines manufacturer for bottle cappers and cap tighteners. Handles screw caps, lug caps, and snap-on caps from 10-130mm diameter for cosmetics, pharmaceuticals, food, and chemicals."
+}

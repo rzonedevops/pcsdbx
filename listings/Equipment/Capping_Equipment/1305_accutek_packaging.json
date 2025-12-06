@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1305,
+  "listing_id": "accutek_packaging",
+  "category_path": "Equipment/Capping_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Capping_Equipment/1305/",
+  "company_name": "Accutek Packaging",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "website": "accutekpackaging.com",
+  "specializations": [
+    "Chuck cappers",
+    "Spindle cappers",
+    "Snap cappers",
+    "Single and multi-head configurations",
+    "Cosmetics packaging equipment"
+  ],
+  "product_highlights": [
+    "Three capping system styles",
+    "Various configurations",
+    "Multi-industry applications"
+  ],
+  "tags": [
+    "capping-machines",
+    "cosmetics-equipment",
+    "pharmaceutical-grade",
+    "multi-configuration"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Manufacturer of capping machines including chuck cappers, spindle cappers, and snap cappers. Single head and multi-head configurations for cosmetics, pharmaceuticals, food, and chemicals."
+}

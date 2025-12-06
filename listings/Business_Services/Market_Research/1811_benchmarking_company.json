@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "benchmarking_company",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "Benchmarking Company",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "website": "benchmarkingcompany.com",
+  "specializations": [
+    "Beauty market research",
+    "Qualitative consumer research",
+    "Quantitative consumer research",
+    "Focus groups",
+    "Brand perception measurement",
+    "Beauty consumer studies"
+  ],
+  "product_highlights": [
+    "Consumer research studies",
+    "Focus groups",
+    "Brand perception measurement"
+  ],
+  "tags": [
+    "consumer-research",
+    "focus-groups",
+    "brand-perception",
+    "beauty-specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Beauty market research specialist providing qualitative and quantitative consumer research. Measures brand perception among beauty consumers through consumer studies and focus groups."
+}

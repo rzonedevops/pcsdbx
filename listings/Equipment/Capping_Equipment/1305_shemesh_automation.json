@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1305,
+  "listing_id": "shemesh_automation",
+  "category_path": "Equipment/Capping_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Capping_Equipment/1305/",
+  "company_name": "Shemesh Automation",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "country": "Israel",
+  "website": "shemeshautomation.com",
+  "specializations": [
+    "Cosmetics packaging machines",
+    "Dosing machines",
+    "Liquid filling machines",
+    "Sealing machines",
+    "Cappers",
+    "Labellers",
+    "Health and beauty equipment"
+  ],
+  "product_highlights": [
+    "Complete packaging line solutions",
+    "Top-of-the-line cosmetics packaging",
+    "Integrated systems"
+  ],
+  "tags": [
+    "cosmetics-specialized",
+    "complete-line",
+    "automation",
+    "health-beauty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Israeli manufacturer of top-of-the-line cosmetics packaging machines including dosing, filling, sealing, capping, and labeling equipment. Complete packaging line solutions for health and beauty sector."
+}

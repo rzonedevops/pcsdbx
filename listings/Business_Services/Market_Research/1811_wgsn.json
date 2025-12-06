@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "wgsn",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "WGSN",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "country": "United Kingdom",
+  "website": "wgsn.com",
+  "specializations": [
+    "Beauty trend forecasting",
+    "Consumer forecasts (2025-2030)",
+    "Lifestyle forecasts",
+    "Future product decisions",
+    "Industry-leading trend analysis",
+    "Global trend intelligence"
+  ],
+  "product_highlights": [
+    "Unrivalled consumer and lifestyle forecasts",
+    "2025-2030 trend predictions",
+    "Future product decision support"
+  ],
+  "tags": [
+    "trend-forecasting",
+    "industry-leader",
+    "global-intelligence",
+    "consumer-lifestyle",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Global leader in beauty trend forecasting providing unrivalled consumer and lifestyle forecasts for 2025-2030. Industry-leading trend forecasting to guide future product decisions."
+}
