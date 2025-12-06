@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "active_concepts",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://activeconceptsllc.com/",
+  "company_name": "Active Concepts LLC",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Lincolnton, North Carolina, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://activeconceptsllc.com/",
+  "specializations": [
+    "Botanical extracts",
+    "Adaptogenic ingredients",
+    "Ashwagandha",
+    "Reishi mushroom",
+    "Ginseng",
+    "Custom formulation support",
+    "Natural cosmetic ingredients",
+    "Sustainable sourcing"
+  ],
+  "certifications": [
+    "Fair Trade certified sourcing"
+  ],
+  "tags": [
+    "adaptogens",
+    "botanical-extracts",
+    "ashwagandha",
+    "reishi",
+    "ginseng",
+    "custom-formulation",
+    "sustainable",
+    "indie-brands",
+    "family-owned",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Family-owned business specializing in botanical extracts and adaptogenic ingredients for skincare. Focuses on indie brands and start-ups with custom product development capabilities. Emphasizes sustainable sourcing, Fair Trade certification when possible, and fast response times. Founded in 2001 with 51-200 employees."
+}

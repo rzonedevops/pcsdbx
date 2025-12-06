@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ross_organic_specialties",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://rossorg.com/product-category/adaptogen/",
+  "company_name": "Ross Organic Specialties",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "United States",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://rossorg.com/",
+  "specializations": [
+    "Organic ingredients",
+    "Adaptogenic botanicals",
+    "Anti-inflammatory actives",
+    "Antioxidant ingredients",
+    "Skin lightening ingredients"
+  ],
+  "certifications": [
+    "Organic"
+  ],
+  "tags": [
+    "adaptogens",
+    "organic",
+    "anti-inflammatory",
+    "antioxidant",
+    "skin-lightening",
+    "botanical",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "US-based supplier specializing in organic adaptogenic botanicals with anti-inflammatory, antioxidant, and skin lightening properties. Focus on organic certification and natural botanical ingredients for cosmetic formulations."
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_active_beauty",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.givaudan.com/fragrance-beauty/active-beauty",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Vernier, Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.givaudan.com/fragrance-beauty/active-beauty",
+  "specializations": [
+    "Adaptogenes botanical solutions",
+    "Active beauty ingredients",
+    "Botanical extracts",
+    "Metabolic waste elimination",
+    "Cellular oxygenation",
+    "Face care actives",
+    "Body care actives",
+    "Hair and scalp care"
+  ],
+  "certifications": [],
+  "tags": [
+    "adaptogens",
+    "botanical-solutions",
+    "active-beauty",
+    "face-care",
+    "body-care",
+    "hair-care",
+    "cellular-health",
+    "global-leader",
+    "switzerland"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Global leader in active beauty ingredients with specialized Adaptogenes Botanical Solutions line. Products help body eliminate metabolic waste and increase oxygen in cells. Applications span face care, body care, hair and scalp care, and personal wash. Part of the larger Givaudan fragrance and beauty division."
+}

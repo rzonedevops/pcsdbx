@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "glenn_corporation",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://glenncorp.com/product-category/adaptogen/",
+  "company_name": "Glenn Corporation",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "United States",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://glenncorp.com/",
+  "specializations": [
+    "Adaptogen ingredients for personal care",
+    "Bath and shower products",
+    "Ethnic hair care",
+    "Ethnic skin care",
+    "Face care",
+    "Hair care",
+    "Masks",
+    "Natural cosmetics",
+    "Scalp care",
+    "Skin cleansing"
+  ],
+  "certifications": [],
+  "tags": [
+    "adaptogens",
+    "bath-shower",
+    "ethnic-hair-care",
+    "ethnic-skin-care",
+    "face-care",
+    "hair-care",
+    "natural-cosmetics",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "US-based supplier of adaptogen ingredients for diverse personal care applications including bath and shower, ethnic hair and skin care, face care, masks, and scalp care. Broad product application range in natural cosmetics."
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "gunilla_of_sweden",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://gunillaofsweden.com/organic-botanical-active-ingredients/",
+  "company_name": "Gunilla of Sweden",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Sweden",
+  "country": "Sweden",
+  "phone": "",
+  "email": "",
+  "website": "https://gunillaofsweden.com/",
+  "specializations": [
+    "High-performance active ingredients",
+    "Organic botanical ingredients",
+    "Adaptogenic botanicals",
+    "Clinically proven actives",
+    "Ethically sourced ingredients",
+    "Over 100 curated ingredients"
+  ],
+  "certifications": [
+    "Organic certified",
+    "Ethical sourcing"
+  ],
+  "tags": [
+    "adaptogens",
+    "organic",
+    "botanical-actives",
+    "clinically-proven",
+    "ethical-sourcing",
+    "high-performance",
+    "sweden"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Swedish supplier of high-performance active ingredients with focus on organic and botanical adaptogens. Offers over 100 ethically sourced ingredients with clinical efficacy backing. Specializes in curated selection of adaptogenic botanicals for cosmetic applications."
+}

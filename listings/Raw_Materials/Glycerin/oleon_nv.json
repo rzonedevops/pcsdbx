@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "oleon_nv",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://www.oleon.com/",
+  "company_name": "Oleon NV",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Belgium",
+  "country": "Belgium",
+  "phone": "",
+  "email": "",
+  "website": "https://www.oleon.com/",
+  "specializations": [
+    "Oleochemicals from renewable sources",
+    "Natural glycerin",
+    "Pharmaceutical grade glycerin (Ph.Eur., USP)",
+    "Cosmetic grade glycerin",
+    "Vegetable-based glycerin",
+    "Sustainable production",
+    "RSPO certified palm-free options"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "COSMOS",
+    "Halal",
+    "Kosher"
+  ],
+  "tags": [
+    "glycerin",
+    "pharmaceutical-grade",
+    "cosmetic-grade",
+    "vegetable-based",
+    "usp",
+    "ph-eur",
+    "sustainable",
+    "rspo-certified",
+    "palm-free-options",
+    "belgium",
+    "europe"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Belgian oleochemicals manufacturer specializing in renewable source ingredients. Offers Ph.Eur. and USP pharmaceutical grade and cosmetic grade vegetable-based glycerin. ISO 9001, GMP, COSMOS, Halal, and Kosher certified. European quality standards with RSPO certified palm-free options available. Sustainable production focus."
+}

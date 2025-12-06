@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "vantage_specialty_ingredients",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.vantagespecialty.com/",
+  "company_name": "Vantage Specialty Ingredients",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Deerfield, Illinois, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.vantagespecialty.com/",
+  "specializations": [
+    "Personal care ingredients",
+    "Natural emollients",
+    "Sustainable squalane",
+    "Plant-based squalane",
+    "Natural emollient systems",
+    "Technical formulation support"
+  ],
+  "certifications": [],
+  "tags": [
+    "squalane",
+    "plant-based",
+    "natural-emollients",
+    "sustainable",
+    "distributor",
+    "technical-support",
+    "north-america",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Illinois-based distributor of premium personal care ingredients including plant-based squalane. Offers natural emollient systems with technical formulation support. Strong North American presence and distribution network."
+}

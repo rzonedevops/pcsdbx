@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "artemis_international",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.artemis-international.com/",
+  "company_name": "Artemis International",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Fort Wayne, Indiana, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.artemis-international.com/",
+  "specializations": [
+    "Botanical extracts",
+    "Standardized herbal ingredients",
+    "Adaptogenic botanicals",
+    "Ashwagandha extract (standardized)",
+    "Rhodiola rosea extract",
+    "Panax ginseng extract",
+    "Eleutherococcus (Siberian ginseng)",
+    "Custom extraction capabilities",
+    "Technical support for formulators"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP certified"
+  ],
+  "tags": [
+    "adaptogens",
+    "botanical-extracts",
+    "standardized",
+    "ashwagandha",
+    "rhodiola",
+    "ginseng",
+    "iso-9001",
+    "gmp",
+    "custom-extraction",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Indiana-based supplier of standardized botanical extracts and adaptogenic ingredients. ISO 9001 and GMP certified with focus on quality testing, standardization, and custom extraction capabilities. Provides technical support for formulators working with adaptogenic botanicals."
+}

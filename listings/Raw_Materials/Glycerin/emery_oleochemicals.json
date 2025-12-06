@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "emery_oleochemicals",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://www.emeryoleo.com/",
+  "company_name": "Emery Oleochemicals",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Malaysia",
+  "country": "Malaysia",
+  "phone": "",
+  "email": "",
+  "website": "https://www.emeryoleo.com/",
+  "specializations": [
+    "Natural-based chemicals",
+    "Glycerin from palm and vegetable oils",
+    "USP pharmaceutical grade glycerin",
+    "Cosmetic grade glycerin",
+    "Natural glycerin",
+    "Global logistics network"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Halal",
+    "Kosher"
+  ],
+  "tags": [
+    "glycerin",
+    "pharmaceutical-grade",
+    "cosmetic-grade",
+    "palm-based",
+    "vegetable-oils",
+    "usp",
+    "sustainable",
+    "halal",
+    "kosher",
+    "malaysia",
+    "asia"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Malaysian oleochemicals manufacturer with global presence. Produces USP pharmaceutical and cosmetic grade glycerin from sustainable palm and vegetable oils. ISO 9001, GMP, Halal, and Kosher certified. Global logistics network with Asian manufacturing advantage."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "amyris_neossance",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://amyris.com/",
+  "company_name": "Amyris (Neossance)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Emeryville, California, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://amyris.com/",
+  "specializations": [
+    "Biotech-derived ingredients",
+    "Sustainable chemistry",
+    "Sugarcane-derived squalane",
+    "Neossance® Squalane",
+    "Hemisqualane",
+    "Fermentation-derived ingredients"
+  ],
+  "certifications": [
+    "EcoCert",
+    "COSMOS approved"
+  ],
+  "tags": [
+    "squalane",
+    "sugarcane-derived",
+    "biotech",
+    "fermentation",
+    "vegan",
+    "sustainable",
+    "neossance",
+    "ecocert",
+    "cosmos",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "California-based biotech company specializing in fermentation-derived sustainable ingredients. Neossance® Squalane is derived from sugarcane through fermentation. 100% vegan and sustainable with high purity and consistency. No shark or petrochemical sources. EcoCert and COSMOS approved."
+}

@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "mountain_rose_herbs",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://mountainroseherbs.com/",
+  "company_name": "Mountain Rose Herbs",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Eugene, Oregon, USA",
+  "country": "United States",
+  "phone": "1-800-879-3337",
+  "email": "customerservice@mountainroseherbs.com",
+  "website": "https://mountainroseherbs.com/",
+  "specializations": [
+    "Organic herbs and spices",
+    "Bulk botanical ingredients",
+    "Certified organic adaptogens",
+    "Ashwagandha root powder",
+    "Reishi mushroom extract",
+    "Eleuthero (Siberian ginseng)",
+    "Holy basil (Tulsi)",
+    "Rhodiola rosea"
+  ],
+  "certifications": [
+    "USDA Organic",
+    "Certified Organic",
+    "Zero Waste certified",
+    "B Corporation certified"
+  ],
+  "tags": [
+    "adaptogens",
+    "organic",
+    "ashwagandha",
+    "reishi",
+    "holy-basil",
+    "rhodiola",
+    "employee-owned",
+    "sustainable",
+    "b-corp",
+    "zero-waste",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Employee-owned Oregon-based supplier of certified organic herbs, spices, and botanical ingredients. Specializes in bulk adaptogenic ingredients including ashwagandha, reishi, eleuthero, holy basil, and rhodiola. Zero Waste certified and B Corporation certified with strong sustainability practices."
+}

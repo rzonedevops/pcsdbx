@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "intabiotech",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.intabiotech.com/plant-extracts/botanical-adptogens/",
+  "company_name": "Intabiotech SL",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Spain",
+  "country": "Spain",
+  "phone": "",
+  "email": "",
+  "website": "https://www.intabiotech.com/",
+  "specializations": [
+    "Plant extracts",
+    "Botanical adaptogens",
+    "Natural energy boosters",
+    "Herbal adaptogens",
+    "Stress management ingredients",
+    "Physical and mental stress support"
+  ],
+  "certifications": [],
+  "tags": [
+    "adaptogens",
+    "plant-extracts",
+    "herbal",
+    "stress-management",
+    "energy-boosters",
+    "natural",
+    "spain"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Spanish supplier specializing in plant extracts and botanical adaptogens. Focuses on natural energy boosters and safe, natural stress management ingredients. Products support physical, emotional, and mental stress relief in cosmetic applications."
+}

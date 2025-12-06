@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cargill_glycerin",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://www.cargill.com/",
+  "company_name": "Cargill",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Minneapolis, Minnesota, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.cargill.com/",
+  "specializations": [
+    "Agricultural products",
+    "Bio-based chemicals",
+    "Glycerin from biodiesel",
+    "USP pharmaceutical grade glycerin",
+    "Kosher and Halal certified glycerin",
+    "Sustainable vegetable glycerin"
+  ],
+  "certifications": [
+    "USP",
+    "Kosher",
+    "Halal",
+    "Non-GMO"
+  ],
+  "tags": [
+    "glycerin",
+    "pharmaceutical-grade",
+    "biodiesel-derived",
+    "vegetable-based",
+    "usp",
+    "kosher",
+    "halal",
+    "non-gmo",
+    "sustainable",
+    "large-scale",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Minneapolis-based agricultural products giant with global presence. USP pharmaceutical grade glycerin from sustainable biodiesel and vegetable sources. Kosher, Halal, and Non-GMO certified. Large scale production with reliable supply chain and sustainable sourcing practices."
+}

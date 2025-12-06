@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sabinsa_corporation",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://sabinsa.com/",
+  "company_name": "Sabinsa Corporation",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "East Windsor, New Jersey, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://sabinsa.com/",
+  "specializations": [
+    "Herbal extracts",
+    "Ayurvedic ingredients",
+    "Scientifically validated botanicals",
+    "Ashwagandha (Sensoril® branded)",
+    "Holy basil extract",
+    "Bacopa monnieri",
+    "Curcumin extracts",
+    "Proprietary extraction processes",
+    "Clinical research backing"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Halal",
+    "Kosher"
+  ],
+  "tags": [
+    "adaptogens",
+    "ayurvedic",
+    "herbal-extracts",
+    "ashwagandha",
+    "holy-basil",
+    "bacopa",
+    "clinically-validated",
+    "proprietary",
+    "vertical-integration",
+    "global-distribution",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Global supplier with US headquarters specializing in Ayurvedic ingredients and scientifically validated botanicals. Known for proprietary Sensoril® ashwagandha with clinical research backing. Vertically integrated from cultivation to finished product with global distribution network. Multiple quality certifications including ISO 9001, GMP, Halal, and Kosher."
+}
