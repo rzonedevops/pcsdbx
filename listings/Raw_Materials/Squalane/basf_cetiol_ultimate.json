@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_cetiol_ultimate",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://personal-care.basf.com/",
+  "company_name": "BASF (Cetiol Ultimate)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Ludwigshafen, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://personal-care.basf.com/",
+  "specializations": [
+    "Personal care ingredients",
+    "Emollients and esters",
+    "Plant-based squalane",
+    "Cetiol® Ultimate (squalane)",
+    "Natural emollient systems",
+    "Formulation support services"
+  ],
+  "certifications": [
+    "Various quality and sustainability certifications"
+  ],
+  "tags": [
+    "squalane",
+    "plant-based",
+    "cetiol",
+    "emollients",
+    "technical-expertise",
+    "global-availability",
+    "formulation-support",
+    "germany"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "German chemical giant with comprehensive personal care ingredients portfolio. Cetiol® Ultimate squalane and natural emollient systems. Global availability with technical expertise and formulation support services. Various quality and sustainability certifications."
+}

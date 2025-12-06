@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "clariant_ecosens",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.clariant.com/",
+  "company_name": "Clariant (EcoSens)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Muttenz, Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.clariant.com/",
+  "specializations": [
+    "Specialty chemicals for personal care",
+    "Natural emollients",
+    "Plant-based squalane",
+    "EcoSens® Olive squalane",
+    "Sustainable emollients"
+  ],
+  "certifications": [
+    "ISO 14001",
+    "COSMOS approved"
+  ],
+  "tags": [
+    "squalane",
+    "olive-derived",
+    "plant-based",
+    "sustainable",
+    "cosmos-certified",
+    "emollients",
+    "clean-beauty",
+    "switzerland"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Swiss specialty chemicals company offering EcoSens® line of sustainable, plant-based squalane derived from olives. 100% plant-based sustainable alternative to shark squalane. COSMOS certified natural with excellent skin feel and absorption. Global presence with focus on personal care applications."
+}

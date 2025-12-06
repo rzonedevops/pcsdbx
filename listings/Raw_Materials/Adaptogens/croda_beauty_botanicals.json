@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "croda_beauty_botanicals",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.crodabeauty.com/en-gb/capabilities/botanicals",
+  "company_name": "Croda Beauty (Botanicals Division)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Snaith, United Kingdom",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
+  "website": "https://www.crodabeauty.com/en-gb/capabilities/botanicals",
+  "specializations": [
+    "Botanical extracts",
+    "Adaptogenic ingredients",
+    "Natural cosmetic ingredients",
+    "Sustainable alternatives to synthetics",
+    "Wide range of botanicals",
+    "Cosmetic formulation ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "adaptogens",
+    "botanical-extracts",
+    "natural-ingredients",
+    "sustainable-alternatives",
+    "cosmetic-formulation",
+    "global-operations",
+    "uk"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Part of Croda's global beauty division, specializing in wide range of botanical extracts including adaptogens. Focuses on natural cosmetic ingredients and sustainable alternatives to synthetic ingredients. Global operations with UK headquarters."
+}

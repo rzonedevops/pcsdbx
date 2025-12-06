@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "godrej_industries",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://www.godrejindustries.com/",
+  "company_name": "Godrej Industries (Chemicals)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Mumbai, India",
+  "country": "India",
+  "phone": "",
+  "email": "",
+  "website": "https://www.godrejindustries.com/",
+  "specializations": [
+    "Oleochemicals",
+    "Vegetable-based glycerin",
+    "Pharmaceutical grade glycerin",
+    "Cosmetic grade glycerin",
+    "USP grade glycerin",
+    "Refined glycerin 99.5%",
+    "Natural glycerin"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Halal",
+    "Kosher"
+  ],
+  "tags": [
+    "glycerin",
+    "pharmaceutical-grade",
+    "cosmetic-grade",
+    "vegetable-based",
+    "usp-grade",
+    "refined-995",
+    "competitive-pricing",
+    "india",
+    "asia"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Mumbai-based oleochemicals manufacturer. Offers USP grade and refined glycerin 99.5% from vegetable sources. ISO 9001, GMP, Halal, and Kosher certified. Competitive pricing from Indian manufacturing with quality standards. Regional distribution focus in Asia."
+}

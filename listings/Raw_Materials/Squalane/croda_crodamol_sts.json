@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "croda_crodamol_sts",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.crodabeauty.com/",
+  "company_name": "Croda (Crodamol STS)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Snaith, United Kingdom",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
+  "website": "https://www.crodabeauty.com/",
+  "specializations": [
+    "Specialty chemicals for beauty",
+    "Sustainable emollients",
+    "Plant-based squalane",
+    "Crodamol™ STS (plant-based squalane)",
+    "DUB® Squalane",
+    "Multiple grade options",
+    "Technical formulation support"
+  ],
+  "certifications": [
+    "COSMOS",
+    "NATRUE approved"
+  ],
+  "tags": [
+    "squalane",
+    "plant-based",
+    "crodamol",
+    "sustainable",
+    "cosmos",
+    "natrue",
+    "technical-support",
+    "multiple-grades",
+    "uk"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "UK-based specialty chemicals company with global beauty division. Offers Crodamol™ STS and DUB® Squalane plant-based products. COSMOS and NATRUE approved with sustainable sourcing. Multiple grade options available with comprehensive technical formulation support."
+}

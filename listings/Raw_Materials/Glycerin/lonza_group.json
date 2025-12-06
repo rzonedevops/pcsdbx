@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_group",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://www.lonza.com/",
+  "company_name": "Lonza Group",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Basel, Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com/",
+  "specializations": [
+    "Pharmaceuticals and specialty chemicals",
+    "High-purity glycerin",
+    "Life sciences applications",
+    "USP pharmaceutical grade glycerin",
+    "High-purity glycerin for pharma",
+    "Sterile glycerin",
+    "Regulatory expertise"
+  ],
+  "certifications": [
+    "GMP",
+    "ISO standards",
+    "Pharmaceutical certified"
+  ],
+  "tags": [
+    "glycerin",
+    "pharmaceutical-grade",
+    "high-purity",
+    "sterile-glycerin",
+    "usp",
+    "life-sciences",
+    "regulatory-expertise",
+    "premium-quality",
+    "switzerland"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Swiss pharmaceutical and specialty chemicals company with global operations. Specializes in high-purity USP pharmaceutical grade and sterile glycerin for life sciences applications. GMP and ISO certified with pharmaceutical quality standards. Strong regulatory expertise and premium quality focus."
+}

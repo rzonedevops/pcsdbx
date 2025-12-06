@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nucelis",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://nucelis.com/",
+  "company_name": "Nucelis LLC",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "California, USA",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://nucelis.com/",
+  "specializations": [
+    "Plant-derived squalane",
+    "Clean beauty ingredients",
+    "Sustainable oils",
+    "Olive-sourced squalane",
+    "Sugarcane-sourced squalane"
+  ],
+  "certifications": [],
+  "tags": [
+    "squalane",
+    "plant-derived",
+    "clean-beauty",
+    "sustainable",
+    "olive",
+    "sugarcane",
+    "competitive-pricing",
+    "usa"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "California-based supplier focusing on clean beauty and sustainable plant-derived squalane. Offers both olive and sugarcane sourced options. US-based with competitive pricing and focus on clean, sustainable ingredients for cosmetic formulation."
+}

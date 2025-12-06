@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_glycerin",
+  "category_path": "Raw_Materials/Glycerin",
+  "url": "https://www.basf.com/",
+  "company_name": "BASF SE",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Ludwigshafen, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.basf.com/",
+  "specializations": [
+    "Chemical manufacturing",
+    "High-quality glycerin",
+    "Personal care ingredients",
+    "Pharmaceutical grade glycerin",
+    "Cosmetic grade glycerin",
+    "Technical grade glycerin",
+    "Technical formulation support"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Various quality certifications"
+  ],
+  "tags": [
+    "glycerin",
+    "pharmaceutical-grade",
+    "cosmetic-grade",
+    "technical-grade",
+    "german-quality",
+    "global-distribution",
+    "formulation-support",
+    "germany"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "German chemical manufacturing giant with global operations. Offers pharmaceutical, cosmetic, and technical grade glycerin with German engineering quality standards. ISO 9001 and GMP certified. Global distribution network with comprehensive technical formulation support."
+}

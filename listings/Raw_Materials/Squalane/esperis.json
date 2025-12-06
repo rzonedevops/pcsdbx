@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "esperis",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.esperis-spa.it/",
+  "company_name": "Esperis S.p.A.",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "Milan, Italy",
+  "country": "Italy",
+  "phone": "",
+  "email": "",
+  "website": "https://www.esperis-spa.it/",
+  "specializations": [
+    "Olive oil derivatives",
+    "Natural cosmetic ingredients",
+    "Squalane from olive",
+    "Olive-derived squalane",
+    "Premium quality grades"
+  ],
+  "certifications": [
+    "COSMOS",
+    "Organic certified options"
+  ],
+  "tags": [
+    "squalane",
+    "olive-derived",
+    "italian-quality",
+    "premium",
+    "cosmos",
+    "organic-options",
+    "european-manufacturing",
+    "italy"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "Italian manufacturer specializing in olive oil derivatives and natural cosmetic ingredients. Offers premium quality olive-derived squalane leveraging Italian olive oil expertise. COSMOS certified with organic options available. High-quality European manufacturing standards."
+}

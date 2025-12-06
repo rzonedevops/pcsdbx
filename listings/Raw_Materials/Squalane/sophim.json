@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sophim",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.sophim.com/",
+  "company_name": "Sophim (Phytosqualan)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "address": "France",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.sophim.com/",
+  "specializations": [
+    "Olive oil derivatives",
+    "Natural cosmetic ingredients",
+    "Squalane production from olive oil",
+    "Phytosqualan® (olive-derived squalane)",
+    "Organic squalane"
+  ],
+  "certifications": [
+    "COSMOS",
+    "NATRUE",
+    "Organic certified"
+  ],
+  "tags": [
+    "squalane",
+    "olive-derived",
+    "phytosqualan",
+    "organic",
+    "cosmos",
+    "natrue",
+    "sustainable",
+    "france",
+    "pioneer"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_squalane_glycerin_2025-12-05.md"
+  },
+  "notes": "French pioneer in olive-derived squalane production. Specializes in Phytosqualan® branded olive-derived squalane with organic certification options. COSMOS and NATRUE certified with sustainable production methods. French origin and quality standards."
+}
