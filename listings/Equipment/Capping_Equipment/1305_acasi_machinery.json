@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1305,
+  "listing_id": "acasi_machinery",
+  "category_path": "Equipment/Capping_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Capping_Equipment/1305/",
+  "company_name": "ACASI Machinery",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "website": "",
+  "specializations": [
+    "Automatic bottle capping machines",
+    "High-speed capping (10-200 bottles/min)",
+    "Home and personal care",
+    "Food industry",
+    "Chemical applications",
+    "Pharmaceutical applications",
+    "Nutraceutical applications"
+  ],
+  "product_highlights": [
+    "High-speed automatic capping",
+    "10 to 200 bottles per minute capacity",
+    "Multi-industry applications"
+  ],
+  "tags": [
+    "high-speed",
+    "automatic-capping",
+    "multi-industry",
+    "established-1985"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Established in 1985, ACASI Machinery manufactures automatic bottle capping machines with capacity from 10 to 200 bottles per minute. Wide industry range including home/personal care, food, chemical, pharmaceutical, and nutraceutical applications."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "wonder_ingredients",
+  "category_path": "Raw_Materials/Botanical_Extracts",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Botanical_Extracts/",
+  "company_name": "Wonder Ingredients",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "country": "China",
+  "website": "wonderingredients.com",
+  "specializations": [
+    "1600+ herbal and botanical extracts",
+    "Cosmetic actives",
+    "Natural colors",
+    "Nutraceuticals",
+    "Plant powders",
+    "Custom formulations",
+    "Sustainability focus"
+  ],
+  "certifications": [
+    "Organic certified",
+    "Food-grade certified",
+    "Third-party quality testing (SGS, Eurofins)"
+  ],
+  "product_highlights": [
+    "Extensive portfolio of 1600+ extracts",
+    "Organic and food-grade ingredients",
+    "Rigorous quality testing",
+    "Custom formulation services"
+  ],
+  "tags": [
+    "extensive-portfolio",
+    "organic",
+    "custom-formulation",
+    "quality-tested",
+    "sustainable"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "web_search_2025-12-06"
+  },
+  "notes": "Extensive portfolio of 1600+ herbal and botanical extracts including cosmetic actives, colors, nutraceuticals, and powders. Provides organic, food-grade, and cosmetic ingredients with custom formulations. Rigorous internal and third-party quality testing by SGS and Eurofins."
+}

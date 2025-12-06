@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1305,
+  "listing_id": "arol",
+  "category_path": "Equipment/Capping_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Capping_Equipment/1305/",
+  "company_name": "AROL",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "country": "Italy",
+  "website": "arol.com",
+  "specializations": [
+    "Closure systems",
+    "Capping systems",
+    "Inspection solutions",
+    "Customized solutions",
+    "Global delivery",
+    "Multi-industry applications"
+  ],
+  "product_highlights": [
+    "Design, produce, and globally deliver closure systems",
+    "Customized solutions",
+    "Inspection solutions"
+  ],
+  "tags": [
+    "closure-systems",
+    "customized-solutions",
+    "global-delivery",
+    "inspection-included"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Italian manufacturer of capping/closure systems and inspection solutions. Design, produce, and globally deliver customized solutions for multiple industries including cosmetics."
+}

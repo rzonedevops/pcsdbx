@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "drive_research",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "Drive Research",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "website": "driveresearch.com",
+  "specializations": [
+    "Beauty market research",
+    "Data gathering and analysis",
+    "Consumer preferences research",
+    "Trend analysis",
+    "Consumer behaviors",
+    "Market dynamics",
+    "Advertising effectiveness"
+  ],
+  "product_highlights": [
+    "Systematic data gathering and analysis",
+    "Consumer insights",
+    "Advertising effectiveness measurement"
+  ],
+  "tags": [
+    "data-analysis",
+    "consumer-insights",
+    "advertising-effectiveness",
+    "beauty-research"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Beauty market research specialist providing systematic gathering and analysis of beauty market data. Research on consumer preferences, trends, behaviors, market dynamics, and advertising effectiveness."
+}

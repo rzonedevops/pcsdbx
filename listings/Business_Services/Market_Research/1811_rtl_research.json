@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1811,
+  "listing_id": "rtl_research",
+  "category_path": "Business_Services/Market_Research",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Business_Services/Market_Research/1811/",
+  "company_name": "RTL Research (Ready to Launch Research)",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "website": "readytolaunchresearch.com",
+  "specializations": [
+    "Beauty industry research services",
+    "Market research",
+    "Product development insights",
+    "Marketing effectiveness",
+    "Expert market research",
+    "Actionable insights"
+  ],
+  "product_highlights": [
+    "Beauty business transformation",
+    "Product development insights",
+    "Expert market research"
+  ],
+  "tags": [
+    "beauty-specialist",
+    "product-development",
+    "marketing-insights",
+    "actionable-research"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Beauty industry specialist providing expert market research, product development insights, and marketing effectiveness analysis. Transform beauty business with actionable insights."
+}

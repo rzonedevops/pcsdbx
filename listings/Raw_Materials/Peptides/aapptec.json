@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "aapptec",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "AAPPTec",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "country": "United States",
+  "website": "peptide.com",
+  "specializations": [
+    "Cosmetic peptides catalog",
+    "Custom peptide synthesis",
+    "Research scale peptides",
+    "Bulk scale production",
+    "Peptide synthesis equipment"
+  ],
+  "product_highlights": [
+    "Catalog and custom peptides",
+    "Research to bulk scale",
+    "US-based manufacturer"
+  ],
+  "tags": [
+    "catalog-peptides",
+    "custom-synthesis",
+    "scalable-production",
+    "research-support",
+    "us-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "web_search_2025-12-06"
+  },
+  "notes": "US-based manufacturer offering catalog and custom cosmetic peptides from research to bulk scale production. Comprehensive peptide synthesis services with equipment and technical support."
+}

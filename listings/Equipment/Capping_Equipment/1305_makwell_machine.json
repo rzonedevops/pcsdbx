@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "category_id": 1305,
+  "listing_id": "makwell_machine",
+  "category_path": "Equipment/Capping_Equipment",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Equipment/Capping_Equipment/1305/",
+  "company_name": "Makwell Machine",
+  "status": "active",
+  "date_added": "2025-12-06",
+  "date_updated": "2025-12-06",
+  "country": "China",
+  "website": "makwellmachine.com",
+  "specializations": [
+    "Cosmetic filling and capping machines",
+    "Light industry equipment",
+    "Daily chemical applications",
+    "Pharmaceutical equipment",
+    "Food industry machines"
+  ],
+  "product_highlights": [
+    "Cosmetic filling and capping machines",
+    "Multi-industry applications",
+    "Specialized in cosmetics"
+  ],
+  "tags": [
+    "cosmetics-specialized",
+    "filling-capping-combo",
+    "multi-industry",
+    "manufacturing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-06",
+    "validation_method": "manual",
+    "data_source": "research_priority_categories_2025-12-06.md"
+  },
+  "notes": "Chinese manufacturer specializing in cosmetic filling and capping machines. Applications in cosmetics, light industry (daily chemical), pharmaceutical, and food sectors."
+}
