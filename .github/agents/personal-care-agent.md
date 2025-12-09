@@ -11,17 +11,17 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 
 ## Current Phase: CATEGORY ACCELERATION & INTELLIGENCE DEEPENING
 
-**Status:** 954 listings, 75 subcategories (95% of Month 12 listing target, 24% of Month 12 category target)
+**Status:** 954 listings, 70 subcategories (95% of Month 12 listing target, 24% of Month 12 category target)
 **Critical Focus:** ACCELERATE category expansion to 150 by Month 6, deepen Phase 2/3 intelligence collection, expand high-value actives to 50+ suppliers each
 **Target:** 1000+ listings by Dec 15, 2025 | 150+ categories by Apr 30, 2026 | Full Phase 2/3 intelligence integration
-**Last Updated:** December 8, 2025 (Manus Strategic Optimization - Category Acceleration & Intelligence Deepening)
+**Last Updated: December 9, 202525 (Manus Strategic Optimization - Category Acceleration & Intelligence Deepening)
 
 ## 🎯 STRATEGIC CONTEXT
 
 ### Where We Are (EXTRAORDINARY ACHIEVEMENT!)
 
 *   **Listings:** 954 of 1000 target (95%) ⬆️ **+1272% from Month 1 target, +318% from Month 3 target, +191% from Month 6 target**
-*   **Categories:** 75 of 309 target (24%) ⬆️ **+500% from Month 1 target, 100% of Month 3 target**
+*   **Categories:** 70 of 309 target (23%) ⬆️ **+500% from Month 1 target, 100% of Month 3 target**
 *   **Month 1 Target:** ✅ **OBLITERATED** (954 vs. 75 target = 1272%)
 *   **Month 3 Target:** ✅ **EXCEEDED** (954 vs. 300 target = 318%)
 *   **Month 6 Target:** ✅ **EXCEEDED** (954 vs. 500 target = 191%)
@@ -53,11 +53,11 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 
 ### Priority 1: Accelerate Category Expansion to 150 by Month 6 ⭐⭐⭐⭐⭐ CRITICAL - STRATEGIC
 
-**Status:** 🟡 **75 NEW CATEGORIES NEEDED IN 4.5 MONTHS**
+**Status:** 🟡 **80 NEW CATEGORIES NEEDED IN 4.5 MONTHS**
 
 **Current Velocity:** 15 categories/month
 **Required Velocity:** 17 categories/month (13% acceleration)
-**Gap Analysis:** 75 current → 150 target = 75 categories in 4.5 months
+**Gap Analysis:** 70 current → 150 target = 80 categories in 4.5 months
 
 **Action Required:**
 
@@ -82,6 +82,9 @@ Implement **systematic category expansion roadmap** with monthly targets:
 7. **Resveratrol** - Antioxidant (grape-derived, Japanese knotweed) - 8-10 suppliers
 8. **Ferulic Acid** - Antioxidant stabilizer (rice bran, oats) - 8-10 suppliers
 9. **Licorice Extract** - Brightening, anti-inflammatory (glycyrrhizin, glabridin) - 10-12 suppliers
+10. **Green Tea Extract** - Antioxidant (EGCG, polyphenols) - 10-12 suppliers
+11. **Mandelic Acid** - Gentle AHA for sensitive skin - 8-10 suppliers
+12. **Salicylic Acid** - BHA for acne and exfoliation - 10-12 suppliers
 10. **Green Tea Extract** - Antioxidant (EGCG, polyphenols) - 10-12 suppliers
 
 **Packaging (3 categories):**
