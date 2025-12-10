@@ -1,0 +1,31 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "skin_hair_manufacturing_hub_tranexamic_acid",
+  "category_path": "Raw_Materials/Tranexamic_Acid",
+  "url": "https://skinandhairmanufacturinghub.com/product/tranexamic-acid",
+  "company_name": "Skin and Hair Manufacturing Hub",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "website": "skinandhairmanufacturinghub.com",
+  "specializations": [
+    "Tranexamic Acid - Clinical trial validated",
+    "Suitable for all skin types",
+    "Remove pigmentation",
+    "Whitening and lightening spots",
+    "Dermatological focus"
+  ],
+  "tags": [
+    "mid-range",
+    "manufacturer",
+    "clinical-validated",
+    "all-skin-types",
+    "dermatological"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Clinical trial validated Tranexamic Acid. Suitable for all skin types. Specializes in pigmentation removal, whitening, and spot lightening applications."
+}

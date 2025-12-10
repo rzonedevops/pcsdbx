@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "herbal_creations_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://herbal-creations.com/san-diego/centella-asiatica-extracts/",
+  "company_name": "Herbal Creations",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "San Diego, United States",
+  "country": "United States",
+  "website": "herbal-creations.com",
+  "specializations": [
+    "Premium Centella Asiatica Extract",
+    "Leading manufacturer",
+    "State-of-the-art facilities",
+    "Quality-focused production",
+    "San Diego manufacturing"
+  ],
+  "tags": [
+    "mid-range",
+    "manufacturer",
+    "usa",
+    "state-of-the-art",
+    "quality-focused"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Leading USA manufacturer in San Diego. Premium Centella Asiatica extracts with state-of-the-art facilities and quality-focused production processes."
+}

@@ -1,0 +1,32 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "specialchem_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://www.specialchem.com/cosmetics/inci-ingredients/centella-asiatica-extract",
+  "company_name": "SpecialChem",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "website": "www.specialchem.com",
+  "specializations": [
+    "CENTELLA ASIATICA EXTRACT (INCI)",
+    "Madecassoside - inducer of collagen expression",
+    "Skin care applications",
+    "Collagen production support",
+    "Technical database and specifications",
+    "Cosmetics industry platform"
+  ],
+  "tags": [
+    "platform",
+    "database",
+    "inci-listed",
+    "technical-data",
+    "collagen-inducer"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Cosmetics industry technical platform. INCI-listed Centella Asiatica Extract with Madecassoside for collagen expression. Updated January 18, 2023."
+}

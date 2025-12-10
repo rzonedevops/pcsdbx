@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "botanic_healthcare_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://www.botanichealthcare.net/centella-asiatica-extract/",
+  "company_name": "Botanic Healthcare",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "San Diego, United States",
+  "country": "United States",
+  "website": "www.botanichealthcare.net",
+  "specializations": [
+    "Standardized Centella Asiatica Extract",
+    "10-40% Asiaticosides by HPLC",
+    "5-10% Asiaticosides by gravimetry",
+    "Multiple standardization options",
+    "High quality with sophisticated technology",
+    "Professional team and technical support"
+  ],
+  "tags": [
+    "mid-range",
+    "manufacturer",
+    "usa",
+    "standardized-extracts",
+    "multiple-grades",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "USA manufacturer in San Diego. Multiple standardization options (10-40% HPLC, 5-10% gravimetry). High-quality extracts with sophisticated technology and professional support."
+}

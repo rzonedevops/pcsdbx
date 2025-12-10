@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "making_cosmetics_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://www.makingcosmetics.com/BOT-GOTKOL-01.html",
+  "company_name": "Making Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United States",
+  "website": "www.makingcosmetics.com",
+  "specializations": [
+    "Gotu Kola Extract 494 (Centella Asiatica)",
+    "Extracted from leaves of Gotu Kola plant",
+    "Glycerin and water base",
+    "Liquid extract form",
+    "Educational resources"
+  ],
+  "tags": [
+    "retail",
+    "distributor",
+    "usa",
+    "liquid-extract",
+    "glycerin-base",
+    "educational"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "USA supplier for DIY and professional formulators. Gotu Kola (Centella Asiatica) liquid extract in glycerin and water base. Educational resources available."
+}

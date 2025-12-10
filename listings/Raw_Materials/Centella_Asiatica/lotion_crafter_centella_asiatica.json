@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lotion_crafter_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://lotioncrafter.com/products/centella-asiatica-extract",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United States",
+  "website": "lotioncrafter.com",
+  "specializations": [
+    "Centella Asiatica Extract",
+    "Supports skin repair",
+    "Soothes irritation",
+    "Enhances hydration",
+    "Ideal for healing skincare",
+    "DIY and professional formulators"
+  ],
+  "tags": [
+    "retail",
+    "distributor",
+    "usa",
+    "formulator-friendly",
+    "diy-friendly",
+    "healing-skincare"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "USA formulator supplier. Centella Asiatica extract for skin repair, soothing irritation, and hydration. Popular with DIY and professional formulators."
+}

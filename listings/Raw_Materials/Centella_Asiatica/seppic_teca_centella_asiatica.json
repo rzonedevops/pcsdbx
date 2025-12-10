@@ -1,0 +1,34 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "seppic_teca_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://www.seppic.com/product/teca",
+  "company_name": "SEPPIC",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "France",
+  "website": "www.seppic.com",
+  "specializations": [
+    "TECA™ - Highly purified Centella Asiatica extract",
+    "Standardized active compounds (Asiatic Acid, Madecassic Acid, Asiaticoside)",
+    "Promotes skin repair and hair growth",
+    "Pharmaceutical-grade quality",
+    "Proven efficacy through clinical studies",
+    "French premium botanical extracts"
+  ],
+  "tags": [
+    "premium",
+    "manufacturer",
+    "france",
+    "highly-purified",
+    "pharmaceutical-grade",
+    "clinical-studies"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Premium French manufacturer. TECA™ highly purified Centella Asiatica extract with standardized active compounds. Pharmaceutical-grade quality with proven clinical efficacy."
+}
