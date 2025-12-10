@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "simply_ingredients",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://simply-ingredients.com",
+  "company_name": "Simply Ingredients",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://simply-ingredients.com",
+  "specializations": [
+    "Squalane (sugarcane-derived)",
+    "Natural ingredients",
+    "Bio-based materials",
+    "Sustainable skincare ingredients",
+    "Eco-conscious formulation supplies"
+  ],
+  "certifications": [
+    "Bio-based",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "sugarcane-derived",
+    "bio-based",
+    "sustainable",
+    "plant-based",
+    "biomimetic",
+    "clean-beauty",
+    "usa-based",
+    "mid-range-pricing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based supplier of sugarcane-derived squalane for clean beauty and sustainable skincare brands. Applications: Restores skin hydration (5-20%), hair care (2-5%), silky non-greasy feel. Bio-based material naturally occurring in skin lipids with biomimetic properties. Mid-range pricing ($55-80/kg) with flexible quantities and testing samples available. Bio-based and sustainable certifications. USA-based distribution with international shipping. Product specifications and application guidance provided. Ideal for eco-conscious brands prioritizing sustainability."
+}

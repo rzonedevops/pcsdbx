@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "shay_and_company",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://shayandcompany.com",
+  "company_name": "Shay and Company",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://shayandcompany.com",
+  "specializations": [
+    "Olive squalane oil",
+    "Bulk and wholesale natural oils",
+    "All-natural vegan humectant",
+    "Non-greasy emollients",
+    "Natural skincare ingredients",
+    "Hair care ingredients"
+  ],
+  "certifications": [
+    "Vegan",
+    "All-natural"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "olive-derived",
+    "vegan",
+    "all-natural",
+    "bulk-wholesale",
+    "usa-based",
+    "wholesale-pricing",
+    "humectant"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based bulk and wholesale supplier of all-natural olive squalane oil (vegan, non-greasy humectant). Serves natural skincare brands, hair care products, and vegan cosmetics. Applications: Deep hydration for skin and hair (10-30%), non-greasy finish. Vegan-friendly with humectant properties. Wholesale pricing ($45-70/kg for bulk orders) with bulk and wholesale quantities. Samples available for bulk customers. Vegan and all-natural certified. USA-based bulk distribution. Bulk order support and product specifications available. Ideal for larger-scale production needs."
+}

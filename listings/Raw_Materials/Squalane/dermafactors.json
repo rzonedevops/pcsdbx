@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dermafactors",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://dermafactors.com",
+  "company_name": "Dermafactors",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://dermafactors.com",
+  "specializations": [
+    "Squalane (sugarcane-derived)",
+    "Cosmetic-grade high-purity ingredients",
+    "Vegan-friendly emollients",
+    "Synthetic from sustainable sugar cane",
+    "High purity squalane"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "High purity"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "sugarcane-derived",
+    "vegan-friendly",
+    "high-purity",
+    "sustainable",
+    "cosmetic-grade",
+    "usa-based",
+    "mid-range-pricing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based supplier of squalane derived from sustainable sugar cane (vegan-friendly, synthetic, high purity) for high-purity cosmetics and vegan skincare. Applications: Lighter than olive-derived squalane, non-greasy skin feel. Synthetic from sustainable sugar cane with high purity. Mid-range pricing ($50-75/kg) with cosmetic-grade quantities. Samples available for formulators. Cosmetic grade and high purity certified. USA-based distribution with international shipping. Technical specifications and formulation support provided. Ideal for brands seeking lighter, sugar-based squalane alternatives."
+}

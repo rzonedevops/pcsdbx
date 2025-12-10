@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "biossance",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.biossance.com",
+  "company_name": "Biossance",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.biossance.com",
+  "specializations": [
+    "Squalane clean skincare products",
+    "Plant-based emollient technology",
+    "Sustainable skincare",
+    "Clean beauty brand",
+    "Consumer squalane products",
+    "Eco-conscious beauty"
+  ],
+  "certifications": [
+    "Clean beauty",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "squalane",
+    "clean-beauty",
+    "sustainable",
+    "plant-based",
+    "consumer-brand",
+    "eco-conscious",
+    "finished-products",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based consumer brand specializing in squalane-based skincare products (plant-based, sustainable). Primarily a finished product brand rather than bulk ingredient supplier, but demonstrates market demand and applications. Products show applications: Deep hydration, improved elasticity, non-greasy finish. Plant-based emollient mimics natural skin moisture. Clean beauty standards and sustainable sourcing. USA-based brand with consumer education and sustainability information. Note: This listing represents market intelligence for squalane applications and consumer demand trends rather than a B2B ingredient supplier. Useful for understanding squalane market positioning and consumer preferences."
+}

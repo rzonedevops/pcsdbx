@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "making_cosmetics_squalane",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.makingcosmetics.com",
+  "company_name": "Making Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makingcosmetics.com",
+  "specializations": [
+    "Squalane 107",
+    "Cosmetic raw materials",
+    "Formulation ingredients",
+    "100% plant-based squalane",
+    "Sugarcane-derived squalane",
+    "DIY cosmetics supplies"
+  ],
+  "certifications": [
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "sugarcane-derived",
+    "plant-based",
+    "biomimetic",
+    "diy-cosmetics",
+    "indie-brands",
+    "usa-based",
+    "mid-range-pricing",
+    "flexible-moq"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based DIY cosmetics supplier offering Squalane 107 (100% plant-based, sugarcane-derived) for professional and DIY formulators. Applications: Prevents moisture loss, restores skin suppleness, lightweight hydration. Biomimetic properties as it naturally occurs in skin lipids. Mid-range pricing ($50-75/kg) with small to medium quantities (50g-5kg) and multiple size options. USA-based distribution with international shipping. Technical data sheets and formulation guidance available. Ideal for indie brands and small-scale formulation."
+}

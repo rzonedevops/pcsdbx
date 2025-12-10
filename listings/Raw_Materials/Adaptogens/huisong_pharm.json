@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "huisong_pharm",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.huisongpharm.com",
+  "company_name": "Huisong Pharm",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "China",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.huisongpharm.com",
+  "specializations": [
+    "Ashwagandha extracts",
+    "Standardized botanical extracts",
+    "1-20% Total Withanolides HPLC",
+    "Ratio extracts",
+    "Straight powder",
+    "High-potency skincare",
+    "Pharmaceutical applications"
+  ],
+  "certifications": [
+    "GMP",
+    "ISO"
+  ],
+  "tags": [
+    "adaptogens",
+    "ashwagandha",
+    "standardized-extracts",
+    "hplc-tested",
+    "gmp-certified",
+    "iso-certified",
+    "china-manufacturer",
+    "competitive-pricing",
+    "high-potency"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "Chinese manufacturer of ashwagandha extracts with multiple standardization options (1-20% withanolides via HPLC), ratio extracts, and straight powder. Serves pharmaceutical, nutraceutical, and cosmetic applications. Applications: high-potency skincare, standardized formulations. Competitive pricing ($30-60/kg depending on standardization) with MOQ typically 25kg+ for wholesale. GMP and ISO certified. China-based manufacturing with global shipping. COA, specifications, and customization available. Multiple standardization options provide formulation flexibility."
+}

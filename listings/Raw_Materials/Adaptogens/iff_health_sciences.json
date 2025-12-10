@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "iff_health_sciences",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.iff.com",
+  "company_name": "IFF (International Flavors & Fragrances)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "Global operations",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.iff.com",
+  "specializations": [
+    "Purified Panax Ginseng extract",
+    "Botanical ingredients",
+    "Health sciences",
+    "Highly authenticated extracts",
+    "Premium cosmetics ingredients",
+    "Wellness beauty",
+    "Functional skincare"
+  ],
+  "certifications": [
+    "Science-backed",
+    "Pharmaceutical grade"
+  ],
+  "tags": [
+    "adaptogens",
+    "ginseng",
+    "panax-ginseng",
+    "purified-extract",
+    "authenticated",
+    "premium-tier",
+    "global-distribution",
+    "pharmaceutical-grade",
+    "science-backed"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "Global leader offering Purified Panax Ginseng root extract with high authentication standards through Health Sciences division. Serves premium cosmetics, wellness beauty, and functional skincare. Applications: energy-boosting skincare, vitality formulations, resilience-supporting products. Premium pricing ($90-150/kg for authenticated extract) with large-scale production quantities. Science-backed formulation with quality authentication. Global manufacturing network and extensive distribution. Scientific research, formulation expertise, and regulatory support available. Ideal for premium brands requiring authenticated ingredients."
+}

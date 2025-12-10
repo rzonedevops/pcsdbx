@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bulk_natural_oils",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://bulknaturaloils.com",
+  "company_name": "Bulk Natural Oils",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://bulknaturaloils.com",
+  "specializations": [
+    "Squalane olive oil",
+    "Bulk natural oils",
+    "Organic options available",
+    "Plant oil squalane",
+    "Multi-purpose cosmetic ingredients"
+  ],
+  "certifications": [
+    "Organic options available",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "olive-derived",
+    "bulk-wholesale",
+    "organic-options",
+    "usa-based",
+    "wholesale-pricing",
+    "multi-purpose"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based bulk supplier of Plant Oil Squalane Olive (conventional and organic options) for cosmetics, soap, candle, apothecary, food and dietary supplements. Applications: Hydrating skincare (10-30%), hair care (2-5%), multi-purpose applications. Conventional and organic options available, olive-derived. Bulk wholesale pricing ($40-65/kg for bulk orders) with bulk quantities (gallons, drums). Samples available for bulk customers. Organic options and cosmetic grade certified. USA-based bulk distribution. Bulk order support and product specifications available. Ideal for diverse applications and bulk production."
+}

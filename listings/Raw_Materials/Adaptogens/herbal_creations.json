@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "herbal_creations",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://herbal-creations.com",
+  "company_name": "Herbal Creations",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://herbal-creations.com",
+  "specializations": [
+    "Ashwagandha extracts",
+    "Botanical extracts",
+    "Herbal ingredients",
+    "Adaptogen blends",
+    "Stress-relief skincare",
+    "Anti-aging products",
+    "Wellness cosmetics"
+  ],
+  "certifications": [
+    "Organic",
+    "GMP"
+  ],
+  "tags": [
+    "adaptogens",
+    "ashwagandha",
+    "botanical-extracts",
+    "herbal-ingredients",
+    "organic",
+    "gmp-certified",
+    "usa-based",
+    "mid-range-pricing",
+    "stress-relief",
+    "wellness-beauty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based supplier specializing in ashwagandha root extracts with various standardizations and adaptogen blends. Supplies to cosmetics, personal care, food, and supplement industries. Applications: stress-relief skincare, anti-aging products, wellness cosmetics. Water-soluble and oil-soluble extracts available. Mid-range pricing ($40-70/kg) with flexible MOQ for various industries. Organic and GMP certified. USA-based direct distribution with application guidance and formulation assistance."
+}

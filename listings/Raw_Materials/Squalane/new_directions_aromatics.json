@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "new_directions_aromatics",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.newdirectionsaromatics.com",
+  "company_name": "New Directions Aromatics (NDA)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "North America",
+  "country": "Canada",
+  "phone": "",
+  "email": "",
+  "website": "https://www.newdirectionsaromatics.com",
+  "specializations": [
+    "Olive squalane raw material",
+    "Cosmetic ingredients",
+    "Natural oils",
+    "Hydrating emollients",
+    "Non-oily finish ingredients"
+  ],
+  "certifications": [
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "olive-derived",
+    "biomimetic",
+    "non-oily-finish",
+    "hydrating",
+    "cosmetic-grade",
+    "north-america",
+    "mid-range-pricing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "North American supplier of Olive Squalane Raw Material for natural cosmetics and hydrating skincare. Serves USA, Canada, and international markets. Applications: Boosts water retention (10-30%), non-oily finish, radiant hydrated skin. Olive-derived with biomimetic properties. Mid-range pricing ($50-80/kg) with small to bulk quantities available and multiple size options. Cosmetic grade certified. North America distribution with international shipping. Product information and usage guidelines available. Ideal for natural cosmetics seeking hydrating, non-oily emollients."
+}
