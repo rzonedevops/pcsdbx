@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nature_in_bottle_squalane",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://www.natureinbottle.com",
+  "company_name": "Nature In Bottle",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.natureinbottle.com",
+  "specializations": [
+    "Organic squalane oil",
+    "Natural cosmetic ingredients",
+    "Carrier oils",
+    "Olive-derived squalane",
+    "Non-GMO ingredients",
+    "Clean beauty emollients"
+  ],
+  "certifications": [
+    "Organic",
+    "Non-GMO"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "olive-derived",
+    "organic",
+    "non-gmo",
+    "clean-beauty",
+    "plant-based",
+    "biomimetic",
+    "non-comedogenic",
+    "usa-based",
+    "premium-tier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based supplier of Organic Squalane Oil derived from olives (non-GMO) for clean beauty brands and natural cosmetics. Applications: Face oils (20-100%), serums (10-30%), moisturizers (5-15%), hair care (2-5%). Compatible with most oils and emulsions, non-comedogenic. Premium pricing ($60-90/kg for organic olive-derived) with small quantities available (30ml-1 gallon) and multiple sizes for testing. Organic and non-GMO certified. USA-based distribution with international shipping. Product information and usage guidelines available."
+}

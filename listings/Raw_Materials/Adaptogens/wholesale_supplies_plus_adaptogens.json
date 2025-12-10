@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "wholesale_supplies_plus_adaptogens",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.wholesalesuppliesplus.com",
+  "company_name": "Wholesale Supplies Plus",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.wholesalesuppliesplus.com",
+  "specializations": [
+    "Ginseng extract (water-soluble)",
+    "Cosmetic ingredients",
+    "DIY supplies",
+    "Anti-aging skincare ingredients",
+    "Hair care ingredients",
+    "Small-scale formulation supplies"
+  ],
+  "certifications": [
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "adaptogens",
+    "ginseng",
+    "water-soluble",
+    "diy-cosmetics",
+    "small-scale",
+    "usa-based",
+    "anti-aging",
+    "flexible-moq",
+    "indie-brands"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based DIY cosmetics supplier offering water-soluble Ginseng Extract for facial products and hair care. Serves DIY cosmetics market, small-scale brands, and indie formulators. Applications: facial products (2-5%), hair care (1-3%), anti-aging skincare. Water-soluble for easy incorporation. Retail and bulk pricing available with small quantities (4oz-1 gallon). USA-based distribution with international shipping. Usage instructions and formulation tips provided. Multiple size options ideal for testing and small-batch production."
+}

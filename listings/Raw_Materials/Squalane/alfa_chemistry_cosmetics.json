@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "alfa_chemistry_cosmetics",
+  "category_path": "Raw_Materials/Squalane",
+  "url": "https://cosmetics.alfa-chemistry.com",
+  "company_name": "Alfa Chemistry Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "Global operations",
+  "country": "Global",
+  "phone": "",
+  "email": "",
+  "website": "https://cosmetics.alfa-chemistry.com",
+  "specializations": [
+    "High-purity squalane",
+    "Cosmetic ingredients",
+    "Formulation materials",
+    "Stable emollients",
+    "Skin-friendly ingredients",
+    "Research-grade materials"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "High purity"
+  ],
+  "tags": [
+    "squalane",
+    "emollient",
+    "high-purity",
+    "stable",
+    "skin-friendly",
+    "cosmetic-grade",
+    "research-grade",
+    "global-distribution",
+    "mid-range-pricing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_squalane_suppliers_2025-12-07.md"
+  },
+  "notes": "Global supplier of high-purity squalane (stable, skin-friendly emollient) for moisturizing products and anti-aging formulations. Serves researchers and professional formulators. Applications: Moisturizing (5-20%), anti-aging (10-30%), stable emollient. High-purity, stable, skin-friendly. Mid-range pricing ($50-80/kg) with research and production quantities available. Samples available for researchers and formulators. High purity and cosmetic grade certified. Global distribution. Technical documentation and formulation support available. Ideal for research and professional formulation applications."
+}

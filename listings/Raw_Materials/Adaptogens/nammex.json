@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nammex",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.nammex.com",
+  "company_name": "Nammex (North American Medicinal Mushroom Extracts)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "North America",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.nammex.com",
+  "specializations": [
+    "Organic mushroom extracts",
+    "Reishi mushroom extract",
+    "RealReishi® brand",
+    "Hot water extract powder",
+    "Adaptogenic skincare",
+    "Wellness cosmetics",
+    "Immune-supporting formulations"
+  ],
+  "certifications": [
+    "Organic",
+    "GMP"
+  ],
+  "tags": [
+    "adaptogens",
+    "reishi-mushroom",
+    "mushroom-extracts",
+    "organic",
+    "gmp-certified",
+    "premium-tier",
+    "north-america",
+    "wellness-beauty",
+    "hot-water-extract"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "North American specialist in organic mushroom extracts featuring RealReishi® hot water extract powder. Serves supplements, functional foods, and cosmetics. Applications: adaptogenic skincare, wellness cosmetics, immune-supporting formulations. Hot water extract in fine powder suitable for various applications. Premium pricing ($70-110/kg for organic certified) with wholesale quantities. Organic certified and quality tested. North American processing with global shipping. Quality documentation and application guidance available."
+}

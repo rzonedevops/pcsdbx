@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bio_botanica",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.bio-botanica.com",
+  "company_name": "Bio-Botanica, Inc.",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.bio-botanica.com",
+  "specializations": [
+    "Reishi extract in glycerin",
+    "Botanical extracts",
+    "Natural cosmetic ingredients",
+    "Ganoderma Lucidum extract",
+    "Anti-aging skincare",
+    "Immune-supporting ingredients",
+    "Adaptogenic cosmetics"
+  ],
+  "certifications": [
+    "GMP",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "adaptogens",
+    "reishi-mushroom",
+    "glycerin-base",
+    "botanical-extracts",
+    "gmp-certified",
+    "usa-based",
+    "mid-range-pricing",
+    "anti-aging",
+    "ready-to-use"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "USA-based manufacturer of Reishi in Glycerin 3336GL (Ganoderma Lucidum extract) for natural cosmetics. Available through UL Prospector and website. Applications: anti-aging serums, immune-supporting skincare, adaptogenic cosmetics. Glycerin base makes it ready for aqueous formulations. Mid-range pricing ($55-85/kg) with standard wholesale quantities. GMP certified with USA manufacturing and distribution. Technical data sheets and formulation support available. Ideal for formulators seeking ready-to-use adaptogen extracts."
+}

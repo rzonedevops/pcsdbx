@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nutripartners",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://nutripartners.co",
+  "company_name": "NutriPartners",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "Europe",
+  "country": "Europe",
+  "phone": "",
+  "email": "",
+  "website": "https://nutripartners.co",
+  "specializations": [
+    "Ashwagandha extracts",
+    "Plant extracts",
+    "Natural ingredients",
+    "Standardized extracts",
+    "Various withanolide concentrations",
+    "Wellness cosmetics",
+    "Functional applications"
+  ],
+  "certifications": [
+    "Organic",
+    "European quality standards"
+  ],
+  "tags": [
+    "adaptogens",
+    "ashwagandha",
+    "plant-extracts",
+    "standardized-extracts",
+    "organic",
+    "european-supplier",
+    "mid-range-pricing",
+    "wellness-beauty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_suppliers_2025-12-07.md"
+  },
+  "notes": "European supplier of ashwagandha standardized extracts with various withanolide concentrations for consistent formulation. Serves supplements, cosmetics, and functional applications. Applications: wellness cosmetics, stress-relief skincare, anti-aging products. Mid-range pricing ($45-75/kg) with European wholesale standards for MOQ. Organic certified with European distribution network. Technical documentation and application support available. Standardized extracts ensure formulation consistency."
+}
