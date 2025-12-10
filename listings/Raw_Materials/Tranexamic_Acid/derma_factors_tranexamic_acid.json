@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "derma_factors_tranexamic_acid",
+  "category_path": "Raw_Materials/Tranexamic_Acid",
+  "url": "https://dermafactors.com/products/tranexamic-acid-powder-cosmetic-grade",
+  "company_name": "Derma Factors",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "website": "dermafactors.com",
+  "specializations": [
+    "Tranexamic Acid Powder - High-purity Cosmetic Grade",
+    "Corrects skin discoloration",
+    "Lightens black spots or patches",
+    "Professional cosmetic grade quality"
+  ],
+  "tags": [
+    "mid-range",
+    "distributor",
+    "cosmetic-grade",
+    "high-purity",
+    "professional"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Professional cosmetic grade supplier. High-purity Tranexamic Acid powder for correcting skin discoloration and lightening black spots or patches."
+}

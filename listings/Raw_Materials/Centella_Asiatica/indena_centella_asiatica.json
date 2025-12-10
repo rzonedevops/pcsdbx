@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "indena_centella_asiatica",
+  "category_path": "Raw_Materials/Centella_Asiatica",
+  "url": "https://www.indena.com",
+  "company_name": "Indena S.p.A.",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "Italy",
+  "website": "www.indena.com",
+  "specializations": [
+    "High-quality botanical extracts",
+    "Pharmaceutical-grade quality",
+    "Industry-leading manufacturer",
+    "Extensive research and development",
+    "Premium Centella Asiatica extracts"
+  ],
+  "tags": [
+    "premium",
+    "manufacturer",
+    "italy",
+    "pharmaceutical-grade",
+    "industry-leader",
+    "research-focused"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Premium Italian manufacturer. Industry-leading pharmaceutical-grade botanical extracts. Extensive R&D for Centella Asiatica. Listed on Ensun.io Top 100 Manufacturers."
+}

@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "formulator_shop_tranexamic_acid",
+  "category_path": "Raw_Materials/Tranexamic_Acid",
+  "url": "https://theformulatorshop.com/product/tranexamic-acid/",
+  "company_name": "The Formulator Shop",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "website": "theformulatorshop.com",
+  "specializations": [
+    "Tranexamic Acid (TXA)",
+    "Brighten skin complexion",
+    "Improve discoloration appearance",
+    "Professional formulators target market"
+  ],
+  "tags": [
+    "mid-range",
+    "distributor",
+    "professional",
+    "formulator-focused",
+    "skin-brightening"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Professional formulator supplier. Tranexamic Acid for brightening skin complexion and improving discoloration. Targeted to professional formulators."
+}

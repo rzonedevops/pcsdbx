@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_nutritional_alpha_arbutin",
+  "category_path": "Raw_Materials/Alpha_Arbutin",
+  "url": "https://www.dsm.com",
+  "company_name": "DSM Nutritional Products Ltd.",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "Personal Care Building 241/1019, P.O. Box 2676, CH-4002 Basel, Switzerland",
+  "country": "Switzerland",
+  "phone": "+41 61-815-88-13",
+  "fax": "+41 61-815-85-90",
+  "website": "www.dsm.com",
+  "specializations": [
+    "Exclusive global distributor of Glico's α-Arbutin",
+    "Premium quality ingredients",
+    "Global reach and distribution network",
+    "Comprehensive technical support",
+    "Formulation expertise"
+  ],
+  "tags": [
+    "premium",
+    "distributor",
+    "global-reach",
+    "technical-support",
+    "exclusive-distributor"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Premium global distributor. Exclusive worldwide distributor of Glico's original Alpha-Arbutin. Comprehensive technical support and formulation expertise."
+}

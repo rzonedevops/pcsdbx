@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "glico_nutrition_alpha_arbutin",
+  "category_path": "Raw_Materials/Alpha_Arbutin",
+  "url": "https://www.glico.com/nutrition/en/product/finechemical/arbutin/",
+  "company_name": "Glico Nutrition Co., Ltd.",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "4-6-5, Utajima, Nishiyodogawa-ku, Osaka 555-8502, Japan",
+  "country": "Japan",
+  "email": "g-ingredients@glico.com",
+  "website": "www.glico.com/nutrition/en/product/finechemical/arbutin/",
+  "specializations": [
+    "Original developer of α-Arbutin using proprietary transglycosylation enzyme",
+    "First company to achieve industrial production of α-Arbutin (since 2002)",
+    "Proprietary enzyme and manufacturing process",
+    "Pharmaceutical-grade quality",
+    "Sold globally through DSM Nutritional Products"
+  ],
+  "tags": [
+    "premium",
+    "manufacturer",
+    "original-developer",
+    "proprietary-technology",
+    "pharmaceutical-grade",
+    "global-distribution"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Premium original developer of Alpha-Arbutin. Proprietary transglycosylation enzyme technology. CAS No. 84380-01-08, ELINCS No. 440-470-8. Global distribution through DSM Nutritional Products."
+}

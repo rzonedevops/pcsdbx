@@ -1,0 +1,30 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ul_prospector_tranexamic_acid",
+  "category_path": "Raw_Materials/Tranexamic_Acid",
+  "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/99741/1002474/Tranexamic-Acidtrans-4-aminomethylcyclohexanecarboxylic-acid",
+  "company_name": "UL Prospector",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "website": "www.ulprospector.com",
+  "specializations": [
+    "Tranexamic Acid (trans-4-aminomethylcyclohexanecarboxylic acid)",
+    "Inhibits melanin production",
+    "Improves skin roughness",
+    "Restores UV/pollution damage",
+    "Industry-standard ingredient database"
+  ],
+  "tags": [
+    "platform",
+    "database",
+    "technical-data",
+    "industry-standard"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "high_value_actives_research_dec_9_2025.md"
+  },
+  "notes": "Industry-standard ingredient database platform. Comprehensive technical data for Tranexamic Acid. Melanin inhibition, skin roughness improvement, UV/pollution damage restoration."
+}
