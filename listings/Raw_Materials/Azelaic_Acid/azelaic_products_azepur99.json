@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "azelaic_products_azepur99",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://azelaic.com",
+  "company_name": "Azelaic Products",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "Not specified",
+  "website": "https://azelaic.com",
+  "specializations": [
+    "Nr. 1 supplier of highest grade azelaic acid",
+    "Azepur99® pharmaceutical-grade",
+    "Pharmaceutical anti-acne products",
+    "Cosmeceutical formulations",
+    "Pharmaceutical technical support"
+  ],
+  "certifications": [
+    "Pharmaceutical grade",
+    "FDA compliant",
+    "EU compliant",
+    "Azepur99® highest grade designation"
+  ],
+  "tags": [
+    "premium",
+    "pharmaceutical-grade",
+    "specialty",
+    "highest-quality"
+  ],
+  "product_highlights": [
+    "Azepur99® - highest grade specification",
+    "Nr. 1 supplier designation",
+    "Pharmaceutical-grade documentation",
+    "Full regulatory support"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Premium pharmaceutical-grade supplier with Azepur99® brand. Estimated pricing: $800-1,500/kg for pharmaceutical quality. Samples available for qualified pharmaceutical manufacturers. Full regulatory compliance documentation for FDA and EU markets.",
+  "category_id": "azelaic_acid"
+}

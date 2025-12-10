@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "azeco_cosmeceuticals_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://azeco-cosmeceuticals.com",
+  "company_name": "Azeco Cosmeceuticals",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "Not specified",
+  "website": "https://azeco-cosmeceuticals.com",
+  "specializations": [
+    "World's leading supplier of cosmetic grade azelaic acid",
+    "Cosmeceutical applications",
+    "Specialized formulations",
+    "Acne treatments",
+    "Rosacea formulations",
+    "Brightening actives",
+    "Specialist technical support"
+  ],
+  "certifications": [
+    "Cosmetic grade specialist",
+    "Global cosmetic compliance"
+  ],
+  "tags": [
+    "premium",
+    "specialty",
+    "global-distributor",
+    "cosmeceutical"
+  ],
+  "product_highlights": [
+    "World's leading supplier designation",
+    "Cosmetic grade specialist",
+    "Optimized for formulation",
+    "Comprehensive technical documentation"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Specialist supplier with premium positioning in global market. Estimated pricing: $600-1,000/kg. Focused exclusively on cosmeceutical applications with specialist formulation support. Samples available on request.",
+  "category_id": "azelaic_acid"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "croda_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.croda.com",
+  "company_name": "Croda International plc",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United Kingdom",
+  "website": "https://www.croda.com",
+  "specializations": [
+    "Specialty chemicals",
+    "Cosmetic ingredients",
+    "Pharmaceutical applications",
+    "Premium formulations",
+    "Formulation expertise",
+    "Custom specifications"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP",
+    "Pharmaceutical grade",
+    "EU compliant",
+    "FDA compliant",
+    "ASEAN approved"
+  ],
+  "tags": [
+    "premium",
+    "specialty",
+    "global-distributor",
+    "certified",
+    "sustainable"
+  ],
+  "product_highlights": [
+    "Global specialty chemical leader",
+    "Premium reputation",
+    "Specialty solutions",
+    "Croda sustainability commitments"
+  ],
+  "manufacturing_facilities": [
+    "UK (headquarters)",
+    "Global manufacturing network"
+  ],
+  "shipping_regions": [
+    "Global distribution",
+    "Regional offices worldwide"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Premium specialty chemical manufacturer with world-class quality. Estimated pricing: $500-800/kg. MOQ likely 50-100kg+. Lead times 2-4 weeks from UK/Europe. Strong sustainability programs and environmental leadership.",
+  "category_id": "azelaic_acid"
+}
