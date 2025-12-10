@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sincere_skincare_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://sincereskincare.com/ingredients/bifida-ferment-lysate/",
+  "company_name": "Sincere Skincare",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "South Korea",
+  "phone": "",
+  "email": "",
+  "website": "https://sincereskincare.com/",
+  "specializations": [
+    "Bifida Ferment Lysate",
+    "Lactobacillus/Centella Asiatica Ferment Filtrate",
+    "Natural fermented bifidobacteria",
+    "Soothing postbiotics",
+    "Barrier-strengthening ingredients",
+    "Korean cosmetic ingredients",
+    "Probiotic-plant extract combinations"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "bifida-ferment",
+    "lactobacillus",
+    "centella-asiatica",
+    "korea-based",
+    "k-beauty",
+    "soothing",
+    "barrier-repair",
+    "natural",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "Sincere Skincare is a Korean cosmetic ingredient distributor specializing in Bifida Ferment Lysate and Lactobacillus/Centella Asiatica Ferment Filtrate. Natural ingredients from fermented bifidobacteria with soothing and barrier-strengthening properties. Combines probiotics with plant extracts in innovative K-beauty formulations for microbiome skincare."
+}

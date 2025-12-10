@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "now_foods_prebiotics",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.nowfoods.com/products/supplements/inulin-prebiotic-pure-powder-organic",
+  "company_name": "NOW Foods",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "244 Knollwood Drive, Bloomingdale, IL 60108, USA",
+  "country": "USA",
+  "phone": "1-888-669-3663",
+  "email": "",
+  "website": "https://www.nowfoods.com/",
+  "specializations": [
+    "Inulin Prebiotic Pure Powder (Organic)",
+    "Fructooligosaccharide (FOS)",
+    "Soluble prebiotic fiber",
+    "Organic certified ingredients",
+    "Food-grade quality suitable for cosmetics",
+    "High-purity prebiotics",
+    "Natural ingredient manufacturer"
+  ],
+  "certifications": [
+    "Organic",
+    "GMP",
+    "FDA registered"
+  ],
+  "tags": [
+    "prebiotics",
+    "inulin",
+    "fos",
+    "organic",
+    "usa-based",
+    "food-grade",
+    "cosmetic-grade",
+    "microbiome",
+    "high-purity",
+    "major-manufacturer"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_prebiotics_december_2025.md"
+  },
+  "notes": "NOW Foods is a major manufacturer of Inulin Prebiotic Pure Powder (Organic) derived from fructooligosaccharides (FOS). Offers soluble prebiotic fiber with organic certification and food-grade quality suitable for cosmetic applications. Well-established company with GMP and FDA registration, providing high-purity natural ingredients."
+}

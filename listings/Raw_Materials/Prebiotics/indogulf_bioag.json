@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "indogulf_bioag_prebiotics",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.indogulfbioag.com/cosmetics",
+  "company_name": "IndoGulf BioAg",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "India",
+  "phone": "",
+  "email": "",
+  "website": "https://www.indogulfbioag.com/cosmetics",
+  "specializations": [
+    "Biotech-derived cosmetic ingredients",
+    "Fermented hyaluronic acid",
+    "Probiotic lysates",
+    "Bio-transformed plant extracts",
+    "Natural cosmetic ingredients",
+    "Prebiotic components",
+    "Fermentation technology"
+  ],
+  "certifications": [],
+  "tags": [
+    "prebiotics",
+    "biotechnology",
+    "fermentation",
+    "natural-ingredients",
+    "india-based",
+    "cosmetics",
+    "hyaluronic-acid",
+    "probiotics",
+    "plant-extracts"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_prebiotics_december_2025.md"
+  },
+  "notes": "IndoGulf BioAg supplies the cosmetics industry with biotech-derived ingredients including fermented hyaluronic acid, probiotic lysates, and bio-transformed plant extracts. Specializes in natural cosmetic ingredients produced through biotechnology and fermentation processes, including prebiotic components that support skin microbiome health."
+}

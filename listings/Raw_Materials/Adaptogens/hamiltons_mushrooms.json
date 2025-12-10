@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "hamiltons_mushrooms_adaptogens",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://hamiltonsmushrooms.com/collections/adaptogenic",
+  "company_name": "Hamilton's Mushrooms",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://hamiltonsmushrooms.com/",
+  "specializations": [
+    "Reishi Rampart extract powder",
+    "Crucial Cordyceps militaris extract",
+    "Adaptogenic mushroom extract powders",
+    "Stress resilience formulations",
+    "Physical and emotional stressor support",
+    "Premium mushroom extracts",
+    "Adaptogen specialist"
+  ],
+  "certifications": [],
+  "tags": [
+    "adaptogens",
+    "mushroom-extracts",
+    "reishi",
+    "cordyceps",
+    "usa-based",
+    "stress-resilience",
+    "extract-powders",
+    "emotional-wellness",
+    "physical-support",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_december_2025.md"
+  },
+  "notes": "Hamilton's Mushrooms specializes in adaptogenic mushroom extract powders including Reishi Rampart and Crucial Cordyceps militaris. Focus on adaptogens that enhance the body's ability to navigate physical and emotional stressors. USA-based supplier with expertise in stress resilience and wellness-focused mushroom extracts for cosmetic and supplement applications."
+}

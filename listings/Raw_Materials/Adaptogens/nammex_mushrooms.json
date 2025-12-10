@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nammex_mushroom_adaptogens",
+  "category_path": "Raw_Materials/Adaptogens",
+  "url": "https://www.nammex.com/",
+  "company_name": "Nammex (North American Medicinal Mushroom Extracts)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "102-3480 Myrtle Street, Burnaby, BC V5C 4E8, Canada",
+  "country": "Canada",
+  "phone": "1-604-522-3014",
+  "email": "info@nammex.com",
+  "website": "https://www.nammex.com/",
+  "specializations": [
+    "Organically certified mushroom extracts",
+    "Reishi mushroom extracts",
+    "Cordyceps mushroom extracts",
+    "Lion's Mane mushroom extracts",
+    "Chaga mushroom extracts",
+    "Medicinal mushroom ingredients",
+    "Organic adaptogenic mushrooms",
+    "Premium mushroom extract manufacturer"
+  ],
+  "certifications": [
+    "USDA Organic",
+    "EU Organic",
+    "Kosher"
+  ],
+  "tags": [
+    "adaptogens",
+    "mushroom-extracts",
+    "reishi",
+    "cordyceps",
+    "lions-mane",
+    "chaga",
+    "organic",
+    "canada-based",
+    "medicinal-mushrooms",
+    "premium",
+    "specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_adaptogens_december_2025.md"
+  },
+  "notes": "Nammex (North American Medicinal Mushroom Extracts) is a premier supplier of organically certified mushroom extracts specializing in adaptogenic mushroom ingredients. Offers Reishi, Cordyceps, Lion's Mane, Chaga, and other medicinal mushroom extracts with USDA Organic and EU Organic certifications. Canadian-based manufacturer focused exclusively on high-quality mushroom ingredients for cosmetics and supplements."
+}

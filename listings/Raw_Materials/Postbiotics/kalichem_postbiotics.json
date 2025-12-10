@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kalichem_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.kalichem.it/ingredients/kalibiome-ecogenetic/",
+  "company_name": "Kalichem",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "Via Ausonia, 1, 59100 Prato, Italy",
+  "country": "Italy",
+  "phone": "+39 0574 575511",
+  "email": "",
+  "website": "https://www.kalichem.it/",
+  "specializations": [
+    "Kalibiome ECOGENETIC - patented postbiotics",
+    "100% palm-free emulsion",
+    "Olive fatty acid emulsifier",
+    "Anti-inflammatory postbiotics",
+    "Patented postbiotic technology",
+    "Eco-friendly formulations",
+    "Sustainable cosmetic ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "patented",
+    "palm-free",
+    "eco-friendly",
+    "anti-inflammatory",
+    "italy-based",
+    "sustainable",
+    "olive-based",
+    "innovative",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "Kalichem offers Kalibiome ECOGENETIC, a patented postbiotic technology featuring 100% palm-free emulsion with olive fatty acid emulsifier. Specializes in anti-inflammatory postbiotics with eco-friendly formulations. Italian manufacturer with focus on sustainable, innovative cosmetic ingredients using patented microbiome science."
+}

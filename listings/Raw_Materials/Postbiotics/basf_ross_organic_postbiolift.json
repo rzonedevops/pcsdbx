@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_ross_organic_postbiolift",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://rossorg.com/product/postbiolift/",
+  "company_name": "BASF Personal Care (Ross Organic)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://rossorg.com/",
+  "specializations": [
+    "POSTBIOLIFT™ - Lactobacillus crispatus metabolites",
+    "Youth bacterium postbiotic",
+    "Anti-aging benefits",
+    "Skin microbiome metabolites",
+    "Naturally occurring skin microorganism",
+    "Age-defying skincare ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "anti-aging",
+    "lactobacillus",
+    "metabolites",
+    "basf",
+    "usa-based",
+    "microbiome",
+    "youth-bacterium",
+    "innovative",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "BASF Personal Care (distributed via Ross Organic) offers POSTBIOLIFT™, a unique postbiotic containing beneficial metabolites from Lactobacillus crispatus, a naturally occurring skin microorganism. Features youth bacterium postbiotic technology for anti-aging benefits, supporting skin health through microbiome-derived metabolites."
+}
