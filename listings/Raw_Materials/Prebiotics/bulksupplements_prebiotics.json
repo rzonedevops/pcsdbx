@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bulksupplements_prebiotics",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.bulksupplements.com/products/inulin-fos-powder",
+  "company_name": "BulkSupplements.com",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.bulksupplements.com/",
+  "specializations": [
+    "Organic Inulin FOS Powder",
+    "Bulk ingredient supplier",
+    "High-quality prebiotics",
+    "Fructooligosaccharides (FOS)",
+    "Chicory root-derived inulin",
+    "Organic certified ingredients",
+    "Bulk quantities"
+  ],
+  "certifications": [
+    "Organic"
+  ],
+  "tags": [
+    "prebiotics",
+    "inulin",
+    "fos",
+    "organic",
+    "usa-based",
+    "bulk-supplier",
+    "chicory-root",
+    "microbiome",
+    "high-quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_prebiotics_december_2025.md"
+  },
+  "notes": "BulkSupplements.com offers Organic Inulin FOS Powder derived from chicory root. Specializes in high-quality bulk ingredients with organic certification. Free shipping on orders over $59. Provides fructooligosaccharides (FOS) and inulin for microbiome support in cosmetic formulations."
+}

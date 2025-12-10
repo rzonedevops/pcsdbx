@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pure_ingredients_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://pureingredients.us/product/bifida-ferment-filtrate-powder/",
+  "company_name": "Pure Ingredients",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://pureingredients.us/",
+  "specializations": [
+    "Bifida Ferment Filtrate Powder",
+    "High-performance probiotic ingredient",
+    "Bifidobacterium ferment",
+    "Powder form for easy formulation",
+    "Probiotic powerhouse ingredients",
+    "Premium postbiotics",
+    "Cosmetic-grade ferments"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "bifida-ferment",
+    "bifidobacterium",
+    "powder-form",
+    "usa-based",
+    "high-performance",
+    "premium",
+    "cosmetic-grade",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "Pure Ingredients specializes in Bifida Ferment Filtrate Powder, a high-performance probiotic ingredient derived from Bifidobacterium. Offers powder form for easy formulation in cosmetic applications. Premium postbiotic powerhouse for skin microbiome support with focus on quality and performance."
+}

@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lotion_crafter_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://lotioncrafter.com/products/lactobacillus-ferment-lysate",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "48102 Lamar Avenue, Odessa, WA 99159, USA",
+  "country": "USA",
+  "phone": "1-866-222-8305",
+  "email": "support@lotioncrafter.com",
+  "website": "https://lotioncrafter.com/",
+  "specializations": [
+    "Lactobacillus Ferment Lysate (Lactobacillus rhamnosus)",
+    "Inhibits harmful bacteria",
+    "Regulates skin microbiota",
+    "Water-soluble postbiotics",
+    "Naturally derived ingredients",
+    "Bloomage Biotech supplier",
+    "Probiotic lysate formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "lactobacillus",
+    "ferment-lysate",
+    "microbiota",
+    "usa-based",
+    "water-soluble",
+    "natural",
+    "bloomage-biotech",
+    "cosmetic-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "Lotion Crafter offers Lactobacillus Ferment Lysate from Lactobacillus rhamnosus, a naturally derived postbiotic that inhibits harmful bacteria and regulates skin microbiota. Water-soluble probiotic lysate sourced from Bloomage Biotech. Established cosmetic ingredient supplier providing high-quality postbiotics for microbiome skincare formulations."
+}

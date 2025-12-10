@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_beautiferm_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/1483/6650501/BeautiFerm-Resurf-S-SB",
+  "company_name": "Evonik Personal Care",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://personal-care.evonik.com/",
+  "specializations": [
+    "BeautiFerm Resurf S SB",
+    "Lactobacillus/Rye Flour Ferment Filtrate",
+    "Fermented plant-based postbiotic",
+    "Plant extract fermentation",
+    "Enhanced botanical benefits",
+    "Sustainable fermentation technology",
+    "Premium cosmetic actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "lactobacillus",
+    "fermented-plants",
+    "rye-flour",
+    "germany-based",
+    "evonik",
+    "botanical-ferments",
+    "premium",
+    "sustainable",
+    "microbiome"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "Evonik Personal Care offers BeautiFerm Resurf S SB, a fermented plant-based postbiotic combining Lactobacillus/Rye Flour Ferment Filtrate with preservatives. Innovative approach combining fermentation with plant extracts for enhanced benefits. Major German manufacturer with expertise in sustainable fermentation technology for premium cosmetic actives."
+}

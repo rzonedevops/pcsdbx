@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "gobiotics_ingredients",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.gobiotics-ingredients.com/",
+  "company_name": "Gobiotics Ingredients",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.gobiotics-ingredients.com/",
+  "specializations": [
+    "Prebiotics for cosmetics",
+    "Skin microbiota support",
+    "Protective skin microbiome ingredients",
+    "Dedicated prebiotic specialist",
+    "Microbiome science expertise",
+    "Skin health and strength formulations",
+    "Cosmetic-grade prebiotics"
+  ],
+  "certifications": [],
+  "tags": [
+    "prebiotics",
+    "microbiome",
+    "france-based",
+    "cosmetics",
+    "skin-health",
+    "specialist",
+    "protective",
+    "barrier-support",
+    "innovative"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_prebiotics_december_2025.md"
+  },
+  "notes": "Gobiotics Ingredients is a dedicated prebiotic specialist focused exclusively on prebiotics for cosmetics to support protective skin microbiota. Expertise in microbiome science with focus on making skin stronger and healthier through prebiotic support. Specialized cosmetic-grade prebiotics designed specifically for skincare applications."
+}

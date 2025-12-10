@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "gfc_life_science_postbiotics",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.ulprospector.com/en/la/PersonalCare/Detail/13352/10651731/5-Probiotics-Complex",
+  "company_name": "GFC Life Science (Ikeda Corporation)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "address": "",
+  "country": "Japan",
+  "phone": "",
+  "email": "",
+  "website": "",
+  "specializations": [
+    "5 Probiotics Complex",
+    "Multi-strain ferment mixture",
+    "Bifidobacterium ferments",
+    "Lactobacillus species ferments",
+    "Synergistic multi-strain approach",
+    "Probiotic/postbiotic complexes",
+    "Japanese fermentation technology"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "probiotics",
+    "multi-strain",
+    "bifidobacterium",
+    "lactobacillus",
+    "japan-based",
+    "synergistic",
+    "fermentation",
+    "microbiome",
+    "innovative"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_postbiotics_expansion_december_2025.md"
+  },
+  "notes": "GFC Life Science (distributed via Ikeda Corporation) offers 5 Probiotics Complex, a mixture of 5 ferments including Bifidobacterium and Lactobacillus species. Synergistic effect from multiple ferment types using multi-strain approach. Japanese expertise in fermentation technology for advanced probiotic/postbiotic complexes in cosmetics."
+}
