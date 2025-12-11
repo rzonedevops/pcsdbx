@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bulk_naturals_wholesale_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.bulknaturalswholesale.com/products/azelaic-96200",
+  "company_name": "Bulk Naturals Wholesale",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United States",
+  "website": "https://www.bulknaturalswholesale.com",
+  "specializations": [
+    "Natural ingredients",
+    "Bulk wholesale supply",
+    "Multi-functional skincare actives",
+    "Acne treatment ingredients",
+    "Anti-inflammatory actives",
+    "Brightening ingredients"
+  ],
+  "certifications": [
+    "Natural source",
+    "Quality-tested ingredients",
+    "CoA available"
+  ],
+  "tags": [
+    "natural",
+    "wholesale",
+    "affordable",
+    "bulk-supplier"
+  ],
+  "product_highlights": [
+    "White granular flakes",
+    "Soluble in hot water, glycerin, glycol",
+    "Wholesale pricing model"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Natural ingredients supplier with bulk wholesale options. Mid-range pricing estimated at $400-700/kg. Net terms available for wholesale accounts. Typical usage: 0.5-1.5% (can go higher).",
+  "category_id": "azelaic_acid"
+}

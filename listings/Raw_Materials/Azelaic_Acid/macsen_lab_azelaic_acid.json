@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "macsen_lab_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.macsenlab.com/cosmetic-ingredients/azelaic-acid-123-99-9/",
+  "company_name": "Macsen Laboratories",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United States",
+  "website": "https://www.macsenlab.com",
+  "specializations": [
+    "Cosmetic ingredients",
+    "Acne treatment actives",
+    "Rosacea ingredients",
+    "Anti-inflammatory actives",
+    "Brightening actives",
+    "Technical support for formulation development"
+  ],
+  "certifications": [
+    "GMP certified",
+    "ISO certified",
+    "Cosmetic grade",
+    "CoA available",
+    "MSDS available"
+  ],
+  "tags": [
+    "certified",
+    "quality",
+    "professional",
+    "gmp-certified"
+  ],
+  "product_highlights": [
+    "Reduces inflammation",
+    "Fights acne bacteria",
+    "Unclogs pores",
+    "Fades hyperpigmentation",
+    "Full technical documentation"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "GMP & ISO certified supplier for professional cosmetic formulations. Estimated pricing: $350-600/kg for B2B customers. Custom packaging and private label options available. Pharmaceutical-grade quality standards.",
+  "category_id": "azelaic_acid"
+}

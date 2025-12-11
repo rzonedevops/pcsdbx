@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "derma_factors_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://dermafactors.com/products/azelaic-acid-high-purity-cosmetic-grade",
+  "company_name": "Derma Factors",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United States",
+  "website": "https://dermafactors.com",
+  "specializations": [
+    "High-purity cosmetic grade ingredients (99.9% purity)",
+    "Acne treatments",
+    "Rosacea formulations",
+    "Brightening serums",
+    "Anti-inflammatory actives",
+    "pH-optimized formulations (pH 4.0-4.5)"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "CoA available"
+  ],
+  "tags": [
+    "premium",
+    "high-purity",
+    "cosmetic",
+    "established-supplier"
+  ],
+  "product_highlights": [
+    "99.9% purity azelaic acid",
+    "Powder form for easy formulation",
+    "Technical data sheets available"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "High-purity cosmetic grade supplier with comprehensive formulation guidance. Typical usage: 5-10% with pH control. Applications include acne treatment, rosacea, brightening, and anti-inflammatory formulations.",
+  "category_id": "azelaic_acid"
+}

@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.basf.com",
+  "company_name": "BASF SE",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "Germany",
+  "website": "https://www.basf.com",
+  "specializations": [
+    "Global chemical manufacturer",
+    "Cosmetic ingredients",
+    "Pharmaceutical formulations",
+    "Industrial applications",
+    "Extensive technical support",
+    "Formulation assistance"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP",
+    "Pharmaceutical grade options",
+    "EU compliant",
+    "FDA compliant",
+    "ASEAN approved"
+  ],
+  "tags": [
+    "major-player",
+    "global-distributor",
+    "certified",
+    "quality",
+    "sustainable"
+  ],
+  "product_highlights": [
+    "Global chemical leader",
+    "Multiple grade options (cosmetic, pharmaceutical)",
+    "Comprehensive technical documentation",
+    "BASF sustainability programs"
+  ],
+  "manufacturing_facilities": [
+    "Germany (headquarters)",
+    "Global manufacturing network"
+  ],
+  "shipping_regions": [
+    "Global distribution",
+    "Regional offices worldwide"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Global chemical leader with world-class quality systems. Estimated pricing: $350-600/kg for manufacturers. MOQ likely 100kg+. Lead times 2-4 weeks from Europe. Extensive sustainability initiatives and environmental programs.",
+  "category_id": "azelaic_acid"
+}

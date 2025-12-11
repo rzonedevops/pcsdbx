@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "acme_hardesty_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.acme-hardesty.com/product/azelaic-acid/",
+  "company_name": "Acme-Hardesty",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "United States",
+  "website": "https://www.acme-hardesty.com",
+  "specializations": [
+    "Nonanedioic Acid (chemical name)",
+    "Personal care products",
+    "Cosmetic manufacturing",
+    "Chemical distribution",
+    "Technical applications support"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Chemical purity standards",
+    "CoA available",
+    "MSDS available"
+  ],
+  "tags": [
+    "established-supplier",
+    "chemical-distributor",
+    "quality",
+    "affordable"
+  ],
+  "product_highlights": [
+    "Free custom quotes",
+    "Chemical distribution expertise",
+    "Bulk packaging options",
+    "Technical specifications available"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Established chemical distributor with USA distribution network. Mid-range pricing estimated at $400-700/kg. Free custom quotes available. Net terms for established accounts. Standard cosmetic concentrations supported.",
+  "category_id": "azelaic_acid"
+}

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "emery_oleochemicals_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.emeryoleo.com",
+  "company_name": "Emery Oleochemicals",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "Malaysia",
+  "website": "https://www.emeryoleo.com",
+  "specializations": [
+    "Oleochemicals",
+    "Natural-based chemicals",
+    "Cosmetic formulations",
+    "Personal care ingredients",
+    "Industrial oleochemicals",
+    "Sustainable oleochemical production"
+  ],
+  "certifications": [
+    "ISO certified",
+    "Natural source (grains)",
+    "Oleochemical standards",
+    "Global export compliance"
+  ],
+  "tags": [
+    "natural",
+    "sustainable",
+    "global-distributor",
+    "oleochemical-specialist"
+  ],
+  "product_highlights": [
+    "Leading oleochemical manufacturer",
+    "Natural sources",
+    "Global distribution network",
+    "Sustainable production"
+  ],
+  "manufacturing_facilities": [
+    "Malaysia (manufacturing)",
+    "Global presence"
+  ],
+  "shipping_regions": [
+    "Global distribution network"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "Leading oleochemical manufacturer with competitive Asian pricing. Estimated pricing: $300-550/kg. MOQ likely 50-100kg+. Lead times 4-6 weeks from Malaysia. Payment terms: T/T, L/C for international orders. Focus on sustainable oleochemical production.",
+  "category_id": "azelaic_acid"
+}

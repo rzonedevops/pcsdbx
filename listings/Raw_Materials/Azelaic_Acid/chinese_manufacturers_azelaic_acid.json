@@ -1,0 +1,54 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "chinese_manufacturers_azelaic_acid",
+  "category_path": "Raw_Materials/Azelaic_Acid",
+  "url": "https://www.alibaba.com",
+  "company_name": "Various Chinese Manufacturers (Alibaba/Made-in-China)",
+  "status": "active",
+  "date_added": "2025-12-10",
+  "date_updated": "2025-12-10",
+  "country": "China",
+  "website": "https://www.alibaba.com",
+  "specializations": [
+    "Cosmetic raw materials",
+    "Pharmaceutical ingredients",
+    "Skin care actives",
+    "Various grades and purities",
+    "Custom packaging",
+    "Private label options"
+  ],
+  "certifications": [
+    "Natural source (grains)",
+    "ISO (varies by manufacturer)",
+    "GMP (varies by manufacturer)",
+    "Export-compliant",
+    "CoA available",
+    "MSDS available"
+  ],
+  "tags": [
+    "affordable",
+    "bulk-supplier",
+    "imported",
+    "platform-verified"
+  ],
+  "product_highlights": [
+    "Cosmetic Grade: $16-17.50/kg",
+    "Multiple supplier options",
+    "Platform verification",
+    "Trade assurance available",
+    "Sample availability"
+  ],
+  "manufacturing_facilities": [
+    "China (multiple provinces - Shandong, etc.)"
+  ],
+  "shipping_regions": [
+    "Global export via platforms"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-10",
+    "validation_method": "manual",
+    "data_source": "research_brightening_actives_december_2025.md"
+  },
+  "notes": "B2B platforms with multiple Chinese manufacturers. Budget-friendly pricing: $15-50/kg depending on purity and specifications. MOQ typically 1kg for samples, 25kg+ for production. Lead times 4-6 weeks from China. Payment: T/T, L/C, Alibaba Trade Assurance. Platform provides supplier verification and transaction history.",
+  "category_id": "azelaic_acid"
+}
