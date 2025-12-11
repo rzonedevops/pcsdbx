@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "thala_collagen",
+  "category_path": "Raw_Materials/Collagen_Collagen_Boosters",
+  "url": "https://www.thalaingredients.com",
+  "company_name": "Thala Ingredients",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "France",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.thalaingredients.com/thalacol/",
+  "specializations": [
+    "Premium marine collagen peptides (ThalaCol™)",
+    "Hydrolyzed marine collagen",
+    "Type I collagen from tuna skin",
+    "Sustainable wild-caught sourcing",
+    "High purity and bioavailability",
+    "Traceable sourcing",
+    "Anti-aging actives",
+    "Skin elasticity improvement"
+  ],
+  "certifications": [
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "collagen",
+    "marine-collagen",
+    "collagen-peptides",
+    "france-based",
+    "thalacol",
+    "sustainable",
+    "anti-aging",
+    "hydrolyzed",
+    "type-i-collagen",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_collagen_december_2025.md"
+  },
+  "notes": "Premium marine collagen peptides supplier. ThalaCol™ is hydrolyzed marine collagen derived from sustainably sourced wild-caught tuna skin. Rich in Type I collagen with high purity and bioavailability. Benefits include anti-aging, skin rejuvenation, hydration, moisture retention, skin elasticity improvement, and collagen synthesis support. Applications include anti-aging skincare, moisturizing products, and skin firming formulations. Premium marine collagen positioning with sustainable and traceable sourcing."
+}
