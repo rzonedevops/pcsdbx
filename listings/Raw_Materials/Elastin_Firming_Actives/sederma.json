@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sederma_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.sederma.com",
+  "company_name": "Sederma (Croda)",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Le Perray-en-Yvelines, France",
+  "country": "France",
+  "phone": "+33 1 39 56 56 10",
+  "email": "contact@sederma.fr",
+  "website": "https://www.sederma.com",
+  "specializations": [
+    "Cosmetic peptides",
+    "Biotechnology actives",
+    "Matrixyl® series (palmitoyl peptides)",
+    "Trylagen® (tri-peptide complex)",
+    "Gatuline® Expression (Acmella oleracea)",
+    "Collagen/elastin synthesis stimulation",
+    "Plant-based muscle relaxants",
+    "Premium anti-aging peptides"
+  ],
+  "certifications": [
+    "COSMOS",
+    "Ecocert",
+    "ISO 9001",
+    "Clinical validation",
+    "Extensive scientific documentation"
+  ],
+  "tags": [
+    "peptides",
+    "firming-actives",
+    "matrixyl",
+    "trylagen",
+    "elastin-synthesis",
+    "france-based",
+    "croda",
+    "luxury-actives",
+    "clinical-validation",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Innovation leader in peptide actives. Matrixyl® is gold-standard peptide for collagen/elastin stimulation. Trylagen® is tri-peptide complex for dermal matrix regeneration. Gatuline® Expression provides plant-based muscle relaxation (Acmella oleracea alternative to Botox). Extensive clinical validation and published studies. Premium pricing reflects significant research investment. Preferred by luxury skincare brands worldwide. Excellent technical support and formulation guidance. Global distribution through Croda network."
+}

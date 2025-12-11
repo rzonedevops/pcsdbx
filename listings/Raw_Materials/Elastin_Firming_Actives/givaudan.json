@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.givaudan.com/fragrance-beauty/active-beauty",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Vernier, Geneva, Switzerland",
+  "country": "Switzerland",
+  "phone": "+41 22 780 91 11",
+  "email": "active.beauty@givaudan.com",
+  "website": "https://www.givaudan.com/fragrance-beauty/active-beauty",
+  "specializations": [
+    "Active ingredients",
+    "Biotechnology",
+    "RenovHyal™ (hyaluronic acid booster)",
+    "TightUp™ (instant and long-term tightening)",
+    "Marine actives",
+    "Elastin-supporting ingredients",
+    "Multi-functional firming peptides",
+    "Premium anti-aging actives"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "COSMOS options",
+    "Ecocert options",
+    "Clinical validation"
+  ],
+  "tags": [
+    "peptides",
+    "firming-actives",
+    "tightup",
+    "renovhyal",
+    "switzerland-based",
+    "innovation-leader",
+    "premium-actives",
+    "clinical-validation",
+    "luxury",
+    "biotechnology"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Innovation leader with premium positioning in active beauty. TightUp™ combines instant and long-term firming mechanisms through botanical complex. RenovHyal™ boosts hyaluronic acid with firming effects. Marine actives for elastin-supporting benefits. Multi-functional firming peptides portfolio. Strong focus on clinical validation and sensory experience. Premium pricing reflects innovation and quality. Excellent for luxury brand formulations. Global distribution network. Strong technical support and formulation expertise. Suitable for premium anti-aging, firming, and contouring products."
+}

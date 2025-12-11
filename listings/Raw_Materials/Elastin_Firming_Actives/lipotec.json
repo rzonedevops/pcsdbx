@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipotec_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.lipotec.com",
+  "company_name": "Lipotec (Lubrizol)",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Barcelona, Spain",
+  "country": "Spain",
+  "phone": "+34 93 848 08 00",
+  "email": "lipotec@lipotec.com",
+  "website": "https://www.lipotec.com",
+  "specializations": [
+    "Peptides",
+    "Biotechnology actives",
+    "Argireline® (Acetyl Hexapeptide-8)",
+    "Syn-Coll® (Palmitoyl Tripeptide-5)",
+    "Syn-Ake® (snake venom peptide)",
+    "Decorinyl™ (decorin-boosting peptide)",
+    "Wrinkle-smoothing peptides",
+    "Collagen/elastin synthesis"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "Halal",
+    "Kosher",
+    "Clinical validation",
+    "Extensive patent portfolio"
+  ],
+  "tags": [
+    "peptides",
+    "argireline",
+    "syn-coll",
+    "firming-actives",
+    "wrinkle-smoothing",
+    "spain-based",
+    "lubrizol",
+    "luxury-peptides",
+    "clinical-validation",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Global peptide leader with extensive IP portfolio. Argireline® is one of most widely used anti-wrinkle peptides globally (muscle relaxation). Syn-Coll® boosts collagen/elastin synthesis for dermal firmness. Syn-Ake® snake venom peptide for advanced muscle relaxation. Decorinyl™ boosts decorin for dermal structure improvement. Strong patent portfolio and clinical validation for all key products. Excellent technical support and formulation guidance. Premium positioning with luxury brand adoption worldwide. Global distribution through Lubrizol network."
+}

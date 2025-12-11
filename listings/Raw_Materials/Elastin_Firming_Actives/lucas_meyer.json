@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lucas_meyer_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://lucasmeyercosmetics.com",
+  "company_name": "Lucas Meyer Cosmetics (IFF)",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Montreal, Quebec, Canada",
+  "country": "Canada",
+  "phone": "+1 514 333 5050",
+  "email": "info.lmc@iff.com",
+  "website": "https://lucasmeyercosmetics.com",
+  "specializations": [
+    "Peptides",
+    "Marine actives",
+    "Plant extracts",
+    "Juvenessence™ (algae extract for firmness)",
+    "Seanol® Plus (marine polyphenol)",
+    "Easyliance™ (instant lifting)",
+    "Marine collagen/elastin peptides",
+    "Sustainable marine ingredients"
+  ],
+  "certifications": [
+    "COSMOS",
+    "Ecocert",
+    "NATRUE",
+    "ISO 22716",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "marine-actives",
+    "peptides",
+    "firming",
+    "elastin-protection",
+    "easyliance",
+    "juvenessence",
+    "canada-based",
+    "iff",
+    "sustainable",
+    "instant-lifting"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Premium marine and peptide actives specialist. Juvenessence™ algae extract for skin firmness. Seanol® Plus marine polyphenol for elastin protection. Easyliance™ provides instant lifting effects through plant polysaccharide (Acacia senegal) tensing mechanism. Marine peptides for elastin and collagen-boosting. Strong focus on marine-derived actives with sustainability. Clinical efficacy data available for key products. Global distribution through IFF network. Synergy with IFF's fragrance and nutrition capabilities."
+}
