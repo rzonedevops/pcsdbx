@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.dsm-firmenich.com/personal-care",
+  "company_name": "DSM-Firmenich Personal Care",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Kaiseraugst, Switzerland / Heerlen, Netherlands",
+  "country": "Switzerland / Netherlands",
+  "phone": "+41 61 815 71 11",
+  "email": "personal-care@dsm-firmenich.com",
+  "website": "https://www.dsm-firmenich.com/personal-care",
+  "specializations": [
+    "Bioactives",
+    "Vitamins",
+    "Peptides",
+    "Elastin peptides (bioactive elastin fragments)",
+    "Copper peptides (GHK-Cu)",
+    "Tissue remodeling actives",
+    "Plant-based firming actives",
+    "Multi-functional peptide complexes"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 22000",
+    "COSMOS options",
+    "Clinical validation"
+  ],
+  "tags": [
+    "bioactives",
+    "peptides",
+    "copper-peptides",
+    "elastin-peptides",
+    "firming-actives",
+    "switzerland-based",
+    "netherlands-based",
+    "scientific-excellence",
+    "tissue-remodeling",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Major bioactives supplier with strong scientific foundation. Bioactive elastin peptides (elastin fragments) for skin elasticity. Copper peptides (GHK-Cu) for comprehensive tissue remodeling and firmness. Plant-based firming actives. Multi-functional peptide complexes for anti-aging. Strong focus on bioactives and nutritional ingredients. Excellent scientific documentation and research support. Integration of nutrition and beauty science. Worldwide presence with technical expertise. Suitable for anti-aging, firming, and tissue regeneration formulations. Premium positioning with clinical validation."
+}

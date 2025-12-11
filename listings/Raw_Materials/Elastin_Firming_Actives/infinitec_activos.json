@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "infinitec_activos_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.infinitecactivos.com",
+  "company_name": "Infinitec Activos",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Barcelona, Spain",
+  "country": "Spain",
+  "phone": "+34 93 240 20 09",
+  "email": "info@infinitecactivos.com",
+  "website": "https://www.infinitecactivos.com",
+  "specializations": [
+    "Plant-based actives",
+    "Biotechnology",
+    "Elestan™ (elastin synthesis enhancer)",
+    "Tightenyl™ (instant and long-term tightening)",
+    "Marine actives (algae-based firming)",
+    "Plant stem cell actives",
+    "Lupine peptides",
+    "Sustainable plant-derived ingredients"
+  ],
+  "certifications": [
+    "COSMOS",
+    "Ecocert",
+    "ISO 9001",
+    "Clinical validation",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "plant-based",
+    "elastin-synthesis",
+    "elestan",
+    "tightenyl",
+    "firming-actives",
+    "spain-based",
+    "sustainable",
+    "clinical-validation",
+    "natural-actives",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Innovative plant-based actives with clinical data. Elestan™ specifically targets elastin synthesis pathways using lupine peptides. Tightenyl™ provides both instant and long-term skin tightening effects. Marine actives from algae for firming. Plant stem cell actives with anti-aging properties. Focus on sustainable, plant-derived alternatives to synthetic actives. Strong clinical documentation for efficacy claims. Competitive pricing for premium actives. COSMOS and Ecocert certified for natural/organic formulations. Global distribution network."
+}
