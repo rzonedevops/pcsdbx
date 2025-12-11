@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sederma_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.sederma.com/",
+  "company_name": "Sederma (Croda)",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "29 rue du Chemin Vert, 78610 Le Perray-en-Yvelines, France",
+  "country": "France",
+  "phone": "+33 5 55 69 72 00",
+  "email": "sederma@sederma.fr",
+  "website": "https://www.sederma.com/",
+  "specializations": [
+    "Innovative peptide technology",
+    "Collagen-elastin synthesis",
+    "Instant lift actives",
+    "Anti-aging peptides",
+    "Wrinkle smoothing",
+    "Skin firming solutions",
+    "Clinical research"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "REACH compliant"
+  ],
+  "tags": [
+    "peptides",
+    "matrixyl",
+    "firming",
+    "france-based",
+    "croda",
+    "clinical-validation",
+    "premium",
+    "elastin-synthesis",
+    "instant-lift",
+    "innovation-leader"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Part of Croda International, pioneer in cosmetic peptide technology. Famous for Matrixyl® 3000 (stimulates collagen and elastin synthesis), Matrixyl® synthe'6® (smoothes wrinkles), Easyliance™ (natural instant lift), and Relistase™ (fights sagging, firms and lifts). Extensive R&D with clinical validation. Premium positioning with patented technologies. Strong technical documentation and formulation support."
+}
