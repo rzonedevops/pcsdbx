@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipoid_kosmetik_collagen",
+  "category_path": "Raw_Materials/Collagen_Collagen_Boosters",
+  "url": "https://www.lipoid-kosmetik.com",
+  "company_name": "Lipoid Kosmetik",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lipoid-kosmetik.com/phytocollagen-beauty-from-the-acacia-tree-the-plant-based-collagen-alternative/",
+  "specializations": [
+    "Plant-based collagen alternative (PhytoCollagen)",
+    "Acacia tree-sourced ingredients",
+    "100% vegan and sustainable",
+    "Natural and organic cosmetics",
+    "Collagen-like benefits from plant source",
+    "Skin firming actives",
+    "Clean beauty formulations"
+  ],
+  "certifications": [
+    "COSMOS certified",
+    "NATRUE certified",
+    "Vegan"
+  ],
+  "tags": [
+    "collagen",
+    "vegan-collagen",
+    "phytocollagen",
+    "germany-based",
+    "plant-based",
+    "cosmos",
+    "natrue",
+    "organic",
+    "sustainable",
+    "clean-beauty",
+    "acacia"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_collagen_december_2025.md"
+  },
+  "notes": "Premium natural/organic supplier. PhytoCollagen is plant-based collagen alternative from acacia tree. COSMOS and NATRUE certified, 100% vegan and sustainable. Provides collagen-like benefits from plant source including skin firming and anti-aging. Applications include natural and organic skincare, vegan beauty products, and clean beauty formulations. Premium natural/organic positioning with strong certifications for clean beauty market."
+}

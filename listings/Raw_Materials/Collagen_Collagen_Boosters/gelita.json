@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "gelita_collagen",
+  "category_path": "Raw_Materials/Collagen_Collagen_Boosters",
+  "url": "https://www.gelita.com",
+  "company_name": "GELITA AG",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Eberbach, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.gelita.com/en/products-brands/collagen-peptides",
+  "specializations": [
+    "Bioactive collagen peptides (VERISOL®)",
+    "Global leader in collagen peptides",
+    "Beauty applications optimization",
+    "Wrinkle reduction",
+    "Skin elasticity improvement",
+    "Cellular-level beauty support",
+    "Clinical studies and validation"
+  ],
+  "certifications": [
+    "Clinical studies",
+    "Quality certifications"
+  ],
+  "tags": [
+    "collagen",
+    "collagen-peptides",
+    "germany-based",
+    "global-leader",
+    "verisol",
+    "bioactive",
+    "clinically-proven",
+    "anti-aging",
+    "premium",
+    "beauty-supplements"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_collagen_december_2025.md"
+  },
+  "notes": "Global leader in collagen peptides. VERISOL® is bioactive collagen peptide optimized for beauty applications with clinically proven efficacy. Reduces wrinkles, improves skin elasticity, and enhances skin appearance at cellular level. Applications include beauty supplements, topical skincare, and functional beverages. Global leader with premium positioning and extensive clinical validation."
+}

@@ -356,20 +356,225 @@ Collagen and collagen-boosting ingredients are essential actives in anti-aging a
 
 ---
 
-## ADDITIONAL SUPPLIERS TO RESEARCH
+### 11. Rousselot (France/Belgium) - Global Collagen Peptide Leader ⭐⭐⭐⭐⭐
+
+**Company:** Rousselot (Part of Darling Ingredients)  
+**Website:** https://www.darlingii.com/rousselot/  
+**Location:** Puteaux, France (Global operations)  
+**Specialization:** Global leader in collagen peptides
+
+**Products:**
+- **Peptan®** - Collagen peptides for nutricosmetics and beauty
+- Collagen peptides for various applications
+
+**Key Features:**
+- Global leader in collagen peptide production
+- Extensive R&D and clinical studies
+- Multiple production facilities worldwide
+- Peptan® brand is internationally recognized
+- High-quality collagen peptides for cosmetics and supplements
+
+**Benefits:**
+- Skin hydration improvement
+- Skin elasticity enhancement
+- Hair health support
+- Anti-aging benefits
+- Clinically validated efficacy
+
+**Applications:**
+- Nutricosmetics (beauty from within)
+- Topical cosmetics
+- Functional foods and beverages
+- Dietary supplements
+
+**Certifications:** Quality certifications, global standards compliance
+
+**Contact:**
+- Email: info@rousselot.com
+- Phone: +33-1-4667-8700
+- Address: 6 Rue Jean Jaures, Puteaux, 92807, France
+
+**Market Position:** Global leader, premium quality
+
+---
+
+### 12. Nitta Gelatin (Japan) - Wellnex® Collagen Peptides ⭐⭐⭐⭐⭐
+
+**Company:** Nitta Gelatin Inc.  
+**Website:** https://www.nitta-gelatin.co.jp/en/  
+**Location:** Osaka, Japan (Global operations)  
+**Specialization:** Collagen peptides with clinical research
+
+**Products:**
+- **Wellnex®** - Highly functional collagen peptides series
+- Collagen peptides for cosmetics and supplements
+
+**Key Features:**
+- Extensive clinical research and validation
+- Highly functional collagen peptides
+- Japanese quality standards
+- Global distribution network
+- Strong focus on bioavailability and efficacy
+
+**Benefits:**
+- Skin moisture improvement
+- Skin elasticity enhancement
+- Anti-aging effects
+- Joint and bone health support
+- Hair and nail strengthening
+
+**Applications:**
+- Cosmetics (topical and oral)
+- Functional foods and beverages
+- Health supplements
+- Pharmaceutical applications
+
+**Certifications:** ISO certifications, pharmaceutical-grade quality
+
+**Contact:**
+- Phone: +81-6-6563-1511
+- Address: 4-26 Sakuragawa, Naniwa-ku, Osaka 556-0022, Japan
+- Website contact form available
+
+**Market Position:** Premium, clinically validated
+
+---
+
+### 13. Weishardt (France) - Naticol® Marine Collagen ⭐⭐⭐⭐⭐
+
+**Company:** Weishardt Group  
+**Website:** https://www.weishardt.com/ | https://www.naticol.com/  
+**Location:** Graulhet, Occitanie, France  
+**Specialization:** Marine collagen peptides specialist
+
+**Products:**
+- **Naticol®** - Premium marine collagen peptides range
+- Marine collagen for cosmetics and nutraceuticals
+
+**Key Features:**
+- Dedicated marine collagen brand (Naticol®)
+- High purity and quality
+- Natural marine source
+- Sustainable and traceable sourcing
+- Strong innovation tradition
+
+**Benefits:**
+- Skin health and beauty
+- Anti-aging properties
+- Hydration and elasticity
+- Collagen synthesis support
+- High bioavailability
+
+**Applications:**
+- Cosmetics and skincare
+- Nutraceuticals and supplements
+- Functional foods and beverages
+- Pharmaceutical applications
+
+**Certifications:** Quality certifications, sustainable sourcing
+
+**Contact:**
+- Phone: +33 5 63 42 35 00
+- Address: Rue Maurice Weishardt, Graulhet, Occitanie 81300, France
+- Contact form: https://www.weishardt.com/contactez-nous/
+
+**Market Position:** Premium marine collagen specialist
+
+---
+
+### 14. Ashland (USA) - Specialty Cosmetic Ingredients ⭐⭐⭐⭐
+
+**Company:** Ashland Global Holdings Inc.  
+**Website:** https://www.ashland.com/personalcare  
+**Location:** Wilmington, Delaware, USA (Global operations)  
+**Specialization:** Specialty chemicals and cosmetic ingredients
+
+**Products:**
+- Biofunctional ingredients for collagen synthesis
+- Specialty cosmetic actives and ingredients
+- Film formers, thickeners, and conditioning agents
+
+**Key Features:**
+- Global leader in specialty chemicals
+- Extensive portfolio for personal care
+- Focus on sustainable, nature-derived solutions
+- 80%+ portfolio inherently biodegradable
+- Strong R&D capabilities
+
+**Benefits:**
+- Collagen synthesis stimulation
+- Skin conditioning and moisturizing
+- Anti-aging support
+- Sustainable formulation options
+
+**Applications:**
+- Personal care and cosmetics
+- Hair care products
+- Skin care formulations
+- Body care products
+
+**Certifications:** ISO certifications, sustainability standards
+
+**Contact:**
+- Toll-free: 1-800-274-5263 (800-ASHLAND)
+- International: 001-859-963-4704
+- Personal Care Division: 1-800-505-8984
+- Contact form: https://www.ashland.com/about/contact-us
+
+**Market Position:** Major global specialty chemicals player
+
+---
+
+### 15. Italgelatine (Italy) - Collagen & Gelatin Manufacturer ⭐⭐⭐⭐⭐
+
+**Company:** Italgel S.p.A. (Italgelatine)  
+**Website:** https://www.italgel.com/  
+**Location:** Santa Vittoria d'Alba, Cuneo, Italy  
+**Specialization:** Collagen, gelatin, and hydrolyzed collagen
+
+**Products:**
+- Hydrolyzed collagen for cosmetics
+- Gelatin for various applications
+- Collagen from multiple sources (bovine, porcine, fish)
+
+**Key Features:**
+- Leading Italian collagen producer
+- Multiple collagen sources available
+- ISO certified production
+- Worldwide export capabilities
+- High-quality standards
+
+**Benefits:**
+- Skin elasticity enhancement
+- Anti-aging effects
+- Skin firmness improvement
+- High bioavailability (hydrolyzed)
+
+**Applications:**
+- Cosmetics (creams, lotions, masks)
+- Beauty supplements
+- Food and nutraceutical industries
+- Pharmaceutical applications
+
+**Certifications:** ISO certifications, quality standards
+
+**Contact:**
+- Phone: +39 0172 478047
+- Email: info@italgel.com
+- Address: S.S. Alba-Bra, 201, 12069 Santa Vittoria d'Alba (CN), Italy
+
+**Market Position:** Major European collagen manufacturer
+
+---
+
+## ADDITIONAL SUPPLIERS TO RESEARCH (Future)
 
 ### Major Collagen Suppliers (from search results):
 
-1. **Ashland** (USA) - Global specialty chemicals, collagen ingredients
-2. **Gelita AG** (Germany) - Already documented above
-3. **Italgelatine S.p.A** (Italy) - Collagen and gelatin manufacturer
-4. **Titan Biotech Limited** (India) - Collagen and biotech ingredients
-5. **Rousselot** (Belgium/France) - Global collagen peptide leader
-6. **Nitta Gelatin** (Japan) - Collagen peptides for cosmetics
-7. **Weishardt** (France) - Marine collagen specialist
-8. **Darling Ingredients** (USA) - Collagen and gelatin products
-9. **Vital Proteins** (USA) - Marine collagen peptides (consumer brand, may have B2B)
-10. **Micro Ingredients** (USA) - Collagen peptides (consumer brand, may have B2B)
+1. **Titan Biotech Limited** (India) - Collagen and biotech ingredients
+2. **Darling Ingredients** (USA) - Collagen and gelatin products (parent company of Rousselot)
+3. **Vital Proteins** (USA) - Marine collagen peptides (consumer brand, may have B2B)
+4. **Micro Ingredients** (USA) - Collagen peptides (consumer brand, may have B2B)
 
 ### Vegan Collagen Alternatives to Research:
 
@@ -401,13 +606,30 @@ Collagen and collagen-boosting ingredients are essential actives in anti-aging a
 
 ## NEXT STEPS
 
-1. Research additional 5-7 suppliers from "Additional Suppliers" list
-2. Convert all findings to JSON listings
+1. ✅ Research additional 5 suppliers from "Additional Suppliers" list
+2. Convert all 15 findings to JSON listings
 3. Verify contact information and URLs
 4. Add to Raw_Materials/Collagen_Collagen_Boosters category
 5. Update progress tracking
 
 ---
 
-**Research Status:** 10 suppliers documented, 5-7 more needed to reach target of 15 suppliers  
-**Next Research Session:** Focus on Rousselot, Nitta Gelatin, Weishardt, Ashland, Italgelatine
+**Research Status:** 15 suppliers documented - TARGET ACHIEVED! ✅  
+**Suppliers Documented:**
+1. Geltor (USA)
+2. Evonik (Germany)
+3. Thala Ingredients (France)
+4. Vivion (USA)
+5. DermaFactors (USA)
+6. DKSH (Asia)
+7. Wellnex (Global)
+8. GELITA (Germany)
+9. Lipoid Kosmetik (Germany)
+10. Bachem (Switzerland)
+11. Rousselot (France/Belgium)
+12. Nitta Gelatin (Japan)
+13. Weishardt (France)
+14. Ashland (USA)
+15. Italgelatine (Italy)
+
+**Next Action:** Convert research to JSON listings and deploy to repository

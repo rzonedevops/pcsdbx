@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "wellnex_collagen",
+  "category_path": "Raw_Materials/Collagen_Collagen_Boosters",
+  "url": "https://wellnex-collagen.com",
+  "company_name": "Wellnex",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Global operations",
+  "country": "Global",
+  "phone": "",
+  "email": "",
+  "website": "https://wellnex-collagen.com",
+  "specializations": [
+    "Highly functional collagen peptides",
+    "Clinically proven B2B ingredients",
+    "Skin health support",
+    "Joint health ingredients",
+    "Beauty from within formulations",
+    "Global distribution"
+  ],
+  "certifications": [
+    "Clinically proven efficacy"
+  ],
+  "tags": [
+    "collagen",
+    "collagen-peptides",
+    "global-supplier",
+    "clinically-proven",
+    "b2b",
+    "beauty-from-within",
+    "functional-ingredients",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_collagen_december_2025.md"
+  },
+  "notes": "Premium global supplier of highly functional collagen peptides with clinically proven efficacy. B2B ingredient supplier with global distribution network. Benefits include skin health, joint health, and beauty from within support. Applications include skincare, supplements, and functional foods. Premium, clinically validated positioning for brands seeking evidence-based collagen ingredients."
+}

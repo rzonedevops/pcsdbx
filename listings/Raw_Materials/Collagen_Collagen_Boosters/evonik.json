@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_collagen",
+  "category_path": "Raw_Materials/Collagen_Collagen_Boosters",
+  "url": "https://personal-care.evonik.com",
+  "company_name": "Evonik Industries AG",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Essen, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://personal-care.evonik.com",
+  "specializations": [
+    "Biotech-based vegan collagen (Vecollage™ Fortify L)",
+    "Human skin-identical collagen",
+    "Sustainable production",
+    "Anti-aging solutions",
+    "Skin firming actives",
+    "Collagen synthesis stimulation",
+    "Skin barrier support"
+  ],
+  "certifications": [
+    "Vegan",
+    "Sustainable"
+  ],
+  "tags": [
+    "collagen",
+    "vegan-collagen",
+    "biotech",
+    "germany-based",
+    "global-player",
+    "vecollage",
+    "anti-aging",
+    "skin-firming",
+    "sustainable",
+    "innovation"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_collagen_december_2025.md"
+  },
+  "notes": "Major global player in specialty chemicals. Vecollage™ Fortify L is biotech-based vegan collagen identical to collagen found in human skin. Launched February 2024. Provides skin firming, anti-aging, collagen synthesis stimulation, and skin barrier support. Applications include anti-aging serums and creams, skin firming products, and moisturizers. Premium, innovative vegan collagen for high-performance cosmetics."
+}
