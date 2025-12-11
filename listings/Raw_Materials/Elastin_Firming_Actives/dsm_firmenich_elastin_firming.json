@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.dsm-firmenich.com/personal-care",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Wurmisweg 576, 4303 Kaiseraugst, Switzerland",
+  "country": "Switzerland",
+  "phone": "+41 61 815 71 11",
+  "email": "personal-care@dsm-firmenich.com",
+  "website": "https://www.dsm-firmenich.com/personal-care",
+  "specializations": [
+    "Nutritional ingredients",
+    "Pharmaceutical-grade elastin",
+    "Vitamin C derivatives",
+    "Collagen-elastin synthesis",
+    "Custom peptide blends",
+    "GMP manufacturing",
+    "R&D innovation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP",
+    "HALAL",
+    "Kosher"
+  ],
+  "tags": [
+    "pharmaceutical-grade",
+    "elastin-peptides",
+    "vitamin-c",
+    "switzerland-based",
+    "dsm-firmenich",
+    "gmp",
+    "halal",
+    "kosher",
+    "rd-leader",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Result of DSM-Firmenich merger (2023), global leader in nutrition and personal care. Key products include Hydrolyzed Elastin (pharmaceutical-grade elastin peptides), Vitamin C derivatives (for collagen-elastin synthesis), and Peptide Solutions (custom firming peptide blends). Pharmaceutical-grade quality with GMP manufacturing. Extensive R&D capabilities. HALAL and Kosher certified. Premium positioning with strong technical and regulatory support."
+}

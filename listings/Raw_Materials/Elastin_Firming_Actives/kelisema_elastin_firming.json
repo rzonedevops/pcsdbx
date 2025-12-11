@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kelisema_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.kelisema.com/",
+  "company_name": "Kelisema",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Via XXV Aprile, 23, 22070 Grandate (CO), Italy",
+  "country": "Italy",
+  "phone": "+39 031 619 111",
+  "email": "info@kelisema.com",
+  "website": "https://www.kelisema.com/",
+  "specializations": [
+    "Marine elastin",
+    "Hydrolyzed elastin peptides",
+    "Marine collagen-elastin complexes",
+    "Sustainable marine ingredients",
+    "Low molecular weight peptides",
+    "Bioavailable proteins",
+    "Mediterranean sourcing"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 22716 (GMP Cosmetics)"
+  ],
+  "tags": [
+    "marine-elastin",
+    "elastin-peptides",
+    "italy-based",
+    "sustainable",
+    "mediterranean",
+    "bioavailability",
+    "marine-specialist",
+    "collagen-elastin-complex"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Italian leader in marine cosmetic ingredients. Specializes in Marine Elastin (hydrolyzed elastin from fish), Elastin Peptides (low molecular weight for better absorption), and Marine Collagen-Elastin Complex (combined firming solution). Sustainable sourcing from Mediterranean fish with focus on bioavailability. GMP certified manufacturing. Technical expertise in protein hydrolysis and peptide technology."
+}

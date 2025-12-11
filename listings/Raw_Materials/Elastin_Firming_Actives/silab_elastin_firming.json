@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "silab_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.silab.fr/",
+  "company_name": "Silab",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "19240 Saint-Viance, France",
+  "country": "France",
+  "phone": "+33 5 55 00 02 00",
+  "email": "contact@silab.fr",
+  "website": "https://www.silab.fr/",
+  "specializations": [
+    "Marine elastin peptides",
+    "Instant firming actives",
+    "Botanical firming complexes",
+    "Peptide technology",
+    "Sustainable marine ingredients",
+    "Anti-aging actives",
+    "Skin tightening solutions"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "COSMOS approved ingredients"
+  ],
+  "tags": [
+    "elastin",
+    "marine-peptides",
+    "firming",
+    "france-based",
+    "botanical-actives",
+    "sustainable",
+    "premium",
+    "anti-aging",
+    "instant-lift"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "French leader in botanical and marine actives. Key products include Elhibin™ (marine elastin peptides from fish cartilage), Sesaflash™ (instant firming from sesame), and Gatuline® Expression (firming peptide complex). Elhibin™ provides immediate and long-term firming effects. Sustainable sourcing practices with COSMOS approved ingredients. Premium positioning with strong clinical validation."
+}

@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "gattefosse_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.gattefosse.com/",
+  "company_name": "Gattefossé",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "36 Chemin de Genas, 69804 Saint-Priest Cedex, France",
+  "country": "France",
+  "phone": "+33 4 72 22 98 00",
+  "email": "info@gattefosse.com",
+  "website": "https://www.gattefosse.com/",
+  "specializations": [
+    "Lipid chemistry",
+    "Microalgae-based firming",
+    "Instant lifting actives",
+    "Long-term elasticity",
+    "Biotechnology actives",
+    "Firming emulsifiers",
+    "Pharmaceutical-grade quality"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "ISO 22716",
+    "COSMOS approved",
+    "ECOCERT approved"
+  ],
+  "tags": [
+    "lipid-chemistry",
+    "microalgae",
+    "firming",
+    "france-based",
+    "biotechnology",
+    "instant-lift",
+    "cosmos",
+    "ecocert",
+    "pharmaceutical-grade",
+    "family-company"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "French family company since 1880 with lipid chemistry expertise. Key products include Pepha®-Lift (microalgae-based instant and long-term lifting), Dermochlorella™ (microalgae for skin elasticity), and Emulium™ Delta (firming emulsifier with active properties). Pharmaceutical-grade quality with focus on sustainable biotechnology. COSMOS/ECOCERT approved ingredients. Strong technical documentation and formulation support."
+}
