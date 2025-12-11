@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ashland_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.ashland.com/industries/personal-care",
+  "company_name": "Ashland Specialty Ingredients",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "5200 Blazer Parkway, Dublin, OH 43017, USA",
+  "country": "USA",
+  "phone": "+1 800 928 6100",
+  "email": "info@ashland.com",
+  "website": "https://www.ashland.com/industries/personal-care",
+  "specializations": [
+    "Specialty chemicals",
+    "DMAE bitartrate",
+    "High-purity firming agents",
+    "Peptide complexes",
+    "Skin tightening ingredients",
+    "Vincience actives portfolio",
+    "R&D capabilities"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "RSPO"
+  ],
+  "tags": [
+    "specialty-chemicals",
+    "DMAE",
+    "usa-based",
+    "high-purity",
+    "vincience",
+    "peptide-complexes",
+    "major-player",
+    "rd-capabilities"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Major global specialty chemicals company. Key products include DMAE Bitartrate (synthetic firming agent), Antaron® DMAE (high-purity dimethylaminoethanol), and Vincience™ Actives (firming peptide complexes from acquired brand). Extensive R&D capabilities with pharmaceutical-grade quality standards. RSPO certified for sustainable sourcing. Strong technical support and regulatory expertise."
+}

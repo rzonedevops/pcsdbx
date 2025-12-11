@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipotec_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.lipotec.com/",
+  "company_name": "Lipotec (Lubrizol)",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "Isaac Peral, 17, Pol. Ind. Camí Ral, 08850 Gavà, Barcelona, Spain",
+  "country": "Spain",
+  "phone": "+34 93 849 89 33",
+  "email": "lipotec@lipotec.com",
+  "website": "https://www.lipotec.com/",
+  "specializations": [
+    "Peptide technology",
+    "DMAE bitartrate",
+    "Firming peptides",
+    "Collagen-elastin stimulation",
+    "Lifting peptides",
+    "Anti-aging solutions",
+    "Clinical validation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "OHSAS 18001",
+    "Halal",
+    "Kosher"
+  ],
+  "tags": [
+    "peptides",
+    "DMAE",
+    "firming",
+    "spain-based",
+    "lubrizol",
+    "clinical-validation",
+    "premium",
+    "elastin-stimulation",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Global leader in cosmetic peptides, part of Lubrizol (Berkshire Hathaway). Key products include DMAE Bitartrate (synthetic firming agent), Thermostressine™ (firming peptide), Trylagen® (collagen-elastin stimulation complex), and Syn®-Tacks (firming and lifting peptide). Extensive clinical validation with over 40 years of peptide innovation. Strong technical support and regulatory expertise."
+}

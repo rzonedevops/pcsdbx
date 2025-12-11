@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "provital_elastin_firming",
+  "category_path": "Raw_Materials/Elastin_Firming_Actives",
+  "url": "https://www.provitalgroup.com/",
+  "company_name": "Provital Group",
+  "status": "active",
+  "date_added": "2025-12-11",
+  "date_updated": "2025-12-11",
+  "address": "C/ Rec de Dalt, 7, 08100 Mollet del Vallès, Barcelona, Spain",
+  "country": "Spain",
+  "phone": "+34 93 582 42 00",
+  "email": "provital@provitalgroup.com",
+  "website": "https://www.provitalgroup.com/",
+  "specializations": [
+    "Botanical actives",
+    "Biotechnology-based firming",
+    "Instant tightening actives",
+    "Collagen XVIII stimulation",
+    "Elastin stimulation",
+    "Natural firming solutions",
+    "Sustainability focus"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS approved actives",
+    "ECOCERT approved actives"
+  ],
+  "tags": [
+    "botanical",
+    "biotechnology",
+    "firming",
+    "spain-based",
+    "instant-lift",
+    "cosmos",
+    "ecocert",
+    "sustainable",
+    "natural-actives"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-11",
+    "validation_method": "manual",
+    "data_source": "research_elastin_firming_december_2025.md"
+  },
+  "notes": "Spanish leader in natural and biotechnology actives. Key products include Pepha®-Tight (instant and long-term tightening), Collalift® 18 (stimulates collagen XVIII and elastin), Gatuline® RC-BIO (firming and restructuring), and Elastonyl™ (elasticity-boosting botanical). Strong sustainability commitment with COSMOS/ECOCERT approved actives. Global distribution network with technical support."
+}
