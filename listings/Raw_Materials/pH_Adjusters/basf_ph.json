@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.basf.com/",
+  "company_name": "BASF SE",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Ludwigshafen, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "info@basf.com",
+  "website": "https://www.basf.com/",
+  "specializations": [
+    "Citric Acid",
+    "Triethanolamine (TEA)",
+    "AMP (Aminomethyl Propanol)",
+    "Comprehensive pH adjuster range",
+    "Technical formulation support",
+    "Personal care applications"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "citric-acid",
+    "triethanolamine",
+    "tea",
+    "amp",
+    "aminomethyl-propanol",
+    "germany",
+    "european",
+    "major-player",
+    "global",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading global chemical manufacturer with comprehensive pH adjuster portfolio. Offers citric acid, triethanolamine (TEA), and AMP (Aminomethyl Propanol) for personal care formulations. Known for high quality, regulatory compliance, and comprehensive formulation support. Extensive global distribution network."
+}

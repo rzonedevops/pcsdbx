@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "spectrum_chemical_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.spectrumchemical.com/",
+  "company_name": "Spectrum Chemical Mfg Corp",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "New Brunswick, NJ, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@spectrumchemical.com",
+  "website": "https://www.spectrumchemical.com/",
+  "specializations": [
+    "Citric Acid (anhydrous and monohydrate)",
+    "Lactic Acid",
+    "Sodium Hydroxide solutions",
+    "Phosphoric Acid",
+    "High-purity pH adjusters",
+    "Pharmaceutical grade",
+    "Cosmetic grade",
+    "USP/FCC/ACS grades"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "USP",
+    "FCC",
+    "ACS"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "citric-acid",
+    "lactic-acid",
+    "sodium-hydroxide",
+    "phosphoric-acid",
+    "high-purity",
+    "pharmaceutical-grade",
+    "cosmetic-grade",
+    "usp",
+    "usa",
+    "new-jersey"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading supplier of high-purity chemicals for cosmetics and pharmaceuticals. Comprehensive pH adjuster portfolio including citric acid, lactic acid, sodium hydroxide, and phosphoric acid. Available in USP, FCC, ACS, and cosmetic grades. ISO 9001 certified with excellent quality control."
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "corbion_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.corbion.com/",
+  "company_name": "Corbion",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Amsterdam, Netherlands",
+  "country": "Netherlands",
+  "phone": "",
+  "email": "info@corbion.com",
+  "website": "https://www.corbion.com/",
+  "specializations": [
+    "Lactic Acid specialist",
+    "Various lactic acid concentrations",
+    "Lactates",
+    "Natural pH adjusters",
+    "Bio-based ingredients",
+    "Sustainable fermentation",
+    "Personal care applications"
+  ],
+  "certifications": [
+    "Sustainable fermentation",
+    "Bio-based",
+    "Food grade",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "lactic-acid",
+    "lactates",
+    "natural",
+    "bio-based",
+    "sustainable",
+    "fermentation",
+    "netherlands",
+    "european",
+    "specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading lactic acid specialist using sustainable fermentation technology. Offers lactic acid in various concentrations and lactates for personal care, cosmetics, and pharmaceutical applications. Bio-based ingredients with strong sustainability credentials. Excellent technical support for formulation development."
+}
