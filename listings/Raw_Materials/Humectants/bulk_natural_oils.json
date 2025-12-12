@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bulk_natural_oils",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://bulknaturaloils.com/",
+  "company_name": "Bulk Natural Oils",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@bulknaturaloils.com",
+  "website": "https://bulknaturaloils.com/",
+  "specializations": [
+    "Bulk glycerin supplier",
+    "Propylene glycol supplier",
+    "Soap making ingredients",
+    "Industrial manufacturers",
+    "Artisanal crafters",
+    "Natural oils and ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "humectants",
+    "glycerin",
+    "propylene-glycol",
+    "bulk-supplier",
+    "soap-making",
+    "natural-oils",
+    "industrial",
+    "artisanal",
+    "usa-based",
+    "wholesale"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Trusted supplier of bulk glycerin and propylene glycol, serving both industrial manufacturers and artisanal crafters. Specializes in soap making ingredients with cornerstone products for various formulation needs. Offers natural oils and humectants for diverse applications."
+}

@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nourish_us_naturals",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://nourishusnaturals.com/",
+  "company_name": "Nourish Us Naturals",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@nourishusnaturals.com",
+  "website": "https://nourishusnaturals.com/",
+  "specializations": [
+    "Natural Pentylene Glycol",
+    "100% bio-based ingredients",
+    "Sustainably sourced raw materials",
+    "Sugarcane-derived ingredients",
+    "Multi-functional cosmetic ingredients",
+    "Natural and sustainable products"
+  ],
+  "certifications": [
+    "Bio-based (100%)",
+    "Sustainably sourced"
+  ],
+  "tags": [
+    "humectants",
+    "pentylene-glycol",
+    "natural",
+    "bio-based",
+    "sustainable",
+    "sugarcane-derived",
+    "renewable",
+    "eco-friendly",
+    "usa-based",
+    "green-chemistry"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Supplier of natural, 100% bio-based Pentylene Glycol derived from renewable, sustainably sourced sugarcane. Specializes in multi-functional cosmetic ingredients with focus on sustainability and natural origin. Excellent choice for natural and eco-conscious formulators."
+}
