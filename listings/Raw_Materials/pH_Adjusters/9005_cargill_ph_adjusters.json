@@ -1,0 +1,105 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9005,
+  "listing_id": "cargill_ph_adjusters",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/pH_Adjusters/9005/",
+  "company_name": "Cargill",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "15407 McGinty Road West, Wayzata, MN 55391, USA",
+  "country": "USA",
+  "phone": "+1-952-742-7575",
+  "email": "personalcare_beautycare@cargill.com",
+  "website": "https://www.cargill.com/personal-care",
+  "specializations": [
+    "Agricultural products leader",
+    "Bio-based ingredients",
+    "Citric acid from corn fermentation",
+    "Lactic acid from renewable sources",
+    "Sustainable cosmetics ingredients",
+    "Natural and clean label solutions"
+  ],
+  "product_highlights": [
+    "Citric Acid (bio-based, corn-derived)",
+    "Lactic Acid (renewable sources)",
+    "Bio-based pH adjusters",
+    "Clean label ingredients",
+    "Sustainable formulation support",
+    "Natural pH management"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "ISO 22000",
+    "Kosher certified",
+    "Halal certified",
+    "Non-GMO",
+    "Organic certified options"
+  ],
+  "tags": [
+    "bio-based",
+    "sustainable",
+    "natural",
+    "clean-label",
+    "corn-derived",
+    "renewable",
+    "kosher",
+    "halal",
+    "non-gmo",
+    "agricultural-leader"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "natural-cosmetics",
+    "clean-beauty",
+    "organic-products",
+    "sustainable-cosmetics"
+  ],
+  "ingredient_types": [
+    "Citric Acid (bio-based, corn fermentation, non-GMO)",
+    "Lactic Acid (from renewable agricultural sources)",
+    "Bio-based pH adjusters",
+    "Natural pH management solutions",
+    "Clean label formulation ingredients"
+  ],
+  "certifications_intelligence": {
+    "quality_standards": ["ISO 9001", "ISO 14001", "ISO 22000"],
+    "applications": ["cosmetic grade", "food grade", "natural cosmetics"],
+    "specialty_certs": ["Kosher", "Halal", "Non-GMO", "Organic certified"],
+    "sustainability": ["Bio-based from corn", "Renewable sourcing", "Sustainable agriculture", "Carbon reduction"],
+    "compliance": ["EU cosmetics regulations", "FDA compliant", "clean beauty compliant"]
+  },
+  "supply_chain": {
+    "lead_time": "2-4 weeks standard",
+    "minimum_order": "Bulk quantities, varies by product",
+    "shipping_capabilities": ["North America", "Europe", "Asia", "Latin America", "global"],
+    "inventory_availability": "Consistent production capacity from agricultural sources",
+    "warehouse_locations": ["USA", "Europe", "Asia", "Latin America"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "rd_collaboration": true,
+    "documentation_provided": ["TDS", "SDS", "COA", "sustainability reports", "clean label documentation", "traceability data"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "premium",
+    "unique_selling_propositions": ["agricultural leader", "corn-based fermentation", "clean label focus", "comprehensive sustainability"],
+    "competitive_advantages": ["global agricultural network", "renewable sourcing expertise", "large scale production", "sustainability leadership"],
+    "innovation_focus": ["bio-based ingredients", "circular economy", "sustainable agriculture", "clean label solutions"],
+    "target_customers": ["natural cosmetics brands", "clean beauty leaders", "organic certified products", "sustainable brands", "premium cosmetics"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Global agricultural products leader specializing in bio-based cosmetics ingredients from renewable sources. Citric acid produced through corn fermentation with strong sustainability credentials. ISO 9001, 14001, and 22000 certified with Kosher, Halal, and Non-GMO certifications. Excellent choice for natural cosmetics, clean beauty, and sustainable brands. Comprehensive technical support with traceability and sustainability documentation. Strong focus on circular economy and clean label solutions."
+}

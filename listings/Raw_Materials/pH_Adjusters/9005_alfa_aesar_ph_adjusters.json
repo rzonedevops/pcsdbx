@@ -1,0 +1,97 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9005,
+  "listing_id": "alfa_aesar_ph_adjusters",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/pH_Adjusters/9005/",
+  "company_name": "Alfa Aesar (Thermo Fisher Scientific)",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "26 Parkridge Road, Ward Hill, MA 01835, USA",
+  "country": "USA",
+  "phone": "+1-800-343-0660",
+  "email": "info@alfa.com",
+  "website": "https://www.alfa.com",
+  "specializations": [
+    "Research-grade chemicals",
+    "High-purity pH adjusters",
+    "Buffer systems specialist",
+    "Laboratory and R&D focus",
+    "Analytical grade products",
+    "Small quantity availability"
+  ],
+  "product_highlights": [
+    "High-purity pH adjusters",
+    "Buffer systems (various pH ranges)",
+    "Analytical grade chemicals",
+    "Research-grade quality",
+    "Small pack sizes for R&D",
+    "Extensive technical documentation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 13485",
+    "GMP compliant facilities"
+  ],
+  "tags": [
+    "research-grade",
+    "high-purity",
+    "buffer-systems",
+    "analytical-grade",
+    "laboratory",
+    "rd-focus",
+    "iso-certified",
+    "small-quantities",
+    "technical-grade"
+  ],
+  "product_categories": [
+    "research-formulations",
+    "laboratory-development",
+    "small-batch-production",
+    "analytical-testing"
+  ],
+  "ingredient_types": [
+    "High-purity Sodium Hydroxide (analytical grade)",
+    "Citric Acid (ACS grade, high purity)",
+    "Lactic Acid (research grade)",
+    "Buffer systems (pH 2-12 range)",
+    "Phosphate buffers",
+    "Citrate buffers",
+    "Acetate buffers",
+    "Analytical grade pH adjusters"
+  ],
+  "certifications_intelligence": {
+    "quality_standards": ["ISO 9001", "ISO 13485", "GMP"],
+    "applications": ["research grade", "analytical grade", "pharmaceutical grade"],
+    "purity_levels": ["ACS grade", "reagent grade", "high purity"],
+    "compliance": ["USP where applicable", "research standards"]
+  },
+  "supply_chain": {
+    "lead_time": "1-5 business days for stock items",
+    "minimum_order": "None - small quantities available (grams to kilograms)",
+    "shipping_capabilities": ["North America", "Europe", "Asia", "global"],
+    "inventory_availability": "Extensive catalog with immediate availability",
+    "warehouse_locations": ["USA", "UK", "Germany", "India"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "rd_collaboration": true,
+    "documentation_provided": ["TDS", "SDS", "COA", "analytical certificates", "purity specifications"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "premium",
+    "unique_selling_propositions": ["research-grade quality", "high purity", "extensive catalog", "small quantities available"],
+    "competitive_advantages": ["Thermo Fisher backing", "global distribution", "analytical expertise", "immediate availability"],
+    "innovation_focus": ["research support", "quality assurance", "analytical standards"],
+    "target_customers": ["research labs", "R&D departments", "universities", "formulation development", "analytical testing"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Research-grade chemical supplier (part of Thermo Fisher Scientific) specializing in high-purity pH adjusters and buffer systems. ISO 9001 and 13485 certified with GMP compliant facilities. Extensive catalog with small quantities available (grams to kilograms) - ideal for R&D and laboratory work. Fast delivery (1-5 days) with global distribution. Excellent choice for formulation development, research, and analytical testing requiring high purity and extensive documentation. Premium quality with analytical grade certifications."
+}

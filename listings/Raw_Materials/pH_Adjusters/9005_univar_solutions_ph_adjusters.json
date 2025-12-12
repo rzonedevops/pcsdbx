@@ -1,0 +1,93 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9005,
+  "listing_id": "univar_solutions_ph_adjusters",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/pH_Adjusters/9005/",
+  "company_name": "Univar Solutions",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "3075 Highland Parkway, Suite 200, Downers Grove, IL 60515, USA",
+  "country": "USA",
+  "phone": "+1-844-888-7688",
+  "email": "info@univarsolutions.com",
+  "website": "https://www.univarsolutions.com",
+  "specializations": [
+    "Major chemical distributor",
+    "One-stop shop for chemicals",
+    "Complete pH adjuster range",
+    "Global distribution network",
+    "Technical support services",
+    "Supply chain solutions"
+  ],
+  "product_highlights": [
+    "Sodium Hydroxide (all grades)",
+    "Citric Acid (anhydrous and monohydrate)",
+    "Lactic Acid (80-90%)",
+    "Phosphoric Acid",
+    "TEA (Triethanolamine)",
+    "Sodium Bicarbonate",
+    "Complete pH management portfolio"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Responsible Care",
+    "EcoVadis Silver"
+  ],
+  "tags": [
+    "major-distributor",
+    "one-stop-shop",
+    "global-network",
+    "complete-range",
+    "technical-support",
+    "supply-chain-solutions",
+    "sodium-hydroxide",
+    "citric-acid",
+    "lactic-acid"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "toners",
+    "haircare",
+    "industrial-cosmetics"
+  ],
+  "ingredient_types": [
+    "Sodium Hydroxide (liquid 50%, pellets, flakes)",
+    "Citric Acid (anhydrous, monohydrate)",
+    "Lactic Acid (80%, 88%)",
+    "Phosphoric Acid (food grade, technical grade)",
+    "TEA - Triethanolamine (99%)",
+    "Sodium Bicarbonate",
+    "Potassium Hydroxide"
+  ],
+  "supply_chain": {
+    "lead_time": "1-2 weeks standard delivery",
+    "minimum_order": "Flexible, from 55-gallon drums to bulk tankers",
+    "shipping_capabilities": ["North America", "Europe", "Asia", "Latin America", "global"],
+    "inventory_availability": "Large network of warehouses, consistent stock",
+    "warehouse_locations": ["100+ locations across North America", "global distribution centers"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "documentation_provided": ["TDS", "SDS", "COA"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "mid-range to premium",
+    "unique_selling_propositions": ["extensive distribution network", "one-stop chemical sourcing", "reliable supply chain", "technical expertise"],
+    "competitive_advantages": ["100+ locations", "global reach", "comprehensive portfolio", "supply chain solutions"],
+    "target_customers": ["manufacturers of all sizes", "contract manufacturers", "brands", "distributors"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Major global chemical distributor with extensive network of 100+ locations across North America and global operations. One-stop shop for complete range of pH adjusters. ISO 9001 certified with Responsible Care commitment. Flexible ordering from drums to bulk tankers. Reliable supply chain with consistent stock availability. Excellent choice for manufacturers seeking reliable distribution and comprehensive product portfolio."
+}
