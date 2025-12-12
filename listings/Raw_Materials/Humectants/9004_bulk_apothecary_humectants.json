@@ -1,0 +1,79 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "bulk_apothecary_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Bulk Apothecary",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "6001 South Avenida Messina, Cottonwood, AZ 86326, USA",
+  "country": "USA",
+  "phone": "+1-866-912-8595",
+  "email": "support@bulkapothecary.com",
+  "website": "https://www.bulkapothecary.com",
+  "specializations": [
+    "Large-scale manufacturer",
+    "Over 100,000 lbs inventory",
+    "Bulk wholesale supplier",
+    "Soap making ingredients",
+    "Cosmetic raw materials",
+    "High volume capacity"
+  ],
+  "product_highlights": [
+    "Vegetable Glycerin",
+    "Propylene Glycol",
+    "Large inventory (100,000+ lbs)",
+    "Bulk wholesale pricing",
+    "Fast shipping"
+  ],
+  "certifications": [],
+  "tags": [
+    "large-manufacturer",
+    "high-volume-capacity",
+    "bulk-wholesale",
+    "100000-lbs-inventory",
+    "soap-making",
+    "cosmetic-ingredients",
+    "glycerin",
+    "propylene-glycol"
+  ],
+  "product_categories": [
+    "soap",
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "body care"
+  ],
+  "ingredient_types": [
+    "Vegetable Glycerin (bulk quantities)",
+    "Propylene Glycol (bulk quantities)",
+    "Various humectants for soap and cosmetics"
+  ],
+  "supply_chain": {
+    "lead_time": "Fast shipping",
+    "minimum_order": "Flexible MOQ",
+    "shipping_capabilities": ["domestic US", "international"],
+    "inventory_availability": "Over 100,000 lbs in stock",
+    "warehouse_locations": ["Cottonwood, Arizona"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "economy to mid-range",
+    "unique_selling_propositions": ["massive inventory", "high volume capacity", "competitive bulk pricing"],
+    "competitive_advantages": ["100,000+ lbs inventory", "manufacturer direct pricing", "fast fulfillment"],
+    "target_customers": ["soap makers", "cosmetic manufacturers", "bulk buyers", "wholesale distributors"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "documentation_provided": ["TDS", "specifications"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Large-scale manufacturer and bulk wholesale supplier with over 100,000 lbs of inventory in stock. Specializes in soap making and cosmetic raw materials with competitive bulk pricing. Known for high volume capacity and fast shipping. Excellent choice for large orders and wholesale distribution. Strong focus on economy to mid-range market segment."
+}

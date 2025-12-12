@@ -1,0 +1,74 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "essential_depot_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Essential Depot",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "11121 West Markham Street, Little Rock, AR 72211, USA",
+  "country": "USA",
+  "phone": "+1-866-900-3447",
+  "email": "info@essentialdepot.com",
+  "website": "https://www.essentialdepot.com",
+  "specializations": [
+    "USP grade humectants",
+    "Kosher certified products",
+    "Food and cosmetic grade ingredients",
+    "Bulk wholesale supplier",
+    "High purity standards"
+  ],
+  "product_highlights": [
+    "Vegetable Glycerin USP grade",
+    "Propylene Glycol USP grade",
+    "Kosher certified products",
+    "Food and cosmetic grade quality"
+  ],
+  "certifications": [
+    "Kosher certified",
+    "USP (United States Pharmacopeia) grade",
+    "Food grade certified"
+  ],
+  "tags": [
+    "usp-grade",
+    "kosher-certified",
+    "food-grade",
+    "cosmetic-grade",
+    "bulk-supplier",
+    "high-purity",
+    "vegetable-glycerin",
+    "propylene-glycol"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "medicines",
+    "food products"
+  ],
+  "ingredient_types": [
+    "Vegetable Glycerin (USP grade, Kosher)",
+    "Propylene Glycol (USP grade, Kosher)",
+    "High purity humectants for moisturizing"
+  ],
+  "certifications_intelligence": {
+    "quality_standards": ["USP grade", "Kosher certified"],
+    "applications": ["food grade", "cosmetic grade", "pharmaceutical grade"],
+    "compliance": ["FDA compliant", "suitable for cosmetic and food use"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "documentation_provided": ["TDS", "COA", "Kosher certificates"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Premium supplier of USP grade, Kosher certified vegetable glycerin and propylene glycol. Finest Quality Kosher USP Food Grade products suitable for medicines, cosmetics, and food applications. Known for high purity standards and reliable quality. Strong focus on serving both cosmetic and food industries with certified ingredients."
+}
