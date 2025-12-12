@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sigma_aldrich_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://www.sigmaaldrich.com/",
+  "company_name": "Sigma-Aldrich (Merck)",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "St. Louis, Missouri, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@sigmaaldrich.com",
+  "website": "https://www.sigmaaldrich.com/",
+  "specializations": [
+    "EDTA (all forms)",
+    "Citric acid",
+    "Phytic acid",
+    "Sodium gluconate",
+    "Research-grade chelating agents",
+    "Ultra-pure grades",
+    "R&D and formulation support",
+    "Small to bulk quantities"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Research grade quality"
+  ],
+  "tags": [
+    "chelating-agents",
+    "edta",
+    "citric-acid",
+    "phytic-acid",
+    "sodium-gluconate",
+    "research-grade",
+    "ultra-pure",
+    "laboratory-supply",
+    "usa",
+    "missouri",
+    "r-and-d",
+    "merck"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_expansion_december_2025.md"
+  },
+  "notes": "Leading laboratory and research supply company offering comprehensive range of chelating agents in ultra-pure grades. Provides EDTA in all forms, citric acid, phytic acid, sodium gluconate, and other chelators. Ideal for R&D, formulation development, and quality control. Part of Merck group with global reach and exceptional quality standards."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "formulator_sample_shop",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://www.formulatorsampleshop.com/",
+  "company_name": "Formulator Sample Shop",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@formulatorsampleshop.com",
+  "website": "https://www.formulatorsampleshop.com/",
+  "specializations": [
+    "Pentylene Glycol specialist",
+    "Sample sizes for formulators",
+    "Emulsion stabilizer",
+    "Broad spectrum antimicrobial",
+    "Moisturizer ingredients",
+    "Formulation development support"
+  ],
+  "certifications": [],
+  "tags": [
+    "humectants",
+    "pentylene-glycol",
+    "sample-sizes",
+    "formulator-focused",
+    "emulsion-stabilizer",
+    "antimicrobial",
+    "moisturizer",
+    "usa-based",
+    "r-and-d"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Specialized supplier focusing on sample sizes for cosmetic formulators. Features Pentylene Glycol with multi-functional properties: emulsion stabilizer, solvent, broad spectrum antimicrobial, and moisturizer. Ideal for R&D and formulation development with small batch quantities."
+}

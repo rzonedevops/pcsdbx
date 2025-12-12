@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cargill_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://www.cargill.com/",
+  "company_name": "Cargill Beauty & Personal Care",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Minneapolis, Minnesota, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@cargill.com",
+  "website": "https://www.cargill.com/",
+  "specializations": [
+    "Bio-based chelating agents",
+    "Gluconic acid derivatives",
+    "Sodium gluconate",
+    "Natural chelators",
+    "Renewable sourcing",
+    "Sustainable ingredients",
+    "Personal care focus"
+  ],
+  "certifications": [
+    "Bio-based certification",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "chelating-agents",
+    "sodium-gluconate",
+    "gluconic-acid",
+    "bio-based",
+    "natural",
+    "sustainable",
+    "renewable",
+    "usa",
+    "minnesota",
+    "major-player",
+    "green-chemistry"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_expansion_december_2025.md"
+  },
+  "notes": "Major supplier of natural and bio-based ingredients with focus on sustainable chelating agents. Offers gluconic acid derivatives and sodium gluconate from renewable sources. Excellent choice for natural and clean beauty formulations. Strong sustainability credentials and renewable sourcing practices."
+}

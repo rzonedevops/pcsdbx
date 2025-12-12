@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dow_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://www.dow.com/",
+  "company_name": "Dow Chemical Company",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Midland, Michigan, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@dow.com",
+  "website": "https://www.dow.com/",
+  "specializations": [
+    "Versene™ chelating agents",
+    "EDTA (multiple grades)",
+    "Specialty chelating agents",
+    "High-purity cosmetic grades",
+    "Personal care applications",
+    "Global manufacturing"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Various regulatory approvals"
+  ],
+  "tags": [
+    "chelating-agents",
+    "edta",
+    "versene",
+    "high-purity",
+    "cosmetic-grade",
+    "usa",
+    "michigan",
+    "major-player",
+    "global",
+    "manufacturing"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_expansion_december_2025.md"
+  },
+  "notes": "Major global chemical company offering Versene™ brand chelating agents. Provides EDTA in multiple grades with high-purity options for cosmetic applications. Extensive experience in personal care ingredients with reliable supply chain and quality assurance. Global manufacturing capabilities ensure consistent availability."
+}

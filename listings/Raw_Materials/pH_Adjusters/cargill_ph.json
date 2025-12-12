@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cargill_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.cargill.com/",
+  "company_name": "Cargill",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Minneapolis, Minnesota, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@cargill.com",
+  "website": "https://www.cargill.com/",
+  "specializations": [
+    "Lactic Acid",
+    "Citric Acid",
+    "Bio-based pH adjusters",
+    "Natural ingredients",
+    "Food grade quality",
+    "Cosmetic grade quality",
+    "Renewable sourcing"
+  ],
+  "certifications": [
+    "Bio-based",
+    "Sustainable sourcing",
+    "Food grade",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "lactic-acid",
+    "citric-acid",
+    "bio-based",
+    "natural",
+    "sustainable",
+    "renewable",
+    "food-grade",
+    "usa",
+    "minnesota",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Major supplier of natural and bio-based ingredients with focus on sustainable pH adjusters. Offers lactic acid and citric acid from renewable sources. Food and cosmetic grade quality with strong sustainability credentials. Excellent choice for natural and clean beauty formulations."
+}

@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "brenntag_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.brenntag.com/",
+  "company_name": "Brenntag",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Essen, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "info@brenntag.com",
+  "website": "https://www.brenntag.com/",
+  "specializations": [
+    "All major pH adjusters",
+    "Acids and bases for cosmetics",
+    "Buffer systems",
+    "Global chemical distribution",
+    "Extensive inventory",
+    "Local delivery",
+    "Technical support"
+  ],
+  "certifications": [],
+  "tags": [
+    "ph-adjusters",
+    "acids",
+    "bases",
+    "buffers",
+    "distributor",
+    "global",
+    "germany",
+    "european",
+    "technical-support",
+    "major-player",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading global chemical distributor offering all major pH adjusters, acids, bases, and buffer systems for cosmetics. Extensive inventory with local delivery capabilities worldwide. Provides technical support for formulation development. Reliable supply chain and excellent customer service."
+}

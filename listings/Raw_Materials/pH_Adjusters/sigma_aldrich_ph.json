@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sigma_aldrich_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.sigmaaldrich.com/",
+  "company_name": "Sigma-Aldrich (Merck)",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "St. Louis, Missouri, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@sigmaaldrich.com",
+  "website": "https://www.sigmaaldrich.com/",
+  "specializations": [
+    "Citric Acid (all grades)",
+    "Lactic Acid (all grades)",
+    "Sodium Hydroxide (all grades)",
+    "Phosphoric Acid",
+    "Triethanolamine",
+    "Ultra-pure pH adjusters",
+    "Research-grade chemicals",
+    "R&D support"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Research grade quality"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "citric-acid",
+    "lactic-acid",
+    "sodium-hydroxide",
+    "phosphoric-acid",
+    "triethanolamine",
+    "ultra-pure",
+    "research-grade",
+    "usa",
+    "missouri",
+    "r-and-d",
+    "merck"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading laboratory and research supply company offering comprehensive range of pH adjusters in ultra-pure grades. All pH adjusters available in research-grade quality for R&D and formulation development. Part of Merck group with global reach and exceptional quality standards. Ideal for quality control and formulation testing."
+}

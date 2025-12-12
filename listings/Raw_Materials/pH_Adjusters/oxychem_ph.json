@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "oxychem_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.oxy.com/",
+  "company_name": "OxyChem (Occidental Chemical Corporation)",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Dallas, Texas, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@oxy.com",
+  "website": "https://www.oxy.com/",
+  "specializations": [
+    "Sodium Hydroxide (caustic soda)",
+    "Potassium Hydroxide",
+    "Major alkali manufacturer",
+    "Industrial grade",
+    "High-purity grades",
+    "Bulk supply"
+  ],
+  "certifications": [],
+  "tags": [
+    "ph-adjusters",
+    "sodium-hydroxide",
+    "potassium-hydroxide",
+    "caustic-soda",
+    "alkali",
+    "high-purity",
+    "bulk-supplier",
+    "manufacturer",
+    "usa",
+    "texas",
+    "major-player"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Major alkali manufacturer specializing in sodium hydroxide (caustic soda) and potassium hydroxide. Offers industrial and high-purity grades for various applications. Reliable bulk supply with extensive distribution network. Excellent for large-scale manufacturing operations."
+}

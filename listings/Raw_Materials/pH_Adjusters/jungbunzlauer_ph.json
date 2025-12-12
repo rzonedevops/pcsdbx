@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "jungbunzlauer_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.jungbunzlauer.com/",
+  "company_name": "Jungbunzlauer",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Basel, Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "info@jungbunzlauer.com",
+  "website": "https://www.jungbunzlauer.com/",
+  "specializations": [
+    "Citric Acid (various forms)",
+    "Sodium Citrate",
+    "Lactic Acid",
+    "Natural pH adjusters",
+    "Bio-based ingredients",
+    "Renewable sourcing",
+    "Food and cosmetic grade"
+  ],
+  "certifications": [
+    "Sustainable sourcing",
+    "Bio-based",
+    "Food grade",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "citric-acid",
+    "sodium-citrate",
+    "lactic-acid",
+    "natural",
+    "bio-based",
+    "sustainable",
+    "renewable",
+    "switzerland",
+    "european",
+    "food-grade"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Swiss manufacturer specializing in bio-based and natural pH adjusters. Offers citric acid in various forms, sodium citrate, and lactic acid from renewable, sustainable sources. Food and cosmetic grade quality. Excellent choice for natural and clean beauty formulations."
+}
