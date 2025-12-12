@@ -1,0 +1,80 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "vivion_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Vivion",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "150 Parker Drive, Cranbury, NJ 08512, USA",
+  "country": "USA",
+  "phone": "+1-609-395-6200",
+  "email": "sales@vivion.com",
+  "website": "https://vivion.com",
+  "specializations": [
+    "Bulk distributor",
+    "High-quality products",
+    "Reliable supplier network",
+    "Sorbitol and glycerin specialist",
+    "Various specifications available",
+    "Top choice for distributors"
+  ],
+  "product_highlights": [
+    "Sorbitol (various specs)",
+    "Glycerin",
+    "Bulk distribution",
+    "Quality products",
+    "Reliable supply chain"
+  ],
+  "certifications": [],
+  "tags": [
+    "bulk-distributor",
+    "high-quality",
+    "reliable-supplier",
+    "sorbitol-specialist",
+    "glycerin",
+    "distributor-focused",
+    "various-specs"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "haircare",
+    "pharmaceuticals"
+  ],
+  "ingredient_types": [
+    "Sorbitol (multiple specifications)",
+    "Glycerin (various grades)",
+    "Other humectants for cosmetic and pharmaceutical applications"
+  ],
+  "supply_chain": {
+    "lead_time": "Reliable delivery",
+    "minimum_order": "Bulk quantities",
+    "shipping_capabilities": ["domestic US", "international"],
+    "inventory_availability": "Consistent stock",
+    "warehouse_locations": ["Cranbury, New Jersey"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "mid-range to premium",
+    "unique_selling_propositions": ["reliable quality", "consistent supply", "distributor focus"],
+    "competitive_advantages": ["strong supplier network", "quality assurance", "various specifications"],
+    "innovation_focus": ["quality consistency", "supply chain reliability"],
+    "target_customers": ["distributors", "manufacturers", "pharmaceutical companies", "cosmetic brands"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "documentation_provided": ["TDS", "COA", "specifications"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Top choice bulk distributor specializing in sorbitol and glycerin with various specifications available. Known for reliable quality products and strong supplier network. Excellent reputation among distributors for consistent supply and quality assurance. Serves cosmetic, pharmaceutical, and personal care industries. Focuses on mid-range to premium market segment."
+}

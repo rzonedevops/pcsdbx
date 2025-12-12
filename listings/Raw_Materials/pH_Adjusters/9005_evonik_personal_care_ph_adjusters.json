@@ -1,0 +1,104 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9005,
+  "listing_id": "evonik_personal_care_ph_adjusters",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/pH_Adjusters/9005/",
+  "company_name": "Evonik Personal Care",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Rellinghauser Strasse 1-11, 45128 Essen, Germany",
+  "country": "Germany",
+  "phone": "+49-201-177-01",
+  "email": "personal-care@evonik.com",
+  "website": "https://personal-care.evonik.com",
+  "specializations": [
+    "Specialty ingredients for cosmetics",
+    "pH adjusters and buffer systems",
+    "Innovation in personal care",
+    "Sustainable solutions",
+    "Technical expertise",
+    "Custom formulation support"
+  ],
+  "product_highlights": [
+    "pH adjusters for personal care",
+    "Buffer systems",
+    "TEA (Triethanolamine)",
+    "Amino acid-based pH adjusters",
+    "Specialty pH management systems",
+    "Sustainable alternatives"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "ISO 45001",
+    "GMP certified",
+    "EcoVadis Platinum",
+    "Responsible Care"
+  ],
+  "tags": [
+    "specialty-ingredients",
+    "innovation",
+    "sustainable",
+    "buffer-systems",
+    "iso-certified",
+    "gmp",
+    "european",
+    "technical-expertise",
+    "amino-acid-based",
+    "custom-solutions"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "toners",
+    "haircare",
+    "suncare",
+    "premium-cosmetics"
+  ],
+  "ingredient_types": [
+    "TEA - Triethanolamine (various grades)",
+    "Amino acid-based pH adjusters",
+    "Buffer systems (specialty formulations)",
+    "pH adjusters for emulsions",
+    "pH adjusters for surfactant systems",
+    "Sustainable pH management solutions"
+  ],
+  "certifications_intelligence": {
+    "quality_standards": ["ISO 9001", "ISO 14001", "ISO 45001", "GMP"],
+    "applications": ["cosmetic grade", "personal care grade", "premium cosmetics"],
+    "sustainability": ["EcoVadis Platinum", "Responsible Care", "Carbon neutrality goals"],
+    "compliance": ["EU Cosmetics Regulation", "FDA compliant", "China NMPA", "global support"]
+  },
+  "supply_chain": {
+    "lead_time": "2-4 weeks standard",
+    "minimum_order": "Varies by product, samples available for evaluation",
+    "shipping_capabilities": ["Europe", "North America", "Asia", "Latin America", "global"],
+    "inventory_availability": "Global manufacturing network",
+    "warehouse_locations": ["Germany", "USA", "China", "Singapore"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "rd_collaboration": true,
+    "documentation_provided": ["TDS", "SDS", "COA", "formulation guides", "application notes", "regulatory documentation", "sustainability reports"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "premium",
+    "unique_selling_propositions": ["specialty ingredients innovation", "sustainability leadership (Platinum)", "amino acid-based solutions", "technical expertise"],
+    "competitive_advantages": ["EcoVadis Platinum rating", "innovative product portfolio", "global R&D network", "custom solutions"],
+    "innovation_focus": ["sustainable chemistry", "bio-based alternatives", "amino acid technology", "digital formulation tools"],
+    "target_customers": ["premium brands", "clean beauty", "sustainable cosmetics", "innovative formulations", "global brands"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading specialty chemicals company with strong focus on personal care innovation. ISO certified with EcoVadis Platinum sustainability rating. Specializes in amino acid-based pH adjusters and innovative buffer systems. Global manufacturing network ensures consistent supply. Excellent choice for premium brands seeking sustainable and innovative pH management solutions. Strong technical support with comprehensive formulation guidance and regulatory documentation."
+}

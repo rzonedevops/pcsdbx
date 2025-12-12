@@ -1,0 +1,101 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9005,
+  "listing_id": "spectrum_chemical_ph_adjusters",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/pH_Adjusters/9005/",
+  "company_name": "Spectrum Chemical Mfg Corp",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "14422 South San Pedro Street, Gardena, CA 90248, USA",
+  "country": "USA",
+  "phone": "+1-800-772-8786",
+  "email": "csinfo@spectrumchemical.com",
+  "website": "https://www.spectrumchemical.com",
+  "specializations": [
+    "High-purity chemicals",
+    "USP/NF grade pH adjusters",
+    "Pharmaceutical grade",
+    "Cosmetic grade",
+    "Complete range of pH adjusters",
+    "Buffer systems"
+  ],
+  "product_highlights": [
+    "Sodium Hydroxide (USP/NF grade)",
+    "Citric Acid (USP/NF grade)",
+    "Lactic Acid (USP/NF grade)",
+    "TEA (Triethanolamine)",
+    "Sodium Bicarbonate",
+    "Buffer systems"
+  ],
+  "certifications": [
+    "ISO 9001:2015",
+    "ISO 13485:2016",
+    "cGMP certified",
+    "FDA registered"
+  ],
+  "tags": [
+    "high-purity",
+    "usp-nf-grade",
+    "pharmaceutical-grade",
+    "cosmetic-grade",
+    "iso-certified",
+    "cgmp",
+    "buffer-systems",
+    "sodium-hydroxide",
+    "citric-acid",
+    "lactic-acid"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "toners",
+    "pharmaceuticals"
+  ],
+  "ingredient_types": [
+    "Sodium Hydroxide (USP/NF, pharmaceutical grade)",
+    "Citric Acid (USP/NF, anhydrous and monohydrate)",
+    "Lactic Acid (USP/NF, 88%)",
+    "TEA - Triethanolamine (NF grade)",
+    "Sodium Bicarbonate (USP/NF)",
+    "Potassium Hydroxide (USP/NF)",
+    "Phosphoric Acid (USP/NF)",
+    "Buffer systems (citrate, phosphate, acetate)"
+  ],
+  "certifications_intelligence": {
+    "quality_standards": ["ISO 9001:2015", "ISO 13485:2016", "cGMP"],
+    "applications": ["pharmaceutical grade", "cosmetic grade", "USP/NF grade"],
+    "compliance": ["FDA registered", "USP monograph compliance"]
+  },
+  "supply_chain": {
+    "lead_time": "1-3 days for in-stock items",
+    "minimum_order": "Flexible, small quantities available",
+    "shipping_capabilities": ["domestic US", "international", "next-day delivery"],
+    "inventory_availability": "Large in-stock inventory",
+    "warehouse_locations": ["California", "New Jersey", "Texas"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "rd_collaboration": true,
+    "documentation_provided": ["TDS", "SDS", "COA", "USP monographs"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "premium",
+    "unique_selling_propositions": ["USP/NF grade quality", "high purity", "comprehensive certifications", "pharmaceutical grade"],
+    "competitive_advantages": ["ISO 13485 certified", "cGMP facility", "extensive inventory", "fast delivery"],
+    "innovation_focus": ["quality assurance", "regulatory compliance", "pharmaceutical standards"],
+    "target_customers": ["pharmaceutical companies", "cosmetic manufacturers", "research labs", "quality-focused brands"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Leading supplier of high-purity pH adjusters with comprehensive USP/NF grade offerings. ISO 9001 and ISO 13485 certified with cGMP facility. Extensive inventory with fast delivery (1-3 days). Specializes in pharmaceutical and cosmetic grade chemicals. Excellent choice for quality-focused formulations requiring regulatory compliance. Strong technical support and documentation."
+}

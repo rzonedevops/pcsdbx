@@ -1,0 +1,67 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9004,
+  "listing_id": "making_cosmetics_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Humectants/9004/",
+  "company_name": "Making Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "16109 Vanowen St, Van Nuys, CA 91406, USA",
+  "country": "USA",
+  "phone": "+1-866-502-4327",
+  "email": "info@makingcosmetics.com",
+  "website": "https://www.makingcosmetics.com",
+  "specializations": [
+    "Wholesale cosmetic ingredients",
+    "Humectants and moisturizing agents",
+    "Natural products supplier",
+    "Over 1,000+ cosmetic ingredients",
+    "Formulator support"
+  ],
+  "product_highlights": [
+    "Butylene Glycol 797 - alternate solvent for glycerin",
+    "Propylene Glycol",
+    "Glycerin",
+    "Sorbitol",
+    "Wide range of humectants for moisture retention"
+  ],
+  "certifications": [],
+  "tags": [
+    "wholesale-supplier",
+    "natural-ingredients",
+    "formulator-focused",
+    "1000-plus-ingredients",
+    "butylene-glycol",
+    "propylene-glycol",
+    "glycerin"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "toners"
+  ],
+  "ingredient_types": [
+    "Butylene Glycol 797 (alternate solvent)",
+    "Propylene Glycol",
+    "Vegetable Glycerin",
+    "Sorbitol",
+    "Various humectants for skin moisture retention"
+  ],
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "documentation_provided": ["TDS", "product specifications"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Wholesale cosmetic ingredients supplier offering humectants and moisturizing skin care ingredients. Specializes in natural products with over 1,000 ingredients. Butylene Glycol 797 serves as alternate solvent for glycerin or propylene glycol and stabilizes volatile compounds. Strong focus on supporting formulators and indie brands."
+}

@@ -1,0 +1,96 @@
+{
+  "schema_version": "1.0",
+  "category_id": 9005,
+  "listing_id": "brenntag_ph_adjusters",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/pH_Adjusters/9005/",
+  "company_name": "Brenntag North America",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "5083 Pottsville Pike, Reading, PA 19605, USA",
+  "country": "USA",
+  "phone": "+1-800-999-3751",
+  "email": "info@brenntag.com",
+  "website": "https://www.brenntag.com",
+  "specializations": [
+    "World's largest chemical distributor",
+    "Complete pH adjuster range for personal care",
+    "Global distribution network",
+    "Technical expertise",
+    "Supply chain management",
+    "Local service with global reach"
+  ],
+  "product_highlights": [
+    "Complete range of pH adjusters",
+    "Sodium Hydroxide",
+    "Citric Acid",
+    "Lactic Acid",
+    "TEA (Triethanolamine)",
+    "Buffer systems",
+    "Custom formulation support"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "Responsible Care",
+    "EcoVadis Gold"
+  ],
+  "tags": [
+    "largest-distributor",
+    "global-network",
+    "complete-range",
+    "technical-expertise",
+    "iso-certified",
+    "ecovadis-gold",
+    "supply-chain",
+    "local-service"
+  ],
+  "product_categories": [
+    "serums",
+    "creams",
+    "lotions",
+    "cleansers",
+    "masks",
+    "toners",
+    "haircare",
+    "body-care",
+    "color-cosmetics"
+  ],
+  "ingredient_types": [
+    "Sodium Hydroxide (liquid, pellets)",
+    "Citric Acid (anhydrous, monohydrate)",
+    "Lactic Acid (various concentrations)",
+    "TEA - Triethanolamine",
+    "Phosphoric Acid",
+    "Sodium Bicarbonate",
+    "Potassium Hydroxide",
+    "Buffer systems"
+  ],
+  "supply_chain": {
+    "lead_time": "1-2 weeks standard",
+    "minimum_order": "Flexible, from small containers to bulk",
+    "shipping_capabilities": ["North America", "Europe", "Asia", "Latin America", "global"],
+    "inventory_availability": "Extensive warehouse network, reliable stock",
+    "warehouse_locations": ["190+ locations in North America", "600+ locations globally"]
+  },
+  "formulation_support": {
+    "technical_support": true,
+    "samples_available": true,
+    "formulation_guidance": true,
+    "rd_collaboration": false,
+    "documentation_provided": ["TDS", "SDS", "COA", "regulatory documentation"]
+  },
+  "strategic_intelligence": {
+    "market_positioning": "mid-range",
+    "unique_selling_propositions": ["world's largest chemical distributor", "extensive network", "local service", "global resources"],
+    "competitive_advantages": ["190+ North American locations", "600+ global locations", "reliable supply chain", "technical expertise"],
+    "target_customers": ["cosmetic manufacturers", "contract manufacturers", "brands of all sizes", "distributors"]
+  },
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "World's largest chemical distributor with 600+ locations globally and 190+ in North America. ISO 9001 and 14001 certified with EcoVadis Gold sustainability rating. Complete range of pH adjusters for personal care. Local service with global resources. Extensive warehouse network ensures reliable supply. Excellent choice for manufacturers seeking dependable distribution with technical support. Strong focus on supply chain management and customer service."
+}
