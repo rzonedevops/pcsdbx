@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "altiras_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://altiras.com/",
+  "company_name": "Altiras",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@altiras.com",
+  "website": "https://altiras.com/",
+  "specializations": [
+    "Butylene Glycol bulk supplier",
+    "Bulk chemical distribution",
+    "Large volume packaging",
+    "ISO tanks",
+    "IBC containers",
+    "Drum packaging"
+  ],
+  "certifications": [],
+  "tags": [
+    "humectants",
+    "butylene-glycol",
+    "bulk-supplier",
+    "chemical-distributor",
+    "iso-tanks",
+    "ibc",
+    "drums",
+    "large-volume",
+    "usa-based",
+    "logistics"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Bulk chemical distributor specializing in Butylene Glycol with multiple packaging options: bulk trucks, ISO tanks, 275-gallon IBCs, and 55-gallon drums. Ideal for large-scale manufacturers requiring high-volume supply and flexible logistics."
+}

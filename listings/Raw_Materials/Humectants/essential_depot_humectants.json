@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "essential_depot_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://www.essentialdepot.com/",
+  "company_name": "Essential Depot",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "13630 US Highway 1, Suite 11, Sebastian, FL 32958, USA",
+  "country": "USA",
+  "phone": "+1-866-374-8099",
+  "email": "info@essentialdepot.com",
+  "website": "https://www.essentialdepot.com/",
+  "specializations": [
+    "USP grade vegetable glycerin",
+    "USP grade propylene glycol",
+    "Kosher certified products",
+    "Food grade quality",
+    "Cosmetic grade quality",
+    "Bulk wholesale"
+  ],
+  "certifications": [
+    "Kosher",
+    "USP (United States Pharmacopeia)",
+    "Food Grade",
+    "Cosmetic Grade"
+  ],
+  "tags": [
+    "humectants",
+    "glycerin",
+    "propylene-glycol",
+    "usp-grade",
+    "kosher",
+    "food-grade",
+    "cosmetic-grade",
+    "wholesale",
+    "usa-based",
+    "florida",
+    "high-quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Premium supplier of finest quality Kosher USP Food Grade vegetable glycerin and propylene glycol. Products are USP grade and suitable for both food and cosmetic applications. Known for high-quality standards and reliable supply. Ideal for moisturizers in medicines, cosmetics, and food products."
+}

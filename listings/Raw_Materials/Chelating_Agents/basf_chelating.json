@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://www.basf.com/",
+  "company_name": "BASF SE",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Ludwigshafen, Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "info@basf.com",
+  "website": "https://www.basf.com/",
+  "specializations": [
+    "Trilon® chelating agents",
+    "EDTA family",
+    "Tetrasodium EDTA",
+    "Disodium EDTA",
+    "Natural chelators",
+    "Personal care formulations",
+    "Pharmaceutical grade",
+    "Comprehensive technical support"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP",
+    "Various regulatory approvals"
+  ],
+  "tags": [
+    "chelating-agents",
+    "edta",
+    "trilon",
+    "tetrasodium-edta",
+    "disodium-edta",
+    "germany",
+    "european",
+    "major-player",
+    "global",
+    "pharmaceutical-grade",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_expansion_december_2025.md"
+  },
+  "notes": "Leading global chemical manufacturer with extensive Trilon® chelating agent portfolio. Offers complete EDTA family including tetrasodium and disodium EDTA for personal care, cosmetics, and pharmaceutical applications. Known for high quality, regulatory compliance, and comprehensive formulation support. One of the world's largest chemical companies."
+}

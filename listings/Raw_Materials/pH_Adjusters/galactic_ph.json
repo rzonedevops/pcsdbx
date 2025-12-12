@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "galactic_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.lactic.com/",
+  "company_name": "Galactic",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Escanaffles, Belgium",
+  "country": "Belgium",
+  "phone": "",
+  "email": "info@lactic.com",
+  "website": "https://www.lactic.com/",
+  "specializations": [
+    "Lactic Acid specialist",
+    "Various concentrations",
+    "Lactates",
+    "Natural fermentation products",
+    "Food grade",
+    "Cosmetic grade",
+    "Sustainable production"
+  ],
+  "certifications": [
+    "Natural fermentation",
+    "Food grade",
+    "Cosmetic grade",
+    "Sustainable production"
+  ],
+  "tags": [
+    "ph-adjusters",
+    "lactic-acid",
+    "lactates",
+    "natural",
+    "fermentation",
+    "sustainable",
+    "belgium",
+    "european",
+    "food-grade",
+    "specialist"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Belgian lactic acid specialist producing lactic acid and lactates through natural fermentation. Offers various concentrations for food and cosmetic applications. Strong focus on sustainability and natural production methods. Global operations with reliable supply."
+}

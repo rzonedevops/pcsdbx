@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "making_cosmetics_humectants",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://www.makingcosmetics.com/",
+  "company_name": "Making Cosmetics Inc.",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "16052 SW 29th Dr, Miramar, FL 33027, USA",
+  "country": "USA",
+  "phone": "+1-866-272-5193",
+  "email": "info@makingcosmetics.com",
+  "website": "https://www.makingcosmetics.com/",
+  "specializations": [
+    "Humectants and moisturizing ingredients",
+    "Wholesale cosmetic ingredients",
+    "Natural products",
+    "1000+ ingredients catalog",
+    "Butylene Glycol specialist",
+    "Formulator support"
+  ],
+  "certifications": [],
+  "tags": [
+    "humectants",
+    "glycerin",
+    "propylene-glycol",
+    "butylene-glycol",
+    "sorbitol",
+    "wholesale",
+    "natural-products",
+    "formulator-focused",
+    "usa-based",
+    "florida"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "Leading wholesale cosmetic ingredients supplier offering comprehensive range of humectants and moisturizing skin care ingredients. Specializes in natural products with over 1000+ ingredients. Features Butylene Glycol 797 as alternate solvent for glycerin or propylene glycol, effective for stabilizing volatile compounds. Provides technical support for formulators and manufacturers."
+}

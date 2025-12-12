@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "univar_solutions_ph",
+  "category_path": "Raw_Materials/pH_Adjusters",
+  "url": "https://www.univarsolutions.com/",
+  "company_name": "Univar Solutions",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@univarsolutions.com",
+  "website": "https://www.univarsolutions.com/",
+  "specializations": [
+    "Sodium Hydroxide solutions",
+    "Citric Acid",
+    "Lactic Acid",
+    "Phosphoric Acid",
+    "Complete pH adjuster portfolio",
+    "Global distribution",
+    "Technical support",
+    "Formulation assistance"
+  ],
+  "certifications": [],
+  "tags": [
+    "ph-adjusters",
+    "sodium-hydroxide",
+    "citric-acid",
+    "lactic-acid",
+    "phosphoric-acid",
+    "distributor",
+    "global",
+    "technical-support",
+    "usa",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_ph_adjusters_december_2025.md"
+  },
+  "notes": "Major global chemical distributor with comprehensive pH adjuster portfolio. Offers sodium hydroxide solutions, citric acid, lactic acid, phosphoric acid, and more. Provides technical support and formulation assistance. Extensive distribution network ensures reliable supply and local delivery options."
+}

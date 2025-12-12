@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "american_oil_products",
+  "category_path": "Raw_Materials/Humectants",
+  "url": "https://americanoilproducts.com/",
+  "company_name": "American Oil Products",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "San Diego, CA, USA",
+  "country": "USA",
+  "phone": "",
+  "email": "info@americanoilproducts.com",
+  "website": "https://americanoilproducts.com/",
+  "specializations": [
+    "Glycerin manufacturer",
+    "Propylene glycol manufacturer",
+    "Food production applications",
+    "Personal care applications",
+    "Industrial applications",
+    "High-quality manufacturing"
+  ],
+  "certifications": [],
+  "tags": [
+    "humectants",
+    "glycerin",
+    "propylene-glycol",
+    "manufacturer",
+    "san-diego",
+    "california",
+    "usa-based",
+    "food-grade",
+    "personal-care",
+    "industrial"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_humectants_december_2025.md"
+  },
+  "notes": "San Diego-based manufacturer of high-quality glycerin and propylene glycol for multiple applications including food production, personal care, and industrial use. Direct manufacturer offering reliable supply and quality control."
+}
