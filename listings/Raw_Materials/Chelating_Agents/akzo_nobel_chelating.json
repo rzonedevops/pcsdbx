@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "akzo_nobel_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://www.akzonobel.com/",
+  "company_name": "AkzoNobel Specialty Chemicals",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Netherlands",
+  "country": "Netherlands",
+  "phone": "",
+  "email": "info@akzonobel.com",
+  "website": "https://www.akzonobel.com/",
+  "specializations": [
+    "Dissolvine® chelating agents",
+    "EDTA (various grades)",
+    "Biodegradable chelating agents",
+    "GLDA (Glutamic Acid Diacetate)",
+    "MGDA (Methylglycinediacetic Acid)",
+    "Sustainable alternatives",
+    "Global manufacturer"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001"
+  ],
+  "tags": [
+    "chelating-agents",
+    "edta",
+    "biodegradable",
+    "glda",
+    "mgda",
+    "sustainable",
+    "netherlands",
+    "european",
+    "major-player",
+    "global",
+    "green-chemistry"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_expansion_december_2025.md"
+  },
+  "notes": "Major global manufacturer of chelating agents for personal care industry. Features Dissolvine® brand chelating agents including EDTA and biodegradable alternatives (GLDA, MGDA). Strong focus on sustainability and environmentally friendly alternatives to traditional EDTA. Comprehensive regulatory approvals and technical support."
+}

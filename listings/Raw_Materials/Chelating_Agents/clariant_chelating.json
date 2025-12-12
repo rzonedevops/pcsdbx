@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "clariant_chelating",
+  "category_path": "Raw_Materials/Chelating_Agents",
+  "url": "https://www.clariant.com/",
+  "company_name": "Clariant International Ltd",
+  "status": "active",
+  "date_added": "2025-12-12",
+  "date_updated": "2025-12-12",
+  "address": "Muttenz, Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "info@clariant.com",
+  "website": "https://www.clariant.com/",
+  "specializations": [
+    "Specialty chelating agents",
+    "Natural chelators",
+    "Synthetic chelators",
+    "Sustainable alternatives",
+    "Green chemistry solutions",
+    "Personal care formulations",
+    "Innovation focus"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "Sustainability certifications"
+  ],
+  "tags": [
+    "chelating-agents",
+    "specialty-chemicals",
+    "natural",
+    "sustainable",
+    "green-chemistry",
+    "switzerland",
+    "european",
+    "major-player",
+    "innovation",
+    "eco-friendly"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-12",
+    "validation_method": "manual",
+    "data_source": "research_chelating_agents_expansion_december_2025.md"
+  },
+  "notes": "Swiss specialty chemicals company with focus on sustainability and innovation. Offers both natural and synthetic chelating agents with emphasis on green chemistry solutions. Strong R&D capabilities and commitment to sustainable alternatives. Excellent technical support for formulation development."
+}
