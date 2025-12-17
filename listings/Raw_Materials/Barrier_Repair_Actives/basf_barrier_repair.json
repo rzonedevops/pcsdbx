@@ -1,0 +1,52 @@
+{
+  "id": "basf_barrier_repair",
+  "name": "BASF Personal Care - Barrier Repair Actives",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "BASF, the world's largest chemical company, offers a comprehensive portfolio of barrier repair actives for dermocosmetic applications. Key products include Relipidium™ for long-lasting barrier repair and moisture restoration, Mimiskin™ with advanced nanoparticle technology for barrier protection, and Castaline for atopic-prone skin. Their ingredients are clinically proven to reduce TEWL and restore skin barrier function.",
+  "website": "https://www.basf.com/personal-care",
+  "contact": {
+    "address": "Carl-Bosch-Straße 38, 67056 Ludwigshafen, Germany",
+    "phone": "+49 621 60-0",
+    "email": "info@basf.com"
+  },
+  "specializations": [
+    "Dermocosmetic actives",
+    "Barrier repair and restoration",
+    "Nanoparticle delivery technology",
+    "Sensitive skin solutions",
+    "TEWL reduction",
+    "Clinical validation"
+  ],
+  "products": [
+    "Relipidium™ (Barrier repair, moisture restoration)",
+    "Mimiskin™ (Nanoparticle barrier protection)",
+    "Castaline (Atopic-prone skin)",
+    "Ameriflor Calm (Redness reduction, TEWL minimization)"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP",
+    "COSMOS",
+    "Clinical validation"
+  ],
+  "tags": [
+    "barrier-repair",
+    "dermocosmetic",
+    "nanoparticle",
+    "sensitive-skin",
+    "atopic-skin",
+    "clinical-validation",
+    "premium",
+    "global-supplier",
+    "tewl-reduction"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5-25 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://products.basf.com/global/en/em/relipidium",
+  "notes": "World's largest chemical company with extensive R&D capabilities. Relipidium™ repairs skin barrier and restores moisture long-term. Mimiskin™ uses advanced nanoparticle technology for barrier protection. Comprehensive technical support and clinical data available."
+}

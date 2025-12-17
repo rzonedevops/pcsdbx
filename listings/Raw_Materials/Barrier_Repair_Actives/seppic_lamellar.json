@@ -1,0 +1,47 @@
+{
+  "id": "seppic_lamellar",
+  "name": "Seppic - Lamellar Liquid Crystal Emulsion Technology",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Seppic, an Air Liquide Healthcare subsidiary, offers innovative lamellar liquid crystal emulsion technology for skin barrier strengthening. Their technology creates ordered arrangements of surfactant and oil molecules at the oil-water interface, mimicking the natural structure of the stratum corneum. This lamellar organization provides superior barrier repair and moisturization benefits.",
+  "website": "https://www.seppic.com",
+  "contact": {
+    "address": "22 Terrasse Bellini, 92800 Puteaux, France",
+    "phone": "+33 1 42 91 50 00",
+    "email": "info@seppic.com"
+  },
+  "specializations": [
+    "Lamellar liquid crystal technology",
+    "Skin barrier strengthening",
+    "Ordered molecular arrangements",
+    "Emulsion technology",
+    "Biomimetic structures"
+  ],
+  "products": [
+    "Lamellar liquid crystal emulsions",
+    "Barrier strengthening emulsifiers",
+    "Skin-mimicking delivery systems"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS approved"
+  ],
+  "tags": [
+    "barrier-repair",
+    "lamellar",
+    "liquid-crystal",
+    "emulsion-technology",
+    "biomimetic",
+    "premium",
+    "global-supplier",
+    "french-quality"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5-25 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.seppic.com/en-US/article/how-lamellar-liquid-crystal-emulsion-can-strengthen-skin-barrier",
+  "notes": "Air Liquide Healthcare subsidiary with innovative emulsion technologies. Lamellar liquid crystal emulsions create ordered molecular arrangements that mimic skin structure. Superior barrier strengthening and moisturization benefits. Extensive technical expertise and global distribution."
+}

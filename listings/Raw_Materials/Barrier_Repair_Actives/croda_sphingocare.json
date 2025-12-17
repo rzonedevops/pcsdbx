@@ -1,0 +1,57 @@
+{
+  "id": "croda_sphingocare",
+  "name": "Croda Beauty - SphingoCare™ Ceramides & Sphingolipids",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Croda Beauty offers the SphingoCare™ range of high-purity ceramides and sphingolipids for cosmetic applications. These biotechnology and plant-derived ingredients are produced through yeast fermentation, creating biomimetic structures identical to human skin lipids. The range includes pure ceramides, formulated ceramides, and sphingolipid complexes for comprehensive barrier repair solutions.",
+  "website": "https://www.crodabeauty.com",
+  "contact": {
+    "address": "Cowick Hall, Snaith, Goole, East Yorkshire DN14 9AA, UK",
+    "phone": "+44 1405 860551",
+    "email": "marketing-beauty@croda.com"
+  },
+  "specializations": [
+    "Biotechnology-derived ceramides",
+    "Yeast fermentation production",
+    "High-purity sphingolipids",
+    "Biomimetic skin lipids",
+    "Phytosphingosine",
+    "Pre-dispersed ceramide formulations"
+  ],
+  "products": [
+    "DS-Ceramide Y3S™ (Ceramide NP/Ceramide 3)",
+    "DS-Ceramide Y3O-HP™",
+    "DS-Ceramide AP™ (Ceramide 6)",
+    "DS-CERAmix-V™ (Optimized lipid composition)",
+    "DS-HydroCeramide50™",
+    "DS-HydroCeramide50S™",
+    "DS-Phytosphingosine™",
+    "Ceramide 2"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS approved",
+    "Natural derived",
+    "Vegan options"
+  ],
+  "tags": [
+    "barrier-repair",
+    "ceramides",
+    "sphingolipids",
+    "phytosphingosine",
+    "biotechnology",
+    "yeast-fermentation",
+    "biomimetic",
+    "premium",
+    "global-supplier",
+    "natural-derived"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "1-10 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.crodabeauty.com/en-gb/resources/blog/sphingocare-our-complete-range-of-sphingolipids-and-ceramides-for-cosmetic-applications",
+  "notes": "Global leader in specialty ingredients with extensive SphingoCare™ range. Products are nature-inspired, bioengineered, and designed for skin and hair applications. Offers pure ceramides, pre-dispersions, and biomimetic blends. Sample request available through website."
+}

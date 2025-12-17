@@ -1,0 +1,54 @@
+{
+  "id": "evonik_sk_influx",
+  "name": "Evonik Industries - SK-INFLUX® Ceramide Complex",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Evonik Industries is a global specialty chemicals company and leading supplier of skin-identical ceramides for barrier repair formulations. Their SK-INFLUX® range includes concentrated mixes of ceramides, non-animal cholesterol, free fatty acids, and phytosphingosine that perfectly mimic the natural skin lipid barrier. SK-INFLUX® V MB is their vegan formulation with non-animal cholesterol.",
+  "website": "https://personal-care.evonik.com/en/products-solutions/ceramides",
+  "contact": {
+    "address": "Rellinghauser Straße 1-11, 45128 Essen, Germany",
+    "phone": "+49 201 177-01",
+    "email": "info@evonik.com"
+  },
+  "specializations": [
+    "Skin-identical ceramides",
+    "Barrier repair lipid complexes",
+    "Non-animal cholesterol",
+    "Phytosphingosine",
+    "Biotechnology-derived ceramides",
+    "Multi-lamellar lipid systems"
+  ],
+  "products": [
+    "SK-INFLUX® V MB (Vegan ceramide complex)",
+    "SK-INFLUX® MB (Ceramide complex)",
+    "Ceramide III",
+    "Ceramide IIIB",
+    "Ceramide NP"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP",
+    "COSMOS approved",
+    "Vegan options available"
+  ],
+  "tags": [
+    "barrier-repair",
+    "ceramides",
+    "cholesterol",
+    "fatty-acids",
+    "phytosphingosine",
+    "skin-identical",
+    "biotechnology",
+    "vegan",
+    "premium",
+    "global-supplier"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "1-25 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://personal-care.evonik.com/en/products-solutions/ceramides",
+  "notes": "Industry leader in skin-identical ceramides. SK-INFLUX® products contain the optimal ratio of ceramides, cholesterol, and fatty acids for barrier repair. Extensive technical support and formulation guidance available. Premium pricing but highest quality and efficacy."
+}

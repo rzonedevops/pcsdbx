@@ -1,0 +1,45 @@
+{
+  "id": "lucas_meyer_cosmetics",
+  "name": "Lucas Meyer Cosmetics - Barrier Enhancement Actives",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Lucas Meyer Cosmetics, part of IFF (International Flavors & Fragrances), offers high-value active and functional ingredients designed to enhance the skin's natural strengths and beauty. Their portfolio includes innovative barrier enhancement solutions that support skin health and protection. The company is known for cutting-edge research and development in cosmetic actives.",
+  "website": "https://www.lucasmeyercosmetics.com",
+  "contact": {
+    "address": "1310 Trans-Canada Highway, Dorval, Quebec H9P 2V9, Canada",
+    "phone": "+1 514-421-4240",
+    "email": "info@lucasmeyercosmetics.com"
+  },
+  "specializations": [
+    "High-value cosmetic actives",
+    "Functional ingredients",
+    "Skin barrier enhancement",
+    "Innovation-focused R&D",
+    "Natural strengths enhancement"
+  ],
+  "products": [
+    "Barrier enhancement actives",
+    "Functional cosmetic ingredients",
+    "High-value active portfolio"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "COSMOS approved"
+  ],
+  "tags": [
+    "barrier-repair",
+    "actives",
+    "functional-ingredients",
+    "innovation",
+    "premium",
+    "global-supplier",
+    "iff-company"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "1-10 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.lucasmeyercosmetics.com/en/products",
+  "notes": "Part of IFF (International Flavors & Fragrances) with extensive R&D capabilities. Offers high-value active and functional ingredients for skin barrier enhancement. Innovation-focused company with cutting-edge cosmetic science research. Global distribution and technical support."
+}

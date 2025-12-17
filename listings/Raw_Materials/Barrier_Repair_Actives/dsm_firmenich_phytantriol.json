@@ -1,0 +1,46 @@
+{
+  "id": "dsm_firmenich_phytantriol",
+  "name": "dsm-firmenich Beauty & Care - PHYTANTRIOL",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "dsm-firmenich Beauty & Care offers PHYTANTRIOL, a unique active ingredient for skin care and hair care applications. This versatile ingredient enhances deposition of beneficial compounds like panthenol and keratin amino acids, supporting barrier function and overall skin/hair health. The company is committed to innovative, scientifically proven, and market-validated personal care solutions.",
+  "website": "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/beauty-care",
+  "contact": {
+    "address": "Wurmisweg 576, 4303 Kaiseraugst, Switzerland",
+    "phone": "+41 61 815 81 11",
+    "email": "beauty-care@dsm-firmenich.com"
+  },
+  "specializations": [
+    "Science-based actives",
+    "Skin and hair care solutions",
+    "Enhanced ingredient deposition",
+    "Barrier function support",
+    "Sustainable innovation"
+  ],
+  "products": [
+    "PHYTANTRIOL (Skin and hair care active)"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "B Corp",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "barrier-repair",
+    "phytantriol",
+    "skin-care",
+    "hair-care",
+    "science-based",
+    "sustainable",
+    "premium",
+    "global-supplier"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5-25 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/beauty-care/products/phytantriol.html",
+  "notes": "Global science-based company formed from DSM and Firmenich merger. PHYTANTRIOL is a unique active that enhances deposition of panthenol and keratin amino acids. Committed to innovative, scientifically proven solutions. B Corp certified for sustainability."
+}

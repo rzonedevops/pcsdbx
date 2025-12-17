@@ -1,0 +1,51 @@
+{
+  "id": "lipoid_kosmetik_lamellar",
+  "name": "Lipoid Kosmetik - Lamellar Systems & Phospholipids",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Lipoid Kosmetik AG is a Swiss specialist in phospholipids and lamellar systems for cosmetic applications. Their SLM Skin Lipid Matrix® technology maintains and restores the skin's natural protective barrier through three-dimensional lamellar networks. The company offers Natipide® Eco for liposomal encapsulation and various phospholipid-based delivery systems that support barrier recovery.",
+  "website": "https://lipoid.com/en/products/phospholipid-systems/lamellar-systems/",
+  "contact": {
+    "address": "Fringsstrasse 45, 67063 Ludwigshafen, Germany",
+    "phone": "+49 621 5790-0",
+    "email": "info@lipoid.de"
+  },
+  "specializations": [
+    "Phospholipid systems",
+    "Lamellar structure technology",
+    "Liposomal encapsulation",
+    "SLM Skin Lipid Matrix®",
+    "Barrier recovery support",
+    "Natural raw materials"
+  ],
+  "products": [
+    "SLM Skin Lipid Matrix® (Lamellar barrier system)",
+    "Natipide® Eco (Liposomal encapsulation)",
+    "Vitamin F watersoluble N (Essential fatty acids)",
+    "Phospholipid concentrates"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "COSMOS approved",
+    "Natural origin",
+    "Swiss quality"
+  ],
+  "tags": [
+    "barrier-repair",
+    "lamellar-systems",
+    "phospholipids",
+    "liposomes",
+    "skin-lipid-matrix",
+    "natural",
+    "premium",
+    "swiss-quality",
+    "delivery-systems"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "1-10 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global (European focus)",
+  "validation_status": "Validated",
+  "source": "https://lipoid.com/en/products/phospholipid-systems/lamellar-systems/",
+  "notes": "Swiss quality phospholipid specialist with proprietary SLM Skin Lipid Matrix® technology. Lamellar arrangement of lipids effectively supports skin barrier recovery. Natipide® Eco is an innovative carrier system for hydrophilic actives. Extensive technical support available."
+}

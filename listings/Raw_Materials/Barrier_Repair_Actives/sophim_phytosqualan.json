@@ -1,0 +1,49 @@
+{
+  "id": "sophim_phytosqualan",
+  "name": "Sophim - Phytosqualan Natural Emollient",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Sophim is a French specialist in natural emollients derived from olive oil. Their Phytosqualan QD Grade is a natural emollient with biomimetic properties that restores the lipid barrier. The company focuses on sustainable sourcing and natural origin ingredients, making their products ideal for organic and clean beauty formulations.",
+  "website": "https://www.sophim.com",
+  "contact": {
+    "address": "ZI Saint-Maurice, 04310 Peyruis, France",
+    "phone": "+33 4 92 68 60 60",
+    "email": "contact@sophim.com"
+  },
+  "specializations": [
+    "Natural emollients",
+    "Olive-derived squalane",
+    "Biomimetic barrier repair",
+    "Sustainable sourcing",
+    "Lipid barrier restoration"
+  ],
+  "products": [
+    "Phytosqualan QD Grade (Natural emollient, barrier repair)",
+    "Olive-derived squalane",
+    "Natural emollient range"
+  ],
+  "certifications": [
+    "COSMOS approved",
+    "ECOCERT",
+    "ISO 9001",
+    "Natural origin"
+  ],
+  "tags": [
+    "barrier-repair",
+    "squalane",
+    "natural",
+    "olive-derived",
+    "biomimetic",
+    "sustainable",
+    "organic",
+    "clean-beauty",
+    "mid-premium"
+  ],
+  "pricing_tier": "Mid-Premium",
+  "moq": "5-25 kg",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "Europe, Global",
+  "validation_status": "Validated",
+  "source": "https://www.sophim.com/en/phytosqualan-qd-grade/",
+  "notes": "French natural emollient specialist with olive oil expertise. Phytosqualan QD Grade was introduced at In-cosmetics 2024. Natural emollient with biomimetic properties that restores the lipid barrier. COSMOS and ECOCERT certified for organic formulations."
+}

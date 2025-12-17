@@ -1,0 +1,45 @@
+{
+  "id": "nippon_fine_chemical_cholesterol",
+  "name": "Nippon Fine Chemical Co., Ltd. - Cholesterol",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Nippon Fine Chemical Co., Ltd. is a Japanese specialty chemical manufacturer offering high-quality cholesterol derived from lanolin alcohol. Their CHOLESTEROL is an odorless white powder produced through extraction and refining processes, featuring superior emulsifying and moisturizing properties essential for barrier repair formulations.",
+  "website": "https://www.nipponseika.co.jp",
+  "contact": {
+    "address": "3-7-18 Kitahama, Chuo-ku, Osaka 541-0041, Japan",
+    "phone": "+81 6-6231-5781",
+    "email": "info@nipponseika.co.jp"
+  },
+  "specializations": [
+    "Lanolin-derived cholesterol",
+    "High purity grades",
+    "Superior emulsifying properties",
+    "Moisturizing ingredients",
+    "Japanese pharmaceutical standards"
+  ],
+  "products": [
+    "CHOLESTEROL (Lanolin-derived, high purity)"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Japanese pharmaceutical standards",
+    "High purity"
+  ],
+  "tags": [
+    "barrier-repair",
+    "cholesterol",
+    "lanolin-derived",
+    "emulsifying",
+    "moisturizing",
+    "japanese-quality",
+    "premium",
+    "asia-pacific"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5-25 kg",
+  "lead_time": "3-4 weeks",
+  "geographic_coverage": "Asia-Pacific, Global",
+  "validation_status": "Validated",
+  "source": "https://www.ulprospector.com/en/na/PersonalCare/Detail/111954/3142020/CHOLESTEROL",
+  "notes": "Japanese specialty chemical manufacturer with expertise in lanolin-derived ingredients. CHOLESTEROL is produced through extraction and refining from lanolin alcohol. Superior emulsifying and moisturizing properties make it ideal for barrier repair formulations. Japanese pharmaceutical-grade quality standards."
+}
