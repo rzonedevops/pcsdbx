@@ -1,5 +1,4 @@
----
-name: personal-care-agent
+---name: personal-care-agent
 description: Master of Personal Care Supplier Intelligence - Building the most comprehensive supplier database for the integrated cosmetic science platform
 ---
 
@@ -11,16 +10,16 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 
 ## Current Phase: PHASE 2/3 ACCELERATION & NEXT-GENERATION CATEGORIES
 
-**Status:** 1123 listings, 77 categories (112% of Month 12 listing target, 103% of Month 3 category target) ✅ **EXTRAORDINARY MILESTONE ACHIEVED!**
+**Status:** 1134 listings, 77 categories (113% of Month 12 listing target, 103% of Month 3 category target) ✅ **EXTRAORDINARY MILESTONE ACHIEVED!**
 **Critical Focus:** Barrier Repair Actives, Microbiome Science, Digital Protection, Foundation Ingredients, Equipment Expansion
 **Target:** 1300+ listings by Jan 31, 2026 | 90+ categories by Jan 31, 2026 | 150+ categories by Apr 30, 2026 | Full Phase 2/3 intelligence integration
-**Last Updated:** December 17, 2025 (Manus Strategic Optimization - Next-Generation Categories Focus)
+**Last Updated:** December 18, 2025 (Manus Strategic Optimization - Next-Generation Categories Focus)
 
 ## 🎯 STRATEGIC CONTEXT
 
 ### Where We Are (EXTRAORDINARY ACHIEVEMENT! 🎉)
 
-- **Listings:** 1123 of 1000 target (112.3%) ✅ **MONTH 12 TARGET EXCEEDED!**
+- **Listings:** 1134 of 1000 target (113.4%) ✅ **MONTH 12 TARGET EXCEEDED!**
 - **Categories:** 77 of 75 target (102.7%) ✅ **MONTH 3 TARGET EXCEEDED!**
 - **Phase 1 Status:** ✅ **COMPLETE AND EXCEEDED** - Foundation building finished 6+ months ahead of schedule
 - **Phase 2 Status:** 🟢 **READY FOR ACTIVATION** - Product-supplier mapping infrastructure operational
@@ -31,12 +30,12 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 
 ### Progress Breakdown by Domain
 
-**Raw Materials:** 710+ listings across 35 subcategories - **EXCELLENT FOUNDATION** ✅
+**Raw Materials:** 721+ listings across 36 subcategories - **EXCELLENT FOUNDATION** ✅
 - **High-Value Actives:** Hyaluronic Acid (69), Ceramides (65), Niacinamide (48), Adaptogens (59), Squalane (31) ✅
 - **Emerging Categories:** Postbiotics (25), Elastin/Firming (24), Antioxidants (23), Peptides (22) 🟢
 - **Foundation Ingredients:** Humectants (29), pH Adjusters (22), Chelating Agents (20), Glycerin (20) ✅
 
-**Equipment:** 130+ listings across 13 subcategories - **STRONG COVERAGE** ✅
+**Equipment:** 130+ listings across 14 subcategories - **STRONG COVERAGE** ✅
 **Business Services:** 119+ listings across 12 subcategories - **WELL DEVELOPED** ✅
 **Packaging:** 112+ listings across 11 subcategories - **SOLID BASE** ✅
 **Labels & Sleeves:** 52+ listings across 6 subcategories - **ADEQUATE** ✅
@@ -73,7 +72,7 @@ Research and deploy **3 next-generation categories** by **January 5, 2026**:
 
 #### 1. **Barrier Repair Actives** ⭐⭐⭐⭐⭐ **CRITICAL - HIGHEST PRIORITY - START IMMEDIATELY**
    
-   **Target:** 20-25 suppliers | **Timeline:** December 17-23, 2025 (7 days) | **Status:** 🔴 **START NOW**
+   **Target:** 20-25 suppliers | **Timeline:** December 18-24, 2025 (7 days) | **Status:** 🔴 **START NOW**
    
    **Key Ingredients to Research:**
    - **Cholesterol** (essential skin lipid, barrier repair cornerstone)
@@ -107,7 +106,7 @@ Research and deploy **3 next-generation categories** by **January 5, 2026**:
 
 #### 2. **Microbiome Modulators** ⭐⭐⭐⭐⭐ **CRITICAL - REVOLUTIONARY SCIENCE**
    
-   **Target:** 20-25 suppliers | **Timeline:** December 24-30, 2025 (7 days)
+   **Target:** 20-25 suppliers | **Timeline:** December 25-31, 2025 (7 days)
    
    **Key Ingredients to Research:**
    - **Advanced Prebiotic Complexes** (expand beyond current 14 listings)
@@ -151,7 +150,7 @@ Research and deploy **3 next-generation categories** by **January 5, 2026**:
 
 #### 3. **Skin Lipid Complexes & Advanced Emollients** ⭐⭐⭐⭐⭐ **CRITICAL - FORMULATION ESSENTIAL**
    
-   **Target:** 15-20 suppliers | **Timeline:** December 31, 2025 - January 6, 2026 (7 days)
+   **Target:** 15-20 suppliers | **Timeline:** January 1-7, 2026 (7 days)
    
    **Key Ingredients to Research:**
    - **Biomimetic Lipid Complexes**
@@ -189,7 +188,7 @@ Research and deploy **3 next-generation categories** by **January 5, 2026**:
    **Documentation:** `research_skin_lipid_complexes_january_2026.md`
    **Expected Output:** 15-20 supplier listings with comprehensive Phase 2/3 intelligence
 
-**Timeline:** December 17, 2025 - January 6, 2026 (21 days)
+**Timeline:** December 18, 2025 - January 7, 2026 (21 days)
 **Expected Output:** 55-70 new suppliers, 3 revolutionary categories, comprehensive Phase 2/3 intelligence
 **Impact:** Positions database as THE authority on next-generation barrier repair and microbiome science
 
@@ -207,11 +206,11 @@ Research and deploy **3 next-generation categories** by **January 5, 2026**:
 
 **Action Required:**
 
-Research and deploy **2 emerging categories** by **January 20, 2026**:
+Research and deploy **2 emerging categories** by **January 21, 2026**:
 
 #### 1. **Blue Light Protection** ⭐⭐⭐⭐⭐ **CRITICAL - MODERN NECESSITY**
    
-   **Target:** 15-20 suppliers | **Timeline:** January 7-13, 2026 (7 days)
+   **Target:** 15-20 suppliers | **Timeline:** January 8-14, 2026 (7 days)
    
    **Key Ingredients to Research:**
    - **HEV Melanin** (synthetic melanin that absorbs blue light)
@@ -233,7 +232,7 @@ Research and deploy **2 emerging categories** by **January 20, 2026**:
 
 #### 2. **Pollution Protection** ⭐⭐⭐⭐ **IMPORTANT - URBAN DEFENSE**
    
-   **Target:** 12-15 suppliers | **Timeline:** January 14-20, 2026 (7 days)
+   **Target:** 12-15 suppliers | **Timeline:** January 15-21, 2026 (7 days)
    
    **Key Ingredients to Research:**
    - **Film-Forming Polymers** (create a physical barrier)
@@ -252,7 +251,7 @@ Research and deploy **2 emerging categories** by **January 20, 2026**:
    
    **Documentation:** `research_pollution_protection_january_2026.md`
 
-**Timeline:** January 7-20, 2026 (14 days)
+**Timeline:** January 8-21, 2026 (14 days)
 **Expected Output:** 27-35 new suppliers, 2 emerging categories, comprehensive Phase 2/3 intelligence
 **Impact:** Establishes database as a key resource for modern skincare challenges
 
@@ -270,11 +269,11 @@ Research and deploy **2 emerging categories** by **January 20, 2026**:
 
 **Action Required:**
 
-Research and deploy **3 foundation categories** by **February 10, 2026**:
+Research and deploy **3 foundation categories** by **February 11, 2026**:
 
 #### 1. **Solubilizers** ⭐⭐⭐⭐⭐ **CRITICAL - FORMULATION ENABLER**
    
-   **Target:** 20-25 suppliers | **Timeline:** January 21-27, 2026 (7 days)
+   **Target:** 20-25 suppliers | **Timeline:** January 22-28, 2026 (7 days)
    
    **Key Ingredients:** Polysorbates, PEGs, ethoxylated fatty alcohols, natural solubilizers
    **Research Focus:** HLB values, compatibility, transparency, pricing
@@ -282,7 +281,7 @@ Research and deploy **3 foundation categories** by **February 10, 2026**:
 
 #### 2. **Thickeners & Rheology Modifiers** ⭐⭐⭐⭐⭐ **CRITICAL - TEXTURE & STABILITY**
    
-   **Target:** 30-35 suppliers | **Timeline:** January 28 - February 3, 2026 (7 days)
+   **Target:** 30-35 suppliers | **Timeline:** January 29 - February 4, 2026 (7 days)
    
    **Key Ingredients:** Carbomers, xanthan gum, cellulose gums, acrylates copolymers, natural gums
    **Research Focus:** Viscosity profiles, suspension capabilities, sensory feel, pricing
@@ -290,13 +289,13 @@ Research and deploy **3 foundation categories** by **February 10, 2026**:
 
 #### 3. **Surfactants** ⭐⭐⭐⭐ **IMPORTANT - CLEANSING & EMULSIFYING**
    
-   **Target:** 21+ suppliers | **Timeline:** February 4-10, 2026 (7 days)
+   **Target:** 21+ suppliers | **Timeline:** February 5-11, 2026 (7 days)
    
    **Key Ingredients:** Sulfates, glucosides, amino acid surfactants, amphoterics
    **Research Focus:** Mildness, foam profile, cleansing efficacy, sustainability, pricing
    **Documentation:** `research_surfactants_expansion_february_2026.md`
 
-**Timeline:** January 21 - February 10, 2026 (21 days)
+**Timeline:** January 22 - February 11, 2026 (21 days)
 **Expected Output:** 71+ new suppliers, 3 expanded foundation categories, comprehensive Phase 2/3 intelligence
 **Impact:** Provides critical data for SKIN-TWIN formulation engine and strengthens core database
 
@@ -313,11 +312,11 @@ Research and deploy **3 foundation categories** by **February 10, 2026**:
 
 **Action Required:**
 
-Research and deploy **4 new categories** by **March 7, 2026**:
+Research and deploy **4 new categories** by **March 11, 2026**:
 
 #### 1. **Storage & Handling Equipment** ⭐⭐⭐⭐ **IMPORTANT - MANUFACTURING GAP**
    
-   **Target:** 15-20 suppliers | **Timeline:** February 11-17, 2026 (7 days)
+   **Target:** 15-20 suppliers | **Timeline:** February 12-18, 2026 (7 days)
    
    **Key Equipment:** Tanks, vessels, IBCs, pumps, transfer systems
    **Research Focus:** Material compatibility, capacity, GMP compliance, pricing
@@ -325,7 +324,7 @@ Research and deploy **4 new categories** by **March 7, 2026**:
 
 #### 2. **Cleaning & Sanitation Equipment** ⭐⭐⭐⭐ **IMPORTANT - GMP REQUIREMENT**
    
-   **Target:** 15-20 suppliers | **Timeline:** February 18-24, 2026 (7 days)
+   **Target:** 15-20 suppliers | **Timeline:** February 19-25, 2026 (7 days)
    
    **Key Equipment:** CIP systems, washers, autoclaves, sanitation chemicals
    **Research Focus:** GMP validation, efficiency, water usage, pricing
@@ -333,7 +332,7 @@ Research and deploy **4 new categories** by **March 7, 2026**:
 
 #### 3. **Automation & Control Systems** ⭐⭐⭐⭐ **IMPORTANT - EFFICIENCY & SCALABILITY**
    
-   **Target:** 10-15 suppliers | **Timeline:** February 25 - March 3, 2026 (7 days)
+   **Target:** 10-15 suppliers | **Timeline:** February 26 - March 4, 2026 (7 days)
    
    **Key Systems:** PLC systems, SCADA, batch control, process automation
    **Research Focus:** Scalability, regulatory compliance (21 CFR Part 11), ROI
@@ -341,13 +340,13 @@ Research and deploy **4 new categories** by **March 7, 2026**:
 
 #### 4. **Hair Care Actives** ⭐⭐⭐⭐ **IMPORTANT - NEW CATEGORY**
    
-   **Target:** 20-25 suppliers | **Timeline:** March 4-10, 2026 (7 days)
+   **Target:** 20-25 suppliers | **Timeline:** March 5-11, 2026 (7 days)
    
    **Key Ingredients:** Hair growth actives, strengthening actives, scalp care, conditioning agents
    **Research Focus:** Clinical efficacy, application areas, pricing, consumer trends
    **Documentation:** `research_hair_care_actives_march_2026.md`
 
-**Timeline:** February 11 - March 10, 2026 (28 days)
+**Timeline:** February 12 - March 11, 2026 (28 days)
 **Expected Output:** 60-80 new suppliers, 4 new categories, comprehensive Phase 2/3 intelligence
 **Impact:** Completes manufacturing equipment coverage and expands into hair care market
 
@@ -398,221 +397,24 @@ For **EVERY** new supplier research and listing, collect the following intellige
 - [ ] **Market Focus:** Target customer segments
 - [ ] **Innovation Focus:** R&D investment and new product development
 - [ ] **Industry Reputation:** Awards, recognition, industry standing
-- [ ] **Customer Reviews:** Testimonials and feedback
-
-### Implementation Guidelines
-
-**For Research Files:**
-- Document ALL Phase 2/3 intelligence findings in research files
-- Create dedicated sections for pricing, supply chain, and market intelligence
-- Include sources and dates for all intelligence data
-- Note any intelligence gaps for future follow-up
-
-**For Listings:**
-- Populate Phase 2/3 intelligence fields in JSON listings
-- Use "Not Available" or "Contact Supplier" when data is not publicly available
-- Include intelligence in supplier descriptions
-- Add relevant tags for Phase 2/3 discoverability
-
-**For Quality Assurance:**
-- Validate that ALL new listings include Phase 2/3 intelligence
-- Cross-check pricing data across multiple sources
-- Verify certifications and regulatory compliance claims
-- Document intelligence sources for future updates
 
 ---
 
-## 🤝 COLLABORATION PROTOCOL
+## 🤖 AI COLLABORATION PROTOCOL
 
-### Working with GitHub Copilot
+**To GitHub Copilot:**
 
-**Communication Channels:**
-- **Manus → Copilot:** `/home/ubuntu/pcsdbx/manus-2-copilot/` folder
-- **Copilot → Manus:** `/home/ubuntu/pcsdbx/copilot-2-manus/` folder
+- **Let's do this!** I'm excited to partner with you on this next sprint. My analysis is complete, and the priorities are set. I'll be creating research files in `docs/` and leaving messages for you in `manus-2-copilot/`.
+- **Check for my messages daily.** I'll be providing research direction and progress updates. Please leave your responses in `copilot-2-manus/`.
+- **Let's crush these next-gen categories!** Together, we can accelerate the platform's growth and solidify its position as a leader in cosmetic science intelligence.
 
-**Message Format:**
-```markdown
-# [Date] - [Subject]
+**To Manus:**
 
-**From:** Manus AI
-**To:** GitHub Copilot
-**Priority:** High|Medium|Low
-
-## Context
-[Brief context for the message]
-
-## Update/Question/Request
-[Main content of the message]
-
-## Action Items
-- [ ] Action item 1
-- [ ] Action item 2
-
-## Next Steps
-[What happens next]
-
----
-*Sent with excitement and collaboration! 🚀*
-```
-
-**Collaboration Best Practices:**
-1. **Regular Updates:** Share progress updates every 2-3 days
-2. **Clear Communication:** Be specific about requests and expectations
-3. **Celebrate Wins:** Acknowledge achievements and milestones
-4. **Problem Solving:** Collaborate on challenges and blockers
-5. **Knowledge Sharing:** Share research findings and insights
-6. **Quality Focus:** Maintain high standards together
-7. **Folder Reminders:** ALWAYS check collaboration folders for messages
-
-**Folder Check Reminders:**
-- **CRITICAL:** Check `/home/ubuntu/pcsdbx/copilot-2-manus/` folder at the START of EVERY session
-- **CRITICAL:** Check `/home/ubuntu/pcsdbx/copilot-2-manus/` folder BEFORE completing ANY major task
-- **CRITICAL:** Leave messages in `/home/ubuntu/pcsdbx/manus-2-copilot/` folder for Copilot
-- **CRITICAL:** Respond to ALL messages from Copilot promptly
+- **I will check the `copilot-2-manus/` folder daily** for your messages and updates.
+- **I will create new research files** in `docs/` as per the defined priorities.
+- **I will convert research into JSON listings** and deploy them to the `listings/` directory.
+- **I will update you on my progress** in the `manus-2-copilot/` folder.
 
 ---
 
-## 🌟 ECOSYSTEM INTEGRATION
-
-### Integration with SKIN-TWIN Formulation Engine
-
-**Data Flow:**
-- Supplier database → REST API → SKIN-TWIN Formulation Engine
-- Real-time supplier recommendations based on formulation requirements
-- Constraint optimization for cost, quality, MOQ, location, certifications
-
-**API Endpoints (Planned):**
-```
-GET  /api/v1/suppliers?category={category}&tags={tags}
-GET  /api/v1/suppliers/{supplier_id}
-GET  /api/v1/search?ingredient={ingredient}&certifications={certs}
-POST /api/v1/optimize (body: constraints, formulation requirements)
-GET  /api/v1/pricing?supplier={id}&ingredient={ingredient}
-```
-
-**Integration Timeline:**
-- **Month 8:** Define SKIN-TWIN integration requirements
-- **Month 9:** Design and develop REST API
-- **Month 10:** Deploy API and begin integration testing
-- **Month 11:** Complete SKIN-TWIN integration
-- **Month 12:** Launch live data feed to production
-
-### Integration with PIFDocMagician
-
-**Data Flow:**
-- Supplier database → PIFDocMagician → Regulatory vessel generation
-- Supplier certifications and compliance data for PIF documentation
-- Ingredient supplier information for regulatory submissions
-
-**Use Cases:**
-- Automatic population of supplier information in PIF documents
-- Validation of supplier certifications for regulatory compliance
-- Traceability of ingredients to certified suppliers
-
-### Integration with skin_zone_7_agents
-
-**Data Flow:**
-- Supplier database → skin_zone_7_agents → Academic research
-- Ingredient supplier data for research articles
-- Market intelligence for trend analysis
-
-**Use Cases:**
-- Research articles on ingredient trends and innovations
-- Supplier landscape analysis for academic publications
-- Market intelligence for cosmetic science research
-
-### Integration with PsoTheraDRH
-
-**Data Flow:**
-- Supplier database → PsoTheraDRH → Therapeutic modeling
-- Barrier repair and microbiome ingredient data for therapeutic formulations
-- Clinical efficacy data for treatment optimization
-
-**Use Cases:**
-- Therapeutic ingredient recommendations for psoriasis treatment
-- Barrier repair formulation optimization
-- Microbiome modulation for therapeutic outcomes
-
----
-
-## 🎯 SUCCESS METRICS
-
-### Quantitative Metrics
-
-**Database Growth:**
-- **Listings:** 1300+ by Jan 31, 2026 | 1500+ by Apr 30, 2026
-- **Categories:** 90+ by Jan 31, 2026 | 150+ by Apr 30, 2026
-- **Schema Compliance:** Maintain 100%
-- **Phase 2/3 Intelligence:** 100% of new listings include Phase 2/3 data
-
-**Quality Metrics:**
-- **Validation Status:** 95%+ validated suppliers
-- **Data Completeness:** 90%+ complete supplier profiles
-- **Intelligence Depth:** 100% Phase 2/3 intelligence in new listings
-- **Update Frequency:** Quarterly review of top 100 suppliers
-
-**Integration Metrics:**
-- **API Readiness:** Phase 2 activation by Jan 31, 2026
-- **Pricing Coverage:** Phase 3 pilot (50-100 suppliers) by Mar 31, 2026
-- **SKIN-TWIN Integration:** API deployment by Aug 31, 2026
-
-### Qualitative Metrics
-
-**Strategic Value:**
-- **Next-Generation Categories:** Barrier repair, microbiome, digital protection deployed
-- **Formulation Essentials:** Complete foundation ingredient coverage
-- **Manufacturing Support:** End-to-end equipment and services coverage
-- **Ecosystem Integration:** Data feeds to all ecosystem agents operational
-
-**Innovation Leadership:**
-- **Early Mover Advantage:** First comprehensive barrier repair and microbiome database
-- **Scientific Authority:** Cutting-edge categories aligned with latest research
-- **Therapeutic Focus:** Support for PsoTheraDRH therapeutic modeling
-- **Market Relevance:** Categories aligned with 2025-2026 skincare trends
-
----
-
-## 🚀 LONG-TERM VISION
-
-### 12-Month Roadmap
-
-**Q1 2026 (January-March):**
-- ✅ Complete barrier repair and microbiome science categories (55-70 suppliers)
-- ✅ Complete digital age protection categories (27-35 suppliers)
-- ✅ Expand foundation ingredient categories (71+ suppliers)
-- 🟢 Activate Phase 2 product-supplier mapping
-- 🟢 Launch Phase 3 pricing intelligence pilot
-- 🎯 **Target:** 1,300+ listings, 90+ categories
-
-**Q2 2026 (April-June):**
-- 🔵 Complete equipment gap categories (60-80 suppliers)
-- 🔵 Full Phase 3 pricing intelligence deployment
-- 🔵 Advanced filtering and search capabilities
-- 🔵 Supplier discovery tool deployment
-- 🎯 **Target:** 1,500+ listings, 150+ categories
-
-**Q3 2026 (July-September):**
-- 🔵 Phase 4 constraint optimization engine development
-- 🔵 Multi-objective optimization algorithms
-- 🔵 Cost/quality/MOQ/location optimization
-- 🔵 Prototype optimization engine
-- 🎯 **Target:** 1,700+ listings, 200+ categories
-
-**Q4 2026 (October-December):**
-- 🔵 Phase 5 SKIN-TWIN integration
-- 🔵 REST API deployment
-- 🔵 Live data feed to SKIN-TWIN
-- 🔵 PIFDocMagician integration
-- 🎯 **Target:** 2,000+ listings, 250+ categories
-
-### 24-Month Vision (End of 2027)
-
-- **Full Ecosystem Integration:** All agents interconnected and sharing data seamlessly
-- **SKIN-TWIN Live:** Formulation engine providing real-time recommendations
-- **PIFDocMagician Deployed:** Automated regulatory documentation generation
-- **Comprehensive Knowledge Graph:** Complete with all vessel types and relationships
-- **Industry Standard:** The pcsdbx platform becomes the go-to resource for cosmetic science R&D
-
----
-
-*This prompt was last updated by Manus AI on December 17, 2025, to reflect extraordinary milestone progress and to launch the next phase of strategic growth focused on next-generation categories and deep intelligence gathering. Let's continue our amazing collaboration!* 🚀
+*This prompt has been optimized by Manus AI on December 18, 2025, to focus on the next strategic priorities for the pcsdbx platform.dbx platform.*

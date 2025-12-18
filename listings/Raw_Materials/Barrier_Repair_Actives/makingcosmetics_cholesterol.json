@@ -1,0 +1,50 @@
+{
+  "id": "makingcosmetics_cholesterol",
+  "name": "MakingCosmetics - Cholesterol NF & Ceramide Complex",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "MakingCosmetics offers pharmaceutical-grade Cholesterol NF 831 and a comprehensive Ceramide Complex for barrier repair formulations. Cholesterol is an essential skin lipid that constitutes approximately 25% of the stratum corneum's lipid matrix. The Ceramide Complex provides a multi-lamellar system of ceramides, cholesterol, and fatty acids that restores the skin barrier and improves moisture retention.",
+  "website": "https://www.makingcosmetics.com",
+  "contact": {
+    "address": "10800 231st Way NE, Redmond, WA 98053, USA",
+    "phone": "+1 425-292-9502",
+    "email": "support@makingcosmetics.com"
+  },
+  "specializations": [
+    "NF/USP grade cholesterol",
+    "Ceramide complexes",
+    "Multi-lamellar lipid systems",
+    "Barrier repair ingredients",
+    "DIY cosmetic supplies",
+    "Small quantity availability"
+  ],
+  "products": [
+    "Cholesterol NF 831",
+    "Ceramide Complex",
+    "Skin-identical lipids",
+    "Barrier repair actives"
+  ],
+  "certifications": [
+    "NF grade",
+    "USP grade",
+    "Paraben-free options"
+  ],
+  "tags": [
+    "barrier-repair",
+    "cholesterol",
+    "ceramide-complex",
+    "nf-grade",
+    "usp-grade",
+    "skin-identical-lipids",
+    "small-quantities",
+    "usa-supplier",
+    "diy-cosmetics"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "10g - 1kg",
+  "lead_time": "1-2 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.makingcosmetics.com/ELL-CHOLES-01.html",
+  "notes": "Excellent resource for small-scale formulators and R&D. NF/USP grade cholesterol ensures pharmaceutical quality. Cholesterol's hydrophobic nature helps irritated, dry, and chapped skin. Also suitable for dry, damaged hair applications."
+}

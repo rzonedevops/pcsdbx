@@ -1,0 +1,53 @@
+{
+  "id": "pmc_biogenix_fatty_acids",
+  "name": "PMC Biogenix - Hystrene® Fatty Acids",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "PMC Biogenix offers a comprehensive range of saturated and unsaturated fatty acids under the Hystrene brand. These fatty acids with carbon chain lengths from C16 to C22 are essential components for skin barrier repair formulations. Fatty acids constitute approximately 15-25% of the skin's stratum corneum lipids and work synergistically with ceramides and cholesterol to maintain barrier integrity.",
+  "website": "https://pmcbiogenix.com",
+  "contact": {
+    "address": "501 Murray Road, Cincinnati, OH 45217, USA",
+    "phone": "+1 513-242-3300",
+    "email": "info@pmcbiogenix.com"
+  },
+  "specializations": [
+    "Saturated fatty acids",
+    "Unsaturated fatty acids",
+    "Oleochemical derivatives",
+    "C16-C22 carbon chain lengths",
+    "Barrier repair lipids",
+    "Cosmetic grade fatty acids"
+  ],
+  "products": [
+    "Hystrene® Saturated Fatty Acids",
+    "Palmitic Acid (C16)",
+    "Stearic Acid (C18)",
+    "Oleic Acid (C18:1)",
+    "Linoleic Acid (C18:2)",
+    "Behenic Acid (C22)"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Kosher",
+    "Halal",
+    "RSPO certified options"
+  ],
+  "tags": [
+    "barrier-repair",
+    "fatty-acids",
+    "oleochemicals",
+    "palmitic-acid",
+    "stearic-acid",
+    "oleic-acid",
+    "linoleic-acid",
+    "skin-lipids",
+    "usa-manufacturer"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "25-100 kg",
+  "lead_time": "1-3 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://pmcbiogenix.com/our-products/fatty-acids/",
+  "notes": "Established oleochemical manufacturer with extensive fatty acid portfolio. Products suitable for barrier repair formulations requiring the optimal 3:1:1 ceramide:cholesterol:fatty acid ratio. Technical support available for formulation guidance."
+}

@@ -1,0 +1,52 @@
+{
+  "id": "acme_hardesty_oleic_acid",
+  "name": "Acme-Hardesty - Oleic Acid & Omega Fatty Acids",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Acme-Hardesty is a leading supplier of oleic acid and omega fatty acids for personal care and cosmetic applications. Their oleic acid is available in both plant and animal-based options, providing flexibility for various formulation requirements. Omega fatty acids offer numerous dermal benefits including pore tightening, skin clearing, and barrier support.",
+  "website": "https://www.acme-hardesty.com",
+  "contact": {
+    "address": "450 Sentry Parkway, Suite 300, Blue Bell, PA 19422, USA",
+    "phone": "+1 215-591-3610",
+    "email": "info@acme-hardesty.com"
+  },
+  "specializations": [
+    "Oleic acid",
+    "Omega fatty acids",
+    "Plant-based options",
+    "Animal-based options",
+    "Personal care ingredients",
+    "Barrier repair lipids"
+  ],
+  "products": [
+    "Oleic Acid (Plant-based)",
+    "Oleic Acid (Animal-based)",
+    "Omega-3 Fatty Acids",
+    "Omega-6 Fatty Acids",
+    "Omega-9 Fatty Acids",
+    "Jamaican Black Castor Oil"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Kosher",
+    "Non-GMO options",
+    "Sustainable sourcing"
+  ],
+  "tags": [
+    "barrier-repair",
+    "oleic-acid",
+    "omega-fatty-acids",
+    "plant-based",
+    "animal-based",
+    "castor-oil",
+    "usa-supplier",
+    "sustainable"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "25-50 kg",
+  "lead_time": "1-2 weeks",
+  "geographic_coverage": "North America, Global",
+  "validation_status": "Validated",
+  "source": "https://www.acme-hardesty.com/product/oleic-acid/",
+  "notes": "Established oleochemical distributor with over 75 years of experience. Offers both plant and animal-based oleic acid options. Strong technical support and custom blending capabilities. Vegan icon products available."
+}
