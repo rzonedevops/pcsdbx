@@ -1,0 +1,53 @@
+{
+  "id": "carbogen_amcis_cholesterol",
+  "name": "Carbogen Amcis - Cholesterol NF",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Carbogen Amcis offers Cholesterol NF grade meeting United States Pharmacopeia (USP) and National Formulary (NF) standards. This pharmaceutical-grade cholesterol serves as an excellent emulsifying agent and moisturizer in cosmetic and pharmaceutical preparations. Manufactured under cGMP certification for pharmaceutical-grade quality. Also offers Cholesterol HP (High Purity) for liposomal formulations.",
+  "website": "https://www.carbogen-amcis.com",
+  "contact": {
+    "available_via": "Website contact form",
+    "regions": "Global"
+  },
+  "specializations": [
+    "Cholesterol NF/USP grade",
+    "Pharmaceutical-grade manufacturing",
+    "cGMP certification",
+    "Emulsifying agents",
+    "Skin conditioning actives",
+    "Liposomal formulations",
+    "High purity cholesterol"
+  ],
+  "products": [
+    "Cholesterol NF",
+    "Cholesterol HP (High Purity)",
+    "Pharmaceutical-grade cholesterol",
+    "Nutritional-grade cholesterol"
+  ],
+  "certifications": [
+    "NF (National Formulary)",
+    "USP (United States Pharmacopeia)",
+    "cGMP (Current Good Manufacturing Practice)",
+    "Pharmaceutical grade"
+  ],
+  "tags": [
+    "cholesterol",
+    "nf-grade",
+    "usp-grade",
+    "pharmaceutical-grade",
+    "cgmp",
+    "barrier-repair",
+    "emulsifying-agent",
+    "moisturizer",
+    "skin-conditioning",
+    "liposomal",
+    "high-purity"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "Contact for details",
+  "lead_time": "4-8 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.carbogen-amcis.com/cholesterol-nf-supplier",
+  "notes": "Pharmaceutical-grade cholesterol with cGMP certification ensures highest quality standards. Multiple grades available for different applications (pharma, cosmetic, nutritional). High Purity grade optimized for liposomal drug delivery and advanced cosmetic formulations."
+}

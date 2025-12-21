@@ -1,0 +1,45 @@
+{
+  "id": "gobiotics_prebiulin",
+  "name": "Gobiotics by Sweetch - preBIULIN® AGA",
+  "category": "Raw_Materials",
+  "subcategory": "Prebiotics",
+  "description": "Gobiotics by Sweetch offers preBIULIN® AGA, a specialized prebiotic complex described as a 'complete banquet for protective skin microbiota'. This innovative ingredient activates the full potential of the skin microbiome by selectively feeding beneficial bacteria. Available in the US through Ultrachem distributor.",
+  "website": "https://www.gobiotics-ingredients.com",
+  "contact": {
+    "distributor_us": "Ultrachem (parts of US)",
+    "distributor_website": "https://ultrachem.com",
+    "email": "Available via website"
+  },
+  "specializations": [
+    "Prebiotic complexes",
+    "Skin microbiome activation",
+    "Selective bacterial feeding",
+    "Microbiome protection",
+    "Prebiotic technology"
+  ],
+  "products": [
+    "preBIULIN® AGA",
+    "Prebiotic complexes",
+    "Microbiome-activating ingredients"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Quality controlled"
+  ],
+  "tags": [
+    "prebiotic",
+    "microbiome-activation",
+    "prebiulin",
+    "selective-feeding",
+    "skin-protection",
+    "innovation",
+    "branded-ingredient"
+  ],
+  "pricing_tier": "Mid-Premium",
+  "moq": "Contact distributor for details",
+  "lead_time": "2-4 weeks (US via Ultrachem)",
+  "geographic_coverage": "US (via Ultrachem), Global",
+  "validation_status": "Validated",
+  "source": "https://www.gobiotics-ingredients.com/our-products/ | https://ultrachem.com/products/actives-and-biofunctionals/prebiulin-aga/",
+  "notes": "preBIULIN® AGA provides comprehensive prebiotic support described as a 'complete banquet' for beneficial skin bacteria. US availability through Ultrachem facilitates easier ordering for North American formulators."
+}

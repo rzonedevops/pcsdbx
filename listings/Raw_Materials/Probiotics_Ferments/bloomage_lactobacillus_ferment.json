@@ -1,0 +1,45 @@
+{
+  "id": "bloomage_lactobacillus_ferment",
+  "name": "Bloomage Biotech - Lactobacillus Ferment Lysate",
+  "category": "Raw_Materials",
+  "subcategory": "Probiotics_Ferments",
+  "description": "Bloomage Biotech offers Lactobacillus Ferment Lysate derived from probiotic Lactobacillus rhamnosus in ferment lysate form. This probiotic ingredient supports skin barrier function, reduces inflammation, and promotes skin microbiome balance. Distributed through Lotion Crafter for formulator access.",
+  "website": "https://www.bloomagebiotech.com",
+  "contact": {
+    "distributor": "Lotion Crafter",
+    "distributor_website": "https://lotioncrafter.com"
+  },
+  "specializations": [
+    "Lactobacillus rhamnosus fermentation",
+    "Ferment lysate production",
+    "Probiotic skincare actives",
+    "Barrier function support",
+    "Anti-inflammatory actives"
+  ],
+  "products": [
+    "Lactobacillus Ferment Lysate",
+    "Lactobacillus rhamnosus derivatives"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Quality controlled"
+  ],
+  "tags": [
+    "lactobacillus-ferment",
+    "probiotic",
+    "ferment-lysate",
+    "l-rhamnosus",
+    "barrier-repair",
+    "anti-inflammatory",
+    "microbiome-friendly",
+    "skin-health",
+    "china"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Contact distributor for details",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "North America (via Lotion Crafter), Global",
+  "validation_status": "Validated",
+  "source": "https://lotioncrafter.com/products/lactobacillus-ferment-lysate",
+  "notes": "Ferment lysate form provides stability advantages over live probiotics. Lactobacillus rhamnosus is well-documented for skin health benefits. Available through Lotion Crafter for easier access to small and medium formulators."
+}
