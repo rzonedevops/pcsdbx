@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "soap_and_more_inulin",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://soapandmore.ca/products/inulin-powder-cosmetic-grade",
+  "company_name": "Soap and More",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Canada",
+  "phone": "",
+  "email": "",
+  "website": "https://soapandmore.ca/",
+  "specializations": [
+    "Inulin Powder Cosmetic Grade",
+    "Chicory root derived prebiotics",
+    "Natural prebiotic ingredients",
+    "Microbiome care formulations",
+    "Environmentally-friendly ingredients",
+    "DIY and professional formulation supplies"
+  ],
+  "certifications": [],
+  "tags": [
+    "prebiotics",
+    "inulin",
+    "canada-based",
+    "chicory-root",
+    "natural",
+    "eco-friendly",
+    "cosmetic-grade",
+    "microbiome",
+    "diy-friendly"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Canadian supplier offering cosmetic-grade Inulin Powder derived from chicory root. Natural, environmentally-friendly prebiotic for microbiome care applications. Suitable for both DIY and professional formulation needs, supporting beneficial skin bacteria through selective prebiotic activity."
+}

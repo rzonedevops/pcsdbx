@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_microbiome",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.evonik.com/en/company/businesslines/cs/personal-care/beautyexcellence/esi/skinmicrobiome.html",
+  "company_name": "Evonik",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.evonik.com/",
+  "specializations": [
+    "Skin Microbiome solutions",
+    "Advanced skin microbiota models",
+    "Health and nutrition expertise applied to skincare",
+    "Microbiome science platform",
+    "Animal nutrition technology adaptation",
+    "Skin care microbiome applications"
+  ],
+  "certifications": [],
+  "tags": [
+    "microbiome",
+    "platform",
+    "germany-based",
+    "major-player",
+    "innovation-leader",
+    "science-driven",
+    "comprehensive",
+    "health-nutrition-expertise"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Evonik is a major German specialty chemicals company offering Skin Microbiome solutions based on advanced skin microbiota models. Leverages microbiome science expertise from health and animal nutrition applications, adapting it to skincare. Provides comprehensive platform for microbiome-supporting skin care applications with strong scientific foundation."
+}

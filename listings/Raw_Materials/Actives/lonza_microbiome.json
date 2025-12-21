@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_microbiome",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.lonza.com/",
+  "company_name": "Lonza",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com/",
+  "specializations": [
+    "Bioactive ingredients for microbiome",
+    "Scientific backing and research",
+    "Major cosmetic ingredient supplier",
+    "Innovation in biotechnology",
+    "Research-driven solutions",
+    "Global manufacturing capabilities"
+  ],
+  "certifications": [],
+  "tags": [
+    "microbiome",
+    "platform",
+    "switzerland-based",
+    "major-player",
+    "bioactives",
+    "scientific-research",
+    "innovation-leader",
+    "biotechnology",
+    "global"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Lonza is a major Swiss-based global supplier of bioactive ingredients for microbiome applications. Known for strong scientific backing and research capabilities. Offers innovation in biotechnology with research-driven solutions and global manufacturing capabilities. Industry analysis identifies them as a key player in microbiome ingredients with comprehensive scientific support."
+}

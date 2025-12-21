@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ramosu_bifida",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.amazon.com/Bifida-Ferment-Lysate-100-10ml/dp/B07NZ7BSGW",
+  "company_name": "Ramosu",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "South Korea",
+  "phone": "",
+  "email": "",
+  "website": "https://www.ramosu.com/",
+  "specializations": [
+    "Bifida Ferment Lysate 100",
+    "High concentration ferment lysate",
+    "Proteins and vitamins rich",
+    "Lactose and lactic acid content",
+    "Reduces allergic reactions",
+    "Increases absorption benefits",
+    "Korean K-beauty ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "ferments",
+    "bifida",
+    "lysate",
+    "korea-based",
+    "k-beauty",
+    "high-concentration",
+    "microbiome",
+    "proteins",
+    "vitamins"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Korean company Ramosu offers Bifida Ferment Lysate 100, a high concentration ferment lysate rich in proteins, lactose, lactic acid, vitamins, and minerals. Benefits include reducing allergic reactions and increasing absorption. Representative of Korean K-beauty innovation in probiotic-derived cosmetic ingredients."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "garden_naturalsolution_yeast",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/18385/6439596/Yeast-Ferment-Filtrate",
+  "company_name": "The Garden of Naturalsolution Co., Ltd",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "South Korea",
+  "phone": "",
+  "email": "",
+  "website": "https://www.gardenofnaturalsolution.com/",
+  "specializations": [
+    "Yeast Ferment Filtrate",
+    "Saccharomyces cerevisiae ferment",
+    "Natural solution cosmetics",
+    "Korean fermentation technology",
+    "Microbiome-supporting ingredients",
+    "Premium yeast-derived actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "ferments",
+    "yeast",
+    "saccharomyces",
+    "korea-based",
+    "filtrate",
+    "microbiome",
+    "natural",
+    "biotechnology"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "The Garden of Naturalsolution Co., Ltd is a Korean company specializing in Yeast Ferment Filtrate derived from Saccharomyces cerevisiae fermentation. Focuses on natural solution cosmetics leveraging Korean expertise in fermentation technology to create premium yeast-derived actives for microbiome-supporting formulations."
+}

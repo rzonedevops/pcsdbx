@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_microbiome",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/beauty-care/trends-and-insights/beauty-trends-archive/healthy-beauty-trend/skin-microbiome-cosmetic-ingredient.html",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dsm-firmenich.com/",
+  "specializations": [
+    "Skin microbiome cosmetic ingredients",
+    "Microbiome skincare for fighting dryness",
+    "Boosts Staphylococcus epidermidis levels",
+    "Healthy beauty trend leadership",
+    "Science-backed microbiome solutions",
+    "Global ingredient innovation"
+  ],
+  "certifications": [],
+  "tags": [
+    "microbiome",
+    "platform",
+    "switzerland-based",
+    "major-player",
+    "innovation-leader",
+    "dryness-treatment",
+    "science-backed",
+    "healthy-beauty",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "DSM-Firmenich (formed from merger of DSM and Firmenich) is a major Swiss-based global leader in skin microbiome cosmetic ingredients. Offers microbiome skin care formulations specifically designed for fighting dryness through technology that boosts Staphylococcus epidermidis levels. Leaders in healthy beauty trend with comprehensive science-backed microbiome solutions and global innovation capabilities."
+}
