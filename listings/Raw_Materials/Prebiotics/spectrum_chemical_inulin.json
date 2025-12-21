@@ -29,6 +29,26 @@
   ],
   "certifications": [
     "SpecPure® quality standards"
+  "company_name": "Spectrum Chemical - SpecPure® Inulin",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "14422 South San Pedro Street, Gardena, CA 90248, USA",
+  "country": "USA",
+  "phone": "+1 800-772-8786",
+  "email": "",
+  "website": "https://www.spectrumchemical.com/",
+  "specializations": [
+    "SpecPure® Inulin for cosmetics",
+    "Jerusalem artichoke-derived prebiotics",
+    "Fine powder inulin",
+    "Prebiotic skincare ingredients",
+    "High-purity cosmetic ingredients",
+    "Natural prebiotics"
+  ],
+  "certifications": [
+    "SpecPure® grade",
+    "Natural origin"
   ],
   "tags": [
     "prebiotics",
@@ -40,6 +60,10 @@
     "cosmetic-grade",
     "microbiome",
     "quality-certified"
+    "natural-origin",
+    "high-purity",
+    "fine-powder",
+    "microbiome-support"
   ],
   "metadata": {
     "last_validated": "2025-12-21",
@@ -47,4 +71,5 @@
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
   "notes": "Spectrum Chemical manufactures and distributes SpecPure® Inulin, a high-purity cosmetic-grade prebiotic ingredient sourced from Jerusalem artichoke roots (Helianthus tuberosus L.). SpecPure® brand ensures exceptional quality and consistency, making it suitable for premium skincare formulations targeting microbiome health. Inulin acts as a prebiotic, selectively feeding beneficial skin bacteria and supporting microbiome balance. Fine powder form allows for easy incorporation into various formulations. Listed on UL Prospector platform for easy sourcing. Strong reputation for quality and reliability in the cosmetic ingredient industry."
+  "notes": "Spectrum Chemical's SpecPure® Inulin is sourced from Jerusalem artichoke roots (Helianthus tuberosus L.). Available as fine powder with prebiotic activity for skincare applications. Major chemical supplier with extensive product line and quality assurance. Listed on UL Prospector for personal care applications."
 }

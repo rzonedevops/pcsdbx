@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "grand_ingredients_prebiotic_postbiotic",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://grandingredients.com/prebiotic-postbiotic-skincare/",
+  "company_name": "Grand Ingredients - Prebiotic-Postbiotic Synergy",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://grandingredients.com/",
+  "specializations": [
+    "Prebiotic-postbiotic synergy",
+    "Microbiome-supporting actives",
+    "Postbiotic ingredients",
+    "Skin flora balance",
+    "Barrier immunity reinforcement",
+    "Synergistic microbiome formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "prebiotics",
+    "synergy",
+    "microbiome-balance",
+    "barrier-immunity",
+    "usa-based",
+    "skin-flora"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Grand Ingredients focuses on prebiotic-postbiotic synergy with microbiome-supporting cosmetic actives and postbiotic ingredients. Benefits include balancing skin flora and reinforcing barrier immunity. Specializes in synergistic microbiome formulations."
+}
