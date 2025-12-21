@@ -8,6 +8,23 @@
   "date_added": "2025-12-21",
   "date_updated": "2025-12-21",
   "address": "",
+  "country": "Canada",
+  "phone": "",
+  "email": "",
+  "website": "https://soapandmore.ca",
+  "specializations": [
+    "Cosmetic-grade inulin",
+    "Chicory root-derived prebiotics",
+    "Natural environmentally-friendly ingredients",
+    "DIY cosmetics supplies",
+    "Small quantity availability"
+  ],
+  "products": [
+    "Inulin Powder Cosmetic Grade",
+    "Natural prebiotics"
+  ],
+  "certifications": [
+    "Cosmetic grade"
   "company_name": "Soap and More - Inulin Powder",
   "status": "active",
   "date_added": "2025-12-21",
@@ -50,6 +67,16 @@
     "chicory-root",
     "canada-based",
     "natural",
+    "environmentally-friendly",
+    "microbiome",
+    "cosmetic-grade",
+    "diy-friendly",
+    "small-quantities"
+  ],
+  "pricing_tier": "Budget-Friendly",
+  "moq": "Small quantities available",
+  "lead_time": "1 week",
+  "geographic_coverage": "Canada, North America",
     "microbiome",
     "environmentally-friendly",
     "cosmetic-grade"
@@ -62,6 +89,7 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "Soap and More offers cosmetic-grade inulin powder sourced from chicory root as a natural prebiotic for microbiome care. Focus on natural, environmentally-friendly ingredients suitable for DIY formulators and small-scale production."
   "notes": "Soap and More is a Canadian supplier offering cosmetic-grade Inulin Powder sourced from chicory root. Their inulin is a natural, environmentally-friendly prebiotic specifically designed for microbiome care in skincare formulations. The chicory-derived inulin selectively feeds beneficial skin bacteria, supporting microbiome balance and skin health. Suitable for natural and clean beauty formulations. Canadian quality standards ensure consistent product quality. Easy to incorporate into various formulation types including creams, serums, and masks."
   "notes": "Soap and More offers cosmetic-grade Inulin Powder derived from chicory root. Natural, environmentally-friendly prebiotic for microbiome care. Canadian supplier focused on natural cosmetic ingredients and DIY formulation supplies."
 }

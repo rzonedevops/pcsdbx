@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "seppic_microbiome_portfolio",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.seppic.com",
+  "company_name": "Seppic",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.seppic.com",
+  "specializations": [
+    "Broad microbiome-friendly ingredient portfolio",
+    "Regulatory approvals expertise",
+    "Multiple microbiome actives",
+    "Technical support",
+    "Global distribution"
+  ],
+  "products": [
+    "Microbiome-friendly actives",
+    "Prebiotic ingredients",
+    "Postbiotic complexes"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP",
+    "Multiple regulatory approvals"
+  ],
+  "tags": [
+    "postbiotics",
+    "prebiotics",
+    "microbiome-friendly",
+    "regulatory-approved",
+    "france-based",
+    "broad-portfolio",
+    "technical-support",
+    "global-distribution"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "Contact for details",
+  "lead_time": "3-5 weeks",
+  "geographic_coverage": "Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Seppic offers a broad portfolio of microbiome-friendly ingredients with strong regulatory approvals. Major cosmetic ingredient supplier with expertise in regulatory compliance and technical support. French company with global distribution network."
+}

@@ -8,6 +8,20 @@
   "date_added": "2025-12-21",
   "date_updated": "2025-12-21",
   "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://vivion.com",
+  "specializations": [
+    "Bulk inulin supplier",
+    "Wholesale ingredient distribution",
+    "Consistent purity standards",
+    "Outstanding quality assurance",
+    "Large-scale availability"
+  ],
+  "products": [
+    "Inulin (bulk)",
+    "Prebiotic ingredients"
   "country": "United States",
   "company_name": "Vivion - Bulk Inulin",
   "status": "active",
@@ -50,6 +64,15 @@
     "bulk-supplier",
     "usa-based",
     "wholesale",
+    "high-purity",
+    "consistent-quality",
+    "microbiome",
+    "large-scale"
+  ],
+  "pricing_tier": "Bulk/Wholesale",
+  "moq": "Bulk quantities",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "North America, Global",
     "quality-certified",
     "large-scale",
     "reliable-supply"
@@ -62,6 +85,7 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "Vivion is a wholesale bulk supplier of inulin for cosmetic and personal care applications. Focus on consistent purity and outstanding quality for large-scale manufacturing. Suitable for commercial production requiring bulk quantities."
   "notes": "Vivion is a wholesale ingredient provider specializing in bulk inulin supply for cosmetic and other applications. They focus on delivering consistent purity and outstanding quality with reliable supply chain capabilities. As a bulk supplier, Vivion offers competitive wholesale pricing for large volume orders, making them ideal for established brands and manufacturers. Their quality certifications ensure consistent product standards. Inulin serves as a natural prebiotic in skincare formulations, supporting microbiome health and balance. Suitable for brands requiring reliable, large-scale ingredient supply."
   "notes": "Vivion is a wholesale ingredient provider focused on bulk inulin supply with consistent purity and outstanding quality. Serves manufacturers requiring large-scale prebiotic ingredient sourcing."
 }
