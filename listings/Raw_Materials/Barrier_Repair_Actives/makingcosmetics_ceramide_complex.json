@@ -1,0 +1,49 @@
+{
+  "id": "makingcosmetics_ceramide_complex",
+  "name": "MakingCosmetics - Ceramide Complex",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "MakingCosmetics is a DIY and small-scale cosmetic ingredients supplier offering a comprehensive Ceramide Complex featuring vegetable-derived lipid concentrate with multi-lamellar system. Contains Ceramides III, IIIB, VI (2.5%), Cholesterol (0.5%), and fatty acids to improve aged skin appearance, provide deep moisturizing effects, and supply skin-identical lipids with enhanced delivery.",
+  "website": "https://www.makingcosmetics.com",
+  "contact": {
+    "address": "14902 N Florida Avenue, Tampa, FL 33613, USA",
+    "phone": "+1 813-960-5005",
+    "email": "info@makingcosmetics.com"
+  },
+  "specializations": [
+    "Vegetable-derived ceramide complex",
+    "Multi-lamellar system",
+    "Ceramides III, IIIB, VI (2.5%)",
+    "Cholesterol (0.5%)",
+    "Skin-identical lipids",
+    "DIY cosmetic ingredients"
+  ],
+  "products": [
+    "Ceramide Complex (Vegetable-derived with Ceramides III/IIIB/VI, cholesterol, fatty acids)"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Vegetable-derived"
+  ],
+  "tags": [
+    "barrier-repair",
+    "ceramide-complex",
+    "vegetable-derived",
+    "multi-lamellar",
+    "cholesterol",
+    "fatty-acids",
+    "anti-aging",
+    "moisturizing",
+    "skin-identical-lipids",
+    "diy",
+    "small-scale",
+    "usa"
+  ],
+  "pricing_tier": "Moderate",
+  "moq": "0.1-1 kg",
+  "lead_time": "1 week",
+  "geographic_coverage": "North America, Global",
+  "validation_status": "Validated",
+  "source": "https://www.makingcosmetics.com/AAG-CERCX-01.html",
+  "notes": "Leading DIY and small-scale cosmetic ingredients supplier. Ceramide Complex is a vegetable-derived lipid concentrate featuring multi-lamellar system with specified ceramide types (III, IIIB, VI at 2.5%) and cholesterol (0.5%). Improves appearance of aged skin, provides deep moisturizing effects, supplies skin-identical lipids, and promotes enhanced delivery. Excellent for small-scale formulators and DIY cosmetics with very low MOQ."
+}

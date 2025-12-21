@@ -1,0 +1,50 @@
+{
+  "id": "carbogen_amcis_cholesterol",
+  "name": "Carbogen Amcis - Cholesterol NF",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Carbogen Amcis is a Swiss pharmaceutical and cosmetic ingredient supplier offering pharmaceutical-grade Cholesterol NF with cGMP certification. Their cholesterol serves as an excellent emulsifying agent in cosmetic preparations and powerful moisturizer in skin conditioning cosmetics, available in multiple grades for pharmaceutical, cosmetic, and nutritional applications.",
+  "website": "https://www.carbogen-amcis.com",
+  "contact": {
+    "address": "Neulandweg 5, 5502 Hunzenschwil, Switzerland",
+    "phone": "+41 62 889 25 25",
+    "email": "info@carbogen-amcis.com"
+  },
+  "specializations": [
+    "Pharmaceutical-grade cholesterol",
+    "cGMP certification",
+    "NF/USP grade ingredients",
+    "Cholesterol HP (High Purity for liposomes)",
+    "Multiple grades for various applications",
+    "Barrier repair actives"
+  ],
+  "products": [
+    "Cholesterol NF (Pharmaceutical grade)",
+    "Cholesterol HP (High Purity for liposomal formulations)"
+  ],
+  "certifications": [
+    "cGMP (Current Good Manufacturing Practice)",
+    "NF (National Formulary)",
+    "USP (United States Pharmacopeia)",
+    "Pharmaceutical grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "cholesterol",
+    "pharmaceutical-grade",
+    "nf-usp",
+    "cgmp",
+    "emulsifying",
+    "moisturizing",
+    "skin-conditioning",
+    "premium",
+    "switzerland"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5-25 kg",
+  "lead_time": "3-5 weeks",
+  "geographic_coverage": "Europe, Global",
+  "validation_status": "Validated",
+  "source": "https://www.carbogen-amcis.com/cholesterol-nf-supplier",
+  "notes": "Swiss pharmaceutical-grade supplier with cGMP certification. Offers multiple cholesterol grades including standard Cholesterol NF and high-purity Cholesterol HP specifically designed for liposomal formulations. Excellent choice for premium barrier repair formulations requiring pharmaceutical-grade quality."
+}
