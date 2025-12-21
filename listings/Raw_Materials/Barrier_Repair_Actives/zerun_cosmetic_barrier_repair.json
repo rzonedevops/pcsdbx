@@ -1,0 +1,48 @@
+{
+  "id": "zerun_cosmetic_barrier_repair",
+  "name": "Zerun Cosmetic - Barrier Repair Formulations Manufacturing",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Zerun Cosmetic specializes in custom Barrier Repair Formulations Manufacturing with ceramides, cholesterol, and fatty acids in skin-mimicking ratios. Their formulations rebuild damaged barriers, reduce inflammation, and incorporate calming and rebuilding ingredients. Biomimetic lipids combined with soothing actives create comprehensive barrier repair solutions. OEM/Contract manufacturing services available.",
+  "website": "https://zeruncosmetic.com",
+  "contact": {
+    "address": "China",
+    "email": "info@zeruncosmetic.com"
+  },
+  "specializations": [
+    "Custom barrier repair formulations",
+    "Ceramide-cholesterol-fatty acid systems",
+    "Skin-mimicking ratios",
+    "Inflammation reduction",
+    "Biomimetic lipids",
+    "OEM/Contract manufacturing"
+  ],
+  "products": [
+    "Custom barrier repair formulations",
+    "Ceramide complex systems",
+    "Complete barrier repair products"
+  ],
+  "certifications": [
+    "GMP certified",
+    "OEM services",
+    "Contract manufacturing"
+  ],
+  "tags": [
+    "barrier-repair",
+    "contract-manufacturing",
+    "oem",
+    "custom-formulation",
+    "ceramides",
+    "cholesterol",
+    "fatty-acids",
+    "biomimetic",
+    "china-manufacturer"
+  ],
+  "pricing_tier": "Custom",
+  "moq": "5000 units+",
+  "lead_time": "6-12 weeks",
+  "geographic_coverage": "Asia, Global",
+  "validation_status": "Validated",
+  "source": "https://zeruncosmetic.com/custom-barrier-repair-formulations/",
+  "notes": "Specializes in custom barrier repair formulations with ceramides, cholesterol, and fatty acids in skin-mimicking ratios. Rebuilds damaged barriers and reduces inflammation. Biomimetic lipids with soothing actives for comprehensive solutions. OEM/Contract manufacturing enables private label and custom brand development."
+}

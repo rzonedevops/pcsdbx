@@ -1,0 +1,47 @@
+{
+  "id": "acme_synthetic_linoleic_acid",
+  "name": "Acme Synthetic Chemicals - Linoleic Acid 99%",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Acme Synthetic Chemicals supplies high-purity Linoleic Acid (99% minimum by gas chromatography) for barrier repair formulations. This essential Omega-6 fatty acid is critical for skin barrier function and provides anti-inflammatory and moisturizing benefits. Affordable pricing with high purity standards for multiple applications.",
+  "website": "https://www.acmesynthetic.com",
+  "contact": {
+    "address": "India",
+    "email": "info@acmesynthetic.com"
+  },
+  "specializations": [
+    "High-purity linoleic acid",
+    "99% minimum purity by GC",
+    "Essential omega-6 fatty acid",
+    "Barrier repair lipids",
+    "Anti-inflammatory actives",
+    "Affordable pricing"
+  ],
+  "products": [
+    "Linoleic Acid 99%",
+    "Omega-6 fatty acid",
+    "Essential fatty acids"
+  ],
+  "certifications": [
+    "99% purity by GC",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "linoleic-acid",
+    "omega-6",
+    "essential-fatty-acid",
+    "anti-inflammatory",
+    "moisturizing",
+    "high-purity",
+    "affordable",
+    "india-supplier"
+  ],
+  "pricing_tier": "Affordable",
+  "moq": "1kg+",
+  "lead_time": "3-5 weeks",
+  "geographic_coverage": "Asia, Middle East, International",
+  "validation_status": "Validated",
+  "source": "https://www.acmesynthetic.com/linoleic-acid-99-min-by-gc-1751869.html",
+  "notes": "CAS 60-33-3. High-purity linoleic acid (99% minimum by gas chromatography). Essential Omega-6 fatty acid critical for barrier function. Linoleic acid deficiency is associated with increased transepidermal water loss and barrier dysfunction. Anti-inflammatory and moisturizing properties support healthy skin."
+}

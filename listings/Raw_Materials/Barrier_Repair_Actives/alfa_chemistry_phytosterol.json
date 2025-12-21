@@ -1,0 +1,44 @@
+{
+  "id": "alfa_chemistry_phytosterol",
+  "name": "Alfa Chemistry - Phytosterol (Beta-Sitosterol)",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Alfa Chemistry (Dietary Supplements division) supplies Phytosterol (Beta-Sitosterol) with chemical structure similar to cholesterol. As a leading supplier of dietary ingredients, they offer high-quality phytosterols suitable for both cosmetic and dietary applications. Beta-sitosterol provides barrier support and anti-inflammatory benefits.",
+  "website": "https://dietarysupplements.alfa-chemistry.com",
+  "contact": {
+    "address": "New York, USA",
+    "email": "inquiry@alfa-chemistry.com"
+  },
+  "specializations": [
+    "Beta-sitosterol",
+    "Phytosterol complexes",
+    "Dietary supplement grade",
+    "Cosmetic applications",
+    "Cholesterol-similar structure"
+  ],
+  "products": [
+    "Phytosterol (Beta-Sitosterol)",
+    "Plant sterol complexes"
+  ],
+  "certifications": [
+    "Dietary supplement grade",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "phytosterols",
+    "beta-sitosterol",
+    "plant-sterols",
+    "cholesterol-similar",
+    "anti-inflammatory",
+    "dietary-grade",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "100g+",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://dietarysupplements.alfa-chemistry.com/ingredients/phytosterol.html",
+  "notes": "Chemical structure similar to cholesterol allows barrier support function. Leading supplier of dietary ingredients with cosmetic applications. Beta-sitosterol is the most abundant phytosterol in plants. Suitable for both cosmetic and dietary supplement formulations."
+}

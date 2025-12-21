@@ -1,0 +1,45 @@
+{
+  "id": "upi_chem_phytosterol",
+  "name": "UPI Chem - PHYTOSTEROL 95 MIN",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "UPI Chem supplies high-purity PHYTOSTEROL 95 MIN (95% minimum purity) for barrier repair and anti-inflammatory applications. Plant-derived sterols provide exceptional quality and efficacy in cosmetic formulations. Phytosterols mimic cholesterol's barrier-supporting function while offering anti-inflammatory and moisturizing benefits.",
+  "website": "https://www.upichem.com",
+  "contact": {
+    "address": "USA",
+    "email": "info@upichem.com"
+  },
+  "specializations": [
+    "High-purity phytosterols",
+    "95% minimum purity",
+    "Plant-derived sterols",
+    "Barrier repair actives",
+    "Anti-inflammatory lipids"
+  ],
+  "products": [
+    "PHYTOSTEROL 95 MIN",
+    "Plant sterol complexes",
+    "High-purity sterols"
+  ],
+  "certifications": [
+    "95% minimum purity",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "phytosterols",
+    "plant-sterols",
+    "high-purity",
+    "anti-inflammatory",
+    "moisturizing",
+    "cholesterol-alternative",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "1kg+",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.upichem.com/products/phytosterol-95-min/",
+  "notes": "CAS 83-46-5. High-purity compound (95% minimum) ensures efficacy. Plant-derived sterols provide exceptional quality in cosmetic formulations. Anti-inflammatory and moisturizing properties complement barrier repair function. Cholesterol alternative for vegan and plant-based formulations."
+}
