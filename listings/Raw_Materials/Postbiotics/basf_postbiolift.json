@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_postbiolift",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://rossorg.com/product/postbiolift/",
+  "company_name": "BASF Personal Care - POSTBIOLIFT™",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.basf.com/",
+  "specializations": [
+    "POSTBIOLIFT™ postbiotic",
+    "Lactobacillus crispatus fermentation supernatant",
+    "Secreted metabolites",
+    "Skin elasticity enhancement",
+    "Lifting effect actives",
+    "Anti-aging postbiotics"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "lactobacillus-crispatus",
+    "metabolites",
+    "elasticity",
+    "lifting-effect",
+    "anti-aging",
+    "germany-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "BASF's POSTBIOLIFT™ is a fermentation supernatant of Lactobacillus crispatus containing secreted metabolites. Provides more elastic skin and lifting effect. Distributed by Ross Organic. Major global chemical company with extensive personal care portfolio."
+}

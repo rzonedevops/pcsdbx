@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "symrise_symprobiome",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.symrise.com/scent-and-care/competence-platforms/symprobiome/",
+  "company_name": "Symrise - SymProBiome™ Platform",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Mühlenfeldstraße 1, 37603 Holzminden, Germany",
+  "country": "Germany",
+  "phone": "+49 5531 90 0",
+  "email": "",
+  "website": "https://www.symrise.com/scent-and-care/competence-platforms/symprobiome/",
+  "specializations": [
+    "Microbiome research platform",
+    "Skin microbiome actives",
+    "Scalp microbiome solutions",
+    "Oral cavity microbiome",
+    "Gut health prebiotics and probiotics",
+    "Microbiome-friendly preservatives",
+    "Microbiome-safe UV filters",
+    "Product protection with microbiome compatibility"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP compliant"
+  ],
+  "tags": [
+    "microbiome",
+    "probiotics",
+    "prebiotics",
+    "postbiotics",
+    "skin-health",
+    "scalp-health",
+    "preservatives",
+    "uv-protection",
+    "germany-based",
+    "research-platform",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Symrise's SymProBiome™ is a comprehensive research platform for microbiome solutions across skin, scalp, oral, and gut health. Key products include SymReboot® L19, SymDeo® B125, Frescolat® ML, Crinipan® PMC Green, SymGuard® CD, and SymReboot® OC. Major global player in cosmetic ingredients with extensive microbiome research capabilities and product portfolio. Focus on microbiome-friendly formulation across multiple applications including sun protection and preservation."
+}
