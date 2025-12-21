@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "g_biotec_gebiotide",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.g-biotec.com/products/gebiotide-bifida-ferment-lysate.html",
+  "company_name": "G-Biotec",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "South Korea",
+  "phone": "",
+  "email": "",
+  "website": "https://www.g-biotec.com/",
+  "specializations": [
+    "Bifida Ferment Lysate production",
+    "Gebiotide® branded ingredients",
+    "Probiotic-derived actives",
+    "Korean biotechnology",
+    "Skincare formulation actives",
+    "Microbiome science"
+  ],
+  "product_highlights": [
+    "Gebiotide® Bifida Ferment Lysate",
+    "Premium probiotic-derived ingredient",
+    "Suitable for moisturizers, serums, masks, exfoliators",
+    "Microbiome-balancing benefits",
+    "High-quality Korean manufacturing"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "ferments",
+    "bifida",
+    "korea-based",
+    "microbiome",
+    "moisturizing",
+    "anti-aging",
+    "gebiotide",
+    "biotechnology"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "G-Biotec is a South Korean biotechnology company specializing in probiotic-derived cosmetic actives. Their flagship product Gebiotide® Bifida Ferment Lysate is a premium ingredient derived from Bifida bacteria fermentation, offering moisturizing, anti-aging, and microbiome-balancing benefits. The ingredient is suitable for various applications including moisturizers, serums, facial masks, and exfoliators. Korean expertise in fermentation technology and cosmetic innovation ensures high-quality products that meet international standards. Focus on scientific research and efficacy validation."
+}

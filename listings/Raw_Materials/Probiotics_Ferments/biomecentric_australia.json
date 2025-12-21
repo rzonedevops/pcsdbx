@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "biomecentric_australia",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.biomecentric.com.au/",
+  "company_name": "BiomeCentric",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Australia",
+  "phone": "",
+  "email": "",
+  "website": "https://www.biomecentric.com.au/",
+  "specializations": [
+    "Microbiome-centric health and beauty",
+    "End-to-end contract manufacturing",
+    "Custom formulation development",
+    "Microbiome-nurturing formulations",
+    "Australian expertise",
+    "Comprehensive manufacturing services"
+  ],
+  "product_highlights": [
+    "Microbiome-centric formulation services",
+    "Contract manufacturing capabilities",
+    "Formulations to nurture the microbiome",
+    "Custom ingredient solutions",
+    "Australian quality standards"
+  ],
+  "certifications": [],
+  "tags": [
+    "microbiome",
+    "contract-manufacturing",
+    "australia-based",
+    "custom-formulation",
+    "microbiome-centric",
+    "health-and-beauty",
+    "nurturing-formulations"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "BiomeCentric is an Australian company specializing in microbiome-centric health and beauty products with end-to-end contract manufacturing services. They focus on developing formulations specifically designed to nurture and support the microbiome, offering comprehensive services from ingredient sourcing through final product manufacturing. BiomeCentric provides custom formulation development with expertise in microbiome science, making them suitable for brands seeking turnkey microbiome-friendly product development. Australian quality standards and focus on microbiome health differentiate them in the market."
+}
