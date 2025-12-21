@@ -1,0 +1,48 @@
+{
+  "id": "bulk_naturals_safflower_oil",
+  "name": "Bulk Naturals Wholesale - Safflower Oil",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Bulk Naturals Wholesale is a natural oils supplier offering cold-pressed Safflower Oil in two varieties: High-Oleic (10.2g monounsaturated fat per serving) and High-Linoleic (72.31% linoleic acid, 16% oleic acid). Both varieties provide natural sources of essential fatty acids for barrier repair, moisturizing, and carrier oil applications.",
+  "website": "https://www.bulknaturalswholesale.com",
+  "contact": {
+    "address": "USA",
+    "email": "info@bulknaturalswholesale.com"
+  },
+  "specializations": [
+    "Cold-pressed safflower oil",
+    "High-oleic variety",
+    "High-linoleic variety",
+    "Natural fatty acid sources",
+    "Carrier oils",
+    "Bulk natural oils"
+  ],
+  "products": [
+    "Safflower Oil - High-Oleic (10.2g monounsaturated fat)",
+    "Safflower Oil - High-Linoleic (72.31% linoleic acid, 16% oleic acid)"
+  ],
+  "certifications": [
+    "Cold-pressed",
+    "Natural",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "safflower-oil",
+    "cold-pressed",
+    "linoleic-acid",
+    "oleic-acid",
+    "natural",
+    "fatty-acids",
+    "carrier-oil",
+    "moisturizing",
+    "usa"
+  ],
+  "pricing_tier": "Moderate",
+  "moq": "5-25 kg",
+  "lead_time": "1-2 weeks",
+  "geographic_coverage": "North America",
+  "validation_status": "Validated",
+  "source": "https://www.bulknaturalswholesale.com/products/cold-pressed-safflower-oil-2-types-high-oliec-high-linoleic-glass-options",
+  "notes": "Natural oils supplier specializing in bulk wholesale. Offers two cold-pressed safflower oil varieties for different formulation needs: High-Oleic (penetration enhancer focus) and High-Linoleic (essential fatty acid focus with 72.31% linoleic acid). Natural source of fatty acids for barrier repair and moisturizing. Ideal carrier oil for lipid-rich formulations requiring natural, plant-based fatty acid sources."
+}
