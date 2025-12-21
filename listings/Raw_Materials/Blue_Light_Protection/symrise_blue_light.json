@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "symrise_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.symrise.com/",
+  "company_name": "Symrise",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.symrise.com/scent-and-care/cosmetic-ingredients/",
+  "specializations": [
+    "Neo Heliopan® UV filter range",
+    "SymEffect Sun 360° protection",
+    "Natural antioxidant botanicals",
+    "UV/IR/Blue Light defense",
+    "Anti-pollution actives",
+    "Sustainable sourcing",
+    "150+ years formulation expertise"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "360-degree-protection",
+    "uv-filters",
+    "natural-botanicals",
+    "antioxidants",
+    "anti-pollution",
+    "sun-care",
+    "germany-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Symrise offers comprehensive 360° sun care solutions covering UV, infrared, and blue light protection. Their Neo Heliopan® range and SymEffect Sun platform combine sun protection with anti-pollution benefits. Backed by 150+ years of formulation expertise and sustainable innovation in natural antioxidant botanicals for environmental protection."
+}

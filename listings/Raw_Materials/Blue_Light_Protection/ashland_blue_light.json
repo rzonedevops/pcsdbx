@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ashland_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.ashland.com/",
+  "company_name": "Ashland",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.ashland.com/",
+  "specializations": [
+    "Niacinamide blue light defense",
+    "Carotenoids for HEV protection",
+    "Mineral oxides (zinc oxide)",
+    "Multifunctional actives",
+    "Clean-label formulations",
+    "Blue light + anti-aging + hydration",
+    "Holistic protection approach"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "niacinamide",
+    "carotenoids",
+    "zinc-oxide",
+    "clean-beauty",
+    "multifunctional",
+    "holistic-protection",
+    "usa-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Ashland is a market leader deploying blue light protection ingredients with focus on clean-label and multifunctional actives. Their portfolio integrates proven ingredients like niacinamide, carotenoids, and mineral oxides into serums, sunscreens, and foundations. Innovation focuses on combining blue light protection with anti-aging and hydration features for holistic, preventive skincare."
+}

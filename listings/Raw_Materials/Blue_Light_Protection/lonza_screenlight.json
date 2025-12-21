@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_screenlight",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.lonza.com/",
+  "company_name": "Lonza",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com/",
+  "specializations": [
+    "ScreenLight™ Block blue light defense",
+    "H2OBioEV™ Bioactive barrier support",
+    "Blue light + urban pollution protection",
+    "Gentle formulations",
+    "Skin rejuvenation science",
+    "Bioactive development",
+    "Environmental defense actives"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "screenlight-block",
+    "bioactive",
+    "barrier-support",
+    "pollution-protection",
+    "gentle-formulation",
+    "switzerland-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Lonza's ScreenLight™ Block is specifically formulated for blue light and urban pollution defense in gentle formulations suitable for creams, makeup, and serums. H2OBioEV™ Bioactive supports barrier function and skin rejuvenation. Combined innovation in blue light protection and pollution defense with focus on bioactive development and environmental protection."
+}

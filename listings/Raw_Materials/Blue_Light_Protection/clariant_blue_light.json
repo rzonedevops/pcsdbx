@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "clariant_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.clariant.com/",
+  "company_name": "Clariant",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.clariant.com/en/Business-Units/Care-Chemicals/Personal-Care/",
+  "specializations": [
+    "Natural actives for urban pollution",
+    "Indoor pollution defense",
+    "Anti-ROS formulations",
+    "In vivo testing validation",
+    "Natural active focus",
+    "Clinical validation",
+    "Citrus flavonoids (Synephrine, Hesperidin, Naringin)"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "natural-actives",
+    "anti-ros",
+    "pollution-defense",
+    "clinical-validation",
+    "citrus-flavonoids",
+    "switzerland-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Clariant offers natural actives targeting urban and indoor pollution with anti-ROS properties. Citrus flavonoids provide defense against indoor and outdoor pollution by blocking pro-inflammatory pathways and reducing histamine release. All ingredients validated through in vivo testing for proven efficacy in natural-based ROS protection."
+}
