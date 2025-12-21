@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "spectrum_chemical_inulin",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.ulprospector.com/en/na/PersonalCare/Detail/5738/10514147/SpecPure-Inulin",
+  "company_name": "Spectrum Chemical - SpecPure® Inulin",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "14422 South San Pedro Street, Gardena, CA 90248, USA",
+  "country": "USA",
+  "phone": "+1 800-772-8786",
+  "email": "",
+  "website": "https://www.spectrumchemical.com/",
+  "specializations": [
+    "SpecPure® Inulin for cosmetics",
+    "Jerusalem artichoke-derived prebiotics",
+    "Fine powder inulin",
+    "Prebiotic skincare ingredients",
+    "High-purity cosmetic ingredients",
+    "Natural prebiotics"
+  ],
+  "certifications": [
+    "SpecPure® grade",
+    "Natural origin"
+  ],
+  "tags": [
+    "prebiotics",
+    "inulin",
+    "jerusalem-artichoke",
+    "usa-based",
+    "natural-origin",
+    "high-purity",
+    "fine-powder",
+    "microbiome-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Spectrum Chemical's SpecPure® Inulin is sourced from Jerusalem artichoke roots (Helianthus tuberosus L.). Available as fine powder with prebiotic activity for skincare applications. Major chemical supplier with extensive product line and quality assurance. Listed on UL Prospector for personal care applications."
+}

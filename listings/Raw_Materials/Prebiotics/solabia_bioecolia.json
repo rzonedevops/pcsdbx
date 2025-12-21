@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "solabia_bioecolia",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.solabia.com/cosmetics/product/bioecolia/",
+  "company_name": "Solabia Group - BioEcolia®",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "ZAC du Bois de l'Épine, 19 avenue de la Forêt de Haye, 54500 Vandœuvre-lès-Nancy, France",
+  "country": "France",
+  "phone": "+33 3 83 44 32 32",
+  "email": "",
+  "website": "https://www.solabia.com/",
+  "specializations": [
+    "Alpha-glucan oligosaccharide prebiotics",
+    "BioEcolia® prebiotic complex",
+    "ECOSKIN pre/probiotic complex",
+    "Enzymatic biocatalysis",
+    "Microbiome protection",
+    "Radiance promotion",
+    "Natural sugar-derived prebiotics"
+  ],
+  "certifications": [
+    "Patented enzymatic process",
+    "Natural origin"
+  ],
+  "tags": [
+    "prebiotics",
+    "alpha-glucan-oligosaccharide",
+    "microbiome",
+    "france-based",
+    "patented-technology",
+    "natural-origin",
+    "enzymatic-synthesis",
+    "radiance",
+    "skin-protection"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Solabia's BioEcolia® is an α-glucan oligosaccharide produced through patented enzymatic biocatalysis from vegetal substrates (sucrose and maltose). Available in powder form. ECOSKIN is a related pre/probiotic complex spray dried on maltodextrin containing α-glucooligosaccharides (GOS). Major French cosmetic ingredient supplier with focus on microbiome protection and radiance promotion. Listed on UL Prospector."
+}

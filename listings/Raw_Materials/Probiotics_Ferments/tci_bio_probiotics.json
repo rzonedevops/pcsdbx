@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "tci_bio_probiotics",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.tci-bio.com/technology/probiotics/",
+  "company_name": "TCI Bio - Private Label Probiotics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.tci-bio.com/",
+  "specializations": [
+    "Private label probiotics",
+    "Custom functional probiotics",
+    "Supplement and skincare probiotics",
+    "High-quality probiotic formulations",
+    "Contract manufacturing",
+    "Custom probiotic development"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "private-label",
+    "custom-formulations",
+    "usa-based",
+    "contract-manufacturing",
+    "skincare",
+    "supplements"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "TCI Bio focuses on private label probiotics for supplements and skincare with high-quality and customized functional probiotics. Offers contract manufacturing with capability for custom probiotic development tailored to specific applications."
+}
