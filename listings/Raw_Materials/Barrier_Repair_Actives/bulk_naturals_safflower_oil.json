@@ -1,0 +1,48 @@
+{
+  "id": "bulk_naturals_safflower_oil",
+  "name": "Bulk Naturals Wholesale - Cold-Pressed Safflower Oil",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Bulk Naturals Wholesale offers cold-pressed Safflower Oil in two varieties: High-Oleic (10.2g monounsaturated fat per serving) and High-Linoleic (72.31% linoleic acid, 16% oleic acid). These natural fatty acid sources provide barrier repair, moisturization, and carrier oil benefits with glass packaging options.",
+  "website": "https://www.bulknaturalswholesale.com",
+  "contact": {
+    "email": "Available via website",
+    "region": "USA"
+  },
+  "specializations": [
+    "Cold-pressed safflower oil",
+    "High-oleic safflower",
+    "High-linoleic safflower",
+    "Natural fatty acid sources",
+    "Carrier oils",
+    "Glass packaging options"
+  ],
+  "products": [
+    "Cold-Pressed Safflower Oil (High-Oleic)",
+    "Cold-Pressed Safflower Oil (High-Linoleic)",
+    "Natural fatty acid oils"
+  ],
+  "certifications": [
+    "Cold-pressed",
+    "Natural",
+    "Two varieties"
+  ],
+  "tags": [
+    "safflower-oil",
+    "cold-pressed",
+    "high-oleic",
+    "high-linoleic",
+    "natural-fatty-acids",
+    "carrier-oil",
+    "barrier-repair",
+    "moisturizing",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Contact for details",
+  "lead_time": "1-3 weeks",
+  "geographic_coverage": "North America",
+  "validation_status": "Validated",
+  "source": "https://www.bulknaturalswholesale.com/products/cold-pressed-safflower-oil-2-types-high-oliec-high-linoleic-glass-options",
+  "notes": "Two varieties provide formulation flexibility: High-Oleic for penetration enhancement, High-Linoleic for essential fatty acid content. Cold-pressed ensures quality and preserves beneficial compounds. Glass packaging options prevent oxidation. Natural source of barrier repair lipids."
+}
