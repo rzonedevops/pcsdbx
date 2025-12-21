@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_revivyl",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.givaudan.com/fragrance-beauty/active-beauty/discovering-the-microbiome",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.givaudan.com/fragrance-beauty/active-beauty",
+  "specializations": [
+    "Microbiome-balancing actives",
+    "Active cosmetic ingredients",
+    "Skin renewal acceleration",
+    "Microbiota protection and activation",
+    "Scientific research and innovation",
+    "Global ingredient development",
+    "Technical formulation support"
+  ],
+  "product_highlights": [
+    "Revivyl™ - speeds up skin renewal and microbiome balance",
+    "Microbiome-focused active ingredients portfolio",
+    "Science-backed efficacy studies",
+    "Ingredients to activate, protect, and balance skin microbiota",
+    "Global distribution network"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "microbiome",
+    "skin-renewal",
+    "switzerland-based",
+    "active-beauty",
+    "scientific",
+    "innovative",
+    "global-leader",
+    "ferments",
+    "microbiota-balance"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Givaudan Active Beauty is a global leader in cosmetic actives with a comprehensive microbiome solutions platform. Their Revivyl™ ingredient accelerates skin renewal while supporting healthy skin microbiota balance. Givaudan focuses on developing active cosmetic ingredients designed to activate, protect, or balance skin microbiota through advanced scientific research. Part of the larger Givaudan Group, they offer extensive technical support, formulation guidance, and global distribution capabilities. Strong emphasis on clinical validation and efficacy testing. Trusted by premium cosmetic brands worldwide for microbiome-friendly formulations."
+}

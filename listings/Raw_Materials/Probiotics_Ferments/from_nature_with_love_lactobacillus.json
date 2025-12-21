@@ -3,6 +3,12 @@
   "listing_id": "from_nature_with_love_lactobacillus",
   "category_path": "Raw_Materials/Probiotics_Ferments",
   "url": "https://www.fromnaturewithlove.com/soap/product.asp?product_id=PRESLACTFERMSFUS725",
+  "company_name": "From Nature With Love",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United States",
   "company_name": "From Nature With Love - Lactobacillus Ferment",
   "status": "active",
   "date_added": "2025-12-21",
@@ -13,6 +19,19 @@
   "email": "",
   "website": "https://www.fromnaturewithlove.com/",
   "specializations": [
+    "Lactobacillus Ferment natural preservative",
+    "Water soluble preservative system",
+    "Natural antimicrobial ingredients",
+    "Skin care and hair care applications",
+    "DIY and professional formulation supplies",
+    "Natural ingredient focus"
+  ],
+  "product_highlights": [
+    "Lactobacillus Ferment water soluble preservative",
+    "Natural antimicrobial properties",
+    "Suitable for skin care and hair care",
+    "DIY-friendly sizing",
+    "Professional quality"
     "Lactobacillus ferment",
     "Water-soluble preservative",
     "Natural antimicrobial",
@@ -24,6 +43,15 @@
   "certifications": [],
   "tags": [
     "probiotics",
+    "ferments",
+    "lactobacillus",
+    "usa-based",
+    "natural-preservative",
+    "antimicrobial",
+    "water-soluble",
+    "skincare",
+    "haircare",
+    "diy-friendly"
     "lactobacillus",
     "ferment",
     "preservative",
@@ -37,5 +65,6 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "From Nature With Love offers Lactobacillus Ferment as a water-soluble, natural antimicrobial preservative for skin care, hair care, and cosmetic formulations. This probiotic-derived ingredient provides preservation benefits while being microbiome-friendly. Suitable for both DIY formulators and professional brands seeking natural preservation systems. The ingredient offers broad spectrum antimicrobial activity from the lactic acid bacteria family. Popular among natural and clean beauty formulators for its dual role as preservative and microbiome-supporting active."
   "notes": "From Nature With Love offers Lactobacillus Ferment as a water-soluble preservative with natural antimicrobial properties. Suitable for skin care, hair care, and cosmetic formulations. Focused on natural ingredients for DIY cosmetic creators."
 }

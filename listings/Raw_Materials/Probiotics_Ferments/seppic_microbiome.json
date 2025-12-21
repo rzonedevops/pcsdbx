@@ -1,0 +1,51 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "seppic_microbiome",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.seppic.com/",
+  "company_name": "Seppic (Air Liquide Healthcare)",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.seppic.com/",
+  "specializations": [
+    "Broad portfolio of microbiome-friendly ingredients",
+    "Regulatory approvals (EU, FDA, global)",
+    "Major cosmetic ingredient supplier",
+    "Microbiome science research",
+    "Technical support and formulation guidance",
+    "Global distribution network"
+  ],
+  "product_highlights": [
+    "Comprehensive microbiome ingredient portfolio",
+    "Regulatory-compliant ingredients",
+    "Scientific research backing",
+    "Global regulatory approvals",
+    "Technical formulation support"
+  ],
+  "certifications": [
+    "EU regulatory approvals",
+    "FDA compliance",
+    "Global regulatory compliance"
+  ],
+  "tags": [
+    "microbiome",
+    "probiotics",
+    "france-based",
+    "major-player",
+    "regulatory-compliant",
+    "global-distribution",
+    "scientific",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Seppic, part of Air Liquide Healthcare, is a major global cosmetic ingredient supplier with a broad portfolio of microbiome-friendly ingredients. Their strength lies in extensive regulatory approvals including EU, FDA, and global compliance, making them a trusted partner for international brands. Seppic offers comprehensive technical support, formulation guidance, and scientific research backing for all their microbiome ingredients. Global distribution network ensures reliable supply worldwide. Suitable for brands requiring regulatory-compliant, scientifically-validated microbiome ingredients with strong technical support."
+}
