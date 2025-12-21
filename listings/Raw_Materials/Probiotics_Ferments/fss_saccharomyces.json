@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "fss_saccharomyces",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.formulatorsampleshop.com/products/fss-saccharomyces-ferment",
+  "company_name": "Formulator Sample Shop (FSS)",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.formulatorsampleshop.com/",
+  "specializations": [
+    "FSS Saccharomyces Ferment",
+    "Yeast ferment extract",
+    "Potent anti-aging ingredient",
+    "Yeast fractions for skin vitality",
+    "Formulator-focused ingredients",
+    "Sample sizes for development"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "ferments",
+    "saccharomyces",
+    "yeast",
+    "usa-based",
+    "anti-aging",
+    "fss-brand",
+    "microbiome",
+    "formulator-friendly",
+    "samples"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Formulator Sample Shop (FSS) offers FSS Saccharomyces Ferment, a yeast ferment extract positioned as a potent anti-aging ingredient. Yeast fractions increase skin vitality and support microbiome health. FSS specializes in formulator-focused ingredients with sample sizes available for development work, making it ideal for R&D and small-batch production."
+}

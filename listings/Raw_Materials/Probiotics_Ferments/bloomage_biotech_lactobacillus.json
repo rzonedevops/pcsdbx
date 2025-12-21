@@ -8,6 +8,17 @@
   "date_added": "2025-12-21",
   "date_updated": "2025-12-21",
   "address": "",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.bloomagebiotech.com/",
+  "specializations": [
+    "Lactobacillus Ferment Lysate",
+    "Probiotic Lactobacillus rhamnosus derived",
+    "Ferment lysate form ingredients",
+    "Skin microbiome support",
+    "Biotech-derived cosmetic actives",
+    "Advanced fermentation technology"
   "country": "China (Distributed in USA)",
   "phone": "",
   "email": "",
@@ -41,6 +52,15 @@
   "certifications": [],
   "tags": [
     "probiotics",
+    "ferments",
+    "lactobacillus",
+    "lysate",
+    "china-based",
+    "biotechnology",
+    "microbiome",
+    "rhamnosus",
+    "postbiotic",
+    "innovative"
     "lactobacillus",
     "ferment-lysate",
     "l-rhamnosus",
@@ -63,6 +83,7 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "Bloomage Biotech produces Lactobacillus Ferment Lysate derived from probiotic Lactobacillus rhamnosus in ferment lysate form. Distributed via Lotion Crafter in North America. Uses advanced fermentation technology to create biotech-derived cosmetic actives that support skin microbiome health and barrier function."
   "notes": "Bloomage Biotech produces Lactobacillus Ferment Lysate sourced from probiotic Lactobacillus rhamnosus in ferment lysate form. Available through Lotion Crafter distribution in North America. Focus on skin microbiome support and anti-aging applications."
   "notes": "Bloomage Biotech produces Lactobacillus Ferment Lysate sourced from probiotic Lactobacillus rhamnosus in ferment lysate form. Distributed by Lotion Crafter in North America. Provides probiotic benefits for skin microbiome support without live organisms."
 }

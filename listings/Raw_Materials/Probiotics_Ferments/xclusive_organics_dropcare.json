@@ -8,11 +8,18 @@
   "date_added": "2025-12-21",
   "date_updated": "2025-12-21",
   "address": "",
+  "country": "USA",
   "country": "United States",
   "phone": "",
   "email": "",
   "website": "https://www.xclusivorganics.com/",
   "specializations": [
+    "DropCare® SRF - Saccharomyces/Rice Ferment Filtrate",
+    "Premium skin health ingredient",
+    "Rice fermented with yeast",
+    "Meticulously filtered ferment",
+    "Anti-aging benefits",
+    "Hydration support actives"
     "Saccharomyces/Rice Ferment Filtrate",
     "DropCare® branded ingredients",
     "Premium skin health ingredients",
@@ -34,6 +41,11 @@
     "saccharomyces",
     "rice-ferment",
     "usa-based",
+    "dropcare",
+    "branded-ingredient",
+    "anti-aging",
+    "hydration",
+    "premium"
     "anti-aging",
     "hydration",
     "premium",
@@ -44,5 +56,6 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "Xclusive Organics offers DropCare® SRF (Saccharomyces/Rice Ferment Filtrate), a premium skin health ingredient created through rice fermented with yeast and meticulously filtered. Provides anti-aging benefits and hydration support. Represents high-quality fermentation technology combining traditional rice fermentation with modern biotechnology."
   "notes": "Xclusive Organics offers DropCare® SRF (Saccharomyces/Rice Ferment Filtrate), a premium skin health ingredient created through fermentation of rice with Saccharomyces yeast. The ferment is meticulously filtered to ensure purity and consistency. DropCare® SRF provides anti-aging benefits, supports skin hydration, and promotes overall skin health through microbiome-friendly mechanisms. The combination of rice nutrients and yeast metabolites creates a synergistic effect for enhanced skin benefits. Suitable for premium anti-aging and hydration formulations."
 }

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "rebiome_microbiome",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://rebiome.net/pages/pre-and-pro-biotics",
+  "company_name": "Rebiome",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://rebiome.net/",
+  "specializations": [
+    "Prebiotics, Probiotics, and Postbiotics skin care",
+    "Powerful pre- and probiotics",
+    "Carefully selected natural ingredients",
+    "Documented effects on skin strength",
+    "Comprehensive microbiome approach",
+    "Natural ingredient formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "prebiotics",
+    "probiotics",
+    "microbiome",
+    "usa-based",
+    "natural",
+    "comprehensive",
+    "documented-efficacy",
+    "skin-strength"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Rebiome offers comprehensive Prebiotics, Probiotics, and Postbiotics for skin care with powerful pre- and probiotics combined with carefully selected natural ingredients. Features documented effects that strengthen skin. Takes holistic approach to microbiome support through complete ecosystem of pre/pro/postbiotic ingredients."
+}

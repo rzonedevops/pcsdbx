@@ -8,6 +8,17 @@
   "date_added": "2025-12-21",
   "date_updated": "2025-12-21",
   "address": "",
+  "country": "South Korea",
+  "phone": "",
+  "email": "",
+  "website": "https://www.gardenofnaturalsolution.com/",
+  "specializations": [
+    "Yeast Ferment Filtrate",
+    "Saccharomyces cerevisiae ferment",
+    "Natural solution cosmetics",
+    "Korean fermentation technology",
+    "Microbiome-supporting ingredients",
+    "Premium yeast-derived actives"
   "country": "Korea",
   "phone": "",
   "email": "",
@@ -59,6 +70,10 @@
     "yeast",
     "saccharomyces",
     "korea-based",
+    "filtrate",
+    "microbiome",
+    "natural",
+    "biotechnology"
     "natural",
     "anti-aging",
     "fermentation-technology"
@@ -68,6 +83,7 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "The Garden of Naturalsolution Co., Ltd is a Korean company specializing in Yeast Ferment Filtrate derived from Saccharomyces cerevisiae fermentation. Focuses on natural solution cosmetics leveraging Korean expertise in fermentation technology to create premium yeast-derived actives for microbiome-supporting formulations."
   "notes": "The Garden of Naturalsolution offers Yeast Ferment Filtrate derived from Saccharomyces cerevisiae fermentation. Korean company specializing in natural cosmetic actives using traditional fermentation technology."
   "notes": "The Garden of Naturalsolution Co., Ltd is a Korean cosmetic ingredient manufacturer specializing in Yeast Ferment Filtrate derived from Saccharomyces cerevisiae fermentation. Their natural ingredient focus and Korean fermentation expertise deliver high-quality yeast actives with proven anti-aging benefits. Listed on UL Prospector platform for international sourcing. The yeast ferment provides skin vitality, supports microbiome balance, and offers rejuvenating effects. Suitable for natural and premium anti-aging formulations."
 }

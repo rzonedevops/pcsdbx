@@ -11,6 +11,15 @@
   "country": "USA",
   "phone": "",
   "email": "",
+  "website": "https://lotioncrafter.com/",
+  "specializations": [
+    "Brown Rice Ferment Filtrate",
+    "Hydration support",
+    "Anti-aging benefits",
+    "Skin smoothness enhancement",
+    "Radiance promotion",
+    "Resilience building",
+    "DIY and professional formulation supplies"
   "website": "https://lotioncrafter.com",
   "specializations": [
     "Brown rice ferment filtrate",
@@ -42,6 +51,15 @@
   "certifications": [],
   "tags": [
     "probiotics",
+    "ferments",
+    "rice-ferment",
+    "usa-based",
+    "hydration",
+    "anti-aging",
+    "radiance",
+    "microbiome",
+    "diy-friendly",
+    "professional"
     "rice-ferment",
     "filtrate",
     "hydration",
@@ -67,6 +85,7 @@
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
+  "notes": "Lotion Crafter offers Brown Rice Ferment Filtrate with comprehensive benefits including hydration, anti-aging support, skin smoothness, radiance, and resilience. Popular supplier for both DIY and professional formulators, known for quality ingredients and excellent service. Ferment filtrates support microbiome health while providing multiple skin benefits."
   "notes": "Lotion Crafter offers Brown Rice Ferment Filtrate with benefits including hydration, anti-aging support, skin smoothness, radiance, and resilience. Popular with DIY formulators and small-scale manufacturers."
   "notes": "Lotion Crafter offers Brown Rice Ferment Filtrate with benefits including hydration, anti-aging support, skin smoothness, radiance, and resilience. Popular supplier for DIY cosmetic creators and small-scale formulators."
 }

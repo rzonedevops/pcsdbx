@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "codex_labs_preservatives",
+  "category_path": "Raw_Materials/Preservatives",
+  "url": "https://www.codexlabscorp.com/blogs/skincare/why-natural-preservatives-for-cosmetics-is-better",
+  "company_name": "Codex Labs Corp",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.codexlabscorp.com/",
+  "specializations": [
+    "Natural preservatives for cosmetics",
+    "Microbiome-friendly based on scientific testing",
+    "Independent third-party scientific validation",
+    "Natural preservation systems",
+    "Science-backed natural preservatives",
+    "Microbiome compatibility testing"
+  ],
+  "certifications": [
+    "Independent third-party scientific validation"
+  ],
+  "tags": [
+    "preservatives",
+    "microbiome-friendly",
+    "usa-based",
+    "natural",
+    "scientifically-validated",
+    "third-party-tested",
+    "innovative",
+    "clean-beauty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Codex Labs Corp offers natural preservatives for cosmetics that are microbiome-friendly based on independent third-party scientific testing and validation. Focus on science-backed natural preservation systems that maintain microbiome compatibility. Provides validated solutions for clean beauty formulations with documented microbiome safety."
+}

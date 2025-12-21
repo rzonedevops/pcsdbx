@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "biotechbeauty_microbiome",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.biotechbeautyus.com/blogs/behind-the-lab-bench/prebiotics-probiotics-and-postbiotics-101",
+  "company_name": "BiotechBeauty",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.biotechbeautyus.com/",
+  "specializations": [
+    "Prebiotics, probiotics, and postbiotics",
+    "Oat-based ingredients",
+    "Soy-based ingredients",
+    "Glucomannan ingredients",
+    "Ginseng ingredients",
+    "Science-backed formulations",
+    "Educational resources for formulators"
+  ],
+  "certifications": [],
+  "tags": [
+    "microbiome",
+    "prebiotics",
+    "probiotics",
+    "postbiotics",
+    "usa-based",
+    "science-backed",
+    "botanical-based",
+    "educational",
+    "innovative"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "BiotechBeauty offers comprehensive prebiotics, probiotics, and postbiotics ingredients including oat, soy, glucomannan, and ginseng-based formulations. Known for science-backed approach and educational resources for formulators. Provides comprehensive microbiome solutions with focus on botanical-based ingredients and scientific validation."
+}
