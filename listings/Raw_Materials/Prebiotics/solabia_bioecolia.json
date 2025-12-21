@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "solabia_bioecolia",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.solabia.com/cosmetics/product/bioecolia/",
+  "company_name": "Solabia Group",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.solabia.com",
+  "specializations": [
+    "Alpha-glucan oligosaccharide prebiotics",
+    "Enzymatic synthesis technology",
+    "Patented bioprocessing",
+    "Microbiome protection actives",
+    "Radiance-promoting ingredients",
+    "Natural sugar-derived prebiotics"
+  ],
+  "products": [
+    "BioEcolia® (α-glucan oligosaccharide)",
+    "ECOSKIN (Pre/probiotic complex)",
+    "Alpha-glucooligosaccharides"
+  ],
+  "certifications": [],
+  "tags": [
+    "prebiotics",
+    "alpha-glucan-oligosaccharide",
+    "france-based",
+    "patented-technology",
+    "enzymatic-synthesis",
+    "microbiome-protection",
+    "radiance",
+    "natural-derived",
+    "cosmetics"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "Contact for details",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Solabia's BioEcolia® is a patented α-glucan oligosaccharide produced through enzymatic biocatalysis from natural sugars (sucrose and maltose). Available in powder form. ECOSKIN is a pre/probiotic complex spray-dried on maltodextrin. Focus on microbiome protection and radiance promotion. Distributed by Trulux in some regions."
+}

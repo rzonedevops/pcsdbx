@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "bloomage_biotech_lactobacillus",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://lotioncrafter.com/products/lactobacillus-ferment-lysate",
+  "company_name": "Bloomage Biotech (via Lotion Crafter)",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "China (Distributed in USA)",
+  "phone": "",
+  "email": "",
+  "website": "https://www.bloomagebiotech.com",
+  "specializations": [
+    "Lactobacillus ferment lysates",
+    "Probiotic Lactobacillus rhamnosus",
+    "Fermentation technology",
+    "Skin microbiome actives",
+    "Anti-aging probiotics"
+  ],
+  "products": [
+    "Lactobacillus Ferment Lysate",
+    "Probiotic lysate ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "lactobacillus",
+    "ferment-lysate",
+    "l-rhamnosus",
+    "microbiome",
+    "anti-aging",
+    "china-based",
+    "distributed-usa",
+    "fermentation"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Contact for details",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "Global via distributors",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Bloomage Biotech produces Lactobacillus Ferment Lysate sourced from probiotic Lactobacillus rhamnosus in ferment lysate form. Available through Lotion Crafter distribution in North America. Focus on skin microbiome support and anti-aging applications."
+}

@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "gbiotec_bifida",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.g-biotec.com/products/gebiotide-bifida-ferment-lysate.html",
+  "company_name": "G-Biotec",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Korea",
+  "phone": "",
+  "email": "",
+  "website": "https://www.g-biotec.com",
+  "specializations": [
+    "Gebiotide® branded probiotics",
+    "Bifida ferment lysate",
+    "Probiotic-derived cosmetic actives",
+    "Multi-application formulations",
+    "Korean biotechnology"
+  ],
+  "products": [
+    "Gebiotide® Bifida Ferment Lysate"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "bifida",
+    "ferment-lysate",
+    "korea-based",
+    "branded-ingredient",
+    "moisturizers",
+    "serums",
+    "masks",
+    "microbiome"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Contact for details",
+  "lead_time": "3-4 weeks",
+  "geographic_coverage": "Asia, Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "G-Biotec offers Gebiotide® Bifida Ferment Lysate, a probiotic-derived ingredient suitable for moisturizers, serums, masks, and exfoliators. Korean biotechnology company specializing in cosmetic probiotic actives."
+}

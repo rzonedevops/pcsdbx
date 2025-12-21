@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "probioway_lactobacillus",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.probioway.com/probiotics-bulk-powder/lactobacillus-probiotics/lactobacillus-ferment-lysate.html",
+  "company_name": "Probioway",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.probioway.com",
+  "specializations": [
+    "Lactobacillus ferment lysate manufacturing",
+    "Custom bulk powder production",
+    "Skin brightening probiotics",
+    "Dark spot reduction actives",
+    "Cosmetic probiotic ingredients"
+  ],
+  "products": [
+    "Lactobacillus Ferment Lysate (bulk powder)",
+    "Custom probiotic formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "lactobacillus",
+    "ferment-lysate",
+    "bulk-powder",
+    "brightening",
+    "dark-spots",
+    "china-based",
+    "custom-manufacturing",
+    "microbiome"
+  ],
+  "pricing_tier": "Bulk/Wholesale",
+  "moq": "Bulk quantities",
+  "lead_time": "3-4 weeks",
+  "geographic_coverage": "Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Probioway offers custom manufacturing of Lactobacillus Ferment Lysate in bulk powder form. Benefits include improved dark spots, brightening and whitening skin. Focus on bulk manufacturing for commercial cosmetic production."
+}

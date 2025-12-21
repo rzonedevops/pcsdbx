@@ -1,0 +1,50 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_microbiome_bioactives",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.lonza.com",
+  "company_name": "Lonza",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com",
+  "specializations": [
+    "Bioactive ingredients for microbiome",
+    "Scientific backing and research",
+    "Microbiome-friendly actives",
+    "Clinical validation",
+    "Swiss biotechnology"
+  ],
+  "products": [
+    "Microbiome bioactive ingredients",
+    "Scientifically validated actives"
+  ],
+  "certifications": [
+    "GMP",
+    "ISO certified"
+  ],
+  "tags": [
+    "postbiotics",
+    "bioactives",
+    "microbiome",
+    "scientific-research",
+    "clinical-validation",
+    "switzerland-based",
+    "premium",
+    "biotechnology"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "Contact for details",
+  "lead_time": "4-6 weeks",
+  "geographic_coverage": "Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Lonza is a major cosmetic ingredient supplier with bioactive ingredients for microbiome applications. Strong scientific backing and research capabilities. Swiss biotechnology company with global operations and focus on clinical validation."
+}

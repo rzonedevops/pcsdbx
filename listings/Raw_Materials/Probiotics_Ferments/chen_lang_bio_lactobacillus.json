@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "chen_lang_bio_lactobacillus",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.chenlangbio.com/cosmetic-raw-material/lactobacillus-ferment-lysate",
+  "company_name": "Chen Lang Bio",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "China",
+  "phone": "",
+  "email": "",
+  "website": "https://www.chenlangbio.com",
+  "specializations": [
+    "Lactobacillus ferment lysate manufacturing",
+    "Cosmetic raw materials",
+    "Bulk probiotic ingredients",
+    "Chinese biotechnology"
+  ],
+  "products": [
+    "Lactobacillus Ferment Lysate",
+    "Cosmetic probiotic ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "lactobacillus",
+    "ferment-lysate",
+    "china-based",
+    "bulk-manufacturing",
+    "cosmetic-raw-materials",
+    "microbiome",
+    "biotechnology"
+  ],
+  "pricing_tier": "Bulk/Wholesale",
+  "moq": "Bulk quantities",
+  "lead_time": "4-5 weeks",
+  "geographic_coverage": "Asia, Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Chen Lang Bio is a leading manufacturer and supplier of Lactobacillus Ferment Lysate as a cosmetic raw material. Focus on bulk quantities for commercial production in Asia and globally."
+}

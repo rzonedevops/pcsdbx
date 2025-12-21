@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "from_nature_with_love_lactobacillus",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.fromnaturewithlove.com/soap/product.asp?product_id=PRESLACTFERMSFUS725",
+  "company_name": "From Nature With Love",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.fromnaturewithlove.com",
+  "specializations": [
+    "Lactobacillus ferment preservatives",
+    "Water-soluble natural antimicrobials",
+    "Skin care ingredients",
+    "Hair care ingredients",
+    "DIY cosmetic formulation"
+  ],
+  "products": [
+    "Lactobacillus Ferment (Water Soluble Preservative)"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "lactobacillus",
+    "ferment",
+    "water-soluble",
+    "preservation",
+    "natural-antimicrobial",
+    "usa-based",
+    "skin-care",
+    "hair-care",
+    "microbiome"
+  ],
+  "pricing_tier": "Budget-Friendly",
+  "moq": "Small quantities available",
+  "lead_time": "1 week",
+  "geographic_coverage": "North America",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "From Nature With Love offers Lactobacillus Ferment as a water-soluble preservative suitable for skin care, hair care, and cosmetic formulations. Natural antimicrobial properties. Focus on DIY and small-scale formulation."
+}
