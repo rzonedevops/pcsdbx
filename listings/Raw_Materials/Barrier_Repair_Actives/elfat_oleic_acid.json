@@ -1,0 +1,45 @@
+{
+  "id": "elfat_oleic_acid",
+  "name": "ELFAT (Elchemy) - Oleic Acid",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "ELFAT (Elchemy) offers Oleic Acid, a monounsaturated omega-9 fatty acid naturally found in olive and canola oils. This versatile fatty acid serves as a penetration enhancer, emollient, and barrier support lipid for cosmetic formulations. Essential component for barrier repair and moisturization.",
+  "website": "https://elchemy.com",
+  "contact": {
+    "brand": "ELFAT",
+    "email": "Available via website"
+  },
+  "specializations": [
+    "Oleic acid",
+    "Omega-9 fatty acids",
+    "Penetration enhancers",
+    "Emollients",
+    "Barrier support lipids"
+  ],
+  "products": [
+    "Oleic Acid",
+    "Omega-9 fatty acids",
+    "Cosmetic-grade fatty acids"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Quality controlled"
+  ],
+  "tags": [
+    "oleic-acid",
+    "omega-9",
+    "fatty-acid",
+    "penetration-enhancer",
+    "emollient",
+    "barrier-repair",
+    "moisturizing",
+    "natural-derived"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Contact for details",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://elchemy.com/product/oleic-acid-422",
+  "notes": "Oleic acid is a versatile monounsaturated fatty acid with multiple cosmetic applications. Found naturally in olive and canola oils. Functions as penetration enhancer helping other actives reach deeper skin layers. Essential for barrier repair formulations."
+}
