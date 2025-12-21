@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "symrise_360_protection",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.symrise.com/",
+  "company_name": "Symrise - 360° Protection Platform",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.symrise.com/scent-and-care/cosmetic-ingredients/",
+  "specializations": [
+    "Integrated UV + IR + Blue Light + Pollution platforms",
+    "360° environmental protection",
+    "Sustainable innovation",
+    "Complete environmental defense formulations",
+    "Comprehensive formulation development",
+    "Multi-mechanism protection",
+    "Total skin protection systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "360-degree-protection",
+    "blue-light-protection",
+    "anti-pollution",
+    "uv-protection",
+    "ir-protection",
+    "multi-mechanism",
+    "comprehensive-defense",
+    "germany-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Symrise provides integrated 360° environmental protection platforms combining UV, IR, blue light, and pollution defense. Sustainable innovation delivers complete environmental defense formulations with multi-mechanism protection. Comprehensive formulation development support for total skin protection systems addressing all contemporary environmental stressors."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dksh_pollution",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.dksh.com/",
+  "company_name": "DKSH",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dksh.com/",
+  "specializations": [
+    "Black Complex detoxifying active",
+    "Bamboo Charcoal Water purification",
+    "Activated charcoal for pollution absorption",
+    "Urban defense formulations",
+    "Distribution expertise",
+    "Detoxification actives",
+    "Pollution particle removal"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "activated-charcoal",
+    "detoxification",
+    "urban-defense",
+    "distribution",
+    "pollution-absorption",
+    "switzerland-based",
+    "distributor"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "DKSH supplies Black Complex and Bamboo Charcoal Water among other detoxifying actives for urban defense formulations. Focus on pollution absorption and skin detoxification through activated charcoal-based systems. Strong distribution expertise with global network for product sourcing and pollution particle removal technologies."
+}

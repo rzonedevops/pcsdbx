@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "rahn_ag_antioxidants",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.rahn-group.com/",
+  "company_name": "Rahn AG",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.rahn-group.com/",
+  "specializations": [
+    "Anti-blue-light cosmetics",
+    "Antioxidant preservation",
+    "Swiss R&D excellence",
+    "Clinical application focus",
+    "Visible skin improvement",
+    "Antioxidant-focused protection",
+    "Scientific formulation guidance"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "antioxidants",
+    "swiss-rd",
+    "clinical-application",
+    "skin-improvement",
+    "scientific-formulation",
+    "switzerland-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Rahn AG provides anti-blue-light cosmetics with antioxidant preservation backed by Swiss R&D excellence. Clinical application focus demonstrates visible skin improvement through antioxidant-focused protection strategies. Scientific formulation guidance supports development of effective blue light defense products with proven results."
+}

@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "zymo_cosmetics_defense",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://zymocosmetics.com/",
+  "company_name": "Zymo Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://zymocosmetics.com/",
+  "specializations": [
+    "Lutein for blue light protection",
+    "Carotenoids environmental defense",
+    "Iron oxides for HEV blocking",
+    "Activated charcoal detoxification",
+    "Niacinamide multi-protection",
+    "Defense-driven formulations",
+    "Modern environmental protection focus"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "lutein",
+    "carotenoids",
+    "iron-oxides",
+    "niacinamide",
+    "environmental-defense",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Zymo Cosmetics formulates defense-driven skincare and haircare specializing in lutein, carotenoids, iron oxides, activated charcoal, and niacinamide for modern environmental protection. Focus on combining blue light defense with pollution protection for comprehensive urban lifestyle protection. Innovation in addressing contemporary environmental stressors."
+}
