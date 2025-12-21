@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makingcosmetics_lactobacillus",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.makingcosmetics.com/PRV-LACTOBF-01.html",
+  "company_name": "MakingCosmetics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makingcosmetics.com/",
+  "specializations": [
+    "Lactobacillus Ferment",
+    "Natural anti-microbial agent",
+    "Broad spectrum preservation",
+    "Lactic acid bacteria family",
+    "DIY and professional supplies",
+    "Educational resources for formulators"
+  ],
+  "certifications": [],
+  "tags": [
+    "probiotics",
+    "ferments",
+    "lactobacillus",
+    "usa-based",
+    "natural-antimicrobial",
+    "preservation",
+    "microbiome",
+    "diy-friendly",
+    "educational"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "MakingCosmetics offers Lactobacillus Ferment as a natural anti-microbial agent from the lactic acid bacteria family, providing broad spectrum preservation. Popular supplier for both DIY and professional formulators with educational resources and comprehensive ingredient selection. Combines preservation benefits with microbiome-friendly properties."
+}
