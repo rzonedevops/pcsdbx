@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makingcosmetics_lactobacillus_ferment",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.makingcosmetics.com/PRV-LACTOBF-01.html",
+  "company_name": "MakingCosmetics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "10800 231st Way NE, Redmond, WA 98053, USA",
+  "country": "USA",
+  "phone": "+1 425-292-9502",
+  "email": "support@makingcosmetics.com",
+  "website": "https://www.makingcosmetics.com",
+  "specializations": [
+    "Lactobacillus ferment preservatives",
+    "Natural anti-microbial agents",
+    "Broad spectrum preservation",
+    "Lactic acid bacteria products",
+    "Small quantity availability"
+  ],
+  "products": [
+    "Lactobacillus Ferment",
+    "Natural preservation systems"
+  ],
+  "certifications": [
+    "ISO certified",
+    "FDA-registered",
+    "cGMP facility"
+  ],
+  "tags": [
+    "probiotics",
+    "lactobacillus",
+    "ferment",
+    "preservation",
+    "natural-antimicrobial",
+    "broad-spectrum",
+    "usa-based",
+    "small-quantities",
+    "microbiome"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Small quantities available",
+  "lead_time": "1-2 weeks",
+  "geographic_coverage": "North America, International",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "MakingCosmetics offers Lactobacillus Ferment as a natural anti-microbial agent with broad spectrum preservation capabilities. Part of the lactic acid bacteria family. Excellent for small-scale formulators and R&D. ISO certified, FDA-registered, cGMP facility."
+}

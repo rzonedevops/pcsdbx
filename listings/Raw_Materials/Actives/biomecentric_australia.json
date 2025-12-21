@@ -8,6 +8,11 @@
   "date_added": "2025-12-21",
   "date_updated": "2025-12-21",
   "address": "",
+  "company_name": "BiomeCentric - Microbiome-Centric Health & Beauty",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Australia",
   "country": "Australia",
   "phone": "",
   "email": "",
@@ -19,6 +24,9 @@
     "Comprehensive microbiome approach",
     "Contract manufacturing services",
     "Australian microbiome expertise"
+    "Custom microbiome formulations",
+    "Private label manufacturing",
+    "Microbiome-focused R&D"
   ],
   "certifications": [],
   "tags": [
@@ -30,6 +38,10 @@
     "microbiome-centric",
     "comprehensive",
     "innovative"
+    "custom-formulations",
+    "private-label",
+    "end-to-end-service",
+    "microbiome-centric"
   ],
   "metadata": {
     "last_validated": "2025-12-21",
@@ -37,4 +49,5 @@
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
   "notes": "BiomeCentric is an Australian company specializing in microbiome-centric health and beauty with end-to-end contract manufacturing services. Focuses on formulations specifically designed to nurture the microbiome. Offers comprehensive approach from concept to finished product with expertise in microbiome-supporting formulations."
+  "notes": "BiomeCentric (Australia) focuses on microbiome-centric health and beauty with end-to-end contract manufacturing services. Specialty is creating formulations to nurture the microbiome. Offers custom microbiome formulations and private label manufacturing with microbiome-focused R&D."
 }

@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_bioactive_microbiome",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.lonza.com/",
+  "company_name": "Lonza",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com/",
+  "specializations": [
+    "Bioactive ingredients for microbiome",
+    "Scientific research and development",
+    "Global biotechnology leader",
+    "Clinical validation",
+    "Technical expertise",
+    "Regulatory compliance",
+    "Global distribution"
+  ],
+  "product_highlights": [
+    "Bioactive microbiome ingredients",
+    "Scientific research backing",
+    "Clinical validation studies",
+    "Premium quality ingredients",
+    "Global regulatory compliance"
+  ],
+  "certifications": [
+    "Global regulatory compliance",
+    "Quality management systems"
+  ],
+  "tags": [
+    "microbiome",
+    "probiotics",
+    "bioactive",
+    "switzerland-based",
+    "major-player",
+    "scientific",
+    "global-leader",
+    "biotechnology",
+    "clinical-validation"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Lonza is a global biotechnology leader specializing in bioactive ingredients for microbiome health. Their strength lies in extensive scientific research, clinical validation, and technical expertise in developing microbiome-friendly cosmetic actives. Lonza provides comprehensive support from ingredient development through formulation guidance to regulatory compliance. Strong emphasis on scientific backing and efficacy studies ensures ingredients meet the highest quality standards. Global distribution network and regulatory compliance make them a trusted partner for international cosmetic brands seeking premium microbiome ingredients."
+}

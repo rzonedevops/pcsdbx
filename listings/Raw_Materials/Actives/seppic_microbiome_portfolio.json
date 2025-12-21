@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "seppic_microbiome_portfolio",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.seppic.com/",
+  "company_name": "Seppic - Microbiome Portfolio",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "France",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.seppic.com/",
+  "specializations": [
+    "Broad microbiome-friendly ingredients portfolio",
+    "Regulatory approvals",
+    "Cosmetic actives",
+    "Personal care ingredients",
+    "Innovation in microbiome science",
+    "Global regulatory compliance"
+  ],
+  "certifications": [
+    "Multiple regulatory approvals",
+    "ISO certified"
+  ],
+  "tags": [
+    "microbiome",
+    "actives",
+    "france-based",
+    "major-supplier",
+    "regulatory-approved",
+    "broad-portfolio",
+    "innovation"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Seppic (Air Liquide Healthcare Specialty Ingredients) offers a broad portfolio of microbiome-friendly ingredients with strong regulatory approvals. Major cosmetic ingredient supplier with extensive research capabilities in microbiome science and global regulatory compliance."
+}

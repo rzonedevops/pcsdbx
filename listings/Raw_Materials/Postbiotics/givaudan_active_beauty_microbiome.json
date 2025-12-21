@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_active_beauty_microbiome",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://www.givaudan.com/fragrance-beauty/active-beauty/discovering-the-microbiome",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.givaudan.com",
+  "specializations": [
+    "Active Beauty microbiome solutions",
+    "Revivyl™ technology",
+    "Skin microbiota activation",
+    "Microbiome protection actives",
+    "Microbiome balance ingredients",
+    "Swiss innovation"
+  ],
+  "products": [
+    "Revivyl™ (skin renewal acceleration)",
+    "Microbiome-activating actives",
+    "Microbiome-protecting ingredients",
+    "Microbiome-balancing complexes"
+  ],
+  "certifications": [],
+  "tags": [
+    "postbiotics",
+    "microbiome-platform",
+    "active-beauty",
+    "revivyl",
+    "skin-renewal",
+    "switzerland-based",
+    "activation",
+    "protection",
+    "balance",
+    "premium"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "Contact for details",
+  "lead_time": "4-6 weeks",
+  "geographic_coverage": "Global",
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Givaudan Active Beauty offers comprehensive microbiome solutions including Revivyl™ which speeds up skin renewal. Active cosmetic ingredients designed to activate, protect, or balance skin microbiota. Swiss innovation with global reach and premium positioning."
+}
