@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "biomecentric_microbiome_manufacturing",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.biomecentric.com.au/",
+  "company_name": "BiomeCentric",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Australia",
+  "phone": "",
+  "email": "",
+  "website": "https://www.biomecentric.com.au",
+  "specializations": [
+    "Microbiome-centric health & beauty",
+    "End-to-end contract manufacturing",
+    "Formulations to nurture the microbiome",
+    "Complete product development services"
+  ],
+  "product_highlights": [
+    "Microbiome-centric formulations",
+    "Contract manufacturing services"
+  ],
+  "certifications": [],
+  "tags": [
+    "contract-manufacturer",
+    "full-service",
+    "biotechnology",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "BiomeCentric offers microbiome-centric health & beauty with end-to-end contract manufacturing services. Specializes in formulations designed to nurture the microbiome. Australian-based contract manufacturer with microbiome expertise."
+}

@@ -1,4 +1,38 @@
 {
+  "schema_version": "1.0",
+  "listing_id": "lotion_crafter_ceramide_complex",
+  "category_path": "Raw_Materials/Barrier_Repair_Actives",
+  "url": "https://lotioncrafter.com/products/ceramide-complex",
+  "company_name": "Lotion Crafter",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://lotioncrafter.com",
+  "specializations": [
+    "Ceramide Complex",
+    "Multi-lamellar system",
+    "Complete ceramide-cholesterol-fatty acid system",
+    "Restores skin barrier",
+    "Improves moisture retention"
+  ],
+  "product_highlights": [
+    "Ceramide Complex (complete barrier repair system)"
+  ],
+  "certifications": [],
+  "tags": [
+    "specialty",
+    "advanced-technology"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_barrier_repair_actives_december_2025.md"
+  },
+  "notes": "Lotion Crafter offers Ceramide Complex, a multi-lamellar system combining ceramides, cholesterol, and fatty acids. Complete barrier repair system that restores skin barrier and improves moisture retention. Target market includes small to medium-scale formulators. US-based cosmetic ingredients distributor."
   "id": "lotion_crafter_ceramide_complex",
   "name": "Lotion Crafter - Ceramide Complex",
   "category": "Raw_Materials",

@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_bioactive_microbiome",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.lonza.com",
+  "company_name": "Lonza",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com",
+  "specializations": [
+    "Bioactive ingredients for microbiome",
+    "Scientific backing and research",
+    "Major cosmetic ingredient supplier",
+    "Advanced biotechnology"
+  ],
+  "product_highlights": [
+    "Microbiome bioactive ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "biotechnology",
+    "advanced-technology",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Lonza offers bioactive ingredients for microbiome with strong scientific backing and research capabilities. Major Swiss biotechnology company and cosmetic ingredient supplier with global presence."
+}
