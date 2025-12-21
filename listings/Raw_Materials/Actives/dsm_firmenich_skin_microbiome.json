@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_skin_microbiome",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.dsm-firmenich.com/en/businesses/perfumery-beauty/beauty-care/trends-and-insights/beauty-trends-archive/healthy-beauty-trend/skin-microbiome-cosmetic-ingredient.html",
+  "company_name": "DSM-Firmenich - Skin Microbiome Cosmetic Ingredients",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dsm-firmenich.com/",
+  "specializations": [
+    "Skin microbiome cosmetic ingredients",
+    "Microbiome skincare formulation for fighting dryness",
+    "Staphylococcus epidermidis boosting technology",
+    "Science-based microbiome actives",
+    "Clinical research",
+    "Innovation in microbiome science"
+  ],
+  "certifications": [
+    "ISO certified",
+    "GMP compliant"
+  ],
+  "tags": [
+    "microbiome",
+    "skin-dryness",
+    "staphylococcus-epidermidis",
+    "switzerland-based",
+    "major-supplier",
+    "science-based",
+    "clinical-research"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "DSM-Firmenich (merged company) offers skin microbiome cosmetic ingredients including microbiome skincare formulation for fighting dryness. Technology boosts Staphylococcus epidermidis levels. Major global nutrition, health, and beauty company with extensive R&D capabilities and clinical research in microbiome science."
+}

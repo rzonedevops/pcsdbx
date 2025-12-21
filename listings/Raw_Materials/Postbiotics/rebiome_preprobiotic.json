@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "rebiome_preprobiotic",
+  "category_path": "Raw_Materials/Postbiotics",
+  "url": "https://rebiome.net/pages/pre-and-pro-biotics",
+  "company_name": "Rebiome",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://rebiome.net/",
+  "specializations": [
+    "Prebiotics, probiotics, and postbiotics",
+    "Microbiome-centric skincare",
+    "Natural ingredient formulations",
+    "Scientifically-backed microbiome support",
+    "Complete microbiome solutions",
+    "Skin barrier strengthening"
+  ],
+  "product_highlights": [
+    "Comprehensive pre/pro/postbiotic portfolio",
+    "Powerful pre- and probiotics with natural ingredients",
+    "Documented effects for skin strengthening",
+    "Microbiome balance optimization",
+    "Science-backed formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "prebiotics",
+    "probiotics",
+    "postbiotics",
+    "microbiome",
+    "usa-based",
+    "natural",
+    "scientific",
+    "barrier-strengthening",
+    "comprehensive"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Rebiome specializes in comprehensive microbiome skincare solutions, offering prebiotics, probiotics, and postbiotics in a unified approach. They focus on powerful pre- and probiotics combined with carefully selected natural ingredients to strengthen skin through documented, scientifically-backed effects. Rebiome's approach emphasizes microbiome balance and skin barrier health, providing complete solutions for formulators seeking to create microbiome-friendly products. Strong emphasis on scientific validation and natural ingredient sourcing. Suitable for brands prioritizing microbiome health and natural formulations."
+}
