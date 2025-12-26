@@ -1,4 +1,50 @@
 {
+  "id": "acme_hardesty_palmitic_acid",
+  "name": "Acme-Hardesty - Palmitic Acid C16",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Acme-Hardesty offers high-purity Palmitic Acid (Hexadecanoic Acid, C16) with minimum 98% purity for cosmetic applications. This essential saturated fatty acid is a critical component of the skin's natural lipid barrier, providing barrier repair, emulsification, and thickening properties. Available in several varieties optimized for different industrial and cosmetic processes.",
+  "website": "https://www.acme-hardesty.com",
+  "contact": {
+    "headquarters": "Blue Bell, PA, USA",
+    "email": "Available via website contact form"
+  },
+  "specializations": [
+    "Palmitic acid (C16)",
+    "High-purity fatty acids",
+    "Barrier repair lipids",
+    "Emulsification",
+    "Cosmetic fatty acids",
+    "Multiple grade varieties"
+  ],
+  "products": [
+    "Palmitic Acid C16 (98% min)",
+    "Hexadecanoic Acid",
+    "Cosmetic-grade fatty acids"
+  ],
+  "certifications": [
+    "High purity (98% minimum)",
+    "Cosmetic grade",
+    "Quality controlled"
+  ],
+  "tags": [
+    "palmitic-acid",
+    "fatty-acid",
+    "barrier-repair",
+    "c16",
+    "emulsifier",
+    "thickener",
+    "skin-lipid",
+    "high-purity",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "Contact for details",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "North America, Global",
+  "validation_status": "Validated",
+  "source": "https://www.acme-hardesty.com/product/palmitic-acid-c16/",
+  "notes": "Palmitic acid is essential for the skin's natural lipid barrier and must be present in proper ratios with ceramides and cholesterol (typically 1:1:1) for effective barrier repair. CAS 57-10-3. Multiple varieties available for different formulation needs."
   "schema_version": "1.0",
   "listing_id": "acme_hardesty_palmitic_acid",
   "category_path": "Raw_Materials/Barrier_Repair_Actives",

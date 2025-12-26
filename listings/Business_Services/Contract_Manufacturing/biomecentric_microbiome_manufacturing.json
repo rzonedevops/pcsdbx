@@ -1,0 +1,45 @@
+{
+  "id": "biomecentric_microbiome_manufacturing",
+  "name": "BiomeCentric - Microbiome-Centric Contract Manufacturing",
+  "category": "Business_Services",
+  "subcategory": "Contract_Manufacturing",
+  "description": "BiomeCentric (Australia) offers end-to-end contract manufacturing specializing in microbiome-centric health and beauty formulations. Their expertise in formulations designed to nurture the microbiome enables brands to create next-generation products that support beneficial bacteria and skin ecosystem health.",
+  "website": "https://www.biomecentric.com.au",
+  "contact": {
+    "location": "Australia",
+    "email": "Available via website"
+  },
+  "specializations": [
+    "Microbiome-centric formulations",
+    "End-to-end contract manufacturing",
+    "Microbiome health & beauty",
+    "Formulation development",
+    "Microbiome-nurturing products"
+  ],
+  "products": [
+    "Microbiome-centric formulations",
+    "Custom microbiome products",
+    "Health & beauty manufacturing"
+  ],
+  "certifications": [
+    "Contract manufacturing",
+    "Microbiome expertise",
+    "Quality controlled"
+  ],
+  "tags": [
+    "contract-manufacturing",
+    "microbiome-centric",
+    "end-to-end",
+    "formulation-development",
+    "australia",
+    "microbiome-expertise",
+    "health-beauty"
+  ],
+  "pricing_tier": "Contact for quotes",
+  "moq": "OEM quantities",
+  "lead_time": "8-12 weeks (development + production)",
+  "geographic_coverage": "Australia, Global",
+  "validation_status": "Validated",
+  "source": "https://www.biomecentric.com.au/",
+  "notes": "Specialized microbiome-centric focus differentiates from general contract manufacturers. End-to-end services cover formulation through production. Australian location provides quality manufacturing with regulatory expertise. Ideal for brands wanting microbiome-focused turnkey solutions."
+}

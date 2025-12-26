@@ -1,5 +1,25 @@
 {
   "id": "dauphine_organics_natcera",
+  "name": "Dauphine Organics - NatCera™ Advanced Ceramide Complex",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Dauphine Organics offers NatCera™ Advanced Ceramide Complex (V), a plant-based, skin-identical vegan formulation that restores and strengthens the natural barrier. This vegan ceramide complex provides complete barrier support while meeting natural and vegan cosmetic requirements.",
+  "website": "https://dauphineorganics.com",
+  "contact": {
+    "email": "Available via website",
+    "region": "Global"
+  },
+  "specializations": [
+    "Vegan ceramide complexes",
+    "Plant-based ceramides",
+    "Skin-identical lipids",
+    "Natural barrier actives",
+    "Vegan cosmetic ingredients"
+  ],
+  "products": [
+    "NatCera™ Advanced Ceramide Complex (V)",
+    "Vegan barrier repair systems",
+    "Plant-based ceramides"
   "name": "Dauphine Organics - NatCera Advanced Ceramide Complex",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
@@ -23,6 +43,10 @@
   "certifications": [
     "Vegan",
     "Plant-based",
+    "Skin-identical",
+    "Natural"
+  ],
+  "tags": [
     "Natural",
     "Clean beauty"
   ],
@@ -32,6 +56,18 @@
     "vegan",
     "plant-based",
     "skin-identical",
+    "barrier-repair",
+    "natural",
+    "natcera",
+    "branded-ingredient"
+  ],
+  "pricing_tier": "Mid-Premium",
+  "moq": "Contact for details",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://dauphineorganics.com/shop/ceramide-complex-vegan/",
+  "notes": "NatCera™ branded ingredient emphasizes natural and vegan credentials. Plant-based, skin-identical formulation meets growing demand for vegan cosmetics. Advanced complex provides complete barrier support without animal-derived ingredients."
     "natural",
     "barrier-strengthening",
     "clean-beauty",
