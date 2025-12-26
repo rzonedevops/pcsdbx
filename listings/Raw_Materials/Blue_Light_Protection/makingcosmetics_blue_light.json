@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makingcosmetics_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.makingcosmetics.com/",
+  "company_name": "MakingCosmetics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makingcosmetics.com/",
+  "specializations": [
+    "1000+ raw ingredients",
+    "Natural and organic actives",
+    "Innovative blue light protection ingredients",
+    "ISO certified supplier",
+    "FDA registered facility",
+    "Retail and bulk sizes",
+    "Consultative formulation services",
+    "Comprehensive ingredient catalog"
+  ],
+  "certifications": [
+    "ISO",
+    "FDA Registered"
+  ],
+  "tags": [
+    "blue-light-protection",
+    "natural-ingredients",
+    "organic-actives",
+    "comprehensive-catalog",
+    "retail-wholesale",
+    "iso-certified",
+    "fda-registered",
+    "usa-based",
+    "distributor"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "MakingCosmetics is an ISO-certified, FDA-registered supplier providing over 1000 raw ingredients for cosmetics including natural, organic, and innovative actives for blue light protection. Offers both retail and bulk sizes suitable for small to commercial scale operations. Provides consultative formulation services and comprehensive technical support for anti-pollution and blue light defense formulations."
+}

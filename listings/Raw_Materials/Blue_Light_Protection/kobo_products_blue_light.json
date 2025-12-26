@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kobo_products_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.koboproductsinc.com/",
+  "company_name": "Kobo Products",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "South Plainfield, NJ, USA",
+  "country": "USA",
+  "phone": "+1-908-757-0033",
+  "email": "KoboInfo@koboproductsinc.com",
+  "website": "https://www.koboproductsinc.com/",
+  "specializations": [
+    "Surface treated pigments",
+    "Dispersions for blue light protection",
+    "Zinc oxide and titanium dioxide",
+    "COSMOS/ECOCERT certified materials",
+    "Natural origin ingredients",
+    "Advanced delivery systems",
+    "Custom formulation support",
+    "Optical blurring technologies"
+  ],
+  "certifications": [
+    "COSMOS",
+    "ECOCERT"
+  ],
+  "tags": [
+    "blue-light-protection",
+    "pigments",
+    "dispersions",
+    "zinc-oxide",
+    "titanium-dioxide",
+    "natural-origin",
+    "custom-formulation",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Kobo Products is a leading supplier of innovative, technology-based raw materials specializing in surface treated pigments, dispersions, and microspheres for blue light protection. Offers COSMOS/ECOCERT certified materials with natural origin ingredients. Strong focus on advanced delivery, photoprotection, and optical blurring technologies. Global presence with facilities in USA, Brazil, UK, France, Asia Pacific, and Japan."
+}

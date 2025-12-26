@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_film_formers",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.evonik.com/",
+  "company_name": "Evonik - Film Formers",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.evonik.com/",
+  "specializations": [
+    "Film-forming polymers",
+    "Barrier protection actives",
+    "Particle adhesion reduction",
+    "External pollutant shield",
+    "Polymer science expertise",
+    "Advanced film-forming technology",
+    "Protective barrier creams"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "film-formers",
+    "barrier-protection",
+    "polymer-science",
+    "particle-adhesion",
+    "protective-shield",
+    "germany-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Evonik provides film-forming polymers and barrier protection actives that reduce particle adhesion and shield skin from external pollutants. Advanced film-forming technology creates protective barriers in creams and serums. Polymer science expertise enables development of sophisticated protection systems for urban environmental defense."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_combined_protection",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.lonza.com/",
+  "company_name": "Lonza - Combined Protection Systems",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lonza.com/",
+  "specializations": [
+    "ScreenLight™ Block + pollution defense actives",
+    "Gentle formulations",
+    "Combined blue light + pollution mechanisms",
+    "Creams, makeup, serums applications",
+    "Bioactive development",
+    "Multi-mechanism environmental protection",
+    "Skin-friendly protection systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "combined-protection",
+    "blue-light-protection",
+    "anti-pollution",
+    "gentle-formulation",
+    "bioactive",
+    "multi-mechanism",
+    "switzerland-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Lonza combines ScreenLight™ Block with pollution defense actives in gentle formulations suitable for creams, makeup, and serums. Bioactive development expertise delivers multi-mechanism environmental protection through skin-friendly protection systems. Innovation in combining blue light and pollution defense mechanisms for comprehensive urban lifestyle protection."
+}

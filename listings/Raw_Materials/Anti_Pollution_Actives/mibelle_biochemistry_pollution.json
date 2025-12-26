@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "mibelle_biochemistry_pollution",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://mibellebiochemistry.com/",
+  "company_name": "Mibelle Biochemistry",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://mibellebiochemistry.com/",
+  "specializations": [
+    "Depolluphane EpiPlus epigenetic protection",
+    "Detoxophane detox activator",
+    "InfraGuard IR + blue light blocker",
+    "Edelweiss-based actives",
+    "Swiss biotech innovation",
+    "Alpine botanicals",
+    "Clinical validation",
+    "Plant stem cell technology"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "detoxification",
+    "edelweiss",
+    "biotech-actives",
+    "epigenetic-protection",
+    "alpine-botanicals",
+    "clinical-studies",
+    "switzerland-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Mibelle Biochemistry is a Swiss pioneer in biotech-driven cosmetic ingredients. Their anti-pollution portfolio features Depolluphane EpiPlus for long-term protection against epigenetic changes caused by pollution, Detoxophane activating skin's detoxification system, and InfraGuard blocking infrared and blue light-induced free radicals. Specializes in Alpine botanicals including edelweiss for environmental resilience with clinical efficacy documentation."
+}

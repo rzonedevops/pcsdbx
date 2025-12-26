@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "seppic_pollution",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.seppic.com/",
+  "company_name": "Seppic",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "France",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.seppic.com/",
+  "specializations": [
+    "SEPITONIC™ M3 chrono-energizing agent",
+    "Anti-pollution complexes",
+    "Multi-level protection (aging, pollution, stress)",
+    "Skin and hair care actives",
+    "French innovation excellence",
+    "Regulatory compliance expertise",
+    "Formulation development support"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "chrono-energizing",
+    "multi-level-protection",
+    "anti-aging",
+    "stress-defense",
+    "french-innovation",
+    "france-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Seppic offers SEPITONIC™ M3, a chrono-energizing agent active at all ages for anti-aging, vitality, and protection against free radicals, stress, and pollution. Their anti-pollution complexes provide multi-level protection for both skin and hair care applications. Strong regulatory compliance expertise and formulation development support backed by French innovation excellence."
+}
