@@ -1,0 +1,42 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_total_protection",
+  "category_path": "Raw_Materials/Actives",
+  "url": "https://www.dsm-firmenich.com/",
+  "company_name": "DSM-Firmenich - Total Protection",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dsm-firmenich.com/",
+  "specializations": [
+    "Total protection concepts (UV + Blue Light + Pollution)",
+    "Indoor and outdoor protection",
+    "Clinical validation excellence",
+    "Comprehensive defense products",
+    "Full formulation support",
+    "Total skin protection approach",
+    "Multi-location protection (home + office + outdoor)"
+  ],
+  "certifications": [],
+  "tags": [
+    "total-protection",
+    "blue-light-protection",
+    "anti-pollution",
+    "uv-protection",
+    "indoor-outdoor",
+    "clinical-validation",
+    "comprehensive-defense",
+    "switzerland-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "DSM-Firmenich offers total protection concepts combining UV, blue light, and pollution defense for both indoor and outdoor environments. Clinical validation demonstrates efficacy across all skin layers and exposure conditions. Full formulation support enables development of comprehensive defense products with total skin protection approach addressing modern lifestyle challenges."
+}

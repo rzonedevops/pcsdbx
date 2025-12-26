@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_pollution",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.evonik.com/",
+  "company_name": "Evonik",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.evonik.com/",
+  "specializations": [
+    "TEGO® Turmerone ROS scavenging",
+    "ROVISOME® sensitive actives",
+    "Film-forming polymers",
+    "Antioxidants for pollution defense",
+    "Barrier strengthening actives",
+    "Cell protection technologies",
+    "Advanced delivery systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "ros-scavenging",
+    "film-formers",
+    "antioxidants",
+    "barrier-protection",
+    "cell-protection",
+    "germany-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Evonik offers comprehensive skin protection ingredients including TEGO® Turmerone and ROVISOME® sensitive actives addressing both blue light and pollution via ROS scavenging and cell protection. Their portfolio includes film-forming polymers that reduce particle adhesion and shield from external pollutants, plus barrier strengthening actives. Advanced delivery systems enhance ingredient performance and stability."
+}

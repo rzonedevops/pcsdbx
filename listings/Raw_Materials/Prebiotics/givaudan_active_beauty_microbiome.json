@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_active_beauty_microbiome",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.givaudan.com/fragrance-beauty/active-beauty/discovering-the-microbiome",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.givaudan.com",
+  "specializations": [
+    "Active Beauty - Microbiome solutions",
+    "Active cosmetic ingredients for microbiota",
+    "Microbiome activation and protection",
+    "Skin microbiota balance"
+  ],
+  "product_highlights": [
+    "Revivyl™ (speeds up skin renewal)",
+    "Microbiome-targeted active ingredients"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "biotechnology",
+    "advanced-technology",
+    "premium",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Givaudan's Active Beauty division offers microbiome solutions including active cosmetic ingredients designed to activate, protect, or balance skin microbiota. Revivyl™ is their flagship product that speeds up skin renewal. Swiss-based major player in fragrance and active beauty ingredients with strong scientific research capabilities."
+}

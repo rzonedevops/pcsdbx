@@ -4,6 +4,10 @@
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
   "description": "DRAVYOM specializes in cosmetic-grade cholesterol specifically optimized for barrier repair formulations. Their cholesterol grades are designed for optimal performance in cosmetic applications with full regulatory compliance. Focus on skin barrier repair and restoration of stratum corneum lipid balance.",
+  "name": "DRAVYOM - Cholesterol Cosmetic Grade",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "DRAVYOM is a specialty cosmetic ingredients supplier offering cosmetic-grade cholesterol with specialized grades for specific cosmetic applications. Their cholesterol features optimal performance and regulatory compliance with a focus on skin barrier repair formulations.",
   "website": "https://dravyom.com",
   "contact": {
     "address": "India",
@@ -25,6 +29,18 @@
     "Cosmetic grade",
     "GMP compliant",
     "Regulatory approved"
+    "Specialized cholesterol grades",
+    "Skin barrier repair focus",
+    "Optimal performance formulations",
+    "Regulatory compliance",
+    "Indian specialty chemicals"
+  ],
+  "products": [
+    "Cholesterol (Cosmetic Grade, specialized for barrier repair)"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Regulatory compliant"
   ],
   "tags": [
     "barrier-repair",
@@ -42,4 +58,17 @@
   "validation_status": "Validated",
   "source": "https://dravyom.com/products/cosm/cosm-cholesterol",
   "notes": "Specialized cholesterol grades for specific cosmetic applications. Focus on barrier repair and skin health. Optimal performance with full regulatory compliance. Cost-effective option for Asian and emerging markets."
+    "specialized",
+    "regulatory-compliant",
+    "emollient",
+    "moisturizer",
+    "india"
+  ],
+  "pricing_tier": "Moderate",
+  "moq": "10-25 kg",
+  "lead_time": "3-4 weeks",
+  "geographic_coverage": "Asia, Global",
+  "validation_status": "Validated",
+  "source": "https://dravyom.com/products/cosm/cosm-cholesterol",
+  "notes": "Indian specialty cosmetic ingredients supplier with focus on barrier repair actives. Offers specialized cholesterol grades optimized for specific cosmetic applications with regulatory compliance. Focus on skin barrier repair formulations with optimal performance characteristics. Good option for cost-effective cholesterol sourcing with specialized grades."
 }

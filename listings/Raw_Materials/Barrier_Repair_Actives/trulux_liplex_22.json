@@ -4,6 +4,7 @@
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
   "description": "Trulux offers LIPLEX 22, a patented lipid complex designed to deliver skin surface lipid profile. Noncomedogenic and botanically sourced, LIPLEX 22 is ideal for barrier repair in acne-prone and sensitive skin formulations. The patented formulation ensures optimal lipid composition for skin barrier support without pore clogging.",
+  "description": "Trulux is a specialty cosmetic ingredients innovator offering LIPLEX 22, a patented lipid complex featuring noncomedogenic, botanically sourced lipids designed to deliver a skin surface lipid profile. Ideal for barrier repair, acne-prone skin, and sensitive skin formulations with patented biomimetic technology.",
   "website": "https://trulux.com",
   "contact": {
     "address": "USA",
@@ -45,4 +46,36 @@
   "validation_status": "Validated",
   "source": "https://trulux.com/products/liplex-22/",
   "notes": "Patented lipid complex delivers skin surface lipid profile. Noncomedogenic testing ensures suitability for acne-prone skin. Botanically sourced for clean beauty appeal. Designed for barrier repair without pore clogging. Excellent for sensitive and acne-prone skin formulations."
+    "Skin surface lipid profile",
+    "Acne-prone skin solutions",
+    "Sensitive skin formulations"
+  ],
+  "products": [
+    "LIPLEX 22 (Patented noncomedogenic botanical lipid complex)"
+  ],
+  "certifications": [
+    "Patented formulation",
+    "Noncomedogenic",
+    "Botanical sourced",
+    "Dermatologically tested"
+  ],
+  "tags": [
+    "barrier-repair",
+    "lipid-complex",
+    "patented",
+    "noncomedogenic",
+    "botanical",
+    "acne-prone",
+    "sensitive-skin",
+    "biomimetic",
+    "innovation",
+    "usa"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5-25 kg",
+  "lead_time": "3-4 weeks",
+  "geographic_coverage": "North America, Global",
+  "validation_status": "Validated",
+  "source": "https://trulux.com/products/liplex-22/",
+  "notes": "Specialty cosmetic ingredients innovator with patented technology. LIPLEX 22 is a patented lipid complex featuring noncomedogenic, botanically sourced lipids designed to deliver skin surface lipid profile. Ideal for barrier repair in acne-prone and sensitive skin formulations where traditional lipids may cause comedogenicity. Patented formulation ensures unique positioning in premium barrier repair market."
 }

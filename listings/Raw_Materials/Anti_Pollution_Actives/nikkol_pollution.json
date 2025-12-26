@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nikkol_pollution",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.nikkol.co.jp/",
+  "company_name": "NIKKOL GROUP (Nikko Chemicals)",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Japan",
+  "country": "Japan",
+  "phone": "",
+  "email": "",
+  "website": "https://www.nikkol.co.jp/",
+  "specializations": [
+    "Anti-pollution complexes",
+    "Multifunctional protective actives",
+    "Japanese innovation excellence",
+    "Urban defense actives",
+    "Quality standards expertise",
+    "Technical documentation",
+    "Multifunctional protection systems"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "multifunctional",
+    "japanese-innovation",
+    "urban-defense",
+    "quality-standards",
+    "japan-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "NIKKOL GROUP (Nikko Chemicals) provides anti-pollution complexes and multifunctional protective actives backed by Japanese innovation excellence. Specializes in urban defense formulations with rigorous Japanese quality standards. Comprehensive technical documentation supports multifunctional protection system development for pollution defense."
+}

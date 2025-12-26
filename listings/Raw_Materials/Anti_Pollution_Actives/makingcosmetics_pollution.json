@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makingcosmetics_pollution",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.makingcosmetics.com/",
+  "company_name": "MakingCosmetics - Anti-Pollution Range",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makingcosmetics.com/",
+  "specializations": [
+    "Activated charcoal detoxification",
+    "Moringa extract anti-pollution",
+    "Plant extracts for urban defense",
+    "Retail and bulk availability",
+    "Natural anti-pollution ingredients",
+    "ISO certified quality",
+    "Comprehensive ingredient selection"
+  ],
+  "certifications": [
+    "ISO",
+    "FDA Registered"
+  ],
+  "tags": [
+    "anti-pollution",
+    "activated-charcoal",
+    "moringa",
+    "plant-extracts",
+    "natural-ingredients",
+    "retail-wholesale",
+    "iso-certified",
+    "usa-based",
+    "distributor"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "MakingCosmetics offers comprehensive anti-pollution ingredient range including activated charcoal for detoxification, moringa extract, and various plant extracts for urban defense. ISO certified quality with FDA registered facility ensures ingredient reliability. Both retail and bulk availability with natural anti-pollution ingredients suitable for clean beauty formulations."
+}

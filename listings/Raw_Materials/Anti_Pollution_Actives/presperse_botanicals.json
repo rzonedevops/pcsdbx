@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "presperse_botanicals",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.presperse.com/",
+  "company_name": "Presperse - Botanical Extracts",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "USA",
+  "country": "USA",
+  "phone": "",
+  "email": "",
+  "website": "https://www.presperse.com/",
+  "specializations": [
+    "Botanical extracts for pollution defense",
+    "Sustainable sourcing practices",
+    "Green chemistry extraction",
+    "Natural anti-pollution formulations",
+    "Sustainability documentation",
+    "Green extraction methods",
+    "Ethical ingredient sourcing"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "botanical-extracts",
+    "sustainable-sourcing",
+    "green-chemistry",
+    "natural-formulations",
+    "ethical-sourcing",
+    "usa-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Presperse supplies botanical extracts for pollution defense with focus on sustainable sourcing and green chemistry extraction methods. Natural anti-pollution formulations supported by comprehensive sustainability documentation. Ethical ingredient sourcing and environmentally responsible extraction methods for clean beauty applications."
+}

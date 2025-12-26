@@ -1,0 +1,37 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lush_microbiome_friendly_skincare",
+  "category_path": "Raw_Materials/Microbiome_Friendly_Preservatives",
+  "url": "https://www.lush.com/us/en_us/a/clean-beauty-fresh-microbiome-friendly-skincare",
+  "company_name": "Lush",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United Kingdom",
+  "phone": "",
+  "email": "",
+  "website": "https://www.lush.com",
+  "specializations": [
+    "Microbiome-friendly skincare without synthetic preservatives",
+    "Products formulated to stay fresh, effective, and safe",
+    "No synthetic preservatives per EU Cosmetic Regulations Annex 5",
+    "Clean beauty approach"
+  ],
+  "product_highlights": [
+    "Microbiome-friendly preservation systems",
+    "Synthetic-free preservation"
+  ],
+  "certifications": [],
+  "tags": [
+    "natural-ingredients",
+    "eco-friendly",
+    "sustainable"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Lush offers microbiome-friendly skincare without synthetic preservatives, formulated to stay fresh, effective, and safe. No synthetic preservatives as defined under Annex 5 of EU Cosmetic Regulations. UK-based company with clean beauty and sustainability focus."
+}
