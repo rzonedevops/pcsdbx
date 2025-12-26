@@ -20,6 +20,25 @@
     "NatCera™ Advanced Ceramide Complex (V)",
     "Vegan barrier repair systems",
     "Plant-based ceramides"
+  "name": "Dauphine Organics - NatCera Advanced Ceramide Complex",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Dauphine Organics is a natural and vegan cosmetic ingredients supplier offering NatCera Advanced Ceramide Complex (V), a plant-based, skin-identical ceramide complex that restores and strengthens natural barrier. Their vegan formulation is ideal for natural and vegan cosmetics focusing on barrier repair applications.",
+  "website": "https://dauphineorganics.com",
+  "contact": {
+    "address": "Canada",
+    "email": "info@dauphineorganics.com"
+  },
+  "specializations": [
+    "Vegan ceramide complex",
+    "Plant-based ingredients",
+    "Skin-identical lipids",
+    "Natural formulations",
+    "Barrier strengthening",
+    "Clean beauty ingredients"
+  ],
+  "products": [
+    "NatCera Advanced Ceramide Complex (V) - Vegan, plant-based, skin-identical"
   ],
   "certifications": [
     "Vegan",
@@ -28,6 +47,11 @@
     "Natural"
   ],
   "tags": [
+    "Natural",
+    "Clean beauty"
+  ],
+  "tags": [
+    "barrier-repair",
     "ceramide-complex",
     "vegan",
     "plant-based",
@@ -44,4 +68,16 @@
   "validation_status": "Validated",
   "source": "https://dauphineorganics.com/shop/ceramide-complex-vegan/",
   "notes": "NatCera™ branded ingredient emphasizes natural and vegan credentials. Plant-based, skin-identical formulation meets growing demand for vegan cosmetics. Advanced complex provides complete barrier support without animal-derived ingredients."
+    "natural",
+    "barrier-strengthening",
+    "clean-beauty",
+    "canada"
+  ],
+  "pricing_tier": "Moderate to Premium",
+  "moq": "1-5 kg",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "North America, Global",
+  "validation_status": "Validated",
+  "source": "https://dauphineorganics.com/shop/ceramide-complex-vegan/",
+  "notes": "Natural and vegan cosmetic ingredients supplier from Canada. NatCera Advanced Ceramide Complex (V) is a plant-based, skin-identical ceramide complex that restores and strengthens natural barrier. Vegan formulation appeals to natural and clean beauty cosmetics market. Ideal for brands seeking plant-based barrier repair solutions without animal-derived ingredients."
 }

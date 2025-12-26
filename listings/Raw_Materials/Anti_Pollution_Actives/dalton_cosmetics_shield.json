@@ -1,0 +1,40 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dalton_cosmetics_shield",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.dalton-cosmetics.com/",
+  "company_name": "Dalton Cosmetics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dalton-cosmetics.com/int/",
+  "specializations": [
+    "Skin Shield range",
+    "Blue light protection ingredient library",
+    "Pollution defense actives",
+    "Free radical defense",
+    "Urban protection focus",
+    "Comprehensive shield systems",
+    "Environmental stressor protection"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "blue-light-protection",
+    "free-radical-defense",
+    "urban-protection",
+    "shield-systems",
+    "environmental-protection",
+    "germany-based"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Dalton Cosmetics offers Skin Shield range with blue light and pollution ingredient library focusing on free radical defense and urban protection. Comprehensive shield systems provide multi-mechanism protection against environmental stressors. Ingredient library documentation supports formulation development for complete urban defense."
+}

@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "clarins_moringa",
+  "category_path": "Raw_Materials/Anti_Pollution_Actives",
+  "url": "https://www.clarins.com/",
+  "company_name": "Clarins",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "France",
+  "country": "France",
+  "phone": "",
+  "email": "",
+  "website": "https://www.clarins.com/",
+  "specializations": [
+    "Moringa extract (Purisoft®)",
+    "Heavy metal purification",
+    "Cigarette smoke protection",
+    "Anti-pollution formulations",
+    "Clinical validation",
+    "Proprietary extraction methods",
+    "Luxury brand quality"
+  ],
+  "certifications": [],
+  "tags": [
+    "anti-pollution",
+    "moringa",
+    "purification",
+    "heavy-metals",
+    "smoke-protection",
+    "clinical-validation",
+    "france-based",
+    "luxury-brand"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "Clarins provides moringa seed extract under the Purisoft® name for heavy metal purification and cigarette smoke protection. Featured in creams, cleansers, makeup removers, and masks targeting urban pollution. Proprietary extraction methods backed by clinical validation and luxury brand reputation for quality assurance."
+}

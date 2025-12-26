@@ -46,4 +46,42 @@
   "validation_status": "Validated",
   "source": "https://matrixlifescience.com/natural-plant-sterols.html",
   "notes": "PhytoLite brand emphasizes natural and organic credentials. Unblended formulation ensures purity. Customizable per client needs provides flexibility. Economical and profitable positioning suggests competitive pricing."
+  "schema_version": "1.0",
+  "listing_id": "matrix_life_science_phytolite",
+  "category_path": "Raw_Materials/Barrier_Repair_Actives",
+  "url": "https://matrixlifescience.com/natural-plant-sterols.html",
+  "company_name": "Matrix Life Science",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://matrixlifescience.com",
+  "specializations": [
+    "PhytoLite Natural Plant Sterols",
+    "Organic, unblended phytosterols",
+    "Economical and profitable",
+    "Customizable per client needs",
+    "Barrier repair, natural formulations"
+  ],
+  "product_highlights": [
+    "PhytoLite Natural Plant Sterols (organic, unblended)"
+  ],
+  "certifications": [
+    "Organic"
+  ],
+  "tags": [
+    "natural-ingredients",
+    "organic",
+    "affordable",
+    "custom-design"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_barrier_repair_actives_december_2025.md"
+  },
+  "notes": "Matrix Life Science offers PhytoLite Natural Plant Sterols, organic and unblended phytosterols that are economical and profitable. Customizable per client needs for barrier repair and natural formulations. US-based natural ingredients supplier."
 }

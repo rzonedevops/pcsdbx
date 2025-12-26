@@ -1,0 +1,49 @@
+{
+  "id": "croda_cholesterol",
+  "name": "Croda International - Cholesterol NF",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Croda International is a global specialty chemicals company offering Cholesterol NF as a powerful W/O emulsifier, moisturizer, and emollient. Their cholesterol serves as an O/W co-emulsifier and stabilizer, ideal for creams, lotions, ointments, and absorption bases in barrier repair formulations.",
+  "website": "https://www.crodabeauty.com",
+  "contact": {
+    "address": "Snaith Road, East Yorkshire, HU14 3HG, United Kingdom",
+    "phone": "+44 1405 860551",
+    "email": "beauty@croda.com"
+  },
+  "specializations": [
+    "Cholesterol NF",
+    "W/O emulsifiers",
+    "O/W co-emulsifiers",
+    "Moisturizers and emollients",
+    "Barrier repair actives",
+    "Global supply chain"
+  ],
+  "products": [
+    "Cholesterol NF (W/O emulsifier, moisturizer, stabilizer)"
+  ],
+  "certifications": [
+    "NF (National Formulary)",
+    "ISO 9001",
+    "ISO 14001",
+    "Global quality standards"
+  ],
+  "tags": [
+    "barrier-repair",
+    "cholesterol",
+    "nf-grade",
+    "emulsifier",
+    "moisturizer",
+    "emollient",
+    "stabilizer",
+    "global-supplier",
+    "premium",
+    "united-kingdom"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "10-50 kg",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.crodabeauty.com/en-gb/products/product/1958-cholesterol_1_nf",
+  "notes": "Major global specialty chemicals company with extensive experience in cosmetic ingredients. Cholesterol NF serves multiple functions as W/O emulsifier, moisturizer, emollient, O/W co-emulsifier, and stabilizer. Ideal for creams, lotions, ointments, and absorption bases. Strong technical support and reliable global supply chain."
+}

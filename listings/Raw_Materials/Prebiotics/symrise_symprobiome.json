@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "symrise_symprobiome",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.symrise.com/scent-and-care/competence-platforms/symprobiome/",
+  "company_name": "Symrise",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.symrise.com",
+  "specializations": [
+    "SymProBiome™ platform - comprehensive microbiome solutions",
+    "Skin microbiome (dry skin, sweat/moist skin, scalp)",
+    "Product protection with microbiome-friendly preservatives",
+    "Sun protection with microbiome-safe UV filters",
+    "Oral cavity microbiome",
+    "Gut health prebiotics and probiotics"
+  ],
+  "product_highlights": [
+    "SymReboot® L19",
+    "SymDeo® B125",
+    "Frescolat® ML",
+    "Crinipan® PMC Green",
+    "SymGuard® CD",
+    "SymReboot® OC"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "advanced-technology",
+    "organic",
+    "sustainable",
+    "biotechnology",
+    "specialty"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Symrise offers the SymProBiome™ platform, a comprehensive microbiome research platform for skin, scalp, oral, and gut health. Their portfolio includes advanced prebiotics, probiotics, and postbiotics designed to activate, protect, or balance skin microbiota. Major industry player with strong scientific backing and global reach. Products span multiple application areas including deodorants, scalp care, sun protection, and oral care."
+}

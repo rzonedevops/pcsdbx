@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://www.dsm-firmenich.com/",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Switzerland",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.dsm-firmenich.com/",
+  "specializations": [
+    "PARSOL® Max UV+HEV filters",
+    "PARSOL® 340 broad-spectrum protection",
+    "OPTISHARP™ Zeaxanthin microencapsulation",
+    "Niacinamide PC Vitamin B3",
+    "PEPHA®-AGE microalgal bioactive",
+    "Blue light clinical validation",
+    "360° protection (UV+IR+Blue Light)"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "hev-light-defense",
+    "carotenoids",
+    "zeaxanthin",
+    "niacinamide",
+    "uv-filters",
+    "microencapsulation",
+    "clinical-validation",
+    "switzerland-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "DSM-Firmenich provides comprehensive blue light protection actives with clinical validation showing blue light damage across all skin layers. Their OPTISHARP™ Zeaxanthin features patented microencapsulation for stability and bioavailability. Offers complete formulation guidance and clinical study design support for sunscreens, daily wear products, serums, and foundations."
+}

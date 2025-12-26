@@ -1,0 +1,46 @@
+{
+  "id": "chempri_stearic_acid",
+  "name": "Chempri - Stearic Acid Beads",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Chempri is an oleochemicals and derivatives specialist offering Stearic Acid Beads (includes palmitic acid and stearic acid) in bead form for easy handling. Their fatty acid products are essential components for barrier repair formulations, providing lipid matrix support, emulsification, and thickening properties.",
+  "website": "https://chempri.com",
+  "contact": {
+    "address": "Netherlands",
+    "email": "info@chempri.com"
+  },
+  "specializations": [
+    "Oleochemicals and derivatives",
+    "Stearic acid beads",
+    "Palmitic acid + stearic acid blend",
+    "Easy handling bead form",
+    "Barrier repair components",
+    "Fatty acid specialists"
+  ],
+  "products": [
+    "Stearic Acid Beads (includes palmitic and stearic acids)"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Quality assured"
+  ],
+  "tags": [
+    "barrier-repair",
+    "stearic-acid",
+    "palmitic-acid",
+    "fatty-acids",
+    "beads",
+    "easy-handling",
+    "emulsification",
+    "thickening",
+    "oleochemicals",
+    "netherlands"
+  ],
+  "pricing_tier": "Moderate",
+  "moq": "25-100 kg",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "Europe, Global",
+  "validation_status": "Validated",
+  "source": "https://chempri.com/en/product/stearic-acid-beads",
+  "notes": "Oleochemicals and derivatives specialist from Netherlands. Stearic Acid Beads combine palmitic and stearic acids in easy-to-handle bead form. Essential fatty acids for skin barrier lipid matrix formation. Bead form improves handling and dissolution in formulations. Ideal for barrier repair formulations requiring precise fatty acid ratios with convenient processing."
+}

@@ -42,4 +42,38 @@
   "validation_status": "Validated",
   "source": "https://vivion.com/bulk-inulin-supplier/",
   "notes": "Vivion specializes in wholesale bulk ingredients with focus on consistent purity and quality. Bulk inulin supply ideal for large-scale manufacturers requiring reliable prebiotic supply. Competitive pricing for volume orders."
+  "schema_version": "1.0",
+  "listing_id": "vivion_inulin_bulk",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://vivion.com/bulk-inulin-supplier/",
+  "company_name": "Vivion",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://vivion.com",
+  "specializations": [
+    "Bulk inulin supplier",
+    "Wholesale ingredient provider",
+    "Consistent purity and quality",
+    "Prebiotic ingredients"
+  ],
+  "product_highlights": [
+    "Bulk inulin for cosmetic formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "natural-ingredients",
+    "quality",
+    "affordable"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Vivion is a wholesale bulk supplier of inulin with focus on consistent purity and outstanding quality. Offers prebiotic ingredients for cosmetic formulations. US-based ingredient supplier."
 }

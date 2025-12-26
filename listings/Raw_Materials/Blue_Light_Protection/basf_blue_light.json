@@ -1,0 +1,41 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_blue_light",
+  "category_path": "Raw_Materials/Blue_Light_Protection",
+  "url": "https://personal-care.basf.com/",
+  "company_name": "BASF Personal Care",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "Germany",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://personal-care.basf.com/",
+  "specializations": [
+    "Advanced UV filters with HEV protection",
+    "Broad-spectrum sun protection",
+    "Blue light scientific education",
+    "Environmental safety modeling (MERCI)",
+    "Comprehensive technical documentation",
+    "Next-generation filter technology",
+    "Sustainability focus"
+  ],
+  "certifications": [],
+  "tags": [
+    "blue-light-protection",
+    "hev-light",
+    "uv-filters",
+    "broad-spectrum",
+    "scientific-research",
+    "environmental-safety",
+    "germany-based",
+    "major-supplier"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_digital_age_protection_december_2025.md"
+  },
+  "notes": "BASF provides extensive scientific education on HEV light effects and advanced UV filters covering UVA/UVB, infrared, and visible blue light. Their portfolio includes next-generation filters addressing increasing screen time. Participates in MERCI environmental collaboration for sustainability and safety modeling of cosmetic ingredients."
+}

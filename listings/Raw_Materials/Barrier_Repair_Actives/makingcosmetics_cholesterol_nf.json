@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "makingcosmetics_cholesterol_nf",
+  "category_path": "Raw_Materials/Barrier_Repair_Actives",
+  "url": "https://www.makingcosmetics.com/ELL-CHOLES-01.html",
+  "company_name": "MakingCosmetics",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "United States",
+  "phone": "",
+  "email": "",
+  "website": "https://www.makingcosmetics.com",
+  "specializations": [
+    "Cholesterol NF 831",
+    "Excellent natural emollient",
+    "Hydrophobic nature for irritated, dry, chapped skin",
+    "Benefits dry, damaged hair",
+    "Small-scale and DIY formulator focus"
+  ],
+  "product_highlights": [
+    "Cholesterol NF 831 (NF/USP grade)"
+  ],
+  "certifications": [
+    "NF/USP grade"
+  ],
+  "tags": [
+    "natural-ingredients",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_barrier_repair_actives_december_2025.md"
+  },
+  "notes": "MakingCosmetics offers Cholesterol NF 831 (NF/USP grade) as an excellent natural emollient. Hydrophobic nature helps irritated, dry, chapped skin and benefits dry, damaged hair. Target market includes small-scale formulators and DIY cosmetics. US-based supplier."
+}
