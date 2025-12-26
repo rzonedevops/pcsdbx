@@ -1,0 +1,44 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "evonik_microbiome",
+  "category_path": "Raw_Materials/Probiotics_Ferments",
+  "url": "https://www.evonik.com/en/company/businesslines/cs/personal-care/beautyexcellence/esi/skinmicrobiome.html",
+  "company_name": "Evonik",
+  "status": "active",
+  "date_added": "2025-12-26",
+  "date_updated": "2025-12-26",
+  "address": "Global operations",
+  "country": "Germany",
+  "phone": "",
+  "email": "",
+  "website": "https://www.evonik.com",
+  "specializations": [
+    "Skin microbiome solutions",
+    "Advanced microbiota models",
+    "Microbiome science research",
+    "Health and nutrition microbiome",
+    "Animal nutrition microbiome",
+    "Skin care applications"
+  ],
+  "certifications": [],
+  "product_highlights": [
+    "Skin Microbiome Platform - Advanced skin microbiota models for skin care applications",
+    "Health & Nutrition Expertise - Microbiome science transferred from health and animal nutrition to skincare",
+    "Scientific Research - Deep understanding of microbiome interactions and mechanisms"
+  ],
+  "tags": [
+    "microbiome-science",
+    "skin-microbiota",
+    "microbiome-research",
+    "advanced-models",
+    "scientific-validation",
+    "major-player",
+    "german-engineering"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-26",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "Major cosmetic ingredient supplier bringing advanced microbiome science from health and animal nutrition sectors to skincare applications. Offers sophisticated skin microbiota models and deep scientific understanding of microbiome interactions. Evonik's expertise in nutrition and health provides unique insights into beneficial bacteria cultivation and skin ecosystem balance."
+}
