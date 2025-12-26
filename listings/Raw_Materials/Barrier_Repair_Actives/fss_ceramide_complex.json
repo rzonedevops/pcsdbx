@@ -1,0 +1,45 @@
+{
+  "id": "fss_ceramide_complex",
+  "name": "Formulator Sample Shop - FSS Ceramide Complex",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Formulator Sample Shop offers FSS Ceramide Complex - a concentrated mix of different ceramides, cholesterol, free fatty acids, and phytosphingosine. Ideal for personal care products requiring complete barrier repair systems. Small quantities available for formulation development and testing. Comprehensive lipid system in ready-to-use format.",
+  "website": "https://www.formulatorsampleshop.com",
+  "contact": {
+    "address": "USA",
+    "email": "info@formulatorsampleshop.com"
+  },
+  "specializations": [
+    "Complete ceramide complex",
+    "Multiple ceramide types",
+    "Cholesterol inclusion",
+    "Free fatty acids",
+    "Phytosphingosine",
+    "Small-scale formulation"
+  ],
+  "products": [
+    "FSS Ceramide Complex",
+    "Complete barrier repair system",
+    "Multi-component lipid complex"
+  ],
+  "certifications": [
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "ceramide-complex",
+    "cholesterol",
+    "fatty-acids",
+    "phytosphingosine",
+    "complete-system",
+    "small-quantities",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "30g - 500g",
+  "lead_time": "1-2 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.formulatorsampleshop.com/products/fss-ceramide-complex",
+  "notes": "Concentrated mix of different ceramides, cholesterol, free fatty acids, and phytosphingosine. Complete barrier repair system in ready-to-use format. Small quantities support formulation development and testing. Ideal for personal care products requiring comprehensive barrier support."
+}

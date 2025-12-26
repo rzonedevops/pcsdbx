@@ -1,5 +1,40 @@
 {
   "id": "acme_hardesty_palmitic_acid",
+  "name": "Acme-Hardesty - Palmitic Acid (C16)",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Acme-Hardesty supplies high-purity Palmitic Acid (Hexadecanoic Acid, C16) for barrier repair formulations. Minimum 98% pure palmitic acid is essential for lipid barrier formation and provides emulsification and thickening properties. Several varieties available for different industrial processes including cosmetic applications.",
+  "website": "https://www.acme-hardesty.com",
+  "contact": {
+    "address": "Blue Bell, PA, USA",
+    "phone": "+1 (800) 223-7054",
+    "email": "info@acme-hardesty.com"
+  },
+  "specializations": [
+    "High-purity palmitic acid",
+    "Barrier repair lipids",
+    "Emulsification",
+    "Thickening agents",
+    "Structural lipids",
+    "Multiple grades available"
+  ],
+  "products": [
+    "Palmitic Acid (C16)",
+    "Hexadecanoic Acid",
+    "98%+ purity grades"
+  ],
+  "certifications": [
+    "High purity (98%+)",
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "palmitic-acid",
+    "fatty-acid",
+    "c16",
+    "emulsifier",
+    "thickener",
+    "structural-lipid",
   "name": "Acme-Hardesty - Palmitic Acid C16",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
@@ -39,6 +74,12 @@
     "usa-supplier"
   ],
   "pricing_tier": "Mid-Range",
+  "moq": "25kg+",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.acme-hardesty.com/product/palmitic-acid-c16/",
+  "notes": "CAS 57-10-3. Minimum 98% purity ensures high quality for cosmetic applications. Palmitic acid is a critical structural lipid in the skin barrier, comprising approximately 20-25% of stratum corneum lipids. Essential component of ceramide-cholesterol-fatty acid barrier repair systems."
   "moq": "Contact for details",
   "lead_time": "2-4 weeks",
   "geographic_coverage": "North America, Global",

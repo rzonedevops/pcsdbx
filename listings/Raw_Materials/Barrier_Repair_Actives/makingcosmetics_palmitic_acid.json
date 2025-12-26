@@ -1,4 +1,46 @@
 {
+  "id": "makingcosmetics_palmitic_acid",
+  "name": "MakingCosmetics - Palmitic Acid 735",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "MakingCosmetics offers Palmitic Acid 735 for multiple cosmetic applications including barrier repair formulations. Suitable for creams, cream rinses, shampoos, conditioners, and soaps. Palmitic acid is a key structural lipid in the skin barrier and essential for maintaining proper lipid matrix composition. For external use only.",
+  "website": "https://www.makingcosmetics.com",
+  "contact": {
+    "address": "10800 231st Way NE, Redmond, WA 98053, USA",
+    "phone": "+1 425-292-9502",
+    "email": "support@makingcosmetics.com"
+  },
+  "specializations": [
+    "Palmitic acid for cosmetics",
+    "Barrier repair lipids",
+    "Multi-application fatty acid",
+    "Small quantities available",
+    "DIY cosmetic supplies"
+  ],
+  "products": [
+    "Palmitic Acid 735",
+    "Cosmetic fatty acids"
+  ],
+  "certifications": [
+    "Cosmetic grade"
+  ],
+  "tags": [
+    "barrier-repair",
+    "palmitic-acid",
+    "fatty-acid",
+    "structural-lipid",
+    "small-quantities",
+    "diy-cosmetics",
+    "usa-supplier",
+    "multi-application"
+  ],
+  "pricing_tier": "Affordable",
+  "moq": "10g - 1kg",
+  "lead_time": "1-2 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.makingcosmetics.com/EMF-PALMITACID-01.html",
+  "notes": "Excellent resource for small-scale formulators and R&D. Multiple cosmetic applications including creams, shampoos, conditioners, and soaps. Essential structural lipid for barrier repair formulations. Small quantity availability supports experimentation and product development."
   "schema_version": "1.0",
   "listing_id": "makingcosmetics_palmitic_acid",
   "category_path": "Raw_Materials/Barrier_Repair_Actives",

@@ -3,6 +3,30 @@
   "name": "Croda International - Cholesterol NF",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
+  "description": "Croda International offers Cholesterol NF, a powerful W/O emulsifier, moisturizer, and emollient for cosmetic formulations. Croda's cholesterol excels as both a primary W/O emulsifier and an O/W co-emulsifier and stabilizer. Ideal for creams, lotions, ointments, and absorption bases that require barrier repair and moisture retention properties.",
+  "website": "https://www.crodabeauty.com",
+  "contact": {
+    "address": "Snaith, Goole, East Yorkshire DN14 9AA, United Kingdom",
+    "phone": "+44 (0) 1405 860551",
+    "email": "beautyactives@croda.com"
+  },
+  "specializations": [
+    "W/O emulsification",
+    "O/W co-emulsification",
+    "Moisturizing actives",
+    "Emollient systems",
+    "Barrier repair formulations",
+    "NF grade ingredients"
+  ],
+  "products": [
+    "Cholesterol NF",
+    "Emulsifying cholesterol",
+    "Barrier repair lipids"
+  ],
+  "certifications": [
+    "NF grade",
+    "ISO certified",
+    "Croda quality standards"
   "description": "Croda International is a global specialty chemicals company offering Cholesterol NF as a powerful W/O emulsifier, moisturizer, and emollient. Their cholesterol serves as an O/W co-emulsifier and stabilizer, ideal for creams, lotions, ointments, and absorption bases in barrier repair formulations.",
   "website": "https://www.crodabeauty.com",
   "contact": {
@@ -30,6 +54,16 @@
   "tags": [
     "barrier-repair",
     "cholesterol",
+    "wo-emulsifier",
+    "ow-coemulsifier",
+    "moisturizer",
+    "emollient",
+    "nf-grade",
+    "uk-supplier",
+    "global-leader"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5kg+",
     "nf-grade",
     "emulsifier",
     "moisturizer",
@@ -45,5 +79,6 @@
   "geographic_coverage": "Global",
   "validation_status": "Validated",
   "source": "https://www.crodabeauty.com/en-gb/products/product/1958-cholesterol_1_nf",
+  "notes": "Croda is a global leader in specialty ingredients with extensive technical support. Powerful W/O emulsifier with excellent moisturizing and emollient properties. Functions as both primary emulsifier and stabilizer in various formulation types. Suitable for creams, lotions, ointments, and absorption bases."
   "notes": "Major global specialty chemicals company with extensive experience in cosmetic ingredients. Cholesterol NF serves multiple functions as W/O emulsifier, moisturizer, emollient, O/W co-emulsifier, and stabilizer. Ideal for creams, lotions, ointments, and absorption bases. Strong technical support and reliable global supply chain."
 }

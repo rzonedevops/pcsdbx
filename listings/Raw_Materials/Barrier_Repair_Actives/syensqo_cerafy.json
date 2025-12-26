@@ -1,5 +1,50 @@
 {
   "id": "syensqo_cerafy",
+  "name": "Syensqo (formerly Solvay) - Cerafy™ Biomimetic Ceramides",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Syensqo (formerly Solvay) offers the Cerafy™ Range of Biomimetic Ceramides including Cerafy™ Pure NPo and pure biomimetic ceramide III (NP). Ideal solution to boost skin barrier function with biomimetic design that closely mimics natural skin ceramides. Premium barrier repair actives from global specialty chemicals leader.",
+  "website": "https://www.syensqo.com",
+  "contact": {
+    "address": "Belgium",
+    "email": "personal-care@syensqo.com"
+  },
+  "specializations": [
+    "Biomimetic ceramides",
+    "Pure ceramide III (NP)",
+    "Barrier function enhancement",
+    "Biomimetic design",
+    "Premium barrier actives",
+    "Global specialty chemicals"
+  ],
+  "products": [
+    "Cerafy™ Pure NPo",
+    "Cerafy™ Ceramide III (NP)",
+    "Biomimetic ceramide range"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Biomimetic",
+    "ISO certified"
+  ],
+  "tags": [
+    "barrier-repair",
+    "ceramides",
+    "biomimetic",
+    "cerafy",
+    "ceramide-iii",
+    "barrier-function",
+    "premium",
+    "belgium-supplier",
+    "global-leader"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "5kg+",
+  "lead_time": "3-5 weeks",
+  "geographic_coverage": "Global",
+  "validation_status": "Validated",
+  "source": "https://www.syensqo.com/en/brands/cerafy",
+  "notes": "Cerafy™ Pure NPo is the first in the biomimetic ceramide range. Pure biomimetic ceramide III (NP) closely mimics natural skin ceramides. Ideal solution to boost skin barrier function. Global specialty chemicals leader ensures quality and technical support. Premium positioning for high-end formulations."
   "name": "Syensqo (formerly Solvay) - Cerafy Biomimetic Ceramides",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",

@@ -3,6 +3,7 @@
   "name": "Trulux - LIPLEX 22",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
+  "description": "Trulux offers LIPLEX 22, a patented lipid complex designed to deliver skin surface lipid profile. Noncomedogenic and botanically sourced, LIPLEX 22 is ideal for barrier repair in acne-prone and sensitive skin formulations. The patented formulation ensures optimal lipid composition for skin barrier support without pore clogging.",
   "description": "Trulux is a specialty cosmetic ingredients innovator offering LIPLEX 22, a patented lipid complex featuring noncomedogenic, botanically sourced lipids designed to deliver a skin surface lipid profile. Ideal for barrier repair, acne-prone skin, and sensitive skin formulations with patented biomimetic technology.",
   "website": "https://trulux.com",
   "contact": {
@@ -13,6 +14,38 @@
     "Patented lipid complex",
     "Noncomedogenic formulations",
     "Botanically sourced lipids",
+    "Acne-prone skin",
+    "Sensitive skin barrier repair",
+    "Surface lipid profile"
+  ],
+  "products": [
+    "LIPLEX 22",
+    "Patented barrier repair complex",
+    "Noncomedogenic lipids"
+  ],
+  "certifications": [
+    "Patented formulation",
+    "Noncomedogenic tested",
+    "Botanical source"
+  ],
+  "tags": [
+    "barrier-repair",
+    "liplex-22",
+    "patented",
+    "noncomedogenic",
+    "botanical",
+    "acne-prone-skin",
+    "sensitive-skin",
+    "lipid-profile",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "1kg+",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://trulux.com/products/liplex-22/",
+  "notes": "Patented lipid complex delivers skin surface lipid profile. Noncomedogenic testing ensures suitability for acne-prone skin. Botanically sourced for clean beauty appeal. Designed for barrier repair without pore clogging. Excellent for sensitive and acne-prone skin formulations."
     "Skin surface lipid profile",
     "Acne-prone skin solutions",
     "Sensitive skin formulations"

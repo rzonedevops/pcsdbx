@@ -1,5 +1,9 @@
 {
   "id": "dravyom_cholesterol",
+  "name": "DRAVYOM - Cholesterol (Cosmetic Grade)",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "DRAVYOM specializes in cosmetic-grade cholesterol specifically optimized for barrier repair formulations. Their cholesterol grades are designed for optimal performance in cosmetic applications with full regulatory compliance. Focus on skin barrier repair and restoration of stratum corneum lipid balance.",
   "name": "DRAVYOM - Cholesterol Cosmetic Grade",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
@@ -11,6 +15,20 @@
   },
   "specializations": [
     "Cosmetic-grade cholesterol",
+    "Barrier repair focus",
+    "Regulatory compliance",
+    "Optimized for cosmetics",
+    "Skin barrier restoration"
+  ],
+  "products": [
+    "Cholesterol (Cosmetic Grade)",
+    "Barrier repair cholesterol",
+    "Skin-identical lipids"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "GMP compliant",
+    "Regulatory approved"
     "Specialized cholesterol grades",
     "Skin barrier repair focus",
     "Optimal performance formulations",
@@ -28,6 +46,18 @@
     "barrier-repair",
     "cholesterol",
     "cosmetic-grade",
+    "skin-barrier",
+    "lipid-restoration",
+    "india-supplier",
+    "gmp-compliant"
+  ],
+  "pricing_tier": "Affordable",
+  "moq": "1kg+",
+  "lead_time": "3-5 weeks",
+  "geographic_coverage": "Asia, Middle East, International",
+  "validation_status": "Validated",
+  "source": "https://dravyom.com/products/cosm/cosm-cholesterol",
+  "notes": "Specialized cholesterol grades for specific cosmetic applications. Focus on barrier repair and skin health. Optimal performance with full regulatory compliance. Cost-effective option for Asian and emerging markets."
     "specialized",
     "regulatory-compliant",
     "emollient",

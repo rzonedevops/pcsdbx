@@ -3,6 +3,19 @@
   "name": "Carbogen Amcis - Cholesterol NF",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
+  "description": "Carbogen Amcis supplies pharmaceutical-grade Cholesterol NF for cosmetic and pharmaceutical applications. Cholesterol serves as an excellent emulsifying agent and moisturizer in skin conditioning cosmetics. Their cGMP-certified cholesterol ensures the highest quality standards for barrier repair formulations. Multiple grades available including Cholesterol HP (High Purity) for liposomal formulations.",
+  "website": "https://www.carbogen-amcis.com",
+  "contact": {
+    "address": "Switzerland",
+    "email": "info@carbogen-amcis.com"
+  },
+  "specializations": [
+    "NF/USP grade cholesterol",
+    "cGMP certification",
+    "Pharmaceutical-grade quality",
+    "High-purity cholesterol for liposomes",
+    "Emulsifying agents",
+    "Skin conditioning actives"
   "description": "Carbogen Amcis offers Cholesterol NF grade meeting United States Pharmacopeia (USP) and National Formulary (NF) standards. This pharmaceutical-grade cholesterol serves as an excellent emulsifying agent and moisturizer in cosmetic and pharmaceutical preparations. Manufactured under cGMP certification for pharmaceutical-grade quality. Also offers Cholesterol HP (High Purity) for liposomal formulations.",
   "website": "https://www.carbogen-amcis.com",
   "contact": {
@@ -22,6 +35,33 @@
     "Cholesterol NF",
     "Cholesterol HP (High Purity)",
     "Pharmaceutical-grade cholesterol",
+    "Liposomal-grade cholesterol"
+  ],
+  "certifications": [
+    "cGMP",
+    "NF grade",
+    "USP grade",
+    "Pharmaceutical quality"
+  ],
+  "tags": [
+    "barrier-repair",
+    "cholesterol",
+    "nf-grade",
+    "usp-grade",
+    "cgmp-certified",
+    "pharmaceutical-grade",
+    "emulsifying-agent",
+    "moisturizer",
+    "liposomal-formulations",
+    "switzerland-supplier"
+  ],
+  "pricing_tier": "Premium",
+  "moq": "1kg+",
+  "lead_time": "2-4 weeks",
+  "geographic_coverage": "Europe, North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.carbogen-amcis.com/cholesterol-nf-supplier",
+  "notes": "cGMP certification ensures pharmaceutical-grade quality. High-purity cholesterol (Cholesterol HP) is specifically designed for liposomal formulations. Multiple grades available for pharma, cosmetic, and nutritional applications. Excellent choice for premium barrier repair formulations requiring highest quality standards."
     "Nutritional-grade cholesterol"
   ],
   "certifications": [

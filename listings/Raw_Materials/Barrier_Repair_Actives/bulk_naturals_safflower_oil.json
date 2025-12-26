@@ -1,5 +1,9 @@
 {
   "id": "bulk_naturals_safflower_oil",
+  "name": "Bulk Naturals Wholesale - Safflower Oil (High Oleic & Linoleic)",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Bulk Naturals Wholesale offers cold-pressed Safflower Oil in two varieties: High-Oleic (10.2g monounsaturated fat per serving) and High-Linoleic (72.31% linoleic acid, 16% oleic acid). Natural source of essential fatty acids for barrier repair, moisturizing, and carrier oil applications. Cold-pressed processing preserves fatty acid integrity.",
   "name": "Bulk Naturals Wholesale - Cold-Pressed Safflower Oil",
   "category": "Raw_Materials",
   "subcategory": "Barrier_Repair_Actives",
@@ -34,6 +38,14 @@
     "Cold-pressed safflower oil",
     "High-oleic variety",
     "High-linoleic variety",
+    "Natural fatty acid source",
+    "Carrier oils",
+    "Bulk wholesale"
+  ],
+  "products": [
+    "Safflower Oil (High Oleic)",
+    "Safflower Oil (High Linoleic)",
+    "Cold-pressed carrier oils"
     "Natural fatty acid sources",
     "Carrier oils",
     "Bulk natural oils"
@@ -70,6 +82,16 @@
   "tags": [
     "barrier-repair",
     "safflower-oil",
+    "oleic-acid",
+    "linoleic-acid",
+    "carrier-oil",
+    "cold-pressed",
+    "natural-source",
+    "bulk-wholesale",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Affordable",
+  "moq": "1 gallon+",
     "cold-pressed",
     "linoleic-acid",
     "oleic-acid",
@@ -85,5 +107,6 @@
   "geographic_coverage": "North America",
   "validation_status": "Validated",
   "source": "https://www.bulknaturalswholesale.com/products/cold-pressed-safflower-oil-2-types-high-oliec-high-linoleic-glass-options",
+  "notes": "Two varieties for different formulation needs: High-Oleic (monounsaturated-rich, oxidatively stable) and High-Linoleic (essential omega-6 fatty acid source). Cold-pressed processing preserves fatty acid integrity. Natural source of barrier repair lipids. Suitable as carrier oil or fatty acid source in formulations."
   "notes": "Natural oils supplier specializing in bulk wholesale. Offers two cold-pressed safflower oil varieties for different formulation needs: High-Oleic (penetration enhancer focus) and High-Linoleic (essential fatty acid focus with 72.31% linoleic acid). Natural source of fatty acids for barrier repair and moisturizing. Ideal carrier oil for lipid-rich formulations requiring natural, plant-based fatty acid sources."
 }

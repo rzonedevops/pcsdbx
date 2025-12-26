@@ -1,4 +1,49 @@
 {
+  "id": "alfa_chemistry_cholesterol",
+  "name": "Alfa Chemistry - Cholesterol (CAS 57-88-5)",
+  "category": "Raw_Materials",
+  "subcategory": "Barrier_Repair_Actives",
+  "description": "Alfa Chemistry supplies cosmetic-grade cholesterol for anti-aging and moisturizing applications. Their cholesterol functions as a moisturizer and emollient that softens and smooths skin while improving the appearance of fine lines and wrinkles. Essential component for barrier repair formulations and stratum corneum lipid restoration.",
+  "website": "https://www.alfa-chemistry.com",
+  "contact": {
+    "address": "New York, USA",
+    "email": "inquiry@alfa-chemistry.com"
+  },
+  "specializations": [
+    "Cosmetic-grade cholesterol",
+    "Anti-aging applications",
+    "Moisturizing actives",
+    "Emollient systems",
+    "Fine line reduction",
+    "Wrinkle improvement"
+  ],
+  "products": [
+    "Cholesterol (CAS 57-88-5)",
+    "Anti-aging cholesterol",
+    "Moisturizing lipids"
+  ],
+  "certifications": [
+    "Cosmetic grade",
+    "Quality tested"
+  ],
+  "tags": [
+    "barrier-repair",
+    "cholesterol",
+    "anti-aging",
+    "moisturizer",
+    "emollient",
+    "fine-lines",
+    "wrinkle-reduction",
+    "cosmetic-grade",
+    "usa-supplier"
+  ],
+  "pricing_tier": "Mid-Range",
+  "moq": "100g+",
+  "lead_time": "2-3 weeks",
+  "geographic_coverage": "North America, International",
+  "validation_status": "Validated",
+  "source": "https://www.alfa-chemistry.com/product/cholesterol-cas-57-88-5-299523.html",
+  "notes": "Focus on anti-aging and moisturizing applications. Softens and smooths skin while addressing fine lines and wrinkles. Essential for barrier repair and lipid matrix restoration. Chemical supplier with cosmetic ingredient portfolio."
   "schema_version": "1.0",
   "listing_id": "alfa_chemistry_cholesterol",
   "category_path": "Raw_Materials/Barrier_Repair_Actives",
