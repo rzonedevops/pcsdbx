@@ -1,0 +1,35 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "chempri_stearic_acid_beads",
+  "category_path": "Raw_Materials/Barrier_Repair_Actives",
+  "url": "https://chempri.com/en/product/stearic-acid-beads",
+  "company_name": "Chempri",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Netherlands",
+  "phone": "",
+  "email": "",
+  "website": "https://chempri.com",
+  "specializations": [
+    "Stearic Acid Beads (includes palmitic and stearic acid)",
+    "Oleochemicals and derivatives specialist",
+    "Bead form for easy handling",
+    "Cosmetic formulations, barrier repair"
+  ],
+  "product_highlights": [
+    "Stearic Acid Beads"
+  ],
+  "certifications": [],
+  "tags": [
+    "specialty",
+    "quality"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_barrier_repair_actives_december_2025.md"
+  },
+  "notes": "Chempri offers Stearic Acid Beads containing both palmitic and stearic acids. Specialist in oleochemicals and derivatives. Bead form provides easy handling. Applications in cosmetic formulations and barrier repair. Netherlands-based supplier."
+}

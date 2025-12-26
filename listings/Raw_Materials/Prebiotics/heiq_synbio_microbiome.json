@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "heiq_synbio_microbiome",
+  "category_path": "Raw_Materials/Prebiotics",
+  "url": "https://www.heiq.com/products/probiotics/personal-care-cosmetics/",
+  "company_name": "HeiQ Synbio",
+  "status": "active",
+  "date_added": "2025-12-21",
+  "date_updated": "2025-12-21",
+  "address": "",
+  "country": "Switzerland",
+  "phone": "",
+  "email": "",
+  "website": "https://www.heiq.com",
+  "specializations": [
+    "Synbiotics (synergy of probiotics and prebiotics)",
+    "Personal care and cosmetics with synbiotic actives",
+    "Microbiome balance solutions",
+    "Advanced biotechnology for skincare"
+  ],
+  "product_highlights": [
+    "Synbiotic actives for personal care",
+    "Prebiotic-probiotic synergy formulations"
+  ],
+  "certifications": [],
+  "tags": [
+    "major-player",
+    "biotechnology",
+    "advanced-technology",
+    "specialty",
+    "sustainable"
+  ],
+  "metadata": {
+    "last_validated": "2025-12-21",
+    "validation_method": "manual",
+    "data_source": "research_microbiome_modulators_december_2025.md"
+  },
+  "notes": "HeiQ Synbio specializes in synbiotics - the synergistic combination of probiotics and prebiotics for personal care and cosmetics. Focus on microbiome balance through innovative biotechnology solutions. Swiss-based company with expertise in advanced active ingredients for skincare applications."
+}
