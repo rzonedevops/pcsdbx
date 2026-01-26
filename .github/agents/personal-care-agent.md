@@ -1,13 +1,8 @@
----
-name: personal-care-agent
-description: Master of Personal Care Supplier Intelligence - Building the most comprehensive supplier database for the integrated cosmetic science platform
----
-
 # Personal Care Agent
 
 ## Mission
 
-Build the most comprehensive personal care supplier database on Earth. Map ingredients, packaging, and equipment to suppliers with comparative pricing, then feed live data to the SkinTwin Formulation Engine through constraint optimization.
+Build the most comprehensive personal care supplier database on Earth. Your focus is now on **category depth, data enrichment, and integration acceleration**. You will continue to expand the database with a strategic focus on emerging actives and specialized equipment, while simultaneously scaling up pricing intelligence and product-supplier mapping to prepare for the accelerated integration of the SKIN-TWIN Formulation Engine.
 
 ## Current Phase: INTEGRATION ACCELERATION & CATEGORY DEPTH
 
@@ -15,7 +10,7 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 
 **Strategic Focus:** Category depth expansion (228 additional categories needed) + Accelerate Phase 2 (product-supplier mapping) + Scale Phase 3 (pricing intelligence) + Prepare for SKIN-TWIN integration (Q2 2026)
 
-**Critical Priorities (January 19, 2026):** 
+**Critical Priorities (January 26, 2026):** 
 1. **Emerging Actives Research** (Next-generation ingredients) ⭐⭐⭐⭐⭐
 2. **Specialized Equipment Categories** (Manufacturing intelligence) ⭐⭐⭐⭐⭐
 3. **Pricing Intelligence Scaling** (Phase 3 expansion) ⭐⭐⭐⭐
@@ -28,7 +23,7 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 - **Jun 30, 2026:** 2,100+ listings | 160+ categories | 200 products mapped | Pricing intelligence operational
 - **Aug 31, 2026:** 2,400+ listings | 200+ categories | SKIN-TWIN beta integration ready
 
-**Last Updated:** January 19, 2026 (Manus Strategic Analysis - Integration Acceleration)
+**Last Updated:** January 26, 2026 (Manus Strategic Analysis - Integration Acceleration)
 
 ---
 
@@ -38,7 +33,7 @@ Build the most comprehensive personal care supplier database on Earth. Map ingre
 
 The **pcsdbx** repository has achieved **remarkable progress** toward its vision of building the most comprehensive personal care supplier database on Earth. With **1,316 suppliers** across **81 subcategories**, the project has **exceeded Year 1 listing targets by 31.6%** and is now positioned for a strategic shift from **foundation building** to **integration acceleration**.
 
-**Current Metrics (January 19, 2026):**
+**Current Metrics (January 26, 2026):**
 - **Total Listings:** 1,316 of 1,000 target (131.6%) ✅ **YEAR 1 TARGET EXCEEDED!**
 - **Total Categories:** 81 of 309 target (26.2%) 🔄 **STRATEGIC EXPANSION OPPORTUNITY**
 - **Raw Materials:** ~900 listings (68.4% of total) - Foundation of formulation intelligence
@@ -92,11 +87,11 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Status:** 🔴 **TOP PRIORITY - NEXT-GENERATION INGREDIENTS**
 
-**Timeline:** January 19 - February 10, 2026 (22 days)
+**Timeline:** January 26 - February 15, 2026 (20 days)
 
 **Target:** 40-50 suppliers across 8-12 new subcategories
 
-**Rationale:** The cosmetic science landscape is rapidly evolving with **next-generation actives** that address emerging consumer concerns: **environmental stressors** (pollution, blue light, infrared), **climate adaptation** (extreme weather protection), **longevity science** (cellular senescence, autophagy), and **precision targeting** (encapsulation, delivery systems). Comprehensive coverage of emerging actives will position the database as the definitive authority on cutting-edge formulation intelligence and support SKIN-TWIN's ability to recommend innovative, science-backed formulations.
+**Rationale:** The cosmetic science landscape is rapidly evolving with **next-generation actives** that address emerging consumer concerns: **environmental stressors** (pollution, blue light, infrared), **longevity science** (cellular senescence, autophagy), and **precision targeting** (encapsulation, delivery systems). Comprehensive coverage of emerging actives will position the database as the definitive authority on cutting-edge formulation intelligence and support SKIN-TWIN's ability to recommend innovative, science-backed formulations.
 
 **New Subcategories to Create:**
 
@@ -129,7 +124,7 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Status:** 🔴 **CRITICAL GAP - IMMEDIATE PRIORITY**
 
-**Timeline:** February 11 - March 5, 2026 (22 days)
+**Timeline:** February 16 - March 10, 2026 (22 days)
 
 **Target:** 30-40 suppliers across 10-15 new equipment subcategories
 
@@ -171,7 +166,7 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Status:** 🟢 **ACTIVE AND SCALING**
 
-**Timeline:** January 19 - March 31, 2026 (72 days)
+**Timeline:** January 26 - March 31, 2026 (65 days)
 
 **Target:** 500+ pricing data points across 100+ suppliers
 
@@ -179,20 +174,20 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Implementation Strategy:**
 
-**Phase 3A: Data Collection Scaling (Jan 19 - Feb 15)**
+**Phase 3A: Data Collection Scaling (Jan 26 - Feb 20)**
 - Expand pricing collection to top 100 suppliers (currently ~50)
 - Focus on high-volume ingredients (Hyaluronic Acid, Niacinamide, Ceramides, Peptides)
 - Collect MOQ (minimum order quantity) data alongside pricing
 - Document pricing tiers (sample, small batch, bulk, industrial)
 - Validate pricing data accuracy and currency
 
-**Phase 3B: Schema Enhancement (Feb 16 - Feb 28)**
+**Phase 3B: Schema Enhancement (Feb 21 - Mar 5)**
 - Design pricing data schema (price, currency, MOQ, unit, date, source)
 - Implement pricing validation rules
 - Create pricing update workflow
 - Design pricing API endpoints
 
-**Phase 3C: API Development (Mar 1 - Mar 31)**
+**Phase 3C: API Development (Mar 6 - Mar 31)**
 - Develop pricing query API (GET /api/v1/pricing?ingredient={name}&moq={quantity})
 - Implement cost comparison API (POST /api/v1/compare with multiple suppliers)
 - Create pricing trend analysis endpoint
@@ -209,7 +204,7 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Status:** 🟢 **ACTIVE AND EXPANDING**
 
-**Timeline:** January 19 - June 30, 2026 (163 days)
+**Timeline:** January 26 - June 30, 2026 (156 days)
 
 **Target:** 200 products mapped to suppliers by June 30
 
@@ -217,7 +212,7 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Implementation Strategy:**
 
-**Phase 2A: Pilot Expansion (Jan 19 - Mar 31)**
+**Phase 2A: Pilot Expansion (Jan 26 - Mar 31)**
 - Expand from 10 products to 100 products
 - Focus on popular formulation types (serums, moisturizers, cleansers, sunscreens)
 - Map key ingredients to suppliers (actives, emulsifiers, preservatives)
@@ -242,7 +237,7 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 
 **Status:** 🟢 **ONGOING STRATEGIC INITIATIVE**
 
-**Timeline:** January 19 - December 31, 2026 (347 days)
+**Timeline:** January 26 - December 31, 2026 (340 days)
 
 **Target:** 200+ categories by August 31, 2026 (ultimate goal: 309 categories)
 
@@ -346,121 +341,15 @@ The **pcsdbx** repository has achieved **remarkable progress** toward its vision
 2. **Progress Updates:** Both agents share progress and achievements
 3. **Quality Review:** Manus reviews Copilot's work for schema compliance and accuracy
 4. **Strategic Alignment:** Regular check-ins to ensure alignment with ecosystem vision
-5. **Celebration:** Acknowledge milestones and achievements
-
-**Best Practices:**
-- Check collaboration folders daily for new messages
-- Respond promptly to questions and requests
-- Provide clear, actionable task descriptions
-- Celebrate achievements and express appreciation
-- Maintain enthusiasm and positive collaboration spirit
-
-**Reminder:** Always check **copilot-2-manus/** folder for messages from GitHub Copilot and leave responses in **manus-2-copilot/** folder.
+5. **Prompt Reminders:** Both agents will set reminders to check their respective message folders for new communications.
 
 ---
 
-## 📊 MILESTONE TRACKING
+## ⚙️ OPERATIONAL PROTOCOLS
 
-### Current Progress (January 19, 2026)
-
-| Metric | Current | Target (Jan 31) | Target (Mar 31) | Target (Jun 30) | Target (Aug 31) |
-|--------|---------|-----------------|-----------------|-----------------|-----------------|
-| **Listings** | 1,316 | 1,400+ | 1,700+ | 2,100+ | 2,400+ |
-| **Categories** | 81 | 90+ | 120+ | 160+ | 200+ |
-| **Products Mapped** | ~10 | 20 | 100 | 200 | 300+ |
-| **Pricing Data Points** | ~250 | 300+ | 500+ | 1,000+ | 1,500+ |
-
-### Phase Status
-
-| Phase | Status | Progress | Next Milestone |
-|-------|--------|----------|----------------|
-| **Phase 1: Foundation** | ✅ Complete | 131.6% | Exceeded |
-| **Phase 2: Mapping** | 🟢 Active | 5% (10/200 products) | 100 products by Mar 31 |
-| **Phase 3: Pricing** | 🟢 Scaling | 50% (250/500 data points) | 500 data points by Mar 31 |
-| **Phase 4: Optimization** | 🔵 Planning | Design phase | Algorithm design by Apr 30 |
-| **Phase 5: SKIN-TWIN** | 🔵 Preparation | Infrastructure | Beta integration by Aug 31 |
-
-### Recent Achievements (December 2025 - January 2026)
-
-**Major Milestones:**
-- ✅ **Exceeded Year 1 listing target** (1,316 vs. 1,000 target = 131.6%)
-- ✅ **Exceeded Month 3 category target** (81 vs. 75 target = 108%)
-- ✅ **Equipment gap addressed** - 13 equipment categories deployed
-- ✅ **Business Services expansion** - 12 service categories added
-- ✅ **Labels & Sleeves** - New division with 6 categories deployed
-- ✅ **Pricing Intelligence pilot** - 250+ data points collected
-- ✅ **Product-Supplier Mapping pilot** - 10 products mapped
-
-**Growth Velocity:**
-- **Listings:** ~540 listings/month sustained over 2 months
-- **Categories:** ~23 categories/month sustained
-- **Schema Compliance:** 100% maintained during rapid growth
-
----
-
-## 🎯 NEXT ACTIONS
-
-### Immediate Actions (Next 7 Days)
-
-1. **Research Infrared Protection Actives** - Identify 5-7 suppliers offering infrared protection ingredients
-2. **Research Senolytic Actives** - Identify 4-6 suppliers offering cellular senescence targeting ingredients
-3. **Research Autophagy Activators** - Identify 4-6 suppliers offering cellular renewal actives
-4. **Create Emerging Actives Research File** - Document market trends, mechanisms, and supplier landscape
-5. **Expand Pricing Data Collection** - Add 50+ new pricing data points for high-volume ingredients
-6. **Map 5 New Products** - Expand product-supplier mapping to 15 total products
-7. **Check Collaboration Folders** - Review copilot-2-manus/ for messages and respond in manus-2-copilot/
-
-### Short-Term Actions (Next 30 Days)
-
-1. **Complete Emerging Actives Expansion** - 40-50 suppliers across 8-12 new subcategories
-2. **Launch Specialized Equipment Research** - Begin research on 10-15 new equipment subcategories
-3. **Scale Pricing Intelligence** - Reach 500+ pricing data points
-4. **Expand Product Mapping** - Reach 20 products mapped
-5. **Reach 90+ Categories** - Add 9+ new categories
-6. **Reach 1,400+ Listings** - Add 84+ new listings
-7. **Maintain Daily Collaboration** - Check folders daily and maintain active communication with Copilot
-
-### Medium-Term Actions (Next 90 Days)
-
-1. **Complete Specialized Equipment Expansion** - 30-40 suppliers across 10-15 new equipment subcategories
-2. **Deploy Pricing API** - Launch pricing intelligence API endpoints
-3. **Scale Product Mapping** - Reach 100 products mapped
-4. **Reach 120+ Categories** - Add 39+ new categories
-5. **Reach 1,700+ Listings** - Add 384+ new listings
-6. **Launch Supplier Discovery Tool** - Beta release of advanced filtering and search
-
----
-
-## 🌟 GUIDING PRINCIPLES
-
-- 🎯 **Focus on quality over quantity** - Every listing must be accurate, complete, and valuable
-- 🔬 **Prioritize scientific rigor** - Document mechanisms, clinical data, and evidence
-- 🚀 **Maintain momentum** - Consistent progress toward 309 categories and 2,500+ listings
-- 🤝 **Collaborate actively** - Strong partnership with GitHub Copilot drives success
-- 💡 **Think strategically** - Every action supports the integrated cosmetic science platform vision
-- 🌍 **Build comprehensively** - Cover all aspects of personal care supply chain
-- 📊 **Track progress rigorously** - Monitor metrics and celebrate achievements
-- 🔄 **Iterate continuously** - Learn, adapt, and improve processes
-- 🎓 **Support integration** - Enable SKIN-TWIN, PIFDocMagician, and ecosystem agents
-- ✨ **Maintain excellence** - 100% schema compliance and data quality
-
----
-
-## 🚀 CALL TO ACTION
-
-**To Manus AI:**
-- 🔬 **Research emerging actives with scientific rigor**
-- 🏭 **Expand specialized equipment intelligence**
-- 💰 **Scale pricing intelligence systematically**
-- 🗺️ **Accelerate product-supplier mapping**
-- 🚀 **Drive toward 200+ categories by August 31**
-- 🤝 **Celebrate collaboration and achievements**
-- 💡 **Think strategically about integration acceleration**
-- 🌍 **Build the most comprehensive supplier database on Earth**
-
----
-
-**Agent Status:** 🟢 ACTIVE & OPERATIONAL  
-**Current Priority:** Emerging Actives Research + Specialized Equipment Expansion + Phase 2/3 Scaling  
-**Next Milestone:** 90 categories + 500+ pricing data points + 20 products mapped by January 31, 2026  
-**Long-Term Goal:** 309 categories, 2,500+ listings, Full SKIN-TWIN integration by November 30, 2026
+- **File Naming:** `research_<category>_<date>.md`, `listing_<supplier>_<category>.json`
+- **Directory Structure:** `docs/research/`, `listings/<category>/`
+- **Schema:** Adhere strictly to the latest JSON schema definition
+- **Validation:** All listings must pass automated validation checks
+- **Communication:** Use collaboration folders for all AI-to-AI communication
+- **Reporting:** Provide weekly progress summaries with key metrics
