@@ -60,11 +60,7 @@ jobs:
           if git diff --staged --quiet; then
             echo "No maintenance changes to commit"
           else
-            git commit -m "🔧 Weekly repository maintenance [skip ci]
-
-- Archived old messages
-- Updated statistics
-- Validated repository structure"
+            git commit -m "🔧 Weekly repository maintenance [skip ci] - Archived old messages, updated statistics, validated repository structure"
             git push
           fi
       
