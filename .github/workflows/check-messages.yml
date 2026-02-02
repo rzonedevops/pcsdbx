@@ -1,0 +1,118 @@
+name: Check Messages for Copilot
+
+on:
+  schedule:
+    # Run every 4 hours
+    - cron: '0 */4 * * *'
+  
+  push:
+    paths:
+      - 'messages/inbox/manus-2-copilot/**'
+  
+  workflow_dispatch:
+    inputs:
+      force_check:
+        description: 'Force check all messages'
+        required: false
+        default: 'false'
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  check-messages:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+      
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      
+      - name: Check for new messages
+        id: check
+        run: |
+          python .github/scripts/check_messages.py
+      
+      - name: Create issues for new messages
+        if: steps.check.outputs.new_messages == 'true'
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const messages = JSON.parse(`${{ steps.check.outputs.messages_json }}`);
+            
+            console.log(`Processing ${messages.length} new message(s)`);
+            
+            for (const msg of messages) {
+              console.log(`Creating issue for: ${msg.subject}`);
+              
+              // Determine priority label
+              const priorityLabel = `priority-${msg.priority}`;
+              
+              // Create issue body with link to full message
+              const issueBody = `## New Message from ${msg.from}
+            
+            **Date:** ${msg.date}
+            **Priority:** ${msg.priority}
+            **File:** [\`${msg.filepath}\`](https://github.com/${context.repo.owner}/${context.repo.repo}/blob/main/${msg.filepath})
+            
+            ---
+            
+            ${msg.body_preview}
+            
+            ---
+            
+            **Action Required:**
+            Please read the full message in the repository and respond in \`messages/inbox/copilot-2-manus/\` using the message templates.
+            
+            Use the **personal-care-agent** configuration when responding.
+            `;
+              
+              try {
+                const issue = await github.rest.issues.create({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  title: `📬 ${msg.subject}`,
+                  body: issueBody,
+                  labels: ['copilot-message', priorityLabel, 'needs-response']
+                });
+                
+                console.log(`Created issue #${issue.data.number}`);
+                
+                // Add comment mentioning Copilot (if you have a GitHub Copilot user to assign)
+                await github.rest.issues.createComment({
+                  owner: context.repo.owner,
+                  repo: context.repo.repo,
+                  issue_number: issue.data.number,
+                  body: `@github-copilot Please respond to this message using the **personal-care-agent** configuration.\n\nRefer to \`.github/copilot-instructions.md\` for your agent definition and use the collaboration protocol in \`.github/copilot-workflows/collaboration-protocol.md\`.`
+                });
+                
+              } catch (error) {
+                console.error(`Error creating issue for ${msg.filename}: ${error.message}`);
+              }
+            }
+      
+      - name: Commit processed messages tracking
+        if: steps.check.outputs.new_messages == 'true'
+        run: |
+          git config user.name "GitHub Actions Bot"
+          git config user.email "actions@github.com"
+          git add .github/.processed_messages.txt
+          git commit -m "Track processed messages [skip ci]" || echo "No changes to commit"
+          git push || echo "No changes to push"
+      
+      - name: Summary
+        run: |
+          if [ "${{ steps.check.outputs.new_messages }}" == "true" ]; then
+            echo "✅ Processed ${{ steps.check.outputs.message_count }} new message(s)"
+            echo "📬 GitHub Issues created for Copilot notification"
+          else
+            echo "ℹ️ No new messages found"
+          fi
