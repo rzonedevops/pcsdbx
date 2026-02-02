@@ -5,6 +5,7 @@ import json
 import os
 import sys
 import re
+from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
 
@@ -205,7 +206,6 @@ def generate_report(report):
 
 def main():
     """Main entry point."""
-    from datetime import datetime
     
     print("Running repository validation...")
     report = validate_repository()
