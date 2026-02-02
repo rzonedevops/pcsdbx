@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "provital_lingostem",
+  "category_path": "Raw_Materials/Infrared_Protection_Actives",
+  "url": "https://www.weareprovital.com",
+  "company_name": "Provital",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "Spain",
+  "website": "www.weareprovital.com",
+  "specializations": [
+    "LINGOSTEM™ (Product Code: 72830) - Vaccinium vitis-idaea stem cells",
+    "Repairs and prevents UV & IR radiation damage",
+    "Blue light protection",
+    "Anti-photoaging actives",
+    "Antioxidant and free radical scavenging activity",
+    "Clinical evidence with photographic proof",
+    "Wrinkle reduction demonstrated at day 28 and day 56"
+  ],
+  "certifications": [
+    "China compliance",
+    "Vegan compliance",
+    "Halal certificate",
+    "ISO 16128-Natural Origin: 99.8%",
+    "Cosmos Approved"
+  ],
+  "tags": [
+    "plant-stem-cells",
+    "clinical-evidence",
+    "natural-origin",
+    "infrared-protection",
+    "blue-light-protection",
+    "anti-photoaging",
+    "vegan",
+    "halal",
+    "cosmos-approved"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "LINGOSTEM™ provides comprehensive photoprotection (UV + IR + Blue Light) with clinical evidence of wrinkle reduction. 99.8% natural origin with multiple certifications including Cosmos, Vegan, and Halal."
+}

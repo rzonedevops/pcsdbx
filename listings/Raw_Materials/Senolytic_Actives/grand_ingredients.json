@@ -1,0 +1,39 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "grand_ingredients_senolytic",
+  "category_path": "Raw_Materials/Senolytic_Actives",
+  "url": "https://grandingredients.com",
+  "company_name": "Grand Ingredients",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "USA",
+  "website": "www.grandingredients.com",
+  "specializations": [
+    "Fermented Cellular Senescence Modulating Actives",
+    "Fermented ceramides and cellular senescence modulators",
+    "Fermentation-derived ingredients for higher purity",
+    "Improved stability and better skin compatibility",
+    "Advanced fermentation technology for enhanced bioavailability",
+    "Technical support and formulation expertise"
+  ],
+  "certifications": [
+    "Fermentation technology validated",
+    "Quality control standards"
+  ],
+  "tags": [
+    "innovation-pioneer",
+    "fermentation-technology",
+    "senolytic",
+    "cellular-senescence-modulators",
+    "enhanced-bioavailability",
+    "high-purity",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "Specializes in fermented cellular senescence modulators with advanced fermentation technology for enhanced purity, stability, and bioavailability. Unique approach combining fermentation with senolytic activity."
+}

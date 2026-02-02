@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "symrise_infrared_protection",
+  "category_path": "Raw_Materials/Infrared_Protection_Actives",
+  "url": "https://www.symrise.com",
+  "company_name": "Symrise",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "Germany",
+  "website": "www.symrise.com",
+  "specializations": [
+    "Advanced actives for anti-aging and photoprotection",
+    "Infrared (IR-A) radiation protection actives",
+    "Anti-pollution actives",
+    "Comprehensive range of cosmetic active ingredients",
+    "Proven efficacy with clinical validation",
+    "Technical support and formulation expertise",
+    "Global distribution network"
+  ],
+  "certifications": [
+    "Worldwide approved",
+    "Patented ingredients based on natural sources",
+    "ISO compliance",
+    "GMP"
+  ],
+  "tags": [
+    "major-player",
+    "global-leader",
+    "innovation-pioneer",
+    "clinical-evidence",
+    "technical-support",
+    "photoprotection",
+    "infrared-protection",
+    "anti-pollution"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "Leading supplier with extensive R&D capabilities in infrared protection and anti-pollution actives. Patented ingredients based on natural sources with proven efficacy and scientific validation."
+}

@@ -1,0 +1,38 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lucas_meyer_elix_ir",
+  "category_path": "Raw_Materials/Infrared_Protection_Actives",
+  "url": "https://www.clariant.com",
+  "company_name": "Lucas Meyer Cosmetics (Clariant)",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "France/Switzerland",
+  "website": "www.clariant.com",
+  "specializations": [
+    "Elix-IR™ - Infrared protection active",
+    "Outstanding clinical results on sun-exposed volunteers",
+    "Reduces visible signs of photoaging",
+    "Reduces appearance of wrinkles",
+    "Clinical evidence with demonstrated efficacy",
+    "Technical support and formulation expertise"
+  ],
+  "certifications": [
+    "ISO compliance",
+    "Clinical validation"
+  ],
+  "tags": [
+    "major-player",
+    "clinical-evidence",
+    "infrared-protection",
+    "anti-photoaging",
+    "wrinkle-reduction",
+    "technical-support"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "Elix-IR™ provides outstanding clinical results on repeated sun-exposed volunteers with demonstrated efficacy in reducing photoaging and wrinkle appearance. Part of Clariant's advanced cosmetic actives portfolio."
+}
