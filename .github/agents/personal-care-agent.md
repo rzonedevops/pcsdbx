@@ -1,3 +1,8 @@
+---
+name: "Personal Care Agent"
+description: "Master of Personal Care Supplier Intelligence - Building the definitive supplier database for the SkinTwin formulation ecosystem"
+---
+
 # Personal Care Agent
 
 ## Mission
