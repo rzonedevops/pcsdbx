@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_infrared_protection",
+  "category_path": "Raw_Materials/Infrared_Protection_Actives",
+  "url": "https://www.dsm-firmenich.com",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "Switzerland/Netherlands",
+  "website": "www.dsm-firmenich.com",
+  "specializations": [
+    "Beauty care ingredients with holistic well-aging solutions",
+    "Extensive research on infrared and blue light protection",
+    "Published studies on IR-A irradiation effects on skin",
+    "Holistic approach to photoprotection (UV + IR + Blue Light)",
+    "Global approach to circumvent harmful effects of environmental stressors",
+    "Technical support and formulation expertise",
+    "Global distribution network"
+  ],
+  "certifications": [
+    "ISO compliance",
+    "GMP",
+    "Published research and scientific validation"
+  ],
+  "tags": [
+    "major-player",
+    "global-leader",
+    "innovation-pioneer",
+    "clinical-evidence",
+    "scientific-research",
+    "technical-support",
+    "infrared-protection",
+    "blue-light-protection",
+    "holistic-photoprotection"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "Pioneer in holistic photoprotection research with published studies on IR-A and blue light effects on skin. Offers comprehensive approach to environmental protection with extensive scientific validation."
+}

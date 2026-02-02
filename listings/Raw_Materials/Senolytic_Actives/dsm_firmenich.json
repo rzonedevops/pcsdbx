@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_eterwell_youth",
+  "category_path": "Raw_Materials/Senolytic_Actives",
+  "url": "https://www.dsm-firmenich.com",
+  "company_name": "DSM-Firmenich",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "Switzerland/Netherlands",
+  "website": "www.dsm-firmenich.com",
+  "specializations": [
+    "ETERWELL™ YOUTH - Alpine willowherb (Epilobium fleischeri) extract",
+    "100% natural origin from rare alpine plant",
+    "Selectively targets and removes senescent (zombie) cells",
+    "Re-boosts natural skin processes and collagen production",
+    "Rejuvenates healthy skin appearance",
+    "Reverts skin damage induced by senescent cells",
+    "Patent application filed for senolytic mechanism",
+    "CELLANEW line-up featuring ETERWELL™ YOUTH"
+  ],
+  "certifications": [
+    "Organic cultivation in Swiss Alps",
+    "UEBT certified (regenerative farming)",
+    "Fair for Life fair trade certified",
+    "Cosmo/Natrue certified",
+    "Low carbon footprint (<3kg CO2eq/kg)",
+    "Biodiversity protection"
+  ],
+  "tags": [
+    "major-player",
+    "global-leader",
+    "innovation-pioneer",
+    "clinical-evidence",
+    "senolytic",
+    "cellular-regeneration",
+    "anti-aging",
+    "natural-origin",
+    "sustainable",
+    "fair-trade",
+    "patented"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "Revolutionary senolytic active that targets zombie cells. ETERWELL™ YOUTH is 100% natural origin with exceptional sustainability credentials including organic cultivation, fair trade certification, and low carbon footprint. Suitable for all skin types, ethnicities, ages, and genders."
+}

@@ -1,0 +1,46 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "mibelle_biochemistry_senocelltech",
+  "category_path": "Raw_Materials/Senolytic_Actives",
+  "url": "https://www.mibellebiochemistry.com",
+  "company_name": "Mibelle Biochemistry",
+  "status": "active",
+  "date_added": "2026-02-02",
+  "date_updated": "2026-02-02",
+  "country": "Switzerland",
+  "website": "www.mibellebiochemistry.com",
+  "specializations": [
+    "SenoCellTec - Plant-based stem cell technology + senolytics (Launched Nov 2025)",
+    "Three-step approach: Clear, Fill, Revive",
+    "Alpine Rose (Rhododendrum ferrugineum) - Senolytic activity to eliminate senescent cells",
+    "Apple Stem Cell (Malus domestica) - Activates dermal stem cells, boosts collagen",
+    "Grape (Vitis vinifera) Stem Cell - Enhances keratinocyte stem cell function",
+    "Eliminates zombie skin cells and supports deep regeneration",
+    "Leaves skin firmer, smoother, and more youthful",
+    "Recommended usage: 2% concentration",
+    "Liquid, water-soluble format, free from alcohol and preservatives"
+  ],
+  "certifications": [
+    "Plant-based technology",
+    "Clinical validation",
+    "Swiss quality standards"
+  ],
+  "tags": [
+    "innovation-pioneer",
+    "clinical-evidence",
+    "senolytic",
+    "stem-cell-technology",
+    "cellular-regeneration",
+    "anti-aging",
+    "plant-based",
+    "triple-action",
+    "alcohol-free",
+    "preservative-free"
+  ],
+  "metadata": {
+    "last_validated": "2026-02-02",
+    "validation_method": "manual",
+    "data_source": "research_emerging_actives_january_2026.md"
+  },
+  "notes": "Cutting-edge triple-action senolytic active combining plant stem cell technology with senolytic activity. Launched November 2025 with innovative Clear-Fill-Revive approach. Recommended at 2% concentration for optimal results."
+}
