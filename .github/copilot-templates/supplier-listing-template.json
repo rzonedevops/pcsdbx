@@ -1,0 +1,45 @@
+{
+  "id": "CATEGORY_SUBCATEGORY_SEQUENCE",
+  "name": "Company Official Name",
+  "website": "https://www.example.com",
+  "category": "Raw_Materials|Equipment|Business_Services|Packaging|Labels__Sleeves",
+  "subcategory": "Specific_Subcategory_From_Taxonomy",
+  "description": "Clear, concise description of what they supply (1-2 sentences). Focus on products/services, key differentiators, and specializations.",
+  "headquarters": "City, Country",
+  "products": [
+    "Product Category or Name 1",
+    "Product Category or Name 2",
+    "Product Category or Name 3"
+  ],
+  "certifications": [
+    "COSMOS",
+    "IECIC",
+    "ISO 22716"
+  ],
+  "geographic_coverage": [
+    "Global",
+    "Europe",
+    "North America"
+  ],
+  "specializations": [
+    "Unique Capability 1",
+    "Technology or Focus Area 2",
+    "Differentiator 3"
+  ],
+  "date_added": "YYYY-MM-DD",
+  "last_updated": "YYYY-MM-DD",
+  "pricing_tier": "budget|mid-range|premium",
+  "minimum_order": "Quantity or value with units",
+  "lead_time": "Typical delivery timeframe",
+  "contact_email": "sales@example.com",
+  "phone": "+1-234-567-8900",
+  "linkedin": "https://linkedin.com/company/example",
+  "key_products": [
+    {
+      "name": "Specific Product Name",
+      "inci_name": "INCI Name",
+      "category": "Product Category",
+      "price_range": "Price information"
+    }
+  ]
+}
