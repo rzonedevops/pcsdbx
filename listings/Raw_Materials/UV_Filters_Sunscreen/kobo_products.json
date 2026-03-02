@@ -1,0 +1,56 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kobo_products_uv",
+  "category_path": "Raw_Materials/UV_Filters_Sunscreen",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
+  "company_name": "Kobo Products",
+  "status": "active",
+  "date_added": "2026-03-02",
+  "date_updated": "2026-03-02",
+  "country": "USA",
+  "website": "www.koboproductsinc.com",
+  "specializations": [
+    "Non-nano Titanium Dioxide dispersions (multiple carriers)",
+    "Non-nano Zinc Oxide dispersions (multiple carriers)",
+    "Nano TiO2 dispersions for high transparency",
+    "Nano ZnO dispersions for cosmetically elegant formulations",
+    "High-transparency TiO2 and ZnO dispersions",
+    "Surface-treated mineral UV filters",
+    "Mineral UV filter dispersions specialist",
+    "Custom dispersion development",
+    "Attenuation grade mineral UV dispersions"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "FDA-registered",
+    "Non-nano verified"
+  ],
+  "product_highlights": [
+    "Extensive range of non-nano TiO2 and ZnO for regulatory compliance",
+    "High-transparency nano dispersions for cosmetically elegant sunscreens",
+    "Multiple carrier options (water, oil, silicone) for formulation flexibility",
+    "Attenuation grade dispersions for optimal UV performance",
+    "Strong technical support and formulation expertise"
+  ],
+  "tags": [
+    "specialist",
+    "mineral-uv-filter",
+    "titanium-dioxide",
+    "zinc-oxide",
+    "non-nano",
+    "dispersions",
+    "high-transparency",
+    "usa-based",
+    "fda-registered",
+    "gmp-compliant",
+    "formulation-support",
+    "custom-development"
+  ],
+  "metadata": {
+    "last_validated": "2026-03-02",
+    "validation_method": "manual",
+    "data_source": "research_uv_filters_march_2026.md"
+  },
+  "notes": "US-based specialist in mineral UV filter dispersions with one of the most comprehensive ranges of TiO2 and ZnO dispersions in the industry. Kobo's non-nano dispersions address regulatory requirements in markets restricting nano materials, while their high-transparency nano dispersions solve the whitening challenge in mineral sunscreens. Multiple carrier options provide formulation flexibility. Essential supplier for mineral sunscreen development."
+}

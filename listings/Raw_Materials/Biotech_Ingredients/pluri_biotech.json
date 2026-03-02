@@ -1,0 +1,55 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pluri_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Pluri",
+  "status": "active",
+  "date_added": "2026-03-02",
+  "date_updated": "2026-03-02",
+  "country": "Israel",
+  "website": "www.pluri-biotech.com",
+  "specializations": [
+    "Exosome-enhanced regenerative skincare ingredients",
+    "Regenerative biotechnology-derived exosomes",
+    "3D cell culture technology",
+    "Scalable exosome manufacturing",
+    "Stem cell-derived exosomes",
+    "Regenerative medicine-grade biotech actives",
+    "Proprietary bioreactor technology",
+    "Clinical-grade exosome production",
+    "Customizable exosome formulations"
+  ],
+  "certifications": [
+    "GMP-compliant",
+    "ISO-compliant",
+    "FDA-registered",
+    "Clinical validation studies"
+  ],
+  "product_highlights": [
+    "Proprietary 3D bioreactor technology for scalable exosome production",
+    "Regenerative medicine-grade quality for cosmetic applications",
+    "Stem cell-derived exosomes with proven regenerative activity",
+    "Scalable manufacturing — overcoming key industry bottleneck",
+    "Clinical evidence for skin regeneration and rejuvenation"
+  ],
+  "tags": [
+    "specialist",
+    "innovation-pioneer",
+    "exosomes",
+    "regenerative",
+    "stem-cell-derived",
+    "3d-bioreactor",
+    "scalable-manufacturing",
+    "clinical-grade",
+    "israeli-innovation",
+    "gmp-compliant",
+    "clinical-evidence"
+  ],
+  "metadata": {
+    "last_validated": "2026-03-02",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_feb_2026.md"
+  },
+  "notes": "Israeli biotech company using proprietary 3D bioreactor technology to produce scalable, regenerative exosomes. Pluri addresses the key bottleneck in exosome cosmetics — scalable manufacturing — with their innovative bioreactor platform. Clinical-grade quality with regenerative medicine roots. Strong candidate for premium anti-aging formulations requiring cutting-edge exosome technology."
+}
