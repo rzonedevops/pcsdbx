@@ -9,8 +9,8 @@ description: >
 
 # Manus Ecosystem Overview: Integrated Cosmetic Science Platform
 
-**Last Updated:** February 23, 2026  
-**Ecosystem Version:** 2.0  
+**Last Updated:** March 9, 2026  
+**Ecosystem Version:** 2.1  
 **Status:** Active Development - Strategic Expansion Phase
 
 ---
@@ -43,7 +43,7 @@ LAYER 1: DATA FOUNDATION
 ┌─────────────────────────────────────────────────────────────────┐
 │  personal-care-agent (ACTIVE - STRATEGIC EXPANSION)              │
 │  • Supplier Intelligence Database                                │
-│  • 1,323 suppliers, 83 categories (132.3% of Year 1 target)     │
+│  • 1,356 suppliers, 87 categories (135.6% of Year 1 target)     │
 │  • Ingredient/Packaging/Equipment/Business Services Mapping      │
 │  • Pricing Intelligence (Phase 3 - Ready to Begin)              │
 └─────────────────────────────────────────────────────────────────┘
@@ -537,7 +537,10 @@ skin_zone_7_agents → personal-care-agent → SKIN-TWIN → skin_zone_7_agents
 - ✅ UV Filters research completed (8 listings, expansion needed)
 - ✅ 83 subcategories across 5 major categories
 - ✅ Advanced Delivery Systems research completed (Feb 23, 2026)
-- ✅ Biotech Ingredients research completed (Feb 23, 2026)
+✅ Biotech Ingredients research completed (Feb 23, 2026)
+- ✅ UV Filters expanded to 17 listings (March 9, 2026)
+- ✅ Texture Modifiers expanded to 7 listings (March 9, 2026)
+- ✅ Hair Care Actives new category launched — 4 listings (March 9, 2026)
 
 **Growth Velocity:**
 - 35+ listings/week sustained over 6+ weeks
