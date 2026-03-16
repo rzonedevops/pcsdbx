@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_active_beauty_hair",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Givaudan Active Beauty",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Switzerland",
+  "website": "www.givaudan.com/fragrance-beauty/active-beauty",
+  "specializations": [
+    "Hair care actives",
+    "Scalp microbiome actives",
+    "Hyaluronic acid for hair",
+    "Bio-inspired cosmetic actives",
+    "Award-winning skin and hair ingredients"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS"],
+  "product_highlights": [
+    "ResistHyal™ — next-generation hair care active with optimised HA molecular weight ratio",
+    "Scalp microbiome modulators for healthy scalp ecosystem",
+    "Award-winning portfolio of skin and hair actives",
+    "Customised carrier systems for enhanced delivery"
+  ],
+  "tags": ["hair-care-actives", "scalp-microbiome", "hyaluronic-acid-hair", "bio-inspired", "award-winning", "swiss-quality"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Givaudan Active Beauty is the cosmetic actives division of Givaudan, one of the world's largest fragrance and flavour companies. Their ResistHyal™ ingredient is a next-generation hair care active containing an optimised ratio of low and high molecular weight hyaluronic acids specifically designed for hair care applications, providing moisture retention and hair fiber strengthening. Givaudan Active Beauty's portfolio spans skin and hair care actives with a strong emphasis on scientific validation, sustainability, and customised delivery technologies."
+}

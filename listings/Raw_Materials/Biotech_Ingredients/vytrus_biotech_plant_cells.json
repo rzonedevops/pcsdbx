@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "vytrus_biotech_plant_cells",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Vytrus Biotech",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Spain",
+  "website": "www.vytrusbiotech.com",
+  "specializations": [
+    "Plant cell biotechnology",
+    "Plant stem cell extracts",
+    "Cannabis stem cell actives",
+    "Ginseng stem cell actives",
+    "Sustainable biotech cosmetic ingredients"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "Vegan"],
+  "product_highlights": [
+    "Cannabotech™ — cannabis plant stem cell extract for skin calming and regeneration",
+    "Ginseng Up™ — ginseng stem cell active for energy and vitality",
+    "Sustainable plant cell biofactories for rare bioactive production",
+    "Clinically validated actives with strong sustainability profile"
+  ],
+  "tags": ["plant-cell-biotechnology", "stem-cell-extracts", "sustainable", "vegan", "innovative-actives", "cannabis-derived"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_march_2026.md"
+  },
+  "notes": "Vytrus Biotech is a Spanish biotechnology company specializing in plant cell culture technology for cosmetic applications. Their innovative approach uses plant stem cells as biofactories to produce rare and potent bioactive compounds in a sustainable and scalable manner. Vytrus's portfolio includes cannabis stem cell extracts (Cannabotech™), ginseng stem cell actives (Ginseng Up™), and other plant cell culture-derived ingredients with strong clinical validation and excellent sustainability credentials."
+}

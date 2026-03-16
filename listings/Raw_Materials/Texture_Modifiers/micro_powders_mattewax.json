@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "micro_powders_mattewax",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "Micro Powders",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.micropowders.com",
+  "specializations": [
+    "Specialty wax powders for cosmetics",
+    "Mattifying agents",
+    "Soft-focus powders",
+    "Slip agents",
+    "Cosmetic texture additives"
+  ],
+  "certifications": ["ISO 9001"],
+  "product_highlights": [
+    "Mattewax® 511 — ultrafine polypropylene powder for elegant matte finish",
+    "MicroEase® — slip agents for improved spreadability",
+    "MicroSoft® — soft-focus powders for light diffusion",
+    "Versatile range for color cosmetics, creams, and lotions"
+  ],
+  "tags": ["mattifying-agents", "soft-focus", "wax-powders", "matte-finish", "texture-additives", "slip-agents"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "Micro Powders is a leading manufacturer of specialty wax and polymer powders for personal care and cosmetic applications. Their Mattewax® 511 is an ultrafine polypropylene powder that imparts an elegant matte finish to color cosmetics, creams, and lotions while improving wear resistance and providing a smooth, velvety skin feel. Micro Powders' extensive range of soft-focus and mattifying agents are used in premium foundations, primers, and skincare products worldwide, with global distribution through agents and distributors."
+}

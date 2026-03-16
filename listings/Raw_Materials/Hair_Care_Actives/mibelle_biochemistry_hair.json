@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "mibelle_biochemistry_hair",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Mibelle Biochemistry",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Switzerland",
+  "website": "www.mibellebiochemistry.com",
+  "specializations": [
+    "Plant stem cell actives for hair",
+    "PhytoCellTec™ technology platform",
+    "Scalp vitality actives",
+    "Hair follicle stimulation ingredients",
+    "Innovative Swiss cosmetic actives"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "Halal"],
+  "product_highlights": [
+    "PhytoCellTec™ — plant stem cell technology for scalp and hair follicle vitality",
+    "AnaGain™ — pea shoot extract stimulating hair growth signalling",
+    "Clinically validated actives with strong scientific documentation",
+    "Sustainable plant-based biotechnology platform"
+  ],
+  "tags": ["stem-cell-actives", "plant-based", "innovative-actives", "hair-care", "swiss-quality", "hair-follicle-stimulation"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Mibelle Biochemistry is a Swiss cosmetic ingredient supplier renowned for its innovative, science-backed actives. Their PhytoCellTec™ technology platform uses plant stem cell cultures to deliver clinically proven benefits for skin and hair. AnaGain™, derived from organic pea shoots, stimulates specific growth factors in the hair follicle to reactivate hair growth and reduce hair loss. Mibelle's hair care actives focus on scalp vitality, hair follicle stimulation, and hair fiber strengthening through plant-derived biotechnology."
+}

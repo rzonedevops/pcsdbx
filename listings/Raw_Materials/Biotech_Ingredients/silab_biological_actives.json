@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "silab_biological_actives",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "SILAB",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "France",
+  "website": "www.silab.fr",
+  "specializations": [
+    "Biological active ingredients",
+    "Plant biotechnology",
+    "Fermentation-derived actives",
+    "Efficacy-proven cosmetic actives",
+    "Dermo-cosmetics ingredients"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "Halal", "Kosher"],
+  "product_highlights": [
+    "Phytosphingosine — fermentation-derived ceramide precursor",
+    "Plant cell culture actives with clinical validation",
+    "Enzymatic transformation-derived bioactives",
+    "Independent company with 40+ years of cosmetic biotechnology expertise"
+  ],
+  "tags": ["plant-biotechnology", "fermentation-derived", "efficacy-proven", "french-cosmetic-science", "biological-actives", "clinical-validation"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_march_2026.md"
+  },
+  "notes": "SILAB is an independent French company that develops, manufactures, and markets efficacy-proven biological active ingredients for the cosmetics and dermo-cosmetics industry. Founded in 1984, SILAB has built its reputation on rigorous scientific validation of all actives, with each ingredient supported by clinical studies. Their biotechnology platform includes plant cell culture, fermentation, and enzymatic transformation to produce high-performance cosmetic actives with comprehensive safety and efficacy dossiers."
+}

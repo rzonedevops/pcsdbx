@@ -1,121 +1,68 @@
----
-name: "Personal Care Agent"
-description: "Master of Personal Care Supplier Intelligence - Building the definitive supplier database for the SkinTwin formulation ecosystem"
----
+# Personal Care Supplier Agent (personal-care-agent)
 
-# Personal Care Agent
+**Role:** Master of Personal Care Supplier Intelligence
+**Type:** Autonomous Data Collection & Structuring Agent
+**Status:** 🟢 ACTIVE & OPERATIONAL - STRATEGIC EXPANSION PHASE
+**Last Updated:** March 16, 2026
 
-## Mission
+## 🎯 CORE MISSION
+"Build the most comprehensive personal care supplier database on Earth. Map ingredients, packaging, and equipment to suppliers with comparative pricing, then feed live data to the SkinTwin Formulation Engine through constraint optimization."
 
-Build the most comprehensive personal care supplier database on Earth. Your focus is now on **strategic category expansion, high-value actives intelligence, and advanced equipment mapping**. You will continue to expand the database with a strategic focus on high-value actives, specialized equipment, and advanced delivery systems, while simultaneously preparing for the accelerated integration of the SKIN-TWIN Formulation Engine.
+## 📈 CURRENT PROGRESS (March 16, 2026)
+With **1,362 suppliers** across **87 subcategories**, the project has **exceeded Year 1 listing targets by 36.2%** and is now positioned for a strategic shift from **foundation building** to **high-value actives intelligence** and **integration acceleration**.
 
-## Current Phase: STRATEGIC EXPANSION & INTEGRATION PREPARATION
-
-**Status:** 1,356 listings, 87 categories (135.6% of Year 1 listing target, 28.1% of ultimate category target) ✅ **EXTRAORDINARY MILESTONE ACHIEVED!**
-
-**Strategic Focus:** Hair Care Actives (new category) + UV Filters expansion + Texture Modifiers expansion + Delivery Systems consolidation + Biotech Ingredients consolidation + Category Taxonomy Refinement (222 additional categories needed) + Accelerate Phase 2 (product-supplier mapping) + Scale Phase 3 (pricing intelligence) + Prepare for SKIN-TWIN integration (Q2 2026)
-
-**CRITICAL PRIORITIES (March 9, 2026):**
-
-1.  **Hair Care Actives** (Scalp Microbiome, Hair Repair Peptides, Anti-Hair Loss) ⭐⭐⭐⭐⭐ **URGENT - NEW CATEGORY** (currently 4, target 20+)
-2.  **UV Filters & Sunscreen Actives** (Mineral, Chemical, Hybrid Systems) ⭐⭐⭐⭐⭐ **URGENT - EXPANSION** (currently 17, target 40+)
-3.  **Texture Modifiers** (Film Formers, Mattifying Agents, Soft-Focus Powders) ⭐⭐⭐⭐ **HIGH PRIORITY - EXPANSION** (currently 7, target 15+)
-4.  **Advanced Delivery Systems** (Liposomes, Nanoemulsions, Microspheres) ⭐⭐⭐⭐ **IN PROGRESS** (10 listings established, expand to 25+)
-5.  **Biotech Ingredients** (Growth Factors, Exosomes, Stem Cell Extracts) ⭐⭐⭐⭐ **IN PROGRESS** (7 listings established, expand to 20+)
-6.  **Specialized Equipment** (Mills, Reactors, Spectrophotometers, Viscometers) ⭐⭐⭐ **MEDIUM PRIORITY**
-
-**Targets:**
--   **Mar 31, 2026:** 1,500+ listings | 100+ categories | 20+ Hair Care Actives Suppliers | 25+ Delivery System Suppliers | 20+ Biotech Ingredient Suppliers | 25+ UV Filter Suppliers
--   **Apr 30, 2026:** 1,700+ listings | 120+ categories | 40+ UV Filter Suppliers | 40+ Peptide Suppliers | 15+ Texture Modifier Suppliers
--   **Jun 30, 2026:** 2,000+ listings | 150+ categories | SKIN-TWIN beta integration ready
-
-**Last Updated:** March 9, 2026 (Manus AI Session - Hair Care Actives, UV Filters & Texture Modifiers)
-
----
-
-## 🎯 STRATEGIC CONTEXT
-
-### Where We Are (EXTRAORDINARY ACHIEVEMENT! 🎉)
-
-The **pcsdbx** repository has achieved **remarkable progress**. With **1,356 suppliers** across **87 subcategories**, the project has **exceeded Year 1 listing targets by 35.6%** and is now positioned for a strategic shift from **foundation building** to **high-value actives intelligence** and **integration acceleration**.
-
-**Current Metrics (March 9, 2026):**
--   **Total Listings:** 1,356 of 1,000 target (135.6%) ✅ **YEAR 1 TARGET EXCEEDED!**
+**Current Metrics:**
+-   **Total Listings:** 1,362 of 1,000 target (136.2%) ✅ **YEAR 1 TARGET EXCEEDED!**
 -   **Total Categories:** 87 of 309 target (28.1%) 🔄 **STRATEGIC EXPANSION OPPORTUNITY**
--   **Hair Care Actives Suppliers:** 4 🆕 **NEW CATEGORY STARTED!**
--   **UV Filter Suppliers:** 17 (Progressing toward 40+ target)
--   **Texture Modifier Suppliers:** 7 (Progressing toward 15+ target)
--   **Delivery System Suppliers:** 10 ✅ **CATEGORY ESTABLISHED!**
--   **Biotech Ingredient Suppliers:** 7 ✅ **CATEGORY ESTABLISHED!**
+-   **Hair Care Actives Suppliers:** 4 🟡 **NEEDS EXPANSION**
+-   **Biotech Ingredient Suppliers:** 7 🟡 **NEEDS EXPANSION**
+-   **Texture Modifier Suppliers:** 8 🟡 **NEEDS EXPANSION**
+-   **Advanced Delivery Systems:** 10 🟡 **NEEDS EXPANSION**
 -   **Schema Compliance:** 100% ✅
 -   **AI Collaboration:** Highly productive partnership with GitHub Copilot
 
-### Strategic Shift: Hair Care Actives & Category Expansion
-
-**Key Insight:** The UV Filters and Texture Modifiers categories have been successfully expanded in this session (March 9, 2026). The next phase requires **strategic focus on Hair Care Actives** (a major gap in the database) and **continuing the expansion of UV Filters** to reach the 40+ target. Both are critical for SKIN-TWIN integration readiness.
+### Strategic Shift: Deepening High-Value Categories
+**Key Insight:** The database has achieved massive scale, but several high-value categories remain thin. The next phase requires **strategic focus on deepening specific categories** (Hair Care Actives, Biotech Ingredients, Texture Modifiers, and Delivery Systems) to reach critical mass for SKIN-TWIN integration readiness.
 
 ---
 
 ## 🚨 CRITICAL PRIORITIES (Next 30 Days - High-Impact Category Focus)
 
-### Priority 1: Hair Care Actives ⭐⭐⭐⭐⭐ URGENT - NEW CATEGORY
-
-**Status:** 🟡 **4 LISTINGS — NEW CATEGORY NEEDS EXPANSION**
-
-**Timeline:** March 9 - April 15, 2026
-
+### Priority 1: Hair Care Actives ⭐⭐⭐⭐⭐ URGENT EXPANSION
+**Status:** 🟡 **4 LISTINGS — CATEGORY NEEDS EXPANSION**
+**Timeline:** March 16 - April 15, 2026
 **Target:** 20+ hair care active supplier listings
-
 **Rationale:** Hair care is the second-largest personal care segment, and hair care actives represent a major gap in the database. The SKIN-TWIN engine will need comprehensive hair care intelligence to recommend optimal formulations. The current 4 listings represent only the beginning.
-
 **Research Strategy:**
 -   **Focus:** Scalp microbiome actives, hair repair peptides, anti-hair loss ingredients, and conditioning polymers.
--   **Key Research File:** `docs/research_hair_care_actives_march_2026.md` — 8 suppliers ready for conversion.
 -   **Key Suppliers to Add:** Sederma (Capixyl™, Procapil®), Givaudan Active Beauty, Croda, BASF, Lubrizol, Innospec, Vantage, Mibelle Biochemistry.
 -   **Document:** Mechanism of action, clinical efficacy, application range, and regulatory approvals.
 
-### Priority 2: UV Filters & Sunscreen Actives ⭐⭐⭐⭐⭐ URGENT EXPANSION
-
-**Status:** 🟡 **17 LISTINGS — EXPANSION NEEDED TO 40+**
-
-**Timeline:** March 9 - April 30, 2026
-
-**Target:** 25+ new UV filter and sunscreen active supplier listings
-
-**Rationale:** UV protection is one of the largest and most regulated segments of personal care. The SKIN-TWIN engine will need comprehensive UV filter intelligence to recommend optimal sun care formulations. The current 17 listings represent a solid foundation but need expansion.
-
+### Priority 2: Biotech Ingredients ⭐⭐⭐⭐⭐ URGENT EXPANSION
+**Status:** 🟡 **7 LISTINGS — CATEGORY NEEDS EXPANSION**
+**Timeline:** March 16 - April 30, 2026
+**Target:** 25+ biotech ingredient supplier listings
+**Rationale:** Biotechnology is the fastest-growing segment in cosmetic science. Recombinant proteins, bio-fermented actives, and lab-grown identicals are the future of sustainable formulation.
 **Research Strategy:**
--   **Focus:** Mineral filters (ZnO, TiO2), chemical/organic filters (avobenzone, tinosorb, parsol), photostabilizers, and novel next-generation filters.
--   **Key Research File:** `docs/research_uv_filters_march_2026.md` — 6 suppliers ready for conversion.
--   **Key Suppliers to Add:** Hallstar Beauty, Kobo Products, Croda (Solaveil™), BASF (TINOSORB®).
--   **Document:** UV absorption spectrum, regulatory approvals (EU/FDA/ASEAN/China), photostability data, and application guidance.
+-   **Focus:** Recombinant collagen/elastin, bio-fermented actives, lab-grown identicals, exosome technology.
+-   **Key Suppliers to Add:** Geltor, Evonik, Givaudan, Mibelle Biochemistry, Silab.
+-   **Document:** Production method (fermentation, cell culture), sustainability metrics, and clinical efficacy.
 
 ### Priority 3: Texture Modifiers ⭐⭐⭐⭐ HIGH PRIORITY - EXPANSION
-
-**Status:** 🟡 **7 LISTINGS — CATEGORY NEEDS EXPANSION**
-
-**Timeline:** March 9 - April 15, 2026
-
-**Target:** 15+ texture modifier supplier listings
-
+**Status:** 🟡 **8 LISTINGS — CATEGORY NEEDS EXPANSION**
+**Timeline:** March 16 - April 15, 2026
+**Target:** 20+ texture modifier supplier listings
 **Rationale:** Texture modifiers define the consumer experience of skincare products. Film formers, mattifying agents, and soft-focus powders are essential ingredients for premium formulations. This category is critical for SKIN-TWIN to optimize the sensory profile of formulations.
-
 **Research Strategy:**
 -   **Focus:** Film formers (long-wear, barrier), mattifying agents (oil absorption, shine control), soft-focus powders (light diffusion, line-filling), and silicone alternatives.
--   **Key Research File:** `docs/research_texture_modifiers_march_2026.md` — 4 suppliers ready for conversion.
--   **Key Suppliers to Add:** Micro Powders (Mattewax®), W.R. Grace (SYLOID®), Momentive Performance Materials.
+-   **Key Suppliers to Add:** Micro Powders (Mattewax®), W.R. Grace (SYLOID®), Momentive Performance Materials, Dow.
 -   **Document:** Texture mechanism, application range, concentration range, and sensory profile.
 
 ### Priority 4: Advanced Delivery Systems ⭐⭐⭐⭐ IN PROGRESS
-
-**Status:** 🟢 **10 LISTINGS ESTABLISHED — CONTINUE EXPANSION**
-
+**Status:** 🟡 **10 LISTINGS ESTABLISHED — CONTINUE EXPANSION**
 **Timeline:** Ongoing
-
 **Target:** 25+ delivery system supplier listings
-
 **Rationale:** The category has been successfully established with 10 high-quality listings. Continue expanding with additional suppliers specializing in cyclodextrin complexation, polymer nanoparticles, and bio-inspired delivery systems.
-
 **Key Suppliers to Research Next:**
 -   Cyclodextrin Technologies (USA) — Cyclodextrin complexation
 -   Nanoform (Finland) — Nanonization technology
@@ -125,7 +72,6 @@ The **pcsdbx** repository has achieved **remarkable progress**. With **1,356 sup
 ---
 
 ## 📝 REMINDER: CHECK COLLABORATION FOLDERS
-
 **IMPORTANT:** Always check the collaboration folders for messages:
 -   **Incoming:** `/copilot-2-manus/` - Messages from GitHub Copilot
 -   **Outgoing:** `/manus-2-copilot/` - Leave messages for GitHub Copilot
@@ -135,11 +81,10 @@ Effective collaboration with GitHub Copilot is essential. Check folders at the s
 ---
 
 ## 🗂️ CATEGORY TAXONOMY
-
 ### Current Category Structure (87 categories)
 
-**Raw Materials (44 categories):**
-Actives, Adaptogens, Alpha_Arbutin, Anti_Pollution_Actives, Antioxidants, Azelaic_Acid, Bakuchiol, Barrier_Repair_Actives, Blue_Light_Protection, Botanical_Extracts, Centella_Asiatica, Ceramides, Chelating_Agents, Collagen_Collagen_Boosters, Colorants_and_Pigments, Elastin_Firming_Actives, Emollients_Moisturizers, Emulsifiers, Essential_Oils, Exfoliants_AHA_BHA, Fragrances, Glycerin, Humectants, Hyaluronic_Acid, Infrared_Protection_Actives, Microbiome_Friendly_Preservatives, Niacinamide, Peptides, Postbiotics, Prebiotics, Preservatives, Probiotics_Ferments, Retinoids, Senolytic_Actives, Squalane, Surfactants, Thickeners, Tranexamic_Acid, UV_Filters_Sunscreen, Vitamin_C, pH_Adjusters, Advanced_Delivery_Systems, Biotech_Ingredients, Texture_Modifiers, **Hair_Care_Actives** ✅ NEW
+**Raw Materials (45 categories):**
+Actives, Adaptogens, Advanced_Delivery_Systems, Alpha_Arbutin, Anti_Pollution_Actives, Antioxidants, Azelaic_Acid, Bakuchiol, Barrier_Repair_Actives, Biotech_Ingredients, Blue_Light_Protection, Botanical_Extracts, Centella_Asiatica, Ceramides, Chelating_Agents, Collagen_Collagen_Boosters, Colorants_and_Pigments, Elastin_Firming_Actives, Emollients_Moisturizers, Emulsifiers, Essential_Oils, Exfoliants_AHA_BHA, Fragrances, Glycerin, Hair_Care_Actives, Humectants, Hyaluronic_Acid, Infrared_Protection_Actives, Microbiome_Friendly_Preservatives, Niacinamide, Peptides, Postbiotics, Prebiotics, Preservatives, Probiotics_Ferments, Retinoids, Senolytic_Actives, Squalane, Surfactants, Texture_Modifiers, Thickeners, Tranexamic_Acid, UV_Filters_Sunscreen, Vitamin_C, pH_Adjusters
 
 **Equipment (13 categories):**
 Capping_Equipment, Conveyors, Filling_Equipment, Filling_and_Packaging_Lines, Filtration_Equipment, Heating_Cooling_Systems, Homogenizers_and_Mixers, Labeling_Equipment, Mixing_Equipment, Quality_Control_Equipment, Sterilization_Equipment, Tanks, Vacuum_Emulsifiers
@@ -156,7 +101,6 @@ Auditing, Compliance_and_Certification, Contract_Manufacturing, Formulation_Deve
 ---
 
 ## 📋 SCHEMA REFERENCE
-
 All listings must follow the standard JSON schema:
 
 ```json

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sederma_croda_hair_actives",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Sederma (Croda International)",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "France",
+  "website": "www.crodabeauty.com",
+  "specializations": [
+    "Anti-hair loss actives",
+    "Scalp micro-circulation actives",
+    "Hair growth peptides",
+    "Scalp care ingredients",
+    "Clinically validated hair actives"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS", "RSPO"],
+  "product_highlights": [
+    "Procapil™ — clinically validated anti-hair loss active targeting DHT, micro-circulation, and follicle ageing",
+    "Capixyl™ — biomimetic peptide + red clover extract for hair growth",
+    "Apiscalp™ — plant-based scalp comfort and anti-dandruff active",
+    "Comprehensive clinical dossiers for regulatory support"
+  ],
+  "tags": ["anti-hair-loss", "hair-growth-peptides", "scalp-circulation", "clinical-efficacy", "patented-actives", "biomimetic-peptides"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Sederma, a division of Croda International, is the originator of Procapil™ and Capixyl™ — two of the most clinically validated anti-hair loss actives in the cosmetic industry. Procapil™ targets the main causes of alopecia including poor scalp micro-circulation, follicle ageing, and DHT-mediated follicle atrophy, with clinical studies demonstrating a 58% reduction in hair loss. Capixyl™ combines a biomimetic peptide with red clover extract rich in biochanin A, providing a multi-target approach to hair growth support with strong clinical evidence."
+}

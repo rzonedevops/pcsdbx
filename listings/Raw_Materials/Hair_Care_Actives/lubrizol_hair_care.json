@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lubrizol_hair_care",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Lubrizol Personal Care",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.lubrizol.com",
+  "specializations": [
+    "Specialty surfactants for hair care",
+    "Conditioning agents",
+    "Film formers for styling",
+    "Anti-dandruff actives",
+    "Hair repair ingredients"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "EFfCI GMP"],
+  "product_highlights": [
+    "Carbopol® polymer range for hair care rheology",
+    "Styleze™ film formers for long-wear styling",
+    "Specialty conditioning surfactants with low irritation",
+    "Anti-dandruff active ingredient systems"
+  ],
+  "tags": ["conditioning-agents", "film-formers", "surfactants", "anti-dandruff", "hair-repair", "styling-polymers"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Lubrizol is a leading specialty chemicals company with a comprehensive portfolio of hair care ingredients spanning surfactants, conditioning agents, and film formers. Their Styleze™ film former range is widely used for long-wear styling applications, while their specialty surfactants deliver high-quality cleansing with low irritation profiles. Lubrizol's ingredients are used globally in premium shampoos, conditioners, and styling products, and their EFfCI GMP certification ensures consistent quality."
+}

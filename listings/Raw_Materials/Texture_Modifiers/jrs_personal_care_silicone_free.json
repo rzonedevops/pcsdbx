@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "jrs_personal_care_silicone_free",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "JRS Personal Care",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Germany",
+  "website": "www.jrs.de/personal-care",
+  "specializations": [
+    "Natural cellulose-based texture modifiers",
+    "Silicone-free blur agents",
+    "Microcrystalline cellulose",
+    "Rheology modifiers",
+    "Natural fillers and disintegrants"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS"],
+  "product_highlights": [
+    "Silicone-Free Blur — natural alternative to silicone-based soft-focus agents",
+    "VIVAPUR® microcrystalline cellulose for texture and consistency",
+    "Biodegradable and naturally derived texture solutions",
+    "Comprehensive range of scrubs, rheology modifiers, sensory improvers, and fillers"
+  ],
+  "tags": ["silicone-free", "cellulose-based", "natural-texture", "blur-agents", "rheology-modifiers", "biodegradable"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "JRS Personal Care is a German specialty ingredient supplier with a strong focus on natural, cellulose-based texture modifiers. Their Silicone-Free Blur product is a natural alternative to silicone-based soft-focus agents, delivering comparable sensory performance with a sustainable, biodegradable profile that meets growing consumer demand for silicone-free formulations. JRS's VIVAPUR® microcrystalline cellulose range is widely used as a filler, disintegrant, and texture modifier in cosmetic formulations."
+}

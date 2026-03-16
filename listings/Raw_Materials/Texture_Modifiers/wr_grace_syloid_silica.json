@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "wr_grace_syloid_silica",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "W.R. Grace",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.grace.com",
+  "specializations": [
+    "Silica-based texture modifiers",
+    "Mattifying silicas",
+    "Soft-focus silicas",
+    "Consistency modifiers",
+    "Personal care silica technology"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001"],
+  "product_highlights": [
+    "SYLOID® silicas — industry benchmark for mattifying and soft-focus effects",
+    "Multiple grades for liquid and cream formulations",
+    "Consistency, silky texture, and soft-focus in one ingredient",
+    "Suitable for foundations, primers, moisturizers, and sunscreens"
+  ],
+  "tags": ["silica-based", "mattifying", "soft-focus", "consistency-modifier", "cosmetic-silica", "texture-enhancement"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "W.R. Grace is a global specialty chemicals company with a leading position in cosmetic silica technology. Their SYLOID® silica range is the industry benchmark for mattifying and soft-focus effects in liquid and cream formulations. SYLOID® silicas can be used to achieve desired consistency, silky texture, mattifying, and soft-focus effects across a wide range of cosmetic applications including foundations, primers, moisturizers, and sunscreens, making them an essential ingredient for premium cosmetic formulations."
+}

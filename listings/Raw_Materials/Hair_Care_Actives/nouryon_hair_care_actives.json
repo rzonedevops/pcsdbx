@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nouryon_hair_care_actives",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Nouryon Personal Care",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Netherlands",
+  "website": "www.nouryon.com",
+  "specializations": [
+    "Conditioning agents for hair care",
+    "Film formers",
+    "Rheology modifiers",
+    "Biopolymers for hair",
+    "Sustainable specialty surfactants"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "RSPO", "ISCC PLUS"],
+  "product_highlights": [
+    "Armocare® Aqua 12 — ISCC PLUS certified sustainable surfactant",
+    "Bermocoll™ cellulose ethers for conditioning and film forming",
+    "Specialty biopolymers for natural hair care",
+    "Next-generation sustainable conditioning agents"
+  ],
+  "tags": ["conditioning-agents", "biopolymers", "rheology-modifiers", "sustainable", "hair-care", "iscc-plus"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Nouryon is a major global specialty chemicals producer with a strong portfolio of sustainable hair care ingredients. Their Armocare® Aqua 12 surfactant (ISCC PLUS certified, launched April 2025) represents their commitment to sustainable formulation. Nouryon's biopolymer range includes cellulose ethers and other naturally derived polymers that deliver excellent conditioning and film-forming performance with a reduced environmental footprint, making them a preferred supplier for natural and organic hair care brands."
+}

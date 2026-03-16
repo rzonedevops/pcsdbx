@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "clariant_aristoflex_polymers",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "Clariant Personal Care",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Switzerland",
+  "website": "www.clariant.com/personal-care",
+  "specializations": [
+    "Rheology modifiers",
+    "Texture control polymers",
+    "Biodegradable thickeners",
+    "Carbomer alternatives",
+    "Sensory modifiers"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS"],
+  "product_highlights": [
+    "Aristoflex® AVC — industry-standard carbomer alternative with superior stability",
+    "Aristoflex® Silk — premium silkiness and salt tolerance",
+    "Aristoflex® Eco T — first biodegradable biopolymer approaching synthetic performance",
+    "Comprehensive rheology and texture control across all pH ranges"
+  ],
+  "tags": ["rheology-modifiers", "texture-control", "biodegradable", "carbomer-alternative", "sensory-modifiers", "ecocert"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "Clariant's Aristoflex® polymer range is the industry standard for advanced rheology modification in personal care formulations. Aristoflex® AVC is a widely used carbomer alternative that delivers superior stability, texture control, and sensory performance across a wide pH range. The recently launched Aristoflex® Eco T is the first modified biopolymer approaching the performance of synthetics while being readily biodegradable and naturally derived, representing the future of sustainable texture modification in cosmetic formulations."
+}

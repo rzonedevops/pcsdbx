@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "innospec_hair_care",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Innospec Performance Chemicals",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.innospec.com",
+  "specializations": [
+    "Conditioning agents for hair and scalp",
+    "Scalp care actives",
+    "Skin brightening actives",
+    "Specialty surfactants",
+    "Hair health formulations"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001"],
+  "product_highlights": [
+    "MARITECH BRIGHT — clinically proven marine-derived brightening active",
+    "Specialty conditioning agents for wet and dry combability",
+    "Scalp health actives for microbiome balance",
+    "Comprehensive formulation support for hair care"
+  ],
+  "tags": ["conditioning-agents", "scalp-care", "specialty-surfactants", "hair-care-actives", "marine-derived"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Innospec Performance Chemicals is a global manufacturer of specialty ingredients for personal care with a strong focus on conditioning and scalp health. Their MARITECH BRIGHT ingredient is a clinically proven skin brightening active derived from marine biotechnology. Innospec's conditioning agents are widely used in shampoos and conditioners to improve wet and dry combability, reduce static, and enhance shine, with a comprehensive formulation support service available to customers."
+}

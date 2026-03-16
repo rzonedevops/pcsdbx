@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "active_concepts_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Active Concepts",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.activeconceptsllc.com",
+  "specializations": [
+    "Sustainable biotech ingredients",
+    "Fermentation-derived actives",
+    "Bio-based cosmetic ingredients",
+    "Innovative sustainable actives",
+    "Vegan cosmetic ingredients"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "Vegan"],
+  "product_highlights": [
+    "AC Ferment™ series — advanced fermentation-derived bioactive compounds",
+    "Sustainable bio-actives with reduced environmental footprint",
+    "Fermentation-derived peptides and polysaccharides",
+    "Comprehensive formulation support and application expertise"
+  ],
+  "tags": ["fermentation-derived", "sustainable", "bio-based", "vegan", "innovative-actives", "eco-conscious"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_march_2026.md"
+  },
+  "notes": "Active Concepts is a US-based cosmetic ingredient supplier specializing in innovative and sustainable ingredients derived from biotechnology. Their AC Ferment™ series uses advanced fermentation processes to produce bioactive compounds with superior efficacy and sustainability profiles. Active Concepts' commitment to sustainable sourcing and biotechnology makes them a key supplier for brands seeking next-generation, eco-conscious formulations with clean ingredient profiles and strong performance credentials."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "vantage_specialty_chemicals_hair",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Vantage Specialty Chemicals",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.vantagegrp.com",
+  "specializations": [
+    "Natural conditioning agents",
+    "Specialty esters for hair care",
+    "Hair care emollients",
+    "Sustainable bio-based actives",
+    "RSPO-certified ingredients"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "RSPO"],
+  "product_highlights": [
+    "Specialty conditioning esters from natural and sustainable sources",
+    "Natural emollients for hair care applications",
+    "RSPO-certified and Ecocert-approved ingredient range",
+    "Bio-based hair care actives for natural and organic formulations"
+  ],
+  "tags": ["natural-conditioning", "specialty-esters", "bio-based", "sustainable", "hair-care-emollients", "rspo-certified"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "Vantage Specialty Chemicals is a leading supplier of specialty ingredients derived from natural and sustainable sources. Their portfolio of conditioning esters and natural emollients is widely used in premium hair care formulations. Vantage's commitment to sustainability includes a broad range of RSPO-certified and Ecocert-approved ingredients for the natural and organic hair care market, making them a preferred supplier for brands seeking high-performance ingredients with clean sustainability credentials."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "presperse_specialty_powders",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "Presperse",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "USA",
+  "website": "www.presperse.com",
+  "specializations": [
+    "Premium specialty powders",
+    "Film formers",
+    "Soft-focus agents",
+    "SPF-boosting powders",
+    "Multi-functional sensory modifiers"
+  ],
+  "certifications": ["ISO 9001", "EFfCI GMP"],
+  "product_highlights": [
+    "400+ premium specialty ingredients for cosmetic formulation",
+    "Multi-functional powders achieving soft-focus, mattifying, and SPF-boosting simultaneously",
+    "Film former systems for long-wear, barrier, and shine properties",
+    "Visionary expertise and formulation support across all personal care categories"
+  ],
+  "tags": ["specialty-powders", "film-formers", "soft-focus", "spf-boosting", "sensory-modifiers", "multi-functional"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "Presperse is a leading cosmetic ingredients supplier offering over 400 premium specialty ingredients with a particular strength in texture and sensory modification. Their powder portfolio includes multi-functional offerings that achieve soft-focus, mattifying, and SPF-boosting effects simultaneously, providing formulators with efficient, cost-effective solutions. Presperse's film former systems help formulators achieve long-wear, barrier, and shine properties across skincare, sun care, hair care, and color cosmetics applications."
+}

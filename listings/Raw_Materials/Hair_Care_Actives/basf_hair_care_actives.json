@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_hair_care_actives",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "BASF Personal Care",
+  "status": "active",
+  "date_added": "2026-03-16",
+  "date_updated": "2026-03-16",
+  "country": "Germany",
+  "website": "www.basf.com/personal-care",
+  "specializations": [
+    "Scalp microbiome actives",
+    "Conditioning agents for hair",
+    "UV filters for hair fiber protection",
+    "Hair repair actives",
+    "Scalp care and anti-dandruff ingredients"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "COSMOS", "Ecocert"],
+  "product_highlights": [
+    "Scalposine™ — breakthrough scalp microbiome modulator reducing sebum and promoting beneficial bacteria",
+    "Timiron® — specialty hair shine actives",
+    "UV protection actives for hair fiber",
+    "Comprehensive conditioning agent portfolio for diverse hair types"
+  ],
+  "tags": ["scalp-microbiome", "conditioning-agents", "hair-repair", "uv-protection-hair", "scalp-care", "anti-dandruff"],
+  "metadata": {
+    "last_validated": "2026-03-16",
+    "validation_method": "manual",
+    "data_source": "research_hair_care_actives_march_2026_v2.md"
+  },
+  "notes": "BASF is one of the world's largest chemical companies with a comprehensive personal care division. Their Scalposine™ active ingredient is a breakthrough scalp microbiome modulator that reduces sebum production and encourages beneficial bacterial strains, addressing dandruff, itching, and hyperseborrhea. BASF's hair care portfolio also includes UV protection actives specifically designed for hair fiber protection, conditioning agents for diverse hair types, and a broad range of functional ingredients supported by extensive application expertise."
+}
