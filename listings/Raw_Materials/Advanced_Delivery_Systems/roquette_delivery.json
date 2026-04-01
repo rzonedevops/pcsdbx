@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "roquette_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Roquette Frères",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "France",
+  "website": "www.roquette.com",
+  "specializations": [
+    "Cyclodextrin-based active encapsulation",
+    "Pea protein matrices for delivery systems",
+    "Plant-based excipients for cosmetic formulations",
+    "Starch-derived encapsulation carriers",
+    "Solubility enhancement via inclusion complexation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS-approved excipients",
+    "Ecocert certified",
+    "Halal and Kosher"
+  ],
+  "product_highlights": [
+    "KLEPTOSE® cyclodextrins — HP-β-CD, HP-γ-CD for inclusion complex delivery of hydrophobic actives",
+    "ROQUETTE Pea Protein matrices — natural protein-based microencapsulation carrier",
+    "PEARLITOL® — mannitol excipients for active ingredient stabilization and delivery",
+    "GLUCIDEX® — dextrin-based spray-dried encapsulation systems for volatile actives"
+  ],
+  "tags": [
+    "cyclodextrin",
+    "inclusion-complex",
+    "pea-protein",
+    "plant-based",
+    "natural-excipients",
+    "french-manufacturer",
+    "encapsulation",
+    "solubility-enhancement"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Roquette is a world-leading plant-based ingredient manufacturer with an exceptional portfolio of cyclodextrin and starch-based delivery systems for cosmetic and pharmaceutical applications. Their KLEPTOSE® cyclodextrin series, including hydroxypropyl-beta-cyclodextrin (HP-β-CD), enables the inclusion complexation of hydrophobic actives to enhance solubility, stability, and bioavailability in aqueous formulations. As a sustainable, plant-derived encapsulation partner with strong COSMOS and Ecocert credentials, Roquette is an essential SKIN-TWIN reference for clean-label delivery system formulation."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "tri_k_industries_hair",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "TRI-K Industries",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.tri-k.com",
+  "specializations": [
+    "Hydrolysed keratin and hair protein actives",
+    "Amino acid-based hair repair ingredients",
+    "Cationic protein actives for hair substantivity",
+    "Quinoa protein and plant protein hair actives",
+    "Hair conditioning and strengthening agents"
+  ],
+  "certifications": ["ISO 9001", "Kosher", "Halal", "Vegan certified options"],
+  "product_highlights": [
+    "Keratein™ — hydrolysed keratin that penetrates the hair shaft to repair and reinforce the cortex",
+    "Croquat® series — quaternised protein actives with high substantivity to damaged hair fibre",
+    "Kera-Quat™ — cationic keratin derivative providing targeted repair to chemically damaged hair",
+    "Quinoa protein actives — plant-based alternative to animal-derived keratin for vegan formulations"
+  ],
+  "tags": ["keratin-hydrolysate", "hair-protein-actives", "hair-repair", "amino-acids", "cationic-proteins", "vegan-options", "hair-conditioning", "usa"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "TRI-K Industries, based in the USA, is a specialist supplier of protein-based hair care actives with over 50 years of expertise in amino acid chemistry and hydrolysed protein technology. Their Keratein™ and Kera-Quat™ lines are widely used in professional and premium hair care formulations for their proven ability to penetrate the hair cortex and repair structural damage caused by chemical treatments, heat, and environmental stress. TRI-K also offers a comprehensive range of plant-derived protein actives including quinoa and wheat proteins for vegan and natural formulation briefs."
+}

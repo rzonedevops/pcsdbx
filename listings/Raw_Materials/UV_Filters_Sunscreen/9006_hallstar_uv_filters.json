@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "hallstar_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "Hallstar",
-  "status": "active",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "120 South Riverside Plaza, Suite 1620, Chicago, IL 60606",
-  "country": "United States",
-  "phone": "312-385-4494",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.hallstar.com/personal-care",
   "specializations": [
     "UV filters",
     "Sunscreen boosters",
     "Photostabilizers",
     "Innovation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "FDA-registered",
+    "REACH compliant"
   ],
   "product_highlights": [
     "UV filter specialist",
@@ -25,12 +29,15 @@
   "tags": [
     "specialty",
     "advanced-technology",
-    "premium"
+    "premium",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "hallstar_beauty.json",
+    "archive_reason": "Superseded by more complete canonical listing hallstar_beauty.json (2026-03-02). Legacy entry retained for audit trail."
   },
-  "notes": "Hallstar - Supplier in UV Filters Sunscreen category."
+  "notes": "Hallstar — US-based photostabilization specialist and UV filter innovator. ARCHIVED: Superseded by canonical listing hallstar_beauty.json which contains full product details including Hallbrite® photostabilizer systems and comprehensive sun care formulation expertise. See hallstar_beauty.json for the complete, current entry."
 }

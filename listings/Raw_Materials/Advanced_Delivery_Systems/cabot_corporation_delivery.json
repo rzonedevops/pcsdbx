@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "cabot_corporation_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Cabot Corporation",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.cabotcorp.com",
+  "specializations": [
+    "Specialty fumed silica for encapsulation support",
+    "Nanoparticle systems for active ingredient delivery",
+    "CAB-O-SIL® fumed silica as flow aid and delivery matrix",
+    "Carbon black and specialty nanoparticles",
+    "Aerogel particles for active encapsulation and release"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "REACH compliant",
+    "FDA 21 CFR compliant (select grades)"
+  ],
+  "product_highlights": [
+    "CAB-O-SIL® TS-530 — hydrophobic fumed silica for flow aid and encapsulated powder carrier",
+    "CAB-O-SIL® M-5 — hydrophilic fumed silica for active stabilization in dry delivery systems",
+    "ENOVA® Aerogel — ultra-low density aerogel particles for active encapsulation and slow release",
+    "CAB-O-SPERSE® aqueous dispersions — pre-dispersed silica for liquid delivery systems"
+  ],
+  "tags": [
+    "fumed-silica",
+    "nanoparticles",
+    "aerogel",
+    "active-stabilization",
+    "dry-delivery",
+    "us-manufacturer",
+    "encapsulation",
+    "specialty-chemicals"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Cabot Corporation is a global specialty chemicals and performance materials company with a notable personal care ingredient portfolio centered on fumed silica and aerogel technologies. Their CAB-O-SIL® fumed silica grades serve as critical excipients in encapsulated powder delivery systems, providing flow aid properties that enable uniform active distribution in dry formats. ENOVA® Aerogel particles represent an innovative delivery substrate for slow-release of oil-soluble actives with exceptional sensory properties, making Cabot a unique SKIN-TWIN reference for texture-active delivery integration."
+}

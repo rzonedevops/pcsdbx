@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "provital_group_hair_actives",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Provital Group",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Spain",
+  "website": "www.provitalgroup.com",
+  "specializations": [
+    "Plant-based anti-hair loss actives",
+    "Hair growth stimulation ingredients",
+    "Scalp microbiome-friendly actives",
+    "Botanical extracts for hair density",
+    "Clinically validated hair care actives"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS", "NATRUE"],
+  "product_highlights": [
+    "Baicapil™ — plant-based tri-active complex (Scutellaria baicalensis, wheat sprout, soy sprout) proven to stimulate hair growth and reduce hair loss by 57%",
+    "ProAmplex® — multi-active scalp complex targeting hair follicle stem cells and scalp microbiome balance",
+    "Exostem Hair — exosome-inspired plant stem cell extract for scalp rejuvenation",
+    "Comprehensive clinical dossiers and in-vitro mechanistic studies supporting efficacy claims"
+  ],
+  "tags": ["anti-hair-loss", "baicapil", "plant-based", "hair-growth", "scalp-microbiome", "botanical-actives", "clinical-efficacy", "spain", "cosmos-certified"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Provital Group is a Barcelona-based cosmetic active ingredient specialist best known for Baicapil™, a plant-based tri-active complex combining Scutellaria baicalensis root extract with wheat and soy sprout extracts. Baicapil™ acts on all three phases of the hair growth cycle and is clinically demonstrated to increase anagen hair by 22% and reduce hair loss by 57% compared to placebo. Provital is a vertically integrated company managing its own botanical extraction, delivering Ecocert and COSMOS-certified actives with comprehensive regulatory and clinical support."
+}

@@ -1,36 +1,51 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "ashland_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "Ashland",
   "status": "active",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "500 Hercules Road, Wilmington, DE 19808",
-  "country": "United States",
-  "phone": "302-594-5000",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.ashland.com/personal-care",
   "specializations": [
-    "UV filters",
-    "Sunscreen boosters",
-    "Formulation support",
-    "Specialty chemicals"
+    "UV booster systems for sunscreen performance enhancement",
+    "Film formers compatible with UV filter formulations",
+    "Rheology modifiers for sun care products",
+    "Sunscreen formulation support and co-ingredients",
+    "Specialty polymers for photostable UV filter systems",
+    "Sensory modifiers for aesthetic sun care formulations"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "FDA-registered",
+    "REACH compliant"
   ],
   "product_highlights": [
-    "Specialty chemicals company",
-    "UV filter expertise",
-    "Formulation support"
+    "Escalol® UV booster systems for enhanced SPF performance",
+    "Carbopol® and Noveon® rheology modifiers for sun care",
+    "Film formers for water-resistance in sunscreen products",
+    "Broad portfolio of sun care co-ingredients and formulation aids",
+    "Comprehensive technical support for sunscreen development"
   ],
   "tags": [
     "major-player",
-    "specialty",
-    "full-service"
+    "uv-boosters",
+    "film-formers",
+    "rheology-modifiers",
+    "sun-care-aids",
+    "formulation-support",
+    "usa-based",
+    "gmp-compliant",
+    "fda-registered",
+    "specialty-polymers"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "research_uv_filters_march_2026.md"
   },
-  "notes": "Ashland - Supplier in UV Filters Sunscreen category."
+  "notes": "US-based specialty chemicals company offering a broad range of co-ingredients and formulation aids for sun care products. Ashland's Escalol® UV booster systems enhance SPF performance, while their Carbopol® and Noveon® polymers provide rheology control critical for sun care stability. Particularly valuable as a one-stop formulation support supplier for sunscreen development, offering film formers, sensory modifiers, and emulsification aids compatible with all major UV filter systems."
 }

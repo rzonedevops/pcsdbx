@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lonza_delivery_systems",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Lonza Group AG",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Switzerland",
+  "website": "www.lonza.com",
+  "specializations": [
+    "Lipid-based drug and active delivery systems",
+    "Capsugel® lipid excipients for encapsulation",
+    "Softgel and hard capsule lipid technologies",
+    "Lipid nanoparticle (LNP) development support",
+    "Pharmaceutical-grade excipients for cosmetic actives"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP-certified",
+    "USP/NF/EP compliant excipients",
+    "REACH compliant"
+  ],
+  "product_highlights": [
+    "Capsugel® LICAPS™ — liquid-filled hard capsule technology for actives",
+    "Gelucire® — semi-solid lipid excipients for bioavailability enhancement",
+    "Compritol® — solid lipid excipient for sustained-release nanoparticle matrices",
+    "Lipoceré™ — lipid-based carrier system for poorly soluble cosmetic actives"
+  ],
+  "tags": [
+    "lipid-based-delivery",
+    "capsugel",
+    "solid-lipid-nanoparticles",
+    "sustained-release",
+    "pharmaceutical-grade",
+    "swiss-manufacturer",
+    "encapsulation",
+    "excipients"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Lonza is a global leader in life sciences manufacturing, with its Capsugel division providing a comprehensive portfolio of lipid-based delivery excipients widely used for enhancing the bioavailability of poorly soluble active ingredients. Their Gelucire® and Compritol® lipid excipient series are industry-standard reference materials for constructing solid lipid nanoparticles (SLNs) and nanostructured lipid carriers (NLCs) in cosmetic formulations. Lonza's pharmaceutical-grade manufacturing standards and deep lipid chemistry expertise make them a high-credibility reference for SKIN-TWIN's delivery system library."
+}

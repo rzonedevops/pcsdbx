@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sederma_biotech_ingredients",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Sederma (Croda International)",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "France",
+  "website": "www.crodabeauty.com",
+  "specializations": [
+    "Biotechnology-derived anti-ageing peptides",
+    "Fermentation-derived cosmetic actives",
+    "Signal peptides and matrikines for collagen stimulation",
+    "Biomimetic peptide synthesis and formulation",
+    "Clinically validated biotech skin care actives"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS", "RSPO"],
+  "product_highlights": [
+    "Matrixyl® 3000 — palmitoyl tripeptide-1 and palmitoyl tetrapeptide-7 complex clinically proven to halve deep wrinkles",
+    "Leuphasyl® — pentapeptide-18 mimicking enkephalin for expression wrinkle relaxation",
+    "Biopeptide CL™ — palmitoyl oligopeptide stimulating collagen I, III and fibronectin biosynthesis",
+    "Renovage™ — teprenone-based biotech active addressing all hallmarks of skin cellular ageing"
+  ],
+  "tags": ["matrixyl", "biotech-peptides", "fermentation-actives", "anti-ageing", "collagen-stimulation", "signal-peptides", "biomimetic", "france", "clinical-efficacy"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Sederma, the cosmetic actives division of Croda International based in Croissy-sur-Seine, France, is the originator of the globally iconic Matrixyl® peptide franchise — the most widely referenced peptide brand in prestige anti-ageing formulation. Matrixyl® 3000, combining palmitoyl tripeptide-1 and palmitoyl tetrapeptide-7, is backed by clinical evidence demonstrating a 45% reduction in deep wrinkles, making it the benchmark biotech signal peptide in the industry. Sederma's extensive biotech portfolio spans fermentation-derived actives, synthetic biomimetic peptides, and novel anti-ageing molecules, all supported by comprehensive clinical and mechanistic data for regulatory and marketing use."
+}

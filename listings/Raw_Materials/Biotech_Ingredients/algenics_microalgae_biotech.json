@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "algenics_microalgae_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Algenics",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "France",
+  "website": "www.algenics.com",
+  "specializations": [
+    "Microalgae biotech actives for cosmetics",
+    "Diatom-derived polysaccharides for skin repair",
+    "Photobioreactor cultivation of cosmetic microalgae",
+    "Marine biotech ingredients with clinical validation",
+    "Sustainable blue biotechnology for personal care"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "BPIFrance Innovation Award"],
+  "product_highlights": [
+    "Algaktiv® Firm+ — diatom-derived exopolysaccharide clinically proven to improve skin firmness and elasticity",
+    "Algaktiv® Nutri+ — microalgae extract providing amino acid and mineral nourishment for compromised skin barriers",
+    "Photobioreactor-grown microalgae biomass ensuring batch consistency and absence of environmental contaminants",
+    "Proprietary downstream processing preserving bioactive polysaccharide and protein integrity"
+  ],
+  "tags": ["microalgae-biotech", "diatom-polysaccharides", "marine-biotechnology", "skin-firmness", "barrier-repair", "photobioreactor", "france", "ecocert", "cosmos"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Algenics is a French blue biotechnology company based in Saint-Nazaire specialising in the controlled cultivation and transformation of marine microalgae for cosmetic and dermocosmetic applications. Their Algaktiv® range is based on bioactive exopolysaccharides and proteins produced by diatoms grown in closed photobioreactors, ensuring consistent quality and complete traceability free of marine environmental contamination. Algenics is notable for its integration of upstream microalgae cultivation with proprietary downstream bioprocessing, delivering clinically validated cosmetic actives that offer genuine alternatives to synthetic polymers and animal-derived ingredients."
+}

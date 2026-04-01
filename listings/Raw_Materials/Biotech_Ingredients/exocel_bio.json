@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "exocel_bio",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Exocel Bio",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.exocelbio.com",
+  "specializations": [
+    "Exosome-based actives for skin and hair rejuvenation",
+    "Plant-derived exosome production",
+    "Extracellular vesicle (EV) technology for cosmetics",
+    "Cell-to-cell communication actives",
+    "Next-generation regenerative cosmetic ingredients"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "cGMP-compliant",
+    "Vegan",
+    "Cruelty-free"
+  ],
+  "product_highlights": [
+    "PlantExo™ — plant-derived exosomes for skin renewal and anti-aging",
+    "HairRevive™ — exosome-based scalp and hair follicle rejuvenation active",
+    "Custom exosome development from plant, milk, or bio-fermented sources",
+    "Exosome characterization and quantification services for cosmetic formulators"
+  ],
+  "tags": [
+    "exosomes",
+    "extracellular-vesicles",
+    "plant-derived",
+    "hair-rejuvenation",
+    "skin-renewal",
+    "us-biotech",
+    "biotech-ingredients",
+    "regenerative"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_feb_2026.md"
+  },
+  "notes": "Exocel Bio is an emerging US biotechnology company specializing in plant-derived exosome technology for skin and hair care applications. Exosomes — nanoscale extracellular vesicles packed with growth factors, lipids, and nucleic acids — represent one of the most exciting frontiers in cosmetic science, enabling truly biointelligent skin-to-skin communication signals. Exocel Bio's plant-derived positioning offers a vegan and sustainable alternative to the MSC exosome market, making them a forward-looking SKIN-TWIN reference for the rapidly growing exosome actives category."
+}

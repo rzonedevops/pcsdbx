@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "merck_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
-  "company_name": "Merck",
-  "status": "active",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
+  "company_name": "Merck KGaA",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "2000 Galloping Hill Road, Kenilworth, NJ 07033",
-  "country": "United States",
-  "phone": "908-740-4000",
+  "date_updated": "2026-04-01",
+  "country": "Germany",
+  "website": "www.merckgroup.com/cosmetics",
   "specializations": [
     "Physical UV filters",
     "Titanium dioxide",
     "Zinc oxide",
     "Mineral sunscreens"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP-compliant",
+    "REACH compliant"
   ],
   "product_highlights": [
     "Leader in mineral UV filters",
@@ -25,12 +29,15 @@
   "tags": [
     "major-player",
     "specialty",
-    "premium"
+    "premium",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "merck_kgaa_eusolex.json",
+    "archive_reason": "Superseded by more complete canonical listing merck_kgaa_eusolex.json (2026-03-02). Legacy entry retained for audit trail."
   },
-  "notes": "Merck - Supplier in UV Filters Sunscreen category."
+  "notes": "Merck KGaA — German science and technology company with the Eusolex® UV filter brand. ARCHIVED: Superseded by canonical listing merck_kgaa_eusolex.json which contains full Eusolex® portfolio details, effect pigments, and comprehensive sun care chemistry. See merck_kgaa_eusolex.json for the complete, current entry."
 }

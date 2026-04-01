@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "wacker_chemie_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Wacker Chemie AG",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Germany",
+  "website": "www.wacker.com",
+  "specializations": [
+    "CAVAMAX® cyclodextrin complexation technology",
+    "Alpha, beta, and gamma cyclodextrins for cosmetics",
+    "Inclusion complexes for fragrance and active stabilization",
+    "Silicone-based delivery polymers",
+    "Polymer excipients for controlled release"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS-approved (select products)",
+    "Kosher and Halal certified (select grades)",
+    "REACH compliant"
+  ],
+  "product_highlights": [
+    "CAVAMAX® W6 (α-cyclodextrin) — food-grade complexing agent for cosmetic actives",
+    "CAVAMAX® W7 (β-cyclodextrin) — gold-standard for hydrophobic active inclusion complexation",
+    "CAVAMAX® W8 (γ-cyclodextrin) — large-cavity cyclodextrin for bulky fragrance molecules",
+    "CAVAMASK® modified cyclodextrins — improved aqueous solubility for demanding actives"
+  ],
+  "tags": [
+    "cyclodextrin",
+    "cavamax",
+    "inclusion-complexation",
+    "fragrance-stabilization",
+    "german-manufacturer",
+    "encapsulation",
+    "solubility",
+    "controlled-release"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Wacker Chemie is a leading global specialty chemicals company and the world's foremost manufacturer of cyclodextrins under the CAVAMAX® brand. Their alpha, beta, and gamma cyclodextrin portfolio provides formulators with versatile inclusion complexation tools for enhancing the solubility, stability, and controlled release of hydrophobic actives, fragrances, and UV filters in cosmetic formulations. Wacker's CAVAMAX® W7 is the industry standard beta-cyclodextrin, widely referenced in cosmetic innovation, making them a critical SKIN-TWIN data point for delivery system constraint optimization."
+}

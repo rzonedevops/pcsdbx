@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipex_biomembranes",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Lipex Biomembranes Inc.",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Canada",
+  "website": "www.lipex.com",
+  "specializations": [
+    "Liposome manufacturing equipment and processes",
+    "Liposomal ingredient supply for cosmetics",
+    "Extrusion-based liposome preparation",
+    "LiposoFast® extrusion technology",
+    "Phospholipid vesicle formulation services"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "cGMP-compliant",
+    "Health Canada registered",
+    "FDA-compliant equipment"
+  ],
+  "product_highlights": [
+    "LiposoFast® Basic — bench-top liposome extruder for precise vesicle size control",
+    "LiposoFast® Pro — industrial-scale liposome extrusion for cosmetic manufacturing",
+    "Polycarbonate extrusion membranes — calibrated pore sizes from 30–800 nm",
+    "Custom liposomal ingredient preparation services for cosmetic actives"
+  ],
+  "tags": [
+    "liposome-manufacturing",
+    "extrusion-technology",
+    "phospholipid-vesicles",
+    "liposomal-ingredients",
+    "canadian-manufacturer",
+    "liposomes",
+    "encapsulation",
+    "equipment"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Lipex Biomembranes is a Canadian specialist in liposome manufacturing technology and equipment, best known for the LiposoFast® extrusion system that is widely used in research and cosmetic manufacturing to produce highly uniform liposomes. Their extrusion membrane technology enables precise control of liposome size distribution, which is critical for skin penetration optimization and regulatory documentation. Lipex uniquely bridges the gap between liposome equipment and ingredient supply, making them a specialized SKIN-TWIN reference for formulators requiring in-house liposome preparation capabilities."
+}
