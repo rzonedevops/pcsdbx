@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lubrizol_sensory_division",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "Lubrizol — Sensory & Texture Division",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.lubrizol.com/personal-care",
+  "specializations": [
+    "Carbomer-based rheology modifiers",
+    "Film formers for styling and long-wear",
+    "Sensory polymers",
+    "Texture enhancers",
+    "Pharmaceutical-grade topical formulation polymers"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "EFfCI GMP"],
+  "product_highlights": [
+    "Carbopol® carbomers — industry standard for rheology modification",
+    "Noveon® polycarbophil for topical formulations",
+    "Styleze™ film formers for styling and long-wear cosmetics",
+    "Sensory polymer portfolio for precisely tuned texture profiles"
+  ],
+  "tags": ["carbomers", "rheology-modifiers", "film-formers", "sensory-polymers", "texture-enhancers", "long-wear"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "Lubrizol's personal care division is the world's leading supplier of Carbopol® carbomer polymers, the industry standard for rheology modification in skincare, hair care, and pharmaceutical topical formulations. Their Styleze™ film former range is widely used in styling products and long-wear cosmetics. Lubrizol's sensory polymer portfolio enables formulators to create products with precisely tuned texture profiles, from lightweight serums to rich creams."
+}
