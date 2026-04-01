@@ -58,7 +58,7 @@ Added 8 new supplier listings. Note: **Geltor** and **Silab** were already in th
 ### Schema & Quality
 - ✅ **100% schema compliance** — all 23 new files validated with Python JSON parser
 - ✅ **Zero duplicates** — pre-checked all existing files before creating
-- ✅ **Committed to repository** — commit `5b86bf98` on branch `copilot/analyze-repo-status-fb171e57-e0bf-4cec-a829-f701a2b275f2`
+- ✅ **Committed to repository** — all 23 files committed to the current working branch
 - ✅ **All notes** are 2-4 sentences with genuine supplier intelligence and SKIN-TWIN relevance
 
 ---
