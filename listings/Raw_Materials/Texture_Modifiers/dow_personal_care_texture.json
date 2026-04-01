@@ -22,6 +22,17 @@
     "XIAMETER® silicones for cost-effective performance",
     "Specialty silicone elastomers for cushiony skin feel",
     "Sustainable silicone alternatives portfolio"
+    "Film formers for long-wear cosmetics",
+    "Emollients for skin care",
+    "Silicone elastomers for cushion skin feel",
+    "Sustainable silicone alternatives"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "RSPO"],
+  "product_highlights": [
+    "DOWSIL™ silicones — comprehensive range of film formers and sensory enhancers",
+    "XIAMETER® silicones — high-performance, cost-effective silicone solutions",
+    "Specialty silicone elastomers — cushiony skin feel and improved spreadability",
+    "Naturally derived silicone alternatives for sustainable formulations"
   ],
   "tags": ["silicone-sensory", "film-formers", "emollients", "silicone-elastomers", "texture-enhancement", "long-wear"],
   "metadata": {
@@ -30,4 +41,5 @@
     "data_source": "research_texture_modifiers_march_2026_v2.md"
   },
   "notes": "Dow is one of the world's largest materials science companies with a comprehensive portfolio of silicone-based ingredients for personal care. Their DOWSIL™ and XIAMETER® silicone ranges include film formers, sensory modifiers, and emollients that are used in virtually every category of personal care product. Dow's silicone elastomers are particularly valued for their ability to deliver a unique, cushiony skin feel and improve the spreadability of formulations."
+  "notes": "Dow is one of the world's largest materials science companies with a comprehensive portfolio of silicone-based ingredients for personal care. Their DOWSIL™ and XIAMETER® silicone ranges include film formers, sensory modifiers, and emollients that are used in virtually every category of personal care product. Dow's silicone elastomers are particularly valued for their ability to deliver a unique, cushiony skin feel and improve the spreadability of formulations, making them indispensable in premium skincare and color cosmetics."
 }

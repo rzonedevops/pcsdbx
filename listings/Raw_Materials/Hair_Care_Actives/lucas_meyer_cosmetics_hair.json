@@ -8,6 +8,11 @@
   "date_added": "2026-04-01",
   "date_updated": "2026-04-01",
   "country": "France / Switzerland",
+  "company_name": "Lucas Meyer Cosmetics (Clariant)",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "France",
   "website": "www.lucasmeyercosmetics.com",
   "specializations": [
     "Scalp care actives",
@@ -24,10 +29,21 @@
     "Anti-hair loss ingredient systems with clinical data"
   ],
   "tags": ["scalp-care", "anti-hair-loss", "lipid-delivery", "hair-repair", "french-cosmetic-science", "capixyl"],
+    "Hair growth peptides"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS"],
+  "product_highlights": [
+    "Capixyl™ — clinically validated hair growth biomimetic peptide with red clover extract",
+    "Specialty lipid actives for scalp penetration",
+    "Hair care delivery systems for enhanced follicle bioavailability",
+    "Anti-hair loss active ingredient portfolio"
+  ],
+  "tags": ["scalp-care", "anti-hair-loss", "lipid-delivery", "hair-repair", "french-cosmetic-science", "hair-growth-peptides"],
   "metadata": {
     "last_validated": "2026-04-01",
     "validation_method": "manual",
     "data_source": "research_hair_care_actives_march_2026_v2.md"
   },
   "notes": "Lucas Meyer Cosmetics (part of Clariant) is a French cosmetic active ingredient specialist with a strong portfolio of hair and scalp care actives. As the distributor of Capixyl™, they provide one of the most clinically validated hair growth actives on the market. Their lipid-based delivery systems enhance the penetration and efficacy of hair care actives into the scalp and hair follicle."
+  "notes": "Lucas Meyer Cosmetics (part of Clariant) is a French cosmetic active ingredient specialist with a strong portfolio of hair and scalp care actives. As a distributor of Capixyl™, they provide one of the most clinically validated hair growth actives on the market. Capixyl™ combines a biomimetic peptide with red clover extract rich in biochanin A for comprehensive hair growth support. Their lipid-based delivery systems enhance the penetration and efficacy of hair care actives into the scalp and hair follicle."
 }
