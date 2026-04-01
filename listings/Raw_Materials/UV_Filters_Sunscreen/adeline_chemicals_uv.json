@@ -11,7 +11,7 @@
   "website": "www.adelinechemicals.com",
   "specializations": [
     "Broad-range UV filter raw materials",
-    "Avobenzone UVA I/II/UVB protector",
+    "Avobenzone UVA I/II filter (310-400 nm)",
     "Topical sunscreen active ingredients",
     "Chemical UV filter distribution",
     "Personal care ingredient supply"
@@ -22,7 +22,7 @@
     "CoA available"
   ],
   "product_highlights": [
-    "Avobenzone - broad-range UV protector covering UVA I, UVA II, and UVB wavelengths",
+    "Avobenzone - broad-spectrum UVA protector covering UVA I and UVA II wavelengths (310-400 nm)",
     "Comprehensive UV filter portfolio for cosmetic and sunscreen formulations",
     "US-based supply for personal care manufacturers"
   ],
@@ -30,7 +30,6 @@
     "avobenzone",
     "broad-spectrum",
     "uva-filter",
-    "uvb-filter",
     "chemical-uv-filter",
     "usa",
     "sunscreen-actives",
@@ -41,5 +40,5 @@
     "validation_method": "manual",
     "data_source": "research_uv_filters_feb_2026.md"
   },
-  "notes": "Adeline Chemicals is a US-based personal care ingredient supplier offering a focused portfolio of UV filter raw materials including avobenzone for broad-spectrum sun protection. Their avobenzone offering covers UVA I, UVA II, and UVB wavelengths, providing comprehensive sun protection for topical sunscreen and cosmetic formulations. Adeline Chemicals supports cosmetic manufacturers with consistent supply of FDA OTC-compliant sunscreen active ingredients."
+  "notes": "Adeline Chemicals is a US-based personal care ingredient supplier offering a focused portfolio of UV filter raw materials including avobenzone for UVA sun protection. Their avobenzone offering covers UVA I and UVA II wavelengths (310-400 nm), providing comprehensive UVA protection for topical sunscreen and cosmetic formulations. Adeline Chemicals supports cosmetic manufacturers with consistent supply of FDA OTC-compliant sunscreen active ingredients; UVB filters such as octinoxate or octocrylene should be paired for full broad-spectrum coverage."
 }
