@@ -1,21 +1,26 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "symrise_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "Symrise",
-  "status": "active",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "300 North Street, Teterboro, NJ 07608",
-  "country": "United States",
-  "phone": "201-288-3200",
+  "date_updated": "2026-04-01",
+  "country": "Germany",
+  "website": "www.symrise.com/cosmetic-ingredients/uv-protection",
   "specializations": [
     "UV filters",
     "Natural UV protection",
     "Botanical extracts",
     "Innovation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP-compliant",
+    "COSMOS-approved",
+    "REACH compliant"
   ],
   "product_highlights": [
     "Natural UV protection solutions",
@@ -25,12 +30,15 @@
   "tags": [
     "natural",
     "specialty",
-    "advanced-technology"
+    "advanced-technology",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "symrise_uv_filters.json",
+    "archive_reason": "Superseded by more complete canonical listing symrise_uv_filters.json (2026-03-02). Legacy entry retained for audit trail."
   },
-  "notes": "Symrise - Supplier in UV Filters Sunscreen category."
+  "notes": "Symrise — German fragrance, flavor, and cosmetic ingredients leader with a dedicated UV protection portfolio. ARCHIVED: Superseded by canonical listing symrise_uv_filters.json which contains full SymSol® UV system details and comprehensive sun care formulation intelligence. See symrise_uv_filters.json for the complete, current entry."
 }

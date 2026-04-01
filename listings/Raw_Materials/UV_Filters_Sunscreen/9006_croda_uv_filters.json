@@ -1,21 +1,26 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "croda_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "Croda",
-  "status": "active",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "300 Brookside Avenue, Building 20, Ambler, PA 19002",
-  "country": "United States",
-  "phone": "732-417-0800",
+  "date_updated": "2026-04-01",
+  "country": "UK",
+  "website": "www.crodabeauty.com/sun-care",
   "specializations": [
     "UV filters",
     "Natural UV protection",
     "Sustainable solutions",
     "Innovation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP-compliant",
+    "COSMOS-approved",
+    "REACH compliant"
   ],
   "product_highlights": [
     "Sustainable UV filter solutions",
@@ -25,12 +30,15 @@
   "tags": [
     "natural",
     "sustainable",
-    "premium"
+    "premium",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "croda_solaveil.json",
+    "archive_reason": "Superseded by more complete canonical listing croda_solaveil.json (2026-03-02). Legacy entry from initial database build retained for audit trail."
   },
-  "notes": "Croda - Supplier in UV Filters Sunscreen category."
+  "notes": "Croda — UK-based specialty ingredients leader with the Solaveil™ mineral UV portfolio. ARCHIVED: Superseded by canonical listing croda_solaveil.json which contains full Solaveil™ product details, sustainability credentials, and formulation guidance. See croda_solaveil.json for the complete, current entry."
 }

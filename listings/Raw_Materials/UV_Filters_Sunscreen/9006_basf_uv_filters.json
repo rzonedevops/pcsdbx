@@ -1,21 +1,25 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "basf_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "BASF",
-  "status": "active",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "100 Park Avenue, Florham Park, NJ 07932",
-  "country": "United States",
-  "phone": "973-245-6000",
+  "date_updated": "2026-04-01",
+  "country": "Germany",
+  "website": "www.basf.com/personal-care/uv-filters",
   "specializations": [
     "UV filters",
     "Chemical sunscreens",
     "Physical filters",
     "Technical support"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP-compliant",
+    "REACH compliant"
   ],
   "product_highlights": [
     "Global chemical leader",
@@ -25,12 +29,15 @@
   "tags": [
     "major-player",
     "manufacturing",
-    "premium"
+    "premium",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "basf_tinosorb.json",
+    "archive_reason": "Superseded by more complete canonical listing basf_tinosorb.json (2026-03-02). Legacy entry from initial database build retained for audit trail."
   },
-  "notes": "BASF - Supplier in UV Filters Sunscreen category."
+  "notes": "BASF — Global chemical leader and UV filter manufacturer. ARCHIVED: Superseded by canonical listing basf_tinosorb.json which contains full TINOSORB® portfolio details, certifications, and formulation intelligence. See basf_tinosorb.json for the complete, current entry."
 }

@@ -1,21 +1,26 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "dsm_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "DSM Nutritional Products",
-  "status": "active",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "45 Waterview Boulevard, Parsippany, NJ 07054",
-  "country": "United States",
-  "phone": "973-257-8000",
+  "date_updated": "2026-04-01",
+  "country": "Switzerland",
+  "website": "www.dsm-firmenich.com/beauty-care/uv-filters",
   "specializations": [
     "UV filters",
     "Sunscreen actives",
     "Chemical filters",
     "Innovation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "GMP-compliant",
+    "COSMOS-approved",
+    "REACH compliant"
   ],
   "product_highlights": [
     "Global leader in UV filters",
@@ -25,12 +30,15 @@
   "tags": [
     "major-player",
     "advanced-technology",
-    "premium"
+    "premium",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "dsm_firmenich_parsol.json",
+    "archive_reason": "Superseded by more complete canonical listing dsm_firmenich_parsol.json (2026-03-02). Company rebranded DSM-Firmenich after merger. Legacy entry retained for audit trail."
   },
-  "notes": "DSM Nutritional Products - Supplier in UV Filters Sunscreen category."
+  "notes": "DSM (now DSM-Firmenich after 2023 merger) — Swiss-Dutch specialty ingredients giant with the iconic PARSOL® UV filter brand. ARCHIVED: Superseded by canonical listing dsm_firmenich_parsol.json which contains full PARSOL® portfolio details, current company name, and comprehensive regulatory information. See dsm_firmenich_parsol.json for the complete, current entry."
 }
