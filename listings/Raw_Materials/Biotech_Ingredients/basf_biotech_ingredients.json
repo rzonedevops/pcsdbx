@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "basf_biotech_ingredients",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "BASF Personal Care",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Germany",
+  "website": "www.basf.com/personal-care",
+  "specializations": [
+    "Biotechnology-derived vitamins and antioxidants",
+    "Fermentation-produced hyaluronic acid precursors",
+    "Bio-based emollients and cosmetic lipids",
+    "Enzyme-modified cosmetic actives",
+    "Sustainable biotechnology for large-volume cosmetic ingredients"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS", "RSPO", "REACH compliance"],
+  "product_highlights": [
+    "Luvitol® Bio — bio-based emollient derived from renewable raw materials via biotransformation",
+    "Vitamin C (L-ascorbic acid) via fermentation — large-scale biotechnology production of cosmetic-grade ascorbic acid",
+    "Hyacare® — fermentation-derived hyaluronic acid in multiple molecular weight grades for skin care",
+    "Bio-based niacinamide — fermentation route delivering pharmaceutical-grade niacinamide for cosmetics"
+  ],
+  "tags": ["fermentation-vitamins", "bio-based-emollients", "hyaluronic-acid", "niacinamide-fermentation", "vitamin-c", "large-scale-biotech", "germany", "cosmos-certified", "reach"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "BASF, the world's largest chemical company, operates a significant biotechnology division within its Personal Care segment producing large-volume cosmetic actives via fermentation and enzymatic transformation. BASF's biotech-derived portfolio includes fermentation-produced hyaluronic acid under the Hyacare® brand in multiple molecular weight grades, bio-based vitamins including ascorbic acid and niacinamide, and biotransformation-derived emollients with superior sustainability profiles. BASF's scale and global manufacturing network make it a critical supplier for personal care brands seeking biotech-derived ingredients with consistent quality, regulatory documentation, and long-term supply security."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ginkgo_bioworks_cosmetics",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Ginkgo Bioworks",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.ginkgobioworks.com",
+  "specializations": [
+    "Synthetic biology platform-as-a-service for cosmetic actives",
+    "Strain engineering and fermentation development for beauty ingredients",
+    "Biosynthetic aroma and fragrance compounds",
+    "Enzyme engineering for cosmetic active production",
+    "Biotechnology partnerships with personal care brands"
+  ],
+  "certifications": ["ISO 9001", "GMP Biotechnology", "SOC 2 Type II (data security)"],
+  "product_highlights": [
+    "Cell programming platform — world's most automated organism engineering foundry enabling rapid development of new biotech actives",
+    "Fragrance molecule biosynthesis — production of rare and complex aromatic compounds via engineered microorganisms",
+    "Custom enzyme engineering — design-to-manufacture service for novel cosmetic ingredient enzymes",
+    "Partnership model — cosmetic brands co-develop proprietary biotech actives via Ginkgo's foundry model"
+  ],
+  "tags": ["synthetic-biology", "strain-engineering", "fermentation-platform", "biosynthetic-fragrance", "enzyme-engineering", "custom-biotech", "usa", "partnership-model"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Ginkgo Bioworks is Boston-based synthetic biology company operating the world's largest and most automated cell programming foundry. For the personal care industry, Ginkgo offers a platform-as-a-service model that enables cosmetic ingredient companies and brands to co-develop novel biotech actives — from fragrance molecules to enzymes and functional proteins — without building their own fermentation infrastructure. Their partnerships with major fragrance houses and personal care ingredient suppliers enable production of rare botanical molecules, complex terpenes, and performance actives at commercial scale with dramatically reduced environmental impact compared to conventional extraction or chemical synthesis."
+}

@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "c16_biosciences_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "C16 Biosciences",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.c16bio.com",
+  "specializations": [
+    "Fermentation-derived palm oil alternatives for cosmetics",
+    "Bio-based fatty acid production via yeast fermentation",
+    "Sustainable emollients replacing conventional palm derivatives",
+    "Carbon-negative lipid production technology",
+    "Biotechnology for deforestation-free cosmetic supply chains"
+  ],
+  "certifications": ["ISO 9001", "Rainforest Alliance aligned", "USDA Certified Biobased"],
+  "product_highlights": [
+    "Palmless™ — fermentation-derived palm oil alternative with identical fatty acid profile, produced without deforestation",
+    "Bio-based C16 fatty acids — precision fermentation producing palmitic acid for cosmetic emollient applications",
+    "Carbon-negative production pathway — net carbon sequestration achieved through yeast fermentation inputs",
+    "Transparent supply chain with full traceability from feedstock to cosmetic ingredient"
+  ],
+  "tags": ["palm-oil-alternative", "fermentation-lipids", "sustainable-emollients", "deforestation-free", "palmless", "bio-fatty-acids", "carbon-negative", "usa", "usda-biobased"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "C16 Biosciences is a New York-based biotechnology company producing fermentation-derived alternatives to palm oil for the personal care and food industries. Their flagship Palmless™ product is produced by engineering yeast to ferment feedstocks into a lipid mixture with a fatty acid profile identical to conventional palm oil, eliminating the deforestation, peatland destruction, and biodiversity loss associated with palm cultivation. For cosmetic formulators, Palmless™ serves as a drop-in replacement for palm-derived emollients, fatty acid esters, and surfactant precursors, enabling deforestation-free formulation without compromising sensory performance or stability."
+}

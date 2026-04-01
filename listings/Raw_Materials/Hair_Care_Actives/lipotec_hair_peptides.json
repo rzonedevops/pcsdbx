@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipotec_hair_peptides",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Lipotec (Lubrizol Life Science Beauty)",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Spain",
+  "website": "www.lipotec.com",
+  "specializations": [
+    "Synthetic hair growth peptides",
+    "Scalp follicle-stimulating actives",
+    "Biotinoyl Tripeptide-1 synthesis and supply",
+    "Acetyl Tetrapeptide-3 for hair anchoring",
+    "Biomimetic peptide technology for hair care"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "GMP Cosmetics"],
+  "product_highlights": [
+    "Biotinoyl Tripeptide-1 (Procapil® component) — biotinylated peptide stimulating follicle anchoring proteins and hair growth cycle",
+    "Acetyl Tetrapeptide-3 — targets ECM proteins around the hair follicle to anchor the hair shaft and stimulate growth",
+    "Vividine® — biomimetic peptide for scalp sebum regulation and anti-androgenic activity",
+    "Peptide delivery systems optimised for scalp penetration and sustained release"
+  ],
+  "tags": ["hair-growth-peptides", "biotinoyl-tripeptide", "acetyl-tetrapeptide", "synthetic-peptides", "scalp-actives", "follicle-stimulation", "spain", "lubrizol"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Lipotec, a division of Lubrizol Life Science Beauty headquartered in Barcelona, Spain, is one of the world's foremost peptide ingredient manufacturers for cosmetic applications. Their hair care peptide portfolio includes Biotinoyl Tripeptide-1 — a biotinylated hair growth peptide that strengthens the attachment of the hair bulb to the dermal papilla by stimulating key anchoring proteins — and Acetyl Tetrapeptide-3, which acts on extracellular matrix proteins around the hair follicle to promote hair density and reduce hair loss. Lipotec supplies these actives as both individual INCI ingredients and as formulated actives with full clinical and regulatory dossiers."
+}
