@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "pravada_beauty_labs_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "Pravada Beauty Labs",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "United States",
+  "website": "www.pravadabeautylabs.com",
+  "specializations": [
+    "Premium B2B wholesale peptide formulations",
+    "Advanced peptide skincare collection",
+    "Anti-aging peptide formulations",
+    "Signal and carrier peptide actives",
+    "Private label peptide products"
+  ],
+  "certifications": [
+    "GMP-compliant",
+    "Third-party tested",
+    "US-manufactured"
+  ],
+  "product_highlights": [
+    "Wholesale peptides skincare collection for B2B customers",
+    "Premium bulk beauty formulations with advanced peptide complexes",
+    "Signal, carrier, and enzyme inhibitor peptide actives",
+    "Custom peptide formulation services"
+  ],
+  "tags": [
+    "wholesale",
+    "b2b",
+    "peptide-formulations",
+    "usa",
+    "private-label",
+    "anti-aging",
+    "premium"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_carrier_peptides_feb_2026.md"
+  },
+  "notes": "Pravada Beauty Labs is a US-based B2B wholesale supplier offering a comprehensive peptides skincare collection for cosmetic manufacturers and private label brands. They specialize in premium bulk beauty formulations incorporating advanced peptide complexes including signal peptides, carrier peptides, and enzyme inhibitor peptides. Pravada is positioned as a one-stop solution for brands seeking high-quality peptide-based skincare formulations with GMP-compliant manufacturing."
+}
