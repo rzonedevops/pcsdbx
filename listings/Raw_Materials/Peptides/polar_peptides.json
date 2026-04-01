@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "polar_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "Polar Peptides",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Canada",
+  "website": "polarpeptides.ca",
+  "specializations": [
+    "GHK-Cu (Copper Tripeptide-1) specialist",
+    "Carrier peptide raw materials",
+    "Collagen synthesis actives",
+    "Scalp care peptides",
+    "Wound healing peptides"
+  ],
+  "certifications": [
+    "CoA available",
+    "High-purity certified"
+  ],
+  "product_highlights": [
+    "GHK-Cu (Copper Tripeptide-1) - specialist supplier",
+    "Broad-spectrum applications in skincare and scalp care",
+    "Collagen synthesis, inflammation reduction, wound healing support"
+  ],
+  "tags": [
+    "ghk-cu",
+    "copper-peptides",
+    "carrier-peptides",
+    "canada",
+    "scalp-care",
+    "collagen-synthesis",
+    "specialist"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_carrier_peptides_feb_2026.md"
+  },
+  "notes": "Polar Peptides is a Canadian specialist supplier focusing on GHK-Cu (Copper Tripeptide-1) and related carrier peptides for cosmetic applications. Their GHK-Cu offering is targeted at skincare and scalp care formulations, supporting collagen synthesis, inflammation reduction, and wound healing. As a specialist supplier, Polar Peptides provides high-purity copper peptides with Certificate of Analysis for cosmetic manufacturers."
+}

@@ -1,0 +1,43 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "spec_chem_industry_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "Spec-Chem Industry Inc.",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Taiwan",
+  "website": "www.specchemind.com",
+  "specializations": [
+    "Bioactive peptide solutions",
+    "Specialty cosmetic chemicals",
+    "One-stop polypeptide drug solutions",
+    "Formulation design and assessment",
+    "Peptide characterization services"
+  ],
+  "certifications": [
+    "GMP-compliant",
+    "ISO-certified"
+  ],
+  "product_highlights": [
+    "Complete one-stop solution for polypeptide development from research to pilot production",
+    "Bioactive peptide solutions for cosmetic and pharmaceutical applications",
+    "Formulation design, assessment, and characterization services",
+    "Carrier peptide and signal peptide portfolios"
+  ],
+  "tags": [
+    "carrier-peptides",
+    "bioactive-peptides",
+    "taiwan",
+    "formulation-services",
+    "specialty-chemicals",
+    "one-stop-solution"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_carrier_peptides_feb_2026.md"
+  },
+  "notes": "Spec-Chem Industry Inc. is a Taiwan-based specialty chemical supplier providing bioactive peptide solutions for cosmetic and pharmaceutical applications. They offer a one-stop solution for polypeptide development from research to pilot production, including formulation design, assessment, and characterization. Their carrier peptide portfolio supports premium skincare formulations focused on skin repair, anti-aging, and delivery optimization."
+}

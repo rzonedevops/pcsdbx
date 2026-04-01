@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "mobel_biochem_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "Mobel Biochem",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "China",
+  "website": "www.mobelbiochem.com",
+  "specializations": [
+    "Copper Tripeptide-34 carrier peptide",
+    "Copper Peptide GHK-Cu",
+    "AHK-Cu (Alanine-Histidine-Lysine Copper)",
+    "Natural amino acid carrier peptides",
+    "Cosmetic peptide raw materials"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "CoA available"
+  ],
+  "product_highlights": [
+    "Copper Tripeptide-34 with natural amino acids and adjacent copper binding",
+    "GHK-Cu (Copper Tripeptide-1) - flagship anti-aging carrier peptide",
+    "AHK-Cu - complementary copper carrier peptide",
+    "High-purity cosmetic-grade peptide raw materials"
+  ],
+  "tags": [
+    "copper-peptides",
+    "ghk-cu",
+    "ahk-cu",
+    "carrier-peptides",
+    "china",
+    "raw-materials",
+    "amino-acid-peptides"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_carrier_peptides_feb_2026.md"
+  },
+  "notes": "Mobel Biochem is a Chinese cosmetic peptide manufacturer specializing in copper carrier peptides, including Copper Tripeptide-34, GHK-Cu, and AHK-Cu. Their carrier peptides are formulated with natural amino acids and adjacent copper binding for enhanced skin compatibility. Mobel Biochem provides high-purity cosmetic-grade peptide raw materials for anti-aging, wound healing, and skin repair formulations."
+}
