@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lubrizol_life_science_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Lubrizol Life Science Beauty",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.lubrizol.com/personal-care",
+  "specializations": [
+    "Polymer-based controlled release systems",
+    "Film-forming polymers for active encapsulation",
+    "Carbopol® and Pemulen® polymer delivery matrices",
+    "Microparticle and microsphere technology",
+    "Sensory-enhancing delivery systems"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "REACH compliant",
+    "GMP-compliant manufacturing"
+  ],
+  "product_highlights": [
+    "Carbopol® AQUA SF-1 — high-efficiency polymer gel for active ingredient suspension and delivery",
+    "Pemulen™ TR-1 and TR-2 — polymeric emulsifiers enabling stable active delivery emulsions",
+    "LifePak® — encapsulated active delivery beads for visual and functional differentiation",
+    "Avalure™ AC series — biopolymer-based film formers with controlled active release"
+  ],
+  "tags": [
+    "polymer-delivery",
+    "controlled-release",
+    "carbopol",
+    "film-forming",
+    "microspheres",
+    "us-based",
+    "encapsulation",
+    "sensory"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Lubrizol Life Science Beauty is a major specialty chemicals provider with a deep portfolio of polymer-based delivery and texturizing systems for personal care formulations. Their Carbopol® polymer platform is the industry's most widely used rheology modifier and active delivery matrix, enabling formulators to precisely control the release and sensory profile of ingredients. Lubrizol's LifePak® encapsulated active delivery beads add visual differentiation while providing controlled-release functionality, making them a key SKIN-TWIN reference for multi-functional delivery system innovation."
+}

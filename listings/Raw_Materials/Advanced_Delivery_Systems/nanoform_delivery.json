@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nanoform_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Nanoform Finland Plc",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Finland",
+  "website": "www.nanoform.com",
+  "specializations": [
+    "Nanoparticle formation via CESS® technology",
+    "Drug and active ingredient nanocrystal engineering",
+    "Amorphous solid dispersion nanoparticles",
+    "Bioavailability enhancement through nanonization",
+    "Scalable nanoparticle manufacturing"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "EMA-aligned manufacturing",
+    "Helsinki Stock Exchange listed (Nasdaq First North)"
+  ],
+  "product_highlights": [
+    "CESS® (Controlled Expansion of Supercritical Solutions) — proprietary nanonization technology",
+    "Particle size reduction to 10–200 nm range for dramatically enhanced bioavailability",
+    "Nanocrystal formulation services for cosmetic and pharmaceutical actives",
+    "Amorphous nanoparticle development for poorly soluble active ingredients"
+  ],
+  "tags": [
+    "nanonization",
+    "cess-technology",
+    "nanocrystals",
+    "bioavailability-enhancement",
+    "supercritical-fluid",
+    "finnish-innovation",
+    "encapsulation",
+    "nanoparticles"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Nanoform is a Finnish nanotechnology company specializing in CESS® (Controlled Expansion of Supercritical Solutions) technology, which produces highly uniform nanoparticles from active ingredients to dramatically improve bioavailability and skin penetration. Originally developed for pharmaceutical applications, CESS® technology is increasingly being adopted for high-performance cosmetic actives where maximum bioavailability is required. Nanoform's ability to nano-engineer virtually any active makes them a forward-looking supplier for the SKIN-TWIN engine's advanced formulation optimization."
+}

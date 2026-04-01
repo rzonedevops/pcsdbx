@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "sphera_encapsulation",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Sphera Encapsulation Srl",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Italy",
+  "website": "www.sphera.it",
+  "specializations": [
+    "Microencapsulation specialist for personal care and cosmetics",
+    "Coacervation microencapsulation technology",
+    "Spray-cooling and spray-drying microencapsulation",
+    "Custom microcapsule development and contract manufacturing",
+    "Sensory active microencapsulation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "REACH compliant",
+    "ISO 14001"
+  ],
+  "product_highlights": [
+    "Coacervation microcapsules — double-wall gelatin/gum arabic shells for sensitive cosmetic actives",
+    "WaxCap™ — wax matrix microcapsules for controlled thermal-triggered release",
+    "SpheraBio™ — biodegradable microcapsules complying with EU microplastics regulations",
+    "Custom microencapsulation of retinol, vitamin C, peptides, and botanical extracts"
+  ],
+  "tags": [
+    "microencapsulation",
+    "coacervation",
+    "italian-specialist",
+    "biodegradable",
+    "spray-cooling",
+    "custom-encapsulation",
+    "encapsulation",
+    "eu-compliant"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Sphera Encapsulation is an Italian microencapsulation specialist with deep expertise in coacervation, spray-cooling, and spray-drying technologies for personal care and cosmetic applications. Their SpheraBio™ biodegradable microcapsule platform is a direct response to EU microplastics regulations, providing compliant alternatives for rinse-off product developers. Sphera offers comprehensive custom microencapsulation services from feasibility through commercial-scale manufacturing, making them a versatile European partner for SKIN-TWIN's active delivery and regulatory compliance optimization."
+}

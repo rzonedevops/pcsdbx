@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dsm_firmenich_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "dsm-firmenich",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Switzerland",
+  "website": "www.dsm-firmenich.com",
+  "specializations": [
+    "Senolytic biotech actives for skin longevity",
+    "Biotechnology-derived vitamins and actives",
+    "Alpaflor® alpine plant biotechnology extracts",
+    "Fermentation-derived bioactives",
+    "Nutricosmetic and topical biotech actives"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS-approved",
+    "Ecocert",
+    "RSPO certified (palm derivatives)"
+  ],
+  "product_highlights": [
+    "ETERWELL™ YOUTH — senolytic biotech active targeting zombie cells for skin longevity",
+    "Alpaflor® Edelweiss CS — alpine plant biotech extract with UV and oxidative stress protection",
+    "Alpaflor® Gigawhite — multi-plant brightening biocomplex via precision plant biotechnology",
+    "Niacinamide SymWhite® 377 — fermentation-derived brightening active"
+  ],
+  "tags": [
+    "senolytics",
+    "skin-longevity",
+    "alpaflor",
+    "alpine-biotech",
+    "fermentation-derived",
+    "swiss-manufacturer",
+    "biotech-ingredients",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_feb_2026.md"
+  },
+  "notes": "dsm-firmenich is one of the world's largest science-based nutrition, health, and beauty companies, formed by the merger of DSM and Firmenich in 2023. Their ETERWELL™ YOUTH senolytic active represents a breakthrough in skin longevity science, targeting senescent 'zombie cells' that accumulate with age and drive inflammaging. The Alpaflor® alpine plant biotechnology platform produces clinically validated biotech extracts with exceptional sustainability credentials, making dsm-firmenich a top-tier SKIN-TWIN reference for next-generation anti-aging biotech actives."
+}

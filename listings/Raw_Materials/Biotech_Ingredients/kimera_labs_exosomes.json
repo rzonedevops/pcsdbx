@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "kimera_labs_exosomes",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Kimera Labs",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.kimeralabs.com",
+  "specializations": [
+    "MSC-derived exosomes for professional aesthetics",
+    "Extracellular vesicle bioprocessing",
+    "Wharton's jelly MSC exosome production",
+    "Clinical-grade exosome manufacturing",
+    "Cell-free regenerative therapy ingredients"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "cGMP-certified facility",
+    "FDA-registered",
+    "AABB accredited (parent biobank)",
+    "ISO 15189"
+  ],
+  "product_highlights": [
+    "MitoGrow™ — Wharton's jelly MSC-derived exosomes for hair and scalp regeneration",
+    "SkinRevive™ Exosome Serum — clinical-grade MSC exosome preparation for aesthetic protocols",
+    "High-purity exosome isolation via size-exclusion chromatography (SEC)",
+    "Particle count characterization by NTA (nanoparticle tracking analysis) for each lot"
+  ],
+  "tags": [
+    "msc-exosomes",
+    "whartons-jelly",
+    "clinical-grade",
+    "hair-regeneration",
+    "professional-aesthetics",
+    "us-biotech",
+    "biotech-ingredients",
+    "extracellular-vesicles"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_feb_2026.md"
+  },
+  "notes": "Kimera Labs is a US-based biotechnology company specializing in the production of clinical-grade exosomes derived from Wharton's jelly mesenchymal stem cells (WJ-MSCs) for professional aesthetic and regenerative medicine applications. Their rigorous cGMP manufacturing and NTA-based quality control provides the exosome concentration and characterization data required by clinical practitioners and cosmetic formulators. Kimera's MitoGrow™ platform for hair and scalp regeneration via MSC exosomes is a compelling entry point for SKIN-TWIN's hair-related biotech intelligence."
+}

@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ingredion_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Ingredion Incorporated",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.ingredion.com",
+  "specializations": [
+    "Starch-based microencapsulation",
+    "Hydrocolloid delivery matrices",
+    "Modified starch carriers for actives",
+    "Emulsion stabilization systems",
+    "Natural polymer encapsulation"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "Non-GMO Project Verified (select grades)",
+    "Kosher",
+    "Halal"
+  ],
+  "product_highlights": [
+    "Hi-Cap® — modified starch encapsulant for volatile and sensitive actives",
+    "Capsul® series — spray-dried starch microencapsulation for fragrance and flavor",
+    "Novation® — clean-label starch matrices for natural cosmetic applications",
+    "Hi-Maize® — resistant starch prebiotic carrier for microbiome-active formulations"
+  ],
+  "tags": [
+    "starch-encapsulation",
+    "natural-polymer",
+    "hydrocolloid",
+    "spray-dried",
+    "clean-label",
+    "us-manufacturer",
+    "encapsulation",
+    "controlled-release"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Ingredion is a global ingredient solutions company with a strong portfolio of starch-based encapsulation technologies widely used in personal care and cosmetics. Their Hi-Cap® and Capsul® modified starch systems provide cost-effective, natural-origin encapsulation for volatile actives, fragrances, and sensitive ingredients requiring protection from oxidation or evaporation. Ingredion's clean-label positioning and non-GMO options make them highly relevant for SKIN-TWIN formulation recommendations targeting natural and sustainable product lines."
+}
