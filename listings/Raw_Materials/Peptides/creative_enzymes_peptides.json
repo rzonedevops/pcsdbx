@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "creative_enzymes_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "Creative Enzymes",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "United States",
+  "website": "www.creative-enzymes.com",
+  "specializations": [
+    "Cosmetic peptide raw materials",
+    "Anti-wrinkle peptide complexes",
+    "Firming peptide complexes",
+    "Melittin peptide",
+    "Decarboxy Carnosine peptide",
+    "Custom peptide synthesis"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "CoA available"
+  ],
+  "product_highlights": [
+    "Anti-wrinkle complex peptides for cosmetic applications",
+    "Firming peptide complex for skin tightening",
+    "Melittin - bee venom derived peptide for smoothing",
+    "Decarboxy Carnosine - antioxidant and anti-glycation peptide"
+  ],
+  "tags": [
+    "cosmetic-peptides",
+    "anti-wrinkle",
+    "firming",
+    "melittin",
+    "carnosine",
+    "usa",
+    "custom-synthesis",
+    "raw-materials"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_carrier_peptides_feb_2026.md"
+  },
+  "notes": "Creative Enzymes is a US-based specialty enzyme and peptide supplier offering a comprehensive cosmetic peptide portfolio for the personal care industry. Their offerings include anti-wrinkle peptide complexes, firming peptide complexes, melittin (bee venom peptide), and decarboxy carnosine with antioxidant and anti-glycation properties. Creative Enzymes provides custom peptide synthesis services and high-purity cosmetic-grade peptide raw materials with Certificate of Analysis."
+}

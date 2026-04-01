@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "adeline_chemicals_uv",
+  "category_path": "Raw_Materials/UV_Filters_Sunscreen",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
+  "company_name": "Adeline Chemicals",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "United States",
+  "website": "www.adelinechemicals.com",
+  "specializations": [
+    "Broad-range UV filter raw materials",
+    "Avobenzone UVA I/II/UVB protector",
+    "Topical sunscreen active ingredients",
+    "Chemical UV filter distribution",
+    "Personal care ingredient supply"
+  ],
+  "certifications": [
+    "FDA OTC compliant",
+    "GMP-compliant",
+    "CoA available"
+  ],
+  "product_highlights": [
+    "Avobenzone - broad-range UV protector covering UVA I, UVA II, and UVB wavelengths",
+    "Comprehensive UV filter portfolio for cosmetic and sunscreen formulations",
+    "US-based supply for personal care manufacturers"
+  ],
+  "tags": [
+    "avobenzone",
+    "broad-spectrum",
+    "uva-filter",
+    "uvb-filter",
+    "chemical-uv-filter",
+    "usa",
+    "sunscreen-actives",
+    "personal-care-ingredients"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_uv_filters_feb_2026.md"
+  },
+  "notes": "Adeline Chemicals is a US-based personal care ingredient supplier offering a focused portfolio of UV filter raw materials including avobenzone for broad-spectrum sun protection. Their avobenzone offering covers UVA I, UVA II, and UVB wavelengths, providing comprehensive sun protection for topical sunscreen and cosmetic formulations. Adeline Chemicals supports cosmetic manufacturers with consistent supply of FDA OTC-compliant sunscreen active ingredients."
+}

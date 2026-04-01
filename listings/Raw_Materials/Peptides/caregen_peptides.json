@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "caregen_peptides",
+  "category_path": "Raw_Materials/Peptides",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Peptides/",
+  "company_name": "Caregen Co., Ltd.",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "South Korea",
+  "website": "www.caregen.co.kr",
+  "specializations": [
+    "Carrier peptides and growth factor technologies",
+    "Copper Tripeptide-1 (GHK-Cu)",
+    "Acetyl Decapeptide-3",
+    "Acetyl Hexapeptide-8",
+    "Palmitoyl Pentapeptide-3",
+    "Oligopeptide-20 and Oligopeptide-24",
+    "Eco-friendly peptide production"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "COSMOS-compatible"
+  ],
+  "product_highlights": [
+    "Copper Tripeptide-1 (GHK-Cu) - flagship carrier peptide",
+    "Acetyl Hexapeptide-8 - muscle relaxing peptide",
+    "Palmitoyl Pentapeptide-3 - collagen boosting peptide",
+    "Growth factor technologies for advanced skin repair",
+    "Eco-friendly production practices"
+  ],
+  "tags": [
+    "carrier-peptides",
+    "ghk-cu",
+    "copper-peptides",
+    "growth-factors",
+    "south-korea",
+    "eco-friendly",
+    "anti-aging"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_carrier_peptides_feb_2026.md"
+  },
+  "notes": "Founded in 2001, Caregen is a South Korean biotech company pioneering advanced peptide and growth factor technologies for cosmetic applications. Their flagship carrier peptide, Copper Tripeptide-1 (GHK-Cu), is widely recognized for wound healing, collagen synthesis, and anti-aging benefits. Caregen integrates eco-friendly practices into their production process and offers a comprehensive portfolio of signal, carrier, and enzyme inhibitor peptides for premium skincare formulations."
+}
