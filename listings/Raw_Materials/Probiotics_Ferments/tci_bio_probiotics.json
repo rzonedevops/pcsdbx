@@ -3,15 +3,6 @@
   "listing_id": "tci_bio_probiotics",
   "category_path": "Raw_Materials/Probiotics_Ferments",
   "url": "https://www.tci-bio.com/technology/probiotics/",
-  "company_name": "TCI Bio",
-  "status": "active",
-  "date_added": "2025-12-21",
-  "date_updated": "2025-12-21",
-  "address": "",
-  "country": "USA",
-  "phone": "",
-  "email": "",
-  "website": "https://www.tci-bio.com",
   "company_name": "TCI Bio - Private Label Probiotics",
   "status": "active",
   "date_added": "2025-12-21",
@@ -27,7 +18,7 @@
     "High-quality probiotic manufacturing",
     "Supplements and skincare applications",
     "Contract manufacturing services",
-    "Customized probiotic formulations"
+    "Customized probiotic formulations",
     "Supplement and skincare probiotics",
     "High-quality formulations",
     "Contract manufacturing"
@@ -35,7 +26,7 @@
   "products": [
     "Custom probiotic formulations",
     "Private label probiotics",
-    "Functional probiotic actives"
+    "Functional probiotic actives",
     "High-quality probiotic formulations",
     "Contract manufacturing",
     "Custom probiotic development"
@@ -51,7 +42,7 @@
     "microbiome",
     "skincare",
     "customized",
-    "quality-focused"
+    "quality-focused",
     "private-label",
     "custom-manufacturing",
     "functional-probiotics",
@@ -65,18 +56,10 @@
   "moq": "Contact for project basis",
   "lead_time": "4-6 weeks for custom projects",
   "geographic_coverage": "North America, Global",
-    "custom-formulations",
-    "usa-based",
-    "contract-manufacturing",
-    "skincare",
-    "supplements"
-  ],
-  "metadata": {
+  "custom-formulations\",\n    \"usa-based\",\n    \"contract-manufacturing\",\n    \"skincare\",\n    \"supplements\"\n  ],\n  \"metadata": {
     "last_validated": "2025-12-21",
     "validation_method": "manual",
     "data_source": "research_microbiome_modulators_december_2025.md"
   },
-  "notes": "TCI Bio offers private label probiotics for both supplements and skincare applications with capabilities for high-quality and customized functional probiotics. Provides contract manufacturing services with focus on customized probiotic formulations tailored to client specifications for microbiome-supporting cosmetic products."
-  "notes": "TCI Bio specializes in private label probiotics for supplements and skincare. Capability to produce high-quality and customized functional probiotics. Contract manufacturer with focus on custom formulation development."
   "notes": "TCI Bio focuses on private label probiotics for supplements and skincare with high-quality and customized functional probiotics. Offers contract manufacturing with capability for custom probiotic development tailored to specific applications."
 }
