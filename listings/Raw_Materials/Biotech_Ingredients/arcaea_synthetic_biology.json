@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "arcaea_synthetic_biology",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Arcaea",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.arcaea.com",
+  "specializations": [
+    "Synthetic biology-derived beauty ingredients",
+    "Precision fermentation for novel bioactive molecules",
+    "Next-generation sustainable cosmetic actives",
+    "Proprietary bioactive molecules via genetic engineering",
+    "Collaborative active ingredient development for beauty brands"
+  ],
+  "certifications": ["ISO 9001", "Vegan", "Ecocert"],
+  "product_highlights": [
+    "Precision fermentation actives with unprecedented performance characteristics",
+    "Synthetic biology-derived cosmetic ingredients for leading beauty brands",
+    "Novel bioactive molecules not found in nature via genetic engineering",
+    "Sustainable beauty ingredient platform replacing animal- and petrochemical-derived inputs"
+  ],
+  "tags": ["synthetic-biology", "precision-fermentation", "novel-bioactives", "sustainable", "next-generation", "vegan", "cutting-edge"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_march_2026.md"
+  },
+  "notes": "Arcaea (formerly known as Bloomsbury Genetic Therapies' beauty division) is a pioneering synthetic biology company focused on creating next-generation beauty ingredients through precision fermentation and genetic engineering. Their technology platform enables the production of entirely new bioactive molecules with unprecedented performance characteristics. Arcaea represents the cutting edge of the biotech beauty ingredient revolution, working with leading beauty brands to develop proprietary actives."
+}

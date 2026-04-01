@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "dow_personal_care_texture",
+  "category_path": "Raw_Materials/Texture_Modifiers",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Texture_Modifiers/",
+  "company_name": "Dow Personal Care",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.dow.com/personal-care",
+  "specializations": [
+    "Silicone-based sensory modifiers and film formers",
+    "Silicone elastomers for cushiony skin feel",
+    "Emollients and spreadability enhancers",
+    "Naturally derived silicone alternatives",
+    "Long-wear performance ingredients for color cosmetics"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "RSPO"],
+  "product_highlights": [
+    "DOWSIL™ silicone range — comprehensive sensory modification solutions",
+    "XIAMETER® silicones — performance silicones for personal care",
+    "Silicone elastomers delivering unique cushiony skin feel",
+    "Naturally derived alternatives for sustainable formulations"
+  ],
+  "tags": ["silicone-sensory", "film-formers", "emollients", "silicone-elastomers", "texture-enhancement", "long-wear", "color-cosmetics", "usa-based"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_texture_modifiers_march_2026_v2.md"
+  },
+  "notes": "Dow is one of the world's largest materials science companies with a comprehensive portfolio of silicone-based ingredients for personal care. Their DOWSIL™ and XIAMETER® silicone ranges include film formers, sensory modifiers, and emollients used in virtually every category of personal care product. Dow's silicone elastomers are particularly valued for their ability to deliver a unique, cushiony skin feel and improve the spreadability of formulations."
+}
