@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "lipotec_hair_peptides",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Lipotec (Lubrizol)",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Spain",
+  "website": "www.lubrizol.com/personal-care/lipotec",
+  "specializations": [
+    "Peptide-based hair actives",
+    "Anti-hair loss peptides",
+    "Hair strengthening peptides",
+    "Scalp stimulation actives",
+    "Biomimetic cosmetic peptides"
+  ],
+  "certifications": ["ISO 9001", "GMP", "COSMOS", "Ecocert"],
+  "product_highlights": [
+    "Peptide-based hair growth and anti-hair loss actives with clinical validation",
+    "CAPIXYL™ distributor — biomimetic peptide complex for hair growth support",
+    "Hair strengthening peptides targeting cortex repair and cuticle reinforcement",
+    "Scalp stimulation actives promoting follicle activity and circulation"
+  ],
+  "tags": ["specialty", "biotechnology", "premium", "high-performance", "certified"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Lipotec, a division of Lubrizol's personal care business based in Barcelona, Spain, is a world leader in peptide-based cosmetic actives for both skin and hair care. Their hair care peptide portfolio includes anti-hair loss actives, hair fibre-strengthening peptides, and scalp stimulation ingredients, all backed by rigorous clinical and in-vitro testing. As part of the Lubrizol family, Lipotec benefits from global distribution, regulatory expertise, and formulation support, making them a go-to partner for premium, science-backed hair care formulations."
+}

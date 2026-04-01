@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "provital_botanical_hair",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Provital",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Spain",
+  "website": "www.provitalgroup.com",
+  "specializations": [
+    "Botanical extracts for hair care",
+    "Anti-hair loss botanical actives",
+    "Scalp health ingredients",
+    "COSMOS-certified natural actives",
+    "Phytotechnology for hair and scalp"
+  ],
+  "certifications": ["ISO 9001", "COSMOS", "Ecocert"],
+  "product_highlights": [
+    "Baicapil™ — clinically proven natural anti-hair loss active from soy, wheat, and baicalin",
+    "Scalp microbiome-friendly botanical extracts for scalp health and balance",
+    "Botanical anti-dandruff actives from natural plant sources",
+    "COSMOS-certified extracts for natural and organic hair care formulations"
+  ],
+  "tags": ["natural", "organic", "sustainable", "specialty", "natural-ingredients", "certified"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Provital is a Spanish cosmetic ingredient company specialising in botanical extracts and phytotechnology-derived actives for hair and skin care. Their flagship hair care active, Baicapil™, is a clinically proven natural anti-hair loss ingredient combining soy, wheat, and baicalin extracts that stimulates hair follicle activity and reduces hair loss by up to 58%. Provital's extensive botanical extract portfolio includes scalp microbiome-friendly actives, anti-dandruff ingredients, and COSMOS-certified options, making them a leading choice for natural and organic hair care brands seeking clinically validated performance."
+}
