@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "symrise_hair_actives",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Symrise",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Germany",
+  "website": "www.symrise.com",
+  "specializations": [
+    "Hair care actives and scalp-conditioning ingredients",
+    "Biotechnology-derived hair growth stimulants",
+    "Scalp microbiome modulators",
+    "Plant stem cell technology for hair and scalp",
+    "Sensory and fragrance-enhanced hair care systems"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "Ecocert", "COSMOS", "RSPO"],
+  "product_highlights": [
+    "SymHair™ series — clinically validated hair care actives targeting hair growth, scalp health, and fibre strength",
+    "SymSitive® — scalp-calming active for sensitive and reactive scalp conditions",
+    "Bioferment-derived actives for hair follicle stimulation and scalp microbiome support",
+    "Plant stem cell extracts for scalp rejuvenation and follicle protection from ageing"
+  ],
+  "tags": ["hair-care-actives", "scalp-calming", "scalp-microbiome", "plant-stem-cells", "bioferment", "clinical-efficacy", "germany", "cosmos-certified", "hair-growth"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Symrise is one of the top five global fragrance and cosmetic ingredient companies, headquartered in Holzminden, Germany. Through its Diana and Cosmo International Fragrances divisions, Symrise offers a growing portfolio of hair care actives including the SymHair™ range of scalp and hair fibre actives, and SymSitive® for sensitive scalp applications. Their hair care science combines biotechnology, plant stem cell extraction, and scalp microbiome research to deliver multi-functional actives backed by clinical and consumer study data."
+}

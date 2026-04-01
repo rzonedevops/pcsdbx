@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "genomatica_biotech_ingredients",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Genomatica",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.genomatica.com",
+  "specializations": [
+    "Bio-based cosmetic ingredient precursors via fermentation",
+    "Bio-BDO (1,4-butanediol) for cosmetic humectancy and formulation",
+    "Sustainable nylon and polymer precursors for beauty packaging",
+    "Metabolic engineering for cosmetic chemical production",
+    "Commercial-scale bio-based intermediates for personal care"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "USDA Certified Biobased"],
+  "product_highlights": [
+    "Brontide™ Bio-BDO — USDA-certified 100% bio-based 1,4-butanediol from fermentation, used as a humectant and solvent in cosmetic formulations",
+    "Bio-based intermediate chemicals enabling sustainable ingredient supply chains for personal care",
+    "Metabolic engineering platform for cost-competitive production of multi-carbon bio-based molecules",
+    "Commercial partnerships enabling scale-up with Novamont and other major chemical companies"
+  ],
+  "tags": ["bio-based-bdo", "fermentation-intermediates", "humectants", "sustainable-chemistry", "metabolic-engineering", "usda-biobased", "usa", "commercial-scale"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Genomatica is a San Diego-based industrial biotechnology company specialising in the metabolic engineering of microorganisms to produce bio-based chemical intermediates at commercial scale. Their flagship product, Brontide™ Bio-BDO (1,4-butanediol), is a USDA-certified 100% bio-based humectant and solvent that offers a sustainable alternative to petroleum-derived BDO in cosmetic formulations. Genomatica's biotech platform enables the economically competitive production of multi-carbon bio-based molecules that serve as precursors for nylons, polyesters, and cosmetic actives, providing personal care brands with a credible route to bio-based ingredient supply chains."
+}

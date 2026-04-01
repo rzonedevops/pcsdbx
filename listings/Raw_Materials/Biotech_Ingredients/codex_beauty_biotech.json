@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "codex_beauty_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Codex Beauty Labs",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.codexbeauty.com",
+  "specializations": [
+    "Skin microbiome science and postbiotic actives",
+    "Biotech-validated postbiotic cosmetic ingredients",
+    "Clinical dermatology-aligned formulation development",
+    "Ectoine and extremophile-derived cosmetic actives",
+    "Data-driven biotech active ingredient validation"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "Leaping Bunny (cruelty free)", "COSMOS"],
+  "product_highlights": [
+    "AnGelica™ — proprietary postbiotic-peptide complex clinically proven to improve skin barrier and reduce inflammation",
+    "Microbiome-validated biotech actives tested against skin microbiome diversity indices",
+    "Ectoine-based extremophile actives for barrier repair and anti-pollution protection",
+    "Fully transparent formulation approach with open-access clinical study data"
+  ],
+  "tags": ["postbiotics", "skin-microbiome", "ectoine", "biotech-actives", "barrier-repair", "clinical-dermatology", "anti-pollution", "usa", "ecocert", "transparent-science"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Codex Beauty Labs is a science-driven US-based company that bridges dermatology research and cosmetic biotechnology, specialising in postbiotic actives and skin microbiome-compatible formulation. Their proprietary AnGelica™ postbiotic-peptide complex is derived from biotech-optimised fermentation and has been clinically validated in a published peer-reviewed clinical trial demonstrating improvements in skin barrier function and inflammatory markers. Codex Beauty's commitment to open-access science and transparent ingredient disclosure makes them a distinctive voice in the biotech cosmetic actives space, with their postbiotic platform serving as a model for evidence-based microbiome-friendly formulation."
+}

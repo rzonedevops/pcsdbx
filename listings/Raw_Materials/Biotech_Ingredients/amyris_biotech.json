@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "amyris_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Amyris",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.amyris.com",
+  "specializations": [
+    "Precision fermentation of cosmetic actives",
+    "Bio-based squalane from sugarcane fermentation",
+    "Biosynthetic cannabigerol (CBG) and bisabolol",
+    "Fermentation-derived hemisqualane and emollients",
+    "Sustainable synthetic biology platform for beauty ingredients"
+  ],
+  "certifications": ["ISO 9001", "Ecocert", "COSMOS", "RSPO Certified (bio-squalane)", "Vegan Society"],
+  "product_highlights": [
+    "Neossance® Squalane — 100% sugarcane-derived squalane via precision fermentation, globally the gold standard bio-based squalane",
+    "Neossance® Hemisqualane — lightweight bio-based silicone alternative with superior sensory profile",
+    "Purecane™ CBG — biosynthetic cannabigerol produced via precision fermentation, 99.9% purity",
+    "β-Farnesene platform — scalable fermentation substrate enabling diverse cosmetic ingredient production"
+  ],
+  "tags": ["precision-fermentation", "bio-squalane", "hemisqualane", "cbg-biosynthetic", "bisabolol", "sustainable", "synthetic-biology", "usa", "ecocert", "silicone-alternative"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Amyris is a California-based synthetic biology pioneer that has redefined sustainable cosmetic ingredient production through precision fermentation. Their flagship product, Neossance® Squalane, is produced by fermenting sugarcane-derived sugars using engineered yeast, delivering a 100% plant-based, non-shark-derived squalane that has become the global benchmark for bio-based emolliency. Amyris's fermentation platform also enables the production of hemisqualane (a biodegradable silicone alternative), biosynthetic CBG, and bisabolol at commercial scale. Their approach dramatically reduces the land use, water consumption, and carbon footprint of traditionally extracted cosmetic ingredients."
+}

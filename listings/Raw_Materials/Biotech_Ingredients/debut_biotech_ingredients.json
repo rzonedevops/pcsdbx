@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "debut_biotech_ingredients",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Debut Biotech",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.debutbiotech.com",
+  "specializations": [
+    "Enzyme-catalyzed synthesis of cosmetic actives",
+    "Cell-free biomanufacturing for beauty ingredients",
+    "Sustainable production of complex cosmetic molecules",
+    "Ceramide analogue biosynthesis",
+    "Scalable biocatalysis platform for personal care"
+  ],
+  "certifications": ["ISO 9001", "GMP Cosmetics", "Cruelty Free"],
+  "product_highlights": [
+    "Cell-free biomanufacturing platform — enzyme cascades that produce complex molecules without living organisms",
+    "Ceramide biosynthesis — enzymatic production of ceramide analogues that mimic skin-identical lipids",
+    "Retinol precursor production — biocatalytic pathway to sustainable retinoid cosmetic ingredients",
+    "Zero-waste biocatalysis — closed-loop enzyme systems minimising solvent use and by-product generation"
+  ],
+  "tags": ["cell-free-biomanufacturing", "enzyme-catalysis", "ceramide-biosynthesis", "biocatalysis", "sustainable-actives", "retinoid-precursors", "usa", "novel-technology"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_additional_biotech_hair_april_2026.md"
+  },
+  "notes": "Debut Biotech, headquartered in San Diego, California, is a pioneering cell-free biomanufacturing company that uses enzyme cascade technology to produce cosmetic ingredients without the constraints of traditional fermentation. Their proprietary cell-free platform enables the synthesis of complex cosmetic molecules — including ceramide analogues, retinoid precursors, and specialty lipids — with exceptional purity, consistency, and environmental efficiency. Unlike whole-cell fermentation, cell-free systems eliminate cellular waste streams and offer precise control over reaction conditions, making Debut an emerging supplier for the next generation of sustainably produced cosmetic actives."
+}
