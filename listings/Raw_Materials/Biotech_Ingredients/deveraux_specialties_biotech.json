@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "deveraux_specialties_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Deveraux Specialties",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "United States",
+  "website": "www.deverauxspecialties.com",
+  "specializations": [
+    "Bio-fermented actives",
+    "Copper ferment ingredients",
+    "Anti-aging biotech actives",
+    "Skin brightening fermentation actives",
+    "Barrier repair biotech ingredients",
+    "Specialty fermentation platform for novel bioactive compounds"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "Ecocert"
+  ],
+  "product_highlights": [
+    "DL Copper Ferment — unique bio-fermented active combining copper peptide benefits with fermentation bioactives",
+    "Anti-aging, brightening, and barrier repair in a single fermented ingredient",
+    "Enhanced bioavailability through fermentation processing",
+    "Novel bioactive compounds with differentiated efficacy vs. traditional actives",
+    "Specialty fermentation platform enabling customized bioactive development"
+  ],
+  "tags": [
+    "usa",
+    "bio-fermented",
+    "copper-ferment",
+    "anti-aging",
+    "skin-brightening",
+    "biotech-actives",
+    "barrier-repair",
+    "specialty-fermentation",
+    "novel-bioactives",
+    "enhanced-bioavailability"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_march_2026.md"
+  },
+  "notes": "Deveraux Specialties is a specialty cosmetic ingredient supplier with a focus on bio-fermented actives. Their DL Copper Ferment is a unique bio-fermented active ingredient that combines the benefits of copper peptides with fermentation-derived bioactives, delivering anti-aging, skin brightening, and barrier repair benefits. Deveraux's fermentation platform enables the production of novel bioactive compounds with enhanced bioavailability and efficacy, offering formulators differentiated performance versus traditional single-mechanism actives."
+}
