@@ -1,21 +1,24 @@
 {
   "schema_version": "1.0",
-  "category_id": 9006,
   "listing_id": "kobo_products_uv_filters",
   "category_path": "Raw_Materials/UV_Filters_Sunscreen",
-  "url": "https://personalcaresuppliers.com/Guide/SearchListing?searchTerm=UV%20Filters",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/UV_Filters_Sunscreen/",
   "company_name": "Kobo Products",
-  "status": "active",
+  "status": "archived",
   "date_added": "2025-11-10",
-  "date_updated": "2025-11-10",
-  "address": "3474 South Clinton Avenue, South Plainfield, NJ 07080",
-  "country": "United States",
-  "phone": "908-757-0033",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.koboproductsinc.com",
   "specializations": [
     "Treated UV filters",
     "Dispersions",
     "Specialty powders",
     "Cosmetic actives"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "GMP-compliant",
+    "FDA-registered"
   ],
   "product_highlights": [
     "UV filter treatment specialist",
@@ -25,12 +28,15 @@
   "tags": [
     "specialty",
     "cosmetic",
-    "advanced-technology"
+    "advanced-technology",
+    "archived-legacy"
   ],
   "metadata": {
-    "last_validated": "2025-11-10",
+    "last_validated": "2026-04-01",
     "validation_method": "manual",
-    "data_source": "manual_entry"
+    "data_source": "manual_entry",
+    "canonical_listing": "kobo_products.json",
+    "archive_reason": "Superseded by more complete canonical listing kobo_products.json (2026-03-02). Legacy entry retained for audit trail."
   },
-  "notes": "Kobo Products - Supplier in UV Filters Sunscreen category."
+  "notes": "Kobo Products — US-based specialist in mineral UV filter dispersions. ARCHIVED: Superseded by canonical listing kobo_products.json which contains the full portfolio of nano and non-nano TiO2 and ZnO dispersions, surface treatments, and particle size details. See kobo_products.json for the complete, current entry."
 }
