@@ -10,6 +10,11 @@
   "country": "USA",
   "website": "www.ashland.com/personal-care",
   "specializations": [
+    "Cellulose-based film formers",
+    "Rheology modifier polymers",
+    "Natural texture-modifying solutions",
+    "Bio-based polymer systems",
+    "Specialty film formers for color cosmetics"
     "Natrosol™ hydroxyethylcellulose (HEC) — industry-standard thickener and texture modifier",
     "Klucel™ hydroxypropylcellulose (HPC) — film former and thermosensitive thickener",
     "Benecel™ hydroxypropyl methylcellulose (HPMC) — biodegradable texture and film former",
@@ -25,22 +30,18 @@
     "COSMOS"
   ],
   "product_highlights": [
-    "Natrosol™ HEC — the world's most widely used hydroxyethylcellulose for personal care thickening",
-    "Klucel™ HPC — unique thermosensitive thickening with superior film-forming properties",
-    "Benecel™ HPMC — biodegradable, naturally derived texture and film-forming polymer",
-    "Comprehensive bio-based texture portfolio meeting demand for sustainable formulation",
-    "Technical expertise supporting customers from formulation development to commercialization"
+    "Natrosol™ hydroxyethylcellulose (HEC) — versatile natural thickener and film former",
+    "Klucel™ hydroxypropylcellulose (HPC) — natural film former for hair care and cosmetics",
+    "Benecel™ HPMC — multifunctional texture modifier for skincare and hair care",
+    "Specialty film formers for long-wear and coating applications"
   ],
   "tags": [
-    "usa",
-    "major-player",
-    "cellulose-based",
-    "natrosol-brand",
-    "klucel-brand",
-    "benecel-brand",
     "film-formers",
     "rheology-modifiers",
+    "cellulose-based",
     "natural-texture",
+    "polymer-solutions",
+    "bio-based"
     "bio-based",
     "biodegradable",
     "ecocert-certified",
@@ -52,5 +53,7 @@
     "validation_method": "manual",
     "data_source": "research_texture_modifiers_march_2026_v2.md"
   },
+  "notes": "Ashland's personal care division offers a comprehensive range of texture-modifying polymers with a strong emphasis on cellulose-based natural solutions. Their Natrosol™ hydroxyethylcellulose, Klucel™ hydroxypropylcellulose, and Benecel™ HPMC are widely used as thickeners, film formers, and texture modifiers in skincare, hair care, and color cosmetics. Ashland's natural polymer range meets growing consumer demand for bio-based texture solutions without compromising on performance or formulation flexibility."
+}
   "notes": "Ashland's personal care division offers one of the most comprehensive ranges of cellulose-based texture-modifying polymers in the industry, with a strong emphasis on natural and bio-based solutions. Their Natrosol™ hydroxyethylcellulose is the global standard for thickening in shampoos and conditioners, while Klucel™ and Benecel™ address styling, film-forming, and biodegradable texture requirements across skincare and hair care. Ashland's natural polymer range meets growing consumer and regulatory demand for bio-based texture solutions, and their global formulation support network makes them a particularly effective partner for international brands."
 }

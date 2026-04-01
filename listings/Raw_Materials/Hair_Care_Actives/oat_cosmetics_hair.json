@@ -1,0 +1,33 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "oat_cosmetics_hair",
+  "category_path": "Raw_Materials/Hair_Care_Actives",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Hair_Care_Actives/",
+  "company_name": "Oat Cosmetics",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "UK",
+  "website": "www.oatcosmetics.com",
+  "specializations": [
+    "Oat-derived cosmetic actives",
+    "Natural hair peptides",
+    "Scalp revitalisation actives",
+    "Sustainable plant-derived ingredients",
+    "COSMOS-approved hair actives"
+  ],
+  "certifications": ["COSMOS", "ISO 9001", "Ecocert", "Vegan Society"],
+  "product_highlights": [
+    "EcoPep for Hair — natural oat-derived peptide for scalp revitalisation and hair strengthening",
+    "Oat-derived beta-glucans for scalp soothing and moisturisation",
+    "ColourSave — oat active for colour protection and vibrancy",
+    "Sustainable, upcycled oat processing with zero-waste manufacturing"
+  ],
+  "tags": ["oat-specialist", "natural", "sustainable", "specialty", "natural-ingredients"],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "manual_entry"
+  },
+  "notes": "Oat Cosmetics is a UK-based specialist in oat-derived cosmetic ingredients, offering a unique range of natural actives for hair and scalp care applications. Their EcoPep for Hair is a natural peptide fraction derived from oat that supports scalp vitality and hair fibre strengthening, providing a plant-based alternative to synthetic peptide actives. Oat Cosmetics operates a zero-waste, upcycled manufacturing process, making them a leading choice for brands committed to both performance and sustainability."
+}
