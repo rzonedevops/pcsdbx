@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "ashland_delivery",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Ashland Global Holdings Inc.",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.ashland.com/personal-care",
+  "specializations": [
+    "Polymer encapsulation systems for cosmetics",
+    "Controlled release excipients",
+    "Cellulosic polymer delivery matrices",
+    "Film-forming polymers for active protection",
+    "Biopolymer encapsulation carriers"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "REACH compliant",
+    "COSMOS-approved (select grades)",
+    "GMP-compliant"
+  ],
+  "product_highlights": [
+    "Klucel™ HPC (Hydroxypropylcellulose) — film-forming polymer for encapsulation and controlled release",
+    "Benecel™ HPMC — cellulosic excipient for sustained-release delivery matrices",
+    "Aquacoat® CPD — aqueous colloidal dispersion for active ingredient coating",
+    "Natrosol™ HEC — hydroxyethylcellulose polymer matrix for active suspension and delivery"
+  ],
+  "tags": [
+    "cellulosic-polymers",
+    "controlled-release",
+    "film-forming",
+    "encapsulation",
+    "polymer-matrices",
+    "us-based",
+    "sustained-release",
+    "biopolymer"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Ashland Global Holdings is a specialty chemicals company with one of the broadest portfolios of cellulosic polymers and film-forming excipients used in personal care delivery systems. Their Klucel™, Benecel™, and Natrosol™ polymer series are workhorses of cosmetic formulation, providing the delivery matrices that protect and control-release actives in lotions, serums, and leave-on treatments. Ashland's deep cellulosic expertise and sustained-release polymer technologies make them a fundamental SKIN-TWIN supplier reference for polymer-based active delivery architecture."
+}

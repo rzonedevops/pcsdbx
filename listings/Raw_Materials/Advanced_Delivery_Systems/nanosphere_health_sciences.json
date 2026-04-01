@@ -1,0 +1,47 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "nanosphere_health_sciences",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Nanosphere Health Sciences",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.nanospherehealthsciences.com",
+  "specializations": [
+    "Liposomal delivery systems for cosmetics and nutraceuticals",
+    "Nano-encapsulated actives for enhanced skin penetration",
+    "Liposome manufacturing and contract services",
+    "CBD and cannabinoid liposomal delivery",
+    "Vitamin and botanical liposome formulations"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "cGMP-compliant",
+    "NSF certified (select products)",
+    "FDA-registered facility"
+  ],
+  "product_highlights": [
+    "Lipo-C™ — liposomal vitamin C for superior skin absorption",
+    "Nano-Mulsion™ — nanoemulsion delivery platform for hydrophobic actives",
+    "Custom liposomal formulation development services",
+    "Particle sizes of 50–150 nm for optimal dermal penetration"
+  ],
+  "tags": [
+    "liposomal-delivery",
+    "nanoemulsions",
+    "skin-penetration",
+    "vitamin-c-delivery",
+    "us-manufacturer",
+    "encapsulation",
+    "liposomes",
+    "natural-actives"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Nanosphere Health Sciences is a specialized liposomal delivery technology company offering a range of pre-made liposomal ingredient systems and custom liposome manufacturing services for the cosmetic and nutraceutical industries. Their Nano-Mulsion™ and liposomal vitamin C platforms provide formulators with ready-to-use, highly bioavailable delivery systems that significantly outperform conventional ingredient incorporation. Nanosphere is an important reference supplier for SKIN-TWIN's liposome-based active delivery recommendations."
+}

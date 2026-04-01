@@ -1,0 +1,49 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "provital_biotech",
+  "category_path": "Raw_Materials/Biotech_Ingredients",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Biotech_Ingredients/",
+  "company_name": "Provital Group",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Spain",
+  "website": "www.provitalgroup.com",
+  "specializations": [
+    "Plant stem cell biotechnology actives",
+    "Biotech botanical extracts for cosmetics",
+    "Meristematic cell culture technology",
+    "Sustainable biotransformation of plant actives",
+    "Microbiome-modulating botanical bioactives"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "COSMOS-approved",
+    "Ecocert",
+    "Vegan Society",
+    "Halal"
+  ],
+  "product_highlights": [
+    "LINGOSTEM™ — lingonberry plant stem cells for UV and infrared protection and skin resilience",
+    "Phytocohesine™ PSP — plant stem cell active for scalp-hair microbiome modulation",
+    "Gatuline® Skin-Repair — meristematic cell biotech active for accelerated wound healing",
+    "Azeloglicina® — biotransformation-derived ingredient for brightening and sebum control"
+  ],
+  "tags": [
+    "plant-stem-cells",
+    "meristematic-cells",
+    "lingostem",
+    "biotech-botanical",
+    "spanish-manufacturer",
+    "biotech-ingredients",
+    "microbiome",
+    "sustainable"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_biotech_ingredients_feb_2026.md"
+  },
+  "notes": "Provital Group is a Barcelona-based biotechnology company specializing in plant stem cell and meristematic cell technology for cosmetic actives, with over 40 years of expertise in botanical ingredient innovation. Their LINGOSTEM™ platform uses lingonberry plant stem cells to deliver unique UV and infrared protection properties, while their Phytocohesine™ PSP represents a novel approach to scalp microbiome modulation via plant biotechnology. Provital's strong COSMOS and Vegan credentials combined with compelling clinical evidence make them a distinctive SKIN-TWIN reference for sustainable plant biotech actives."
+}

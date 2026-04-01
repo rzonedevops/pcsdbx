@@ -1,0 +1,48 @@
+{
+  "schema_version": "1.0",
+  "listing_id": "givaudan_encapsulation",
+  "category_path": "Raw_Materials/Advanced_Delivery_Systems",
+  "url": "https://personalcaresuppliers.com/Listing/Index/Raw_Materials/Advanced_Delivery_Systems/",
+  "company_name": "Givaudan SA (Encapsulation Technologies)",
+  "status": "active",
+  "date_added": "2026-04-01",
+  "date_updated": "2026-04-01",
+  "country": "Switzerland",
+  "website": "www.givaudan.com",
+  "specializations": [
+    "Fragrance encapsulation for personal care",
+    "Biodegradable microcapsule technology",
+    "Moisture-triggered release systems",
+    "Long-lasting fragrance delivery",
+    "Encapsulation of active ingredients"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "ISO 45001",
+    "IFRA compliant",
+    "REACH compliant"
+  ],
+  "product_highlights": [
+    "Nexarome™ — next-generation biodegradable fragrance microcapsules",
+    "ScentTrek™ — nature-inspired encapsulated fragrance solutions",
+    "Moisture-triggered release systems for hair and skin care",
+    "Sustainable microcapsule platform meeting EU microplastics regulation compliance"
+  ],
+  "tags": [
+    "fragrance-encapsulation",
+    "biodegradable-microcapsules",
+    "moisture-triggered",
+    "long-lasting",
+    "swiss-innovation",
+    "encapsulation",
+    "personal-care",
+    "eu-compliant"
+  ],
+  "metadata": {
+    "last_validated": "2026-04-01",
+    "validation_method": "manual",
+    "data_source": "research_advanced_delivery_systems_feb_2026.md"
+  },
+  "notes": "Givaudan is one of the world's largest fragrance and flavor companies, with a dedicated encapsulation technology division delivering industry-leading fragrance encapsulation for personal care applications including shampoos, conditioners, body washes, and fabric care. Their Nexarome™ platform represents a critical response to EU microplastics regulations, offering biodegradable microcapsule alternatives without compromising fragrance longevity. As a global partner to major beauty brands, Givaudan's encapsulation technologies are essential intelligence for the SKIN-TWIN sensory formulation engine."
+}
