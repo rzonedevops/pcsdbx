@@ -11,6 +11,17 @@
   "website": "www.deverauxspecialties.com",
   "specializations": [
     "Bio-fermented actives",
+    "Copper ferment ingredients",
+    "Anti-aging biotech actives",
+    "Skin brightening fermentation actives",
+    "Barrier repair biotech ingredients"
+  ],
+  "certifications": ["ISO 9001", "Ecocert"],
+  "product_highlights": [
+    "DL Copper Ferment — anti-aging and brightening bio-fermented active",
+    "Specialty fermentation actives with enhanced bioavailability",
+    "Novel bioactive compounds from fermentation platform",
+    "Copper peptide synergies via fermentation technology"
     "Copper ferment cosmetic ingredients",
     "Anti-aging biotech actives",
     "Skin brightening fermentation-derived actives",
@@ -29,5 +40,6 @@
     "validation_method": "manual",
     "data_source": "research_biotech_ingredients_march_2026.md"
   },
+  "notes": "Deveraux Specialties is a specialty cosmetic ingredient supplier with a focus on bio-fermented actives. Their DL Copper Ferment is a unique bio-fermented active ingredient that combines the benefits of copper peptides with fermentation-derived bioactives, delivering anti-aging, skin brightening, and barrier repair benefits. Deveraux's fermentation platform enables the production of novel bioactive compounds with enhanced bioavailability and efficacy."
   "notes": "Deveraux Specialties is a specialty cosmetic ingredient supplier with a focus on bio-fermented actives. Their DL Copper Ferment is a unique bio-fermented active ingredient that combines the benefits of copper peptides with fermentation-derived bioactives, delivering anti-aging, skin brightening, and barrier repair benefits. Deveraux's fermentation platform enables the production of novel bioactive compounds with enhanced bioavailability and efficacy compared to traditional extraction methods."
 }

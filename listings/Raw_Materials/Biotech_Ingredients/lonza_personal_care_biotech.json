@@ -10,6 +10,18 @@
   "country": "Switzerland",
   "website": "www.lonza.com/personal-care",
   "specializations": [
+    "Fermentation-derived ingredients",
+    "Lipid-based delivery systems",
+    "Antimicrobial actives",
+    "Biotech manufacturing",
+    "GMP-compliant cosmetic ingredients"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "GMP", "Ecocert"],
+  "product_highlights": [
+    "Lipex® natural lipid range for emolliency and barrier repair",
+    "Specialty fermentation actives with consistent quality",
+    "Antimicrobial preservation systems",
+    "Lipid-based delivery systems for enhanced penetration"
     "Fermentation-derived cosmetic ingredients",
     "Lipid-based delivery systems",
     "Antimicrobial preservation actives",
@@ -29,5 +41,6 @@
     "validation_method": "manual",
     "data_source": "research_biotech_ingredients_march_2026.md"
   },
+  "notes": "Lonza is a global leader in life sciences and specialty chemicals with a significant personal care division. Their fermentation capabilities and lipid-based delivery systems make them a key partner for brands seeking biotechnology-derived cosmetic ingredients. Lonza's Lipex® natural lipid range provides high-performance emolliency and barrier repair, while their fermentation platform produces a range of bioactive compounds with excellent safety and efficacy profiles."
   "notes": "Lonza is a global leader in life sciences and specialty chemicals with a significant personal care division. Their fermentation capabilities and lipid-based delivery systems make them a key partner for brands seeking biotechnology-derived cosmetic ingredients. Lonza's Lipex® natural lipid range provides high-performance emolliency and barrier repair, while their fermentation platform produces a range of bioactive compounds with excellent safety and efficacy profiles and consistent GMP-certified quality."
 }
