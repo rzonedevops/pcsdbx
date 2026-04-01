@@ -10,6 +10,40 @@
   "country": "Netherlands",
   "website": "www.nouryon.com/personal-care",
   "specializations": [
+    "Cellulose ether rheology modifiers",
+    "Biopolymer film formers",
+    "Sustainable texture solutions",
+    "Natural polymer thickeners",
+    "ISCC PLUS certified sustainable ingredients",
+    "Texture modification across diverse pH ranges"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "RSPO",
+    "ISCC PLUS"
+  ],
+  "product_highlights": [
+    "Bermocoll™ cellulose ethers — excellent thickening, film-forming, and texture control",
+    "Amaze™ biopolymer film former — sustainable, naturally derived alternative to synthetic film formers",
+    "ISCC PLUS certified ingredients for verifiable sustainability claims",
+    "Performance across wide pH range without sacrificing rheology",
+    "Clean ingredient profile for natural and organic formulations"
+  ],
+  "tags": [
+    "netherlands",
+    "major-player",
+    "cellulose-ethers",
+    "rheology-modifiers",
+    "biopolymer-film-formers",
+    "sustainable",
+    "texture-solutions",
+    "bermocoll-brand",
+    "amaze-brand",
+    "iscc-plus-certified",
+    "rspo-certified",
+    "natural-polymer"
+  ],
     "Cellulose ethers for texture modification",
     "Rheology modifiers",
     "Biopolymer film formers",
@@ -43,6 +77,7 @@
     "validation_method": "manual",
     "data_source": "research_texture_modifiers_march_2026_v2.md"
   },
+  "notes": "Nouryon's personal care division offers a range of sustainable texture-modifying ingredients based on cellulose chemistry and biopolymers. Their Bermocoll™ cellulose ether range provides excellent thickening, film-forming, and texture-modifying performance across a wide range of pH values and formulation types. Nouryon's Amaze™ biopolymer film former is a sustainable, naturally derived alternative to synthetic film formers, delivering excellent hold and texture with a clean ingredient profile. ISCC PLUS certification enables brands to make verified sustainability claims."
   "notes": "Nouryon's personal care division offers a range of sustainable texture-modifying ingredients based on cellulose chemistry and biopolymers. Their Bermocoll™ cellulose ether range provides excellent thickening, film-forming, and texture-modifying performance across a wide range of pH values and formulation types. Nouryon's Amaze™ biopolymer film former is a sustainable, naturally derived alternative to synthetic film formers, delivering excellent hold and texture with a clean ingredient profile."
   "notes": "Nouryon's personal care division offers a range of sustainable texture-modifying ingredients based on cellulose chemistry and biopolymers. Their Bermocoll™ cellulose ether range provides excellent thickening, film-forming, and texture-modifying performance across a wide range of pH values and formulation types. Nouryon's Amaze™ biopolymer film former is a sustainable, naturally derived alternative to synthetic film formers, delivering excellent hold and texture with a clean ingredient profile for eco-conscious brand formulations."
 }

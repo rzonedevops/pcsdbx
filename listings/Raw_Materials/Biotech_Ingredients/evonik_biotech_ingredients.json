@@ -11,6 +11,39 @@
   "website": "www.evonik.com/personal-care",
   "specializations": [
     "Bio-fermented actives",
+    "Recombinant proteins for cosmetic applications",
+    "Sustainable biotech ingredient portfolio",
+    "Fermentation-derived sterols and lipids",
+    "Biotechnology-based alternative to petrochemical-derived ingredients",
+    "Specialty fermentation actives for skin and hair"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "RSPO",
+    "Ecocert",
+    "COSMOS-approved ingredients"
+  ],
+  "product_highlights": [
+    "TEGO® Sterol — bio-fermented sterol with superior bioavailability",
+    "Recombinant protein actives with consistent quality and purity",
+    "Sustainable fermentation alternatives to petrochemical-derived ingredients",
+    "Significant investment in biotechnology R&D for future ingredient pipeline",
+    "Global manufacturing capabilities with European quality standards"
+  ],
+  "tags": [
+    "germany",
+    "major-player",
+    "bio-fermented",
+    "recombinant-proteins",
+    "sustainable-biotech",
+    "fermentation-actives",
+    "tego-brand",
+    "rspo-certified",
+    "cosmos-approved",
+    "european-quality",
+    "innovative-actives"
+  ],
     "Recombinant proteins for cosmetics",
     "Sustainable biotechnology ingredients",
     "Fermentation-derived specialty chemicals",
@@ -29,5 +62,6 @@
     "validation_method": "manual",
     "data_source": "research_biotech_ingredients_march_2026.md"
   },
+  "notes": "Evonik's personal care division has made significant investments in biotechnology-derived ingredients. Their biotech portfolio includes bio-fermented sterols, recombinant proteins, and sustainable alternatives to petrochemical-derived ingredients. Evonik's fermentation capabilities enable the production of high-purity actives with consistent quality and a significantly reduced environmental footprint compared to traditional chemical synthesis. As a global specialty chemicals company with a long history in personal care, Evonik's biotech division benefits from world-class R&D capabilities and manufacturing infrastructure."
   "notes": "Evonik's personal care division has made significant investments in biotechnology-derived ingredients. Their biotech portfolio includes bio-fermented sterols, recombinant proteins, and sustainable alternatives to petrochemical-derived ingredients. Evonik's fermentation capabilities enable the production of high-purity actives with consistent quality and a significantly reduced environmental footprint compared to traditional chemical synthesis, meeting growing demand for next-generation sustainable cosmetic ingredients."
 }

@@ -7,6 +7,46 @@
   "status": "active",
   "date_added": "2026-04-01",
   "date_updated": "2026-04-01",
+  "country": "United Kingdom",
+  "website": "www.crodabeauty.com",
+  "specializations": [
+    "Natural conditioning agents for hair",
+    "Specialty esters and emollients for hair care",
+    "Hair repair lipids",
+    "Sustainable and bio-based hair care ingredients",
+    "Incroquat conditioning quaternaries",
+    "Crodamol esters for hair lubrication and shine"
+  ],
+  "certifications": [
+    "ISO 9001",
+    "ISO 14001",
+    "RSPO",
+    "Ecocert",
+    "COSMOS-approved ingredients",
+    "Halal",
+    "Kosher",
+    "Science Based Targets (SBTi) committed"
+  ],
+  "product_highlights": [
+    "Crodamol™ esters — premium emolliency and conditioning for hair",
+    "Incroquat™ conditioning agents — outstanding detangling and softness",
+    "100% bio-based ingredient target by 2030",
+    "630+ personal care products with comprehensive hair care coverage",
+    "Strong sustainability programme with Responsible Care certification"
+  ],
+  "tags": [
+    "uk",
+    "major-player",
+    "natural-conditioning",
+    "hair-lipids",
+    "sustainable",
+    "ecocert-certified",
+    "rspo-certified",
+    "emollients",
+    "bio-based",
+    "global-leader",
+    "science-based-targets"
+  ],
   "country": "UK",
   "website": "www.crodabeauty.com",
   "specializations": [
@@ -41,6 +81,7 @@
     "validation_method": "manual",
     "data_source": "research_hair_care_actives_march_2026_v2.md"
   },
+  "notes": "Croda International is a global specialty chemical company with a strong commitment to sustainability and natural ingredients in hair care. Their Crodamol™ ester range provides excellent emolliency and conditioning for hair care applications, while their Incroquat™ conditioning agents deliver outstanding detangling and softness. Croda's sustainability credentials are among the strongest in the industry, with a target of 100% bio-based ingredients by 2030. Their Science Based Targets commitment further differentiates them as a sustainability leader for brands seeking credible green formulation partners."
   "notes": "Croda International is a global specialty chemical company with a strong commitment to sustainability and natural ingredients. Their Crodamol™ ester range provides excellent emolliency and conditioning for hair care applications, while their Incroquat™ conditioning agents deliver outstanding detangling and softness. Croda's sustainability credentials are among the strongest in the industry, with a target of 100% bio-based ingredients by 2030."
   "notes": "Croda International is a global specialty chemical company with a strong commitment to sustainability and natural ingredients. Their Crodamol™ ester range provides excellent emolliency and conditioning for hair care applications, while their Incroquat™ conditioning agents deliver outstanding detangling and softness. Croda's sustainability credentials are among the strongest in the industry, with a target of 100% bio-based ingredients by 2030, making them a preferred partner for premium natural hair care brands."
 }
