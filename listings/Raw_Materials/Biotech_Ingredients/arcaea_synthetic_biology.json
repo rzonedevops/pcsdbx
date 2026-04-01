@@ -7,6 +7,23 @@
   "status": "active",
   "date_added": "2026-04-01",
   "date_updated": "2026-04-01",
+  "country": "USA",
+  "website": "www.arcaea.com",
+  "specializations": [
+    "Synthetic biology-derived beauty ingredients",
+    "Precision fermentation for novel bioactive molecules",
+    "Next-generation sustainable cosmetic actives",
+    "Proprietary bioactive molecules via genetic engineering",
+    "Collaborative active ingredient development for beauty brands"
+  ],
+  "certifications": ["ISO 9001", "Vegan", "Ecocert"],
+  "product_highlights": [
+    "Precision fermentation actives with unprecedented performance characteristics",
+    "Synthetic biology-derived cosmetic ingredients for leading beauty brands",
+    "Novel bioactive molecules not found in nature via genetic engineering",
+    "Sustainable beauty ingredient platform replacing animal- and petrochemical-derived inputs"
+  ],
+  "tags": ["synthetic-biology", "precision-fermentation", "novel-bioactives", "sustainable", "next-generation", "vegan", "cutting-edge"],
   "country": "United States",
   "website": "www.arcaea.com",
   "specializations": [
@@ -105,6 +122,7 @@
     "validation_method": "manual",
     "data_source": "research_biotech_ingredients_march_2026.md"
   },
+  "notes": "Arcaea (formerly known as Bloomsbury Genetic Therapies' beauty division) is a pioneering synthetic biology company focused on creating next-generation beauty ingredients through precision fermentation and genetic engineering. Their technology platform enables the production of entirely new bioactive molecules with unprecedented performance characteristics. Arcaea represents the cutting edge of the biotech beauty ingredient revolution, working with leading beauty brands to develop proprietary actives."
   "notes": "Arcaea is a pioneering synthetic biology company at the absolute frontier of beauty ingredient innovation, focused on creating next-generation actives through precision fermentation and genetic engineering. Their technology platform enables the production of entirely new bioactive molecules with unprecedented performance characteristics — molecules that cannot be derived from natural sources or produced through conventional chemistry. Arcaea works collaboratively with leading beauty brands to develop proprietary actives, representing the most advanced expression of the biotech beauty ingredient revolution. For formulators and brands seeking to build genuinely differentiated, science-forward products, Arcaea is a compelling partner at the cutting edge of cosmetic ingredient science."
   "notes": "Arcaea is a pioneering synthetic biology company focused on creating next-generation beauty ingredients through precision fermentation and genetic engineering. Their technology platform enables the production of entirely new bioactive molecules with unprecedented performance characteristics. Arcaea represents the cutting edge of the biotech beauty ingredient revolution, working with leading beauty brands to develop proprietary actives. Previously known as Bloomsbury Genetic Therapies' beauty division, Arcaea has emerged as a dedicated beauty biotech company with a compelling vision for transforming cosmetic ingredient discovery."
   "notes": "Arcaea is a pioneering synthetic biology company focused on creating next-generation beauty ingredients through precision fermentation and genetic engineering. Their technology platform enables the production of entirely new bioactive molecules with unprecedented performance characteristics. Arcaea represents the cutting edge of the biotech beauty ingredient revolution, working with leading beauty brands to develop proprietary actives."

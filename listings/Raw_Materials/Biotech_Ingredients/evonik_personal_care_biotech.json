@@ -10,6 +10,20 @@
   "country": "Germany",
   "website": "www.evonik.com/personal-care",
   "specializations": [
+    "Bio-fermented actives and recombinant proteins",
+    "Sustainable biotech cosmetic ingredients",
+    "Fermentation-derived sterols and lipids",
+    "Specialty fermentation actives for skin and hair",
+    "Bio-based alternatives to petrochemical ingredients"
+  ],
+  "certifications": ["ISO 9001", "ISO 14001", "RSPO", "Ecocert", "COSMOS"],
+  "product_highlights": [
+    "TEGO® Sterol — bio-fermented phytosterol for barrier repair",
+    "Specialty fermentation actives for anti-aging and skin renewal",
+    "Recombinant protein ingredients for advanced cosmetic performance",
+    "Sustainable biotechnology portfolio reducing environmental footprint"
+  ],
+  "tags": ["bio-fermented", "recombinant-proteins", "sustainable-biotech", "fermentation-actives", "german-engineering", "cosmos-certified"],
     "Bio-fermented actives",
     "Recombinant proteins",
     "Sustainable biotech ingredients",
