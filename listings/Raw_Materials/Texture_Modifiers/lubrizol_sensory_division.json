@@ -11,6 +11,13 @@
   "country": "United States",
   "website": "www.lubrizol.com/personal-care",
   "specializations": [
+    "Carbopol® carbomer polymers — the global industry standard for rheology modification",
+    "Noveon® polycarbophil for mucoadhesive and ophthalmic-grade applications",
+    "Styleze™ film former range for styling, long-wear, and barrier applications",
+    "Sensory polymer portfolio for precisely tuned texture profiles",
+    "Thickeners for skincare, hair care, and pharmaceutical topical formulations",
+    "EFfCI GMP certified production for cosmetic-grade ingredients",
+    "Extensive technical support and formulation guidance for customers worldwide"
     "Carbomer-based rheology modifiers",
     "Film formers for styling and long-wear applications",
     "Sensory polymers for precisely tuned texture profiles",
@@ -24,6 +31,11 @@
     "EFfCI GMP"
   ],
   "product_highlights": [
+    "Carbopol® carbomers — the world's most widely used rheology modifier in skincare and hair care",
+    "Noveon® polycarbophil — specialty grade for high-performance mucoadhesive and pharmaceutical applications",
+    "Styleze™ film formers — long-wear, barrier, and shine performance for styling and color cosmetics",
+    "Sensory polymers enabling precise texture tuning from lightweight water-serums to rich creams",
+    "Comprehensive global technical support and formulation development expertise"
     "Carbopol® carbomers — global industry standard for rheology modification",
     "Styleze™ film formers — long-wear styling and color cosmetic applications",
     "Noveon® polycarbophil — multifunctional polymer for topical formulations",
@@ -34,10 +46,18 @@
     "usa",
     "major-player",
     "carbomers",
+    "carbopol-brand",
+    "noveon-brand",
+    "styleze-brand",
     "rheology-modifiers",
     "film-formers",
     "sensory-polymers",
     "texture-enhancers",
+    "long-wear",
+    "effci-gmp",
+    "thickeners",
+    "industry-standard"
+  ],
     "carbopol-brand",
     "styleze-brand",
     "noveon-brand",
@@ -79,6 +99,7 @@
     "validation_method": "manual",
     "data_source": "research_texture_modifiers_march_2026_v2.md"
   },
+  "notes": "Lubrizol's personal care division is the world's leading supplier of Carbopol® carbomer polymers, which are the global industry standard for rheology modification across skincare, hair care, pharmaceutical topicals, and personal lubricants. Their Styleze™ film former range addresses long-wear, barrier, and shine requirements in styling products and color cosmetics. Lubrizol's sensory polymer portfolio provides formulators with the tools to precisely tune texture profiles from ultra-light water serums to opulent rich creams. EFfCI GMP certified production and extensive global formulation support make Lubrizol an essential partner for brands seeking the highest standards of quality and technical expertise in texture modification."
   "notes": "Lubrizol's personal care division is the world's leading supplier of Carbopol® carbomer polymers, the industry standard for rheology modification in skincare, hair care, and pharmaceutical topical formulations. Their Styleze™ film former range is widely used in styling products and long-wear cosmetics. Lubrizol's sensory polymer portfolio enables formulators to create products with precisely tuned texture profiles, from lightweight serums to rich creams. Their EFfCI GMP certification ensures consistent quality and safety across their entire polymer portfolio."
   "notes": "Lubrizol's personal care division is the world's leading supplier of Carbopol® carbomer polymers, the industry standard for rheology modification in skincare, hair care, and pharmaceutical topical formulations. Their Styleze™ film former range is widely used in styling products and long-wear cosmetics. Lubrizol's sensory polymer portfolio enables formulators to create products with precisely tuned texture profiles, from lightweight serums to rich creams."
   "notes": "Lubrizol's personal care division is the world's leading supplier of Carbopol® carbomer polymers, the industry standard for rheology modification in skincare, hair care, and pharmaceutical topical formulations. Their Styleze™ film former range is widely used in styling products and long-wear cosmetics. Lubrizol's sensory polymer portfolio enables formulators to create products with precisely tuned texture profiles, from ultra-lightweight serums to rich, luxurious creams, making them an essential supplier for serious cosmetic formulators worldwide."
