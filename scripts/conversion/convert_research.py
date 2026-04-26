@@ -166,7 +166,8 @@ def parse_supplier_section(company_name: str, details: str) -> Optional[Dict[str
 def clean_company_name(name: str) -> str:
     """Clean company name by removing markers and extra whitespace."""
     # Remove markers like ⭐ MAJOR PLAYER, ⭐ MANUFACTURER, etc.
-    name = re.sub(r'⭐\s*[A-Z\s/]+', '', name)
+    # Each marker word is all-caps (2+ letters); stop before mixed-case company name.
+    name = re.sub(r'⭐\s*(?:[A-Z]{2,}\s*/?\s*)+', '', name)
     # Remove extra whitespace
     name = ' '.join(name.split())
     return name.strip()
